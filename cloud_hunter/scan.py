@@ -55,7 +55,7 @@ def classify_name(name):
     """Assign a niche only from product-name evidence, never the query alone."""
     cleaned = identity(name)
     for category, terms in CATEGORIES.items():
-        if any(re.search(r"(?<!\\w)" + re.escape(term) + r"(?!\\w)", cleaned, re.I) for term in terms):
+        if any(re.search(r"(?<!\w)" + re.escape(term) + r"(?!\w)", cleaned, re.I) for term in terms):
             return category
     return "other"
 
