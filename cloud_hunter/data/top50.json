@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T10:24:46.893575+00:00",
+  "updated_at": "2026-10-27T10:38:22.391948+00:00",
   "lookback_days": 35,
   "categories": {
     "beauty": [],
@@ -10,10 +10,10 @@
       {
         "name": "⌚ Your Smartwatch Upgrade for 2025 Has Arrived! ✨",
         "group_key": "your smartwatch upgrade for 2025 has arrived",
-        "ad_count": 1,
+        "ad_count": 2,
         "advertiser_count": 1,
         "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
         "ads": [
           {
             "ad_id": "2846698782398125",
@@ -27,67 +27,27 @@
             "image_url": null,
             "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPQ9FIjd-BU9CH1M_qIlc6uLvu268s8OzQ5Uq6-dEyFTuviAC3ifHKEiKJY2s-WCsx8AgAe3CtdT_BqjZxeI2R8xEukRswxVqhFLA1uP5pdeQ.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=RAabBALGwTQQ7kNvwFj10C-&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI0NjIzODc5Njc0NTE2NzUsImFzc2V0X2FnZV9kYXlzIjo0NjIsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo1NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=5489a2345263bf70&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82QTRBOUMwRkU4N0RDQjFGOTUyNEZERDRENDA2MjQ5MF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzU1NDQ3MTZCRTQ5QUE3NUZEN0YxQzFGMDM4QUE5QkFGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa2iMuB7OHfCBUCKAJDMywXQEt7peNT988YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=RXtBw-WY9xYneQns87ZgsA&_nc_ss=79289&_nc_zt=28&oh=00_AQNwPMrn7kkVF33aAfbwHZYu83b1NHeepxAs_CjfCZuhoA&oe=6AE6603D",
             "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
+          },
+          {
+            "ad_id": "1122080550293441",
+            "product_name": "⌚ Your Smartwatch Upgrade for 2025 Has Arrived! ✨",
+            "product_key": "your smartwatch upgrade for 2025 has arrived",
+            "category": "electronics",
+            "advertiser": "Giftspockets",
+            "source_country": "CA",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1122080550293441",
+            "landing_url": "https://m.stellaya.com/products/2025-new-multifunctional-men-women-s-smartwatch",
+            "image_url": null,
+            "video_url": "https://video-sjc6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPQ9FIjd-BU9CH1M_qIlc6uLvu268s8OzQ5Uq6-dEyFTuviAC3ifHKEiKJY2s-WCsx8AgAe3CtdT_BqjZxeI2R8xEukRswxVqhFLA1uP5pdeQ.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-sjc6-1.xx.fbcdn.net&_nc_ohc=RAabBALGwTQQ7kNvwEfycUz&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI0NjIzODc5Njc0NTE2NzUsImFzc2V0X2FnZV9kYXlzIjo0NjIsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo1NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=5489a2345263bf70&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82QTRBOUMwRkU4N0RDQjFGOTUyNEZERDRENDA2MjQ5MF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzU1NDQ3MTZCRTQ5QUE3NUZEN0YxQzFGMDM4QUE5QkFGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa2iMuB7OHfCBUCKAJDMywXQEt7peNT988YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=T5Sg7Kb0zBptsz-ClAhb5Q&_nc_ss=79289&_nc_zt=28&oh=00_AQP5I0G4NTxoPr3VrFlyytd-xEAV8fDHLqp-AUKnEPX1uA&oe=6AE6603D",
+            "first_seen": "2026-10-27T10:38:22.391948+00:00",
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
           }
         ],
         "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
       }
     ],
-    "fashion": [
-      {
-        "name": "Custom gardening tool bags for garden lovers who always have their favorite tools ready to grow some",
-        "group_key": "custom gardening tool bags for garden lovers who always have their favorite tools ready to grow some",
-        "ad_count": 3,
-        "advertiser_count": 1,
-        "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
-        "ads": [
-          {
-            "ad_id": "1097905849513674",
-            "product_name": "Custom gardening tool bags for garden lovers who always have their favorite tools ready to grow some",
-            "product_key": "custom gardening tool bags for garden lovers who always have their favorite tools ready to grow some",
-            "category": "fashion",
-            "advertiser": "Gift Soul - Personalized Gifts",
-            "source_country": "CA",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1097905849513674",
-            "landing_url": "https://giftsoul.co/TKNGTBYL7000GSL",
-            "image_url": null,
-            "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPBHObvQQoIZClu0jAfwE5V_Ep-13jAfrd6fCNjusqxBkV4ftFqld_rYNFZo09ie1IrhS-KXytTa4rI9ZOuZF_RUhGbUqeBdwEZe7hZQOFexA.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=f9f8OryxoZYQ7kNvwE-9rQD&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2MTkxMjIzNzI5MDc1NDEsImFzc2V0X2FnZV9kYXlzIjoyNiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjIzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=5f0a5ba22e964672&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wQjkwMzVFMDdDN0E0MTQ3ODJBMDUzRTUwNzJBQkU5OV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0IwODM1QUEwOTc1MjRGNEVBRjgxQ0NGRUZCOTNDRjg5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaqyJTeqaXgBRUCKAJDMywXQDcAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=4oO-kQlNfvgxx8flSKfo-w&_nc_ss=79289&_nc_zt=28&oh=00_AQPFruyu6NRK2iLL1FRnkpOochnByZL3QPU-Volq6FbH1A&oe=6AE64E6E",
-            "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
-          },
-          {
-            "ad_id": "1855944612058118",
-            "product_name": "Custom gardening tool bags for garden lovers who always have their favorite tools ready to grow some",
-            "product_key": "custom gardening tool bags for garden lovers who always have their favorite tools ready to grow some",
-            "category": "fashion",
-            "advertiser": "Gift Soul - Personalized Gifts",
-            "source_country": "CA",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1855944612058118",
-            "landing_url": "https://giftsoul.co/TKNGTBYL7000GSL",
-            "image_url": null,
-            "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPBHObvQQoIZClu0jAfwE5V_Ep-13jAfrd6fCNjusqxBkV4ftFqld_rYNFZo09ie1IrhS-KXytTa4rI9ZOuZF_RUhGbUqeBdwEZe7hZQOFexA.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=f9f8OryxoZYQ7kNvwE-9rQD&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2MTkxMjIzNzI5MDc1NDEsImFzc2V0X2FnZV9kYXlzIjoyNiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjIzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=5f0a5ba22e964672&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wQjkwMzVFMDdDN0E0MTQ3ODJBMDUzRTUwNzJBQkU5OV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0IwODM1QUEwOTc1MjRGNEVBRjgxQ0NGRUZCOTNDRjg5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaqyJTeqaXgBRUCKAJDMywXQDcAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=4oO-kQlNfvgxx8flSKfo-w&_nc_ss=79289&_nc_zt=28&oh=00_AQPFruyu6NRK2iLL1FRnkpOochnByZL3QPU-Volq6FbH1A&oe=6AE64E6E",
-            "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
-          },
-          {
-            "ad_id": "1592670798998834",
-            "product_name": "Custom gardening tool bags for garden lovers who always have their favorite tools ready to grow some",
-            "product_key": "custom gardening tool bags for garden lovers who always have their favorite tools ready to grow some",
-            "category": "fashion",
-            "advertiser": "Gift Soul - Personalized Gifts",
-            "source_country": "CA",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1592670798998834",
-            "landing_url": "https://giftsoul.co/TKNGTBYL7000GSL",
-            "image_url": null,
-            "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPBHObvQQoIZClu0jAfwE5V_Ep-13jAfrd6fCNjusqxBkV4ftFqld_rYNFZo09ie1IrhS-KXytTa4rI9ZOuZF_RUhGbUqeBdwEZe7hZQOFexA.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=f9f8OryxoZYQ7kNvwE-9rQD&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2MTkxMjIzNzI5MDc1NDEsImFzc2V0X2FnZV9kYXlzIjoyNiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjIzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=5f0a5ba22e964672&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wQjkwMzVFMDdDN0E0MTQ3ODJBMDUzRTUwNzJBQkU5OV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0IwODM1QUEwOTc1MjRGNEVBRjgxQ0NGRUZCOTNDRjg5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaqyJTeqaXgBRUCKAJDMywXQDcAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=4oO-kQlNfvgxx8flSKfo-w&_nc_ss=79289&_nc_zt=28&oh=00_AQPFruyu6NRK2iLL1FRnkpOochnByZL3QPU-Volq6FbH1A&oe=6AE64E6E",
-            "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
-          }
-        ],
-        "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
-      }
-    ],
+    "fashion": [],
     "baby": [],
     "sport": [],
     "auto": [
@@ -97,7 +57,7 @@
         "ad_count": 2,
         "advertiser_count": 1,
         "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
         "ads": [
           {
             "ad_id": "2027488514378537",
@@ -111,7 +71,7 @@
             "image_url": null,
             "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m560/AQOKOmXvdr-Uji38o18UC8MFDS92B2WfhzuOUs4kwO2sRsGM2DgjQMmZdmQdAyBiG0vhKSnDhBzCNJUJ3OmSwiE76ZgqNeejJbg.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=7qpsbA52LfsQ7kNvwFrAqe7&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjozMzY5NjI0Njk2NTUyMzczLCJhc3NldF9hZ2VfZGF5cyI6MTg2LCJ2aV91c2VjYXNlX2lkIjoxMDY4MCwiZHVyYXRpb25fcyI6MjUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=UhMXZZzjgRKuOMxVgBvyaw&_nc_ss=79289&_nc_zt=28&oh=00_AQNM_180gEzAEPdPoJuZZoMXoVgJUHhYnm8didsnGeXHDg&oe=6AE2738B",
             "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
           },
           {
             "ad_id": "1127885365649651",
@@ -125,7 +85,7 @@
             "image_url": null,
             "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQME29xUi2JsfFBEBxPPoc7-yLixcxLbBBAWhBZxtkqS0lIMPxTQGB4kvlB2dhMHnIbKbxHRwtUshZ_DrFjAjZ4A.mp4?_nc_cat=102&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=pnHHcSOIALcQ7kNvwEezoiy&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjoxNTk5ODgyMzE3OTA1NzgzLCJhc3NldF9hZ2VfZGF5cyI6MjAwLCJ2aV91c2VjYXNlX2lkIjoxMDY4MCwiZHVyYXRpb25fcyI6MjUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=UhMXZZzjgRKuOMxVgBvyaw&_nc_ss=79289&_nc_zt=28&oh=00_AQNBvrxTw4mlE94_rpC52qYrenzT9yWkPrBBTV4_oqw5zg&oe=6AE64BC3",
             "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
           }
         ],
         "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
@@ -136,7 +96,7 @@
         "ad_count": 1,
         "advertiser_count": 1,
         "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
         "ads": [
           {
             "ad_id": "2257809788020905",
@@ -150,7 +110,7 @@
             "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/574977409_1366698751524006_5290819438528997151_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Uvru0m-ZO70Q7kNvwE0iqNx&_nc_oc=Adr9sPUNIUJt5gF95a08-Gq0xoMknOkA-LwbZQ-etWbUR9SU0Zq52JpJQsTCpNFoIBc&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=UhMXZZzjgRKuOMxVgBvyaw&_nc_ss=79289&oh=00_AQOyyBm69Kq_mSRMjWlsxfMM6VUJ3tccV1VJ2N0sEZ5qxg&oe=6AE63A4F",
             "video_url": null,
             "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
           }
         ],
         "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
@@ -161,7 +121,7 @@
         "ad_count": 1,
         "advertiser_count": 1,
         "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
         "ads": [
           {
             "ad_id": "1307230654400030",
@@ -175,7 +135,7 @@
             "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/500227071_1329633924781663_6421759305687656520_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CIuVxMQxWNMQ7kNvwH2wEzv&_nc_oc=AdotiM8XjMsroxEVBWe-zEAEwRyLPnQDPLcxiw9Vuocu8WiVwBdTLiD4zdyn8haqGws&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=UhMXZZzjgRKuOMxVgBvyaw&_nc_ss=79289&oh=00_AQNTqpXoy21FW6__XBM3xYeg4mLj83ZDfghRyASdZyjCxQ&oe=6AE64834",
             "video_url": null,
             "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
           }
         ],
         "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
@@ -186,7 +146,7 @@
         "ad_count": 1,
         "advertiser_count": 1,
         "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
         "ads": [
           {
             "ad_id": "2972761456200585",
@@ -200,7 +160,7 @@
             "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/342561734_774352977328289_1161708208912072427_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BJcsczL2n8YQ7kNvwHad55A&_nc_oc=Adq9vn8x6jbu2L-hdTyTOhE6uUCu2id9X503VVkQ2r-HI7_569g6D3oeA831YNwL_5c&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=UhMXZZzjgRKuOMxVgBvyaw&_nc_ss=79289&oh=00_AQN0F5hRLDhNbUJ4q5omFHAxR1tuDT9T-YXl34XbB2JmiQ&oe=6AE63FBB",
             "video_url": null,
             "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
           }
         ],
         "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
@@ -213,7 +173,7 @@
         "ad_count": 1,
         "advertiser_count": 1,
         "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
         "ads": [
           {
             "ad_id": "4340112489561606",
@@ -227,13 +187,67 @@
             "image_url": null,
             "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQMEpAIeKZOUeZkRsU6HiRvKKeAm2vF_jA1FJI6WqxnnUDiKQbvm3VOk1aIS8TBf9kxIc1qz1WN-E-SzK2dGPQD44V6gDhlRqpSr350P9w.mp4?_nc_cat=108&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=yjv0RBugn8oQ7kNvwHF3bPb&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoyMDA0MjEyNTYzNzgwOTMyLCJhc3NldF9hZ2VfZGF5cyI6MTU5LCJ2aV91c2VjYXNlX2lkIjoxMjM3NCwiZHVyYXRpb25fcyI6ODIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=j1BjnTQRctYRwX0x3Utb8g&_nc_ss=79289&_nc_zt=28&oh=00_AQORqPhme3SOQ3njOwG52FkX6XHJG---RbVQtDNHVpOs6A&oe=6AE65FD2",
             "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
           }
         ],
         "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
       }
     ],
-    "garden": [],
+    "garden": [
+      {
+        "name": "Custom gardening tool bags for garden lovers who always have their favorite tools ready to grow some",
+        "group_key": "custom gardening tool bags for garden lovers who always have their favorite tools ready to grow some",
+        "ad_count": 3,
+        "advertiser_count": 1,
+        "country_count": 1,
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
+        "ads": [
+          {
+            "ad_id": "1097905849513674",
+            "product_name": "Custom gardening tool bags for garden lovers who always have their favorite tools ready to grow some",
+            "product_key": "custom gardening tool bags for garden lovers who always have their favorite tools ready to grow some",
+            "category": "garden",
+            "advertiser": "Gift Soul - Personalized Gifts",
+            "source_country": "CA",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1097905849513674",
+            "landing_url": "https://giftsoul.co/TKNGTBYL7000GSL",
+            "image_url": null,
+            "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPBHObvQQoIZClu0jAfwE5V_Ep-13jAfrd6fCNjusqxBkV4ftFqld_rYNFZo09ie1IrhS-KXytTa4rI9ZOuZF_RUhGbUqeBdwEZe7hZQOFexA.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=f9f8OryxoZYQ7kNvwE-9rQD&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2MTkxMjIzNzI5MDc1NDEsImFzc2V0X2FnZV9kYXlzIjoyNiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjIzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=5f0a5ba22e964672&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wQjkwMzVFMDdDN0E0MTQ3ODJBMDUzRTUwNzJBQkU5OV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0IwODM1QUEwOTc1MjRGNEVBRjgxQ0NGRUZCOTNDRjg5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaqyJTeqaXgBRUCKAJDMywXQDcAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=4oO-kQlNfvgxx8flSKfo-w&_nc_ss=79289&_nc_zt=28&oh=00_AQPFruyu6NRK2iLL1FRnkpOochnByZL3QPU-Volq6FbH1A&oe=6AE64E6E",
+            "first_seen": "2026-10-27T10:22:20.748397+00:00",
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
+          },
+          {
+            "ad_id": "1855944612058118",
+            "product_name": "Custom gardening tool bags for garden lovers who always have their favorite tools ready to grow some",
+            "product_key": "custom gardening tool bags for garden lovers who always have their favorite tools ready to grow some",
+            "category": "garden",
+            "advertiser": "Gift Soul - Personalized Gifts",
+            "source_country": "CA",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1855944612058118",
+            "landing_url": "https://giftsoul.co/TKNGTBYL7000GSL",
+            "image_url": null,
+            "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPBHObvQQoIZClu0jAfwE5V_Ep-13jAfrd6fCNjusqxBkV4ftFqld_rYNFZo09ie1IrhS-KXytTa4rI9ZOuZF_RUhGbUqeBdwEZe7hZQOFexA.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=f9f8OryxoZYQ7kNvwE-9rQD&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2MTkxMjIzNzI5MDc1NDEsImFzc2V0X2FnZV9kYXlzIjoyNiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjIzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=5f0a5ba22e964672&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wQjkwMzVFMDdDN0E0MTQ3ODJBMDUzRTUwNzJBQkU5OV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0IwODM1QUEwOTc1MjRGNEVBRjgxQ0NGRUZCOTNDRjg5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaqyJTeqaXgBRUCKAJDMywXQDcAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=4oO-kQlNfvgxx8flSKfo-w&_nc_ss=79289&_nc_zt=28&oh=00_AQPFruyu6NRK2iLL1FRnkpOochnByZL3QPU-Volq6FbH1A&oe=6AE64E6E",
+            "first_seen": "2026-10-27T10:22:20.748397+00:00",
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
+          },
+          {
+            "ad_id": "1592670798998834",
+            "product_name": "Custom gardening tool bags for garden lovers who always have their favorite tools ready to grow some",
+            "product_key": "custom gardening tool bags for garden lovers who always have their favorite tools ready to grow some",
+            "category": "garden",
+            "advertiser": "Gift Soul - Personalized Gifts",
+            "source_country": "CA",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1592670798998834",
+            "landing_url": "https://giftsoul.co/TKNGTBYL7000GSL",
+            "image_url": null,
+            "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPBHObvQQoIZClu0jAfwE5V_Ep-13jAfrd6fCNjusqxBkV4ftFqld_rYNFZo09ie1IrhS-KXytTa4rI9ZOuZF_RUhGbUqeBdwEZe7hZQOFexA.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=f9f8OryxoZYQ7kNvwE-9rQD&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2MTkxMjIzNzI5MDc1NDEsImFzc2V0X2FnZV9kYXlzIjoyNiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjIzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=5f0a5ba22e964672&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wQjkwMzVFMDdDN0E0MTQ3ODJBMDUzRTUwNzJBQkU5OV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0IwODM1QUEwOTc1MjRGNEVBRjgxQ0NGRUZCOTNDRjg5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaqyJTeqaXgBRUCKAJDMywXQDcAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=4oO-kQlNfvgxx8flSKfo-w&_nc_ss=79289&_nc_zt=28&oh=00_AQPFruyu6NRK2iLL1FRnkpOochnByZL3QPU-Volq6FbH1A&oe=6AE64E6E",
+            "first_seen": "2026-10-27T10:22:20.748397+00:00",
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
+          }
+        ],
+        "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
+      }
+    ],
     "office": [],
     "food": [],
     "other": [
@@ -243,7 +257,7 @@
         "ad_count": 1,
         "advertiser_count": 1,
         "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
         "ads": [
           {
             "ad_id": "954463106220697",
@@ -257,7 +271,7 @@
             "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/438961202_993653022187346_2271843425045023570_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=H1O1VsBi95QQ7kNvwH7oDlt&_nc_oc=AdpN7V95jP70QYk9sGmggLTe2ns5bp18pjp6sUrLU8H2BlvJ-4B1Xp2A_rpEFZ_bVoY&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=4oO-kQlNfvgxx8flSKfo-w&_nc_ss=79289&oh=00_AQOfrAKgTZ_n0uienSwstYZl0d7D4VMG-5vhaD0syG5lgQ&oe=6AE65D36",
             "video_url": null,
             "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
           }
         ],
         "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
@@ -268,7 +282,7 @@
         "ad_count": 1,
         "advertiser_count": 1,
         "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
         "ads": [
           {
             "ad_id": "833059596519799",
@@ -282,7 +296,7 @@
             "image_url": null,
             "video_url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPd80UE1j0455uJVRQzJX_HVJ-WBCTuTFAVJ-6ZfmzAPhYO5-ejEwb6SOF5K_f-S5E6IvG9pL3kLrLZFVKEQgcb-XOAAOnWVdE8qRN9V8bruQ.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=V21ksez5cEYQ7kNvwEOO4Jc&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3NzQ4NTI1ODAxOTM2ODAsImFzc2V0X2FnZV9kYXlzIjoxNjgsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=5391ae5454752596&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BODRDMTdBODMwNUExQzYzOUNBQTgwRjhCMTg1QzNBMl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzMxNEVFMUM4MjZDMjdGOUVERTRFNTYxOEJDMzU4OEE5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACag1pGZgo6nBhUCKAJDMywXQCVEGJN0vGoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=j1BjnTQRctYRwX0x3Utb8g&_nc_ss=79289&_nc_zt=28&oh=00_AQPTRA2fKkOzXJFuYkfASMY80genhO5BnXjZZL8XwPhvhw&oe=6AE65FD7",
             "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
           }
         ],
         "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
@@ -293,7 +307,7 @@
         "ad_count": 1,
         "advertiser_count": 1,
         "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
         "ads": [
           {
             "ad_id": "1485069156741240",
@@ -307,7 +321,7 @@
             "image_url": null,
             "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOurrgDcfhQOv48-UvgGzs-2yoBzkuRI1tfL9xOWpSTWBmpWWmRtSF2yEQwiaKY2ld4qL_7FRhElhIko8Z1SulWzJEU0PpHorrbx909WqiGyQ.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=OVmkDQl-LXEQ7kNvwEYFTr9&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI1MzA1NTI4MTM5NjEwOTUsImFzc2V0X2FnZV9kYXlzIjo0ODEsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo0MiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=3000fe1010dc117&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83OTQ0NUQzN0NGMTVBMkZBQkU4NzkwRTRGQThFMkQ4Ml9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0U0NDMzQ0YzMERCREMwMkY4OTdFMENEMzA4QTI0RDg2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaO_v3Yx-H-CBUCKAJDMywXQEU3bItDlYEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=RXtBw-WY9xYneQns87ZgsA&_nc_ss=79289&_nc_zt=28&oh=00_AQO614_nm0JUReSNwkwXPddrlbMRo5bBRTU-0lT61qAePg&oe=6AE65D7A",
             "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
           }
         ],
         "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
@@ -318,7 +332,7 @@
         "ad_count": 1,
         "advertiser_count": 1,
         "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
         "ads": [
           {
             "ad_id": "2035695984499430",
@@ -332,7 +346,7 @@
             "image_url": null,
             "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPxfy1WJ4fvcKMVrvMCiTmjhsu5Yje-KkgKJu8i_ORjmmF6a_xibgJke4LIjnqURmVqianbUa7Y5lMf7JBRybMAQQRQ6Mw2QqY23BaSsxrqog.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=51YPuFoRy38Q7kNvwHEIAAT&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNDc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjUzMjU0MjM5MzE1OTY1MiwiYXNzZXRfYWdlX2RheXMiOjQ5OSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjEwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=4410fdb198ad7a48&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CNzRGMTNERkE2Q0FEQ0ZCQzZBRjg3M0U1MEI1N0Y4Q19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dLZ3BMeDZwS1FURGZBa0NBSm5aRVpFUnNSY2hidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbIv-CChpbyARUCKAJDMywXQCXMzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=UhMXZZzjgRKuOMxVgBvyaw&_nc_ss=79289&_nc_zt=28&oh=00_AQOpCT3yuh3T3o_jW_84ikt9TZbdKMbCFPGeC8qKSO8Ohg&oe=6AE65BFB",
             "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
           }
         ],
         "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
@@ -343,7 +357,7 @@
         "ad_count": 1,
         "advertiser_count": 1,
         "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
         "ads": [
           {
             "ad_id": "1267194141677051",
@@ -357,7 +371,7 @@
             "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/488642329_1209877250753299_3457157746164428624_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Q_KyAG_AwQUQ7kNvwGfoSfu&_nc_oc=Adqq2ifsxiPMXRBi54aFSHWOFRxaObNmpRuVL1f9xaCUvlkdMe7ixdWI7zb2femE6Bc&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=UhMXZZzjgRKuOMxVgBvyaw&_nc_ss=79289&oh=00_AQP0rxWV3HU64KU755HaUSocLQWlkesj0ugJzf3EwFlPkQ&oe=6AE64C80",
             "video_url": null,
             "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
           }
         ],
         "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
@@ -368,7 +382,7 @@
         "ad_count": 1,
         "advertiser_count": 1,
         "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
         "ads": [
           {
             "ad_id": "970043659355507",
@@ -382,7 +396,7 @@
             "image_url": null,
             "video_url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNEoVoXoS_v1QrZwJZK5Uu91m2dZgEUdjt8D-_KQ4O0KE5Ai0DcjTWmF1Zv9DqWfejtTQpxP8FqwPsZirFmEU6sbDNXVRfFwVLHz-i77bf-6A.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=Hk5-XMFi3U0Q7kNvwFiHqx1&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk1MjA4MDIyOTY3NjI2NiwiYXNzZXRfYWdlX2RheXMiOjcxMiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjMzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=1955c99f4ec0df2b&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CMzRCMTkxN0M3QTAyNzc5QkRDNDY3NjA1MTBFNUFCMl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg0ZmJfcGVybWFuZW50LzU0OTY3NDg1NDQ4MTcyMl81ODM3MTIyODc5NzA3MDU3OTIwLm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbU05m-rvqwAxUCKAJDMywXQED7peNT988YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=RXtBw-WY9xYneQns87ZgsA&_nc_ss=79289&_nc_zt=28&oh=00_AQP2uSfX-ao8pKalP1N7EOHjKujxcpumdQvV9bsG0Kb_FA&oe=6AE66401",
             "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
           }
         ],
         "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
@@ -393,7 +407,7 @@
         "ad_count": 1,
         "advertiser_count": 1,
         "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
         "ads": [
           {
             "ad_id": "1582678919899654",
@@ -407,7 +421,7 @@
             "image_url": null,
             "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNzEBNp_qB_82YoWrdOqnhnx54KFIErDmAgy3p5hahb4Jomrkb90YKyISxddj7UXky-egY3GEAUX459AfwWDHeT6z0XDhzvHgUPpe1z8IVWjg.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=y5qDo0snFm8Q7kNvwE4wvYR&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3MTkyMDM2NTI2NjY3MDAsImFzc2V0X2FnZV9kYXlzIjo3NywidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjI0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=97f55b2a916b62e7&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GMzRCMzI0QURGQjhCNEM0QjdBNTVDMjI1NTBDNTFBM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQwNDFCMEMxRjE0RjdEQ0FDNDIyQThBNjNDOUIxMzk5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaYlZyw6eaNBhUCKAJDMywXQDiZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=j1BjnTQRctYRwX0x3Utb8g&_nc_ss=79289&_nc_zt=28&oh=00_AQMLSoGWBxOlnGSyn1CrudotfXtW76wflW9oHEc4AMAvxA&oe=6AE64E11",
             "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
           }
         ],
         "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
@@ -418,7 +432,7 @@
         "ad_count": 1,
         "advertiser_count": 1,
         "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
         "ads": [
           {
             "ad_id": "1546482977206119",
@@ -432,7 +446,7 @@
             "image_url": null,
             "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPcDck_cAUq8EFNDsD5LYix1pK3qM83FFEw7p-2tNUTsfGbEg0EwnokGaI6jHOsCpzdglSAF1wqYzG_cF9qTo3dEu7KWYQsRxzKHenCAAnh7w.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=ArwaIiiQOEYQ7kNvwFdJfNT&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTI4MC5kYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoyMDE4MDAxMjI4OTIyMjA2LCJhc3NldF9hZ2VfZGF5cyI6MTE1LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MTMxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=95704df221c783a0&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84RDREMjc4NzE2NzJCODQxRjlBMDJBRUEzMTBFRjk4Ql9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzRGNDk1RTk5QURFRkYzMUYwMDhFMUFDNDBERTgwRUFCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa89b_mkNeVBxUCKAJDMywXQGB5mZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=RXtBw-WY9xYneQns87ZgsA&_nc_ss=79289&_nc_zt=28&oh=00_AQMevdKGciYromNxvQiivFJyTNHAfZ_DSdca67FFqHxy6g&oe=6AE633DF",
             "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
           }
         ],
         "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
@@ -443,7 +457,7 @@
         "ad_count": 1,
         "advertiser_count": 1,
         "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
         "ads": [
           {
             "ad_id": "1854778615211353",
@@ -457,7 +471,7 @@
             "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/627162282_2280832682322226_2629596281284075560_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Yvt1VjnXoqkQ7kNvwFSk-Hu&_nc_oc=AdrtSI9v-7KMIBHxNdfI2OReFxtTAj2KEd87Ie0ra5W0bG0lAYcgxW_dNXWOwr-Sam0&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=4oO-kQlNfvgxx8flSKfo-w&_nc_ss=79289&oh=00_AQPjQpaYakAkYcwaZealscbsbWrUraGoo-w9QVpGvBsbPQ&oe=6AE65880",
             "video_url": null,
             "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
           }
         ],
         "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
@@ -468,7 +482,7 @@
         "ad_count": 1,
         "advertiser_count": 1,
         "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
         "ads": [
           {
             "ad_id": "477461392033133",
@@ -482,7 +496,7 @@
             "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/469938616_1111123077137894_4031927827241089512_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HY8v-VczcbIQ7kNvwFftEP9&_nc_oc=AdpRMQ8c4tNL2pv4kdz9H3QceWbqfxgbytUD-Vd5IiSJlTw3P5N136TkzWNZg6gGiho&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=RXtBw-WY9xYneQns87ZgsA&_nc_ss=79289&oh=00_AQM7VkdnxDsjCkBZIgSRIjEHMm3WIm5MwhG2Fz9dIyG_sw&oe=6AE64FCD",
             "video_url": null,
             "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
           }
         ],
         "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
@@ -493,7 +507,7 @@
         "ad_count": 1,
         "advertiser_count": 1,
         "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
         "ads": [
           {
             "ad_id": "1322212682119715",
@@ -507,7 +521,7 @@
             "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/469630503_1548904242493235_1450877326290432599_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fzAEBykqmjgQ7kNvwHUhkk6&_nc_oc=AdoWd25V2M_89jYbx5fy4Tkc5ND9R_UdncuS9qhCSGeUkO8TlXJX73TLqiuXUeFxTV8&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=RXtBw-WY9xYneQns87ZgsA&_nc_ss=79289&oh=00_AQMKZZ_f-3VTMlcbqDW-isEDIXIaLYUEgY5hJawOfRLQ1w&oe=6AE658D9",
             "video_url": null,
             "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
           }
         ],
         "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
@@ -518,7 +532,7 @@
         "ad_count": 1,
         "advertiser_count": 1,
         "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
         "ads": [
           {
             "ad_id": "1626494205808347",
@@ -532,7 +546,7 @@
             "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/819666692_1740006180547174_5022856368265862170_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ken1MvuhlSoQ7kNvwGE2NYs&_nc_oc=AdocH0P-VcD8XLpQIEAEuK2Sunx2HOXCyQo02lm5AiiXf1gnKgYTId4GLbx7n1Mhexc&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=RXtBw-WY9xYneQns87ZgsA&_nc_ss=79289&oh=00_AQNSj8Ad6LRGUS2Qf1o-WDmlcJQlKvgXYVFoms28i-jB3w&oe=6AE6574D",
             "video_url": null,
             "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
           }
         ],
         "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
@@ -543,7 +557,7 @@
         "ad_count": 1,
         "advertiser_count": 1,
         "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
         "ads": [
           {
             "ad_id": "1769092467800411",
@@ -557,7 +571,7 @@
             "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/538244165_1263388785102267_8617718035610508221_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qo01jq34ebEQ7kNvwHO9Lf3&_nc_oc=AdrIE0wdSakOLoSD0JmSmLIvDYNnBhroTUH2mf2Nn2-S5W9fFfFhK5QGUjG_TVmFNb4&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=RXtBw-WY9xYneQns87ZgsA&_nc_ss=79289&oh=00_AQPt-rtSrpVpfeIVDCVeSwt_5sFL6VOZrINK9xY_DxJDmA&oe=6AE644FB",
             "video_url": null,
             "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
           }
         ],
         "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
@@ -568,7 +582,7 @@
         "ad_count": 1,
         "advertiser_count": 1,
         "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
         "ads": [
           {
             "ad_id": "2550912745354662",
@@ -582,7 +596,7 @@
             "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/784748347_1740682290517242_900801941750900321_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=r4ZLGuTJGGkQ7kNvwGyrZJj&_nc_oc=AdpJnnCcFiMsK3ncD2XkJMgGdvRfXt1MSp2ae6BFuPhkXYFdjWBFRE45IX9eMPGKa7M&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=RXtBw-WY9xYneQns87ZgsA&_nc_ss=79289&oh=00_AQN_ZVEhsofZ6VPWerqSgb3HY08Y9UwCVqGF5hVi7GBMfg&oe=6AE64BF3",
             "video_url": null,
             "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
           }
         ],
         "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
@@ -593,7 +607,7 @@
         "ad_count": 1,
         "advertiser_count": 1,
         "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
         "ads": [
           {
             "ad_id": "949431153339362",
@@ -607,7 +621,7 @@
             "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/469938616_1111123077137894_4031927827241089512_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HY8v-VczcbIQ7kNvwFftEP9&_nc_oc=AdpRMQ8c4tNL2pv4kdz9H3QceWbqfxgbytUD-Vd5IiSJlTw3P5N136TkzWNZg6gGiho&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=RXtBw-WY9xYneQns87ZgsA&_nc_ss=79289&oh=00_AQM7VkdnxDsjCkBZIgSRIjEHMm3WIm5MwhG2Fz9dIyG_sw&oe=6AE64FCD",
             "video_url": null,
             "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
           }
         ],
         "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
@@ -618,7 +632,7 @@
         "ad_count": 1,
         "advertiser_count": 1,
         "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
         "ads": [
           {
             "ad_id": "1089468580396301",
@@ -632,7 +646,7 @@
             "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/825279357_1085523390738253_4764772272570166822_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xNSEUr3WTtIQ7kNvwFmVpZT&_nc_oc=Adq-uDVtiP8VFwJSoo-nmVeK2f6y40AMA9F7-sllhS5YkUmQjJ2-0yVJjP5hnmwTVY0&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=RXtBw-WY9xYneQns87ZgsA&_nc_ss=79289&oh=00_AQObQEUO1h3LzmgtqQHhYUs9RCrfJY4z9lIUAWNRU0QrTw&oe=6AE64945",
             "video_url": null,
             "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
           }
         ],
         "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
@@ -643,7 +657,7 @@
         "ad_count": 1,
         "advertiser_count": 1,
         "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
         "ads": [
           {
             "ad_id": "4510387222537770",
@@ -657,7 +671,7 @@
             "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/825328692_1802545547432521_4696621283189266693_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7xErzoIZggUQ7kNvwGIx-sj&_nc_oc=AdovGj_dhOr6_F3idtoHNc2stYH9lEMFNChnZQ1KnuNLHkJFP9qYoJztT6PkbU9OnDY&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=RXtBw-WY9xYneQns87ZgsA&_nc_ss=79289&oh=00_AQOyBx3Ng8djzbVt25yoST9CEQKKOjUlrlFaUwcpzLu8FQ&oe=6AE655A7",
             "video_url": null,
             "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
           }
         ],
         "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
@@ -668,7 +682,7 @@
         "ad_count": 1,
         "advertiser_count": 1,
         "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
         "ads": [
           {
             "ad_id": "398109923350773",
@@ -682,7 +696,7 @@
             "image_url": null,
             "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQO_PNu5ipWSKPq8hY2uxW0pWq5ztjaGhabFP2lxWNPxBUlVWMwE9c7cowCuwOQ3ga3cCg4R0Z0S6zoJNiWgRKw.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=G31rUXKCiKAQ7kNvwHKomFN&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjo5MDIxNzQyODkzNjgyMDUsImFzc2V0X2FnZV9kYXlzIjoyNDYsInZpX3VzZWNhc2VfaWQiOjEwNjgwLCJkdXJhdGlvbl9zIjozNywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=RXtBw-WY9xYneQns87ZgsA&_nc_ss=79289&_nc_zt=28&oh=00_AQPv-HKJNeuoTa0v2UcDwKA5Zda0MXGsFbtJgngUeBmjuQ&oe=6AE63AF0",
             "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
           }
         ],
         "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
@@ -693,7 +707,7 @@
         "ad_count": 1,
         "advertiser_count": 1,
         "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
         "ads": [
           {
             "ad_id": "28920240030927164",
@@ -707,7 +721,482 @@
             "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/825274028_1820635688943625_5116923039374339876_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-YfP6dik7NAQ7kNvwHgMJmx&_nc_oc=AdqY8Czy09NX-5w7SzrkRfPapcGd3ceMAc5UXyn5H_1vMbPYdZsy7euBoaYpYN4Spe0&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=RXtBw-WY9xYneQns87ZgsA&_nc_ss=79289&oh=00_AQPnyi6Eg8Px70Kj13T5lcD7SlUKz3aptHBk7rNbMQbbwA&oe=6AE65537",
             "video_url": null,
             "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
+          }
+        ],
+        "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
+      },
+      {
+        "name": "Unidentified product",
+        "group_key": "unverified-889221703988502",
+        "ad_count": 1,
+        "advertiser_count": 1,
+        "country_count": 1,
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
+        "ads": [
+          {
+            "ad_id": "889221703988502",
+            "product_name": "Unidentified product",
+            "product_key": "unverified-889221703988502",
+            "category": "other",
+            "advertiser": "Alibaba.com",
+            "source_country": "CA",
+            "ad_url": "https://www.facebook.com/ads/library/?id=889221703988502",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign&cid=202014504",
+            "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/367480512_1678608495946534_5636508171230058345_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gpXT7ILRahAQ7kNvwGaVeaJ&_nc_oc=AdoXR5K7epxix_IQDlvJLwjiGpO8B-EMZR4Ra1RMLpYCza6ybJ-q19gp_U2eedY02sA&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=UhMXZZzjgRKuOMxVgBvyaw&_nc_ss=79289&oh=00_AQMjb0PuwNetFSwRCv-QrXHcooZ_B7ZQQVqt-A8ZPw0QNA&oe=6AE63567",
+            "video_url": null,
+            "first_seen": "2026-10-27T10:22:20.748397+00:00",
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
+          }
+        ],
+        "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
+      },
+      {
+        "name": "Unidentified product",
+        "group_key": "unverified-1256297569349287",
+        "ad_count": 1,
+        "advertiser_count": 1,
+        "country_count": 1,
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
+        "ads": [
+          {
+            "ad_id": "1256297569349287",
+            "product_name": "Unidentified product",
+            "product_key": "unverified-1256297569349287",
+            "category": "other",
+            "advertiser": "Gadgets",
+            "source_country": "CA",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1256297569349287",
+            "landing_url": "https://www.dhgate.com/?utm_source=RMKT&utm_medium=120235692253370098&f=bm%7Cfb%7Crmkt%7Cyujing%7Cutm%7C0823%7C120235692253370098",
+            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/573317740_1809884896319825_1096190331108813071_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3XVFRTddiNkQ7kNvwH0_veW&_nc_oc=AdoUjA22DIK04w7Rx8wcRLP7LSjJCK0Yzpp8EO-Et_kSGniRVE1PYkEDd8I0L45V5FA&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=UhMXZZzjgRKuOMxVgBvyaw&_nc_ss=79289&oh=00_AQPEwUOE3neffXnMqsjwEDQc-eR4uMlb5qXrmhaJ4OjQiQ&oe=6AE635D4",
+            "video_url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPryGQXvkCmXhbykk6SDADhJWInEXQ0RaPDHeODHtgk5Ba1TaP-EVOjcconCN19G1ITlH0Am0TgNP-f2nGgt2wYuVzG0rjbEPpd2iOYrZD4TA.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=3HSgfr9RATwQ7kNvwHsT1Ft&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIwNTY2NDQ1OTg0MDQ0MTUsImFzc2V0X2FnZV9kYXlzIjo0MDYsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=ba23ab1d4938db18&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GNTQwNTg1RUQ3MDUxQzM2MTJDMDZGMjAzMDI1QjQ5Rl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzRBNEI0MThFNzU0RjJGRDQ0MTk2MzZCQzA5QjQzOUI4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb-1LyrvKCnBxUCKAJDMywXQDgqfvnbItEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=UhMXZZzjgRKuOMxVgBvyaw&_nc_ss=79289&_nc_zt=28&oh=00_AQMXR2RMYTmQWbjbUIRU7p0b_5wTHTctag6GWJNe8JdT5A&oe=6AE6380B",
+            "first_seen": "2026-10-27T10:22:20.748397+00:00",
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
+          }
+        ],
+        "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
+      },
+      {
+        "name": "Unidentified product",
+        "group_key": "unverified-1404633704493603",
+        "ad_count": 1,
+        "advertiser_count": 1,
+        "country_count": 1,
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
+        "ads": [
+          {
+            "ad_id": "1404633704493603",
+            "product_name": "Unidentified product",
+            "product_key": "unverified-1404633704493603",
+            "category": "other",
+            "advertiser": "Yoto",
+            "source_country": "CA",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1404633704493603",
+            "landing_url": "https://ca.yotoplay.com/lp/why-yoto/travel-music",
+            "image_url": null,
+            "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQM19x1XQBXTOttDMmNXozGxy2Y8FO52B5KdlC_delL0dis3Fy5KPtDvP-kdLJ6jOX9ValV-JZ_JM3RpiJa0d4ByaC4KTRflzrtfrnIYI5G6fw.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=Yyq_EtBo5FsQ7kNvwF3_NCo&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI0NTMxNjAzNzE4MjMwNDAsImFzc2V0X2FnZV9kYXlzIjoxMTYsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=7e2f2dc875674b79&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FQzQzQUM2MjNBMTM1NEEwRTZCRUQ2M0YwM0YzREM4OV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0U2NDAzRUIyODJGQ0UzMzA0NDM2QjZDREU3MkQyOThCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaAh9GI3cjbCBUCKAJDMywXQDcAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=UhMXZZzjgRKuOMxVgBvyaw&_nc_ss=79289&_nc_zt=28&oh=00_AQNIH6lyXuj_4Cy5oXVO-dWzNz_cFxzycwWo0Ml7ZgH0lA&oe=6AE64DD8",
+            "first_seen": "2026-10-27T10:22:20.748397+00:00",
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
+          }
+        ],
+        "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
+      },
+      {
+        "name": "Unidentified product",
+        "group_key": "unverified-1657765439246003",
+        "ad_count": 1,
+        "advertiser_count": 1,
+        "country_count": 1,
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
+        "ads": [
+          {
+            "ad_id": "1657765439246003",
+            "product_name": "Unidentified product",
+            "product_key": "unverified-1657765439246003",
+            "category": "other",
+            "advertiser": "Yoto",
+            "source_country": "CA",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1657765439246003",
+            "landing_url": "https://ca.yotoplay.com/lp/why-yoto/travel-music",
+            "image_url": null,
+            "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQObDJ55UjPP0mB5l6pypArbJPWMx_2HMJ_O7a3pnJ1qr1uYw07rQxLi86zmfpBB7b3vqQQf3fLKNd2tp6La7YZF1PVGxWinzc4UIUIhkOMy-A.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=sQFnLZGo83IQ7kNvwFpK05O&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjg5ODk3NDg3OTg5MTU0NSwiYXNzZXRfYWdlX2RheXMiOjExNiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjMxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=3661f599ecdc821&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81QjRFMDEyQjUyNEVBODRCQzU1NDdCMkFEQ0U0QUU5QV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0JFNDFBMEVFQTAzNkFDMkM3RjhFM0Y5QjRGNDg0MkI3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaygYbmnOeYAxUCKAJDMywXQD-iDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=UhMXZZzjgRKuOMxVgBvyaw&_nc_ss=79289&_nc_zt=28&oh=00_AQNYoYhkEG8zImhLKR-prFvWN_1WQe4rxM6C41qScqPFIw&oe=6AE6527A",
+            "first_seen": "2026-10-27T10:22:20.748397+00:00",
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
+          }
+        ],
+        "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
+      },
+      {
+        "name": "Unidentified product",
+        "group_key": "unverified-1304217921687706",
+        "ad_count": 1,
+        "advertiser_count": 1,
+        "country_count": 1,
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
+        "ads": [
+          {
+            "ad_id": "1304217921687706",
+            "product_name": "Unidentified product",
+            "product_key": "unverified-1304217921687706",
+            "category": "other",
+            "advertiser": "Alibaba.com",
+            "source_country": "CA",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1304217921687706",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/696056476_2762247587488421_6218798996235950050_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VsvYExzwgGYQ7kNvwHn_ri1&_nc_oc=AdpLKk0t4Lp1QgVaQKwzLDk6jnFepULGhLIKYk3ldu3Zsd85_uikAQpkEXJX9uXtGRM&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=UhMXZZzjgRKuOMxVgBvyaw&_nc_ss=79289&oh=00_AQN-zlu9eWiJwcNIu5llfe3_UeecHzId1aP2szLMN5U8Jg&oe=6AE6689F",
+            "video_url": null,
+            "first_seen": "2026-10-27T10:22:20.748397+00:00",
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
+          }
+        ],
+        "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
+      },
+      {
+        "name": "Unidentified product",
+        "group_key": "unverified-3286370288186135",
+        "ad_count": 1,
+        "advertiser_count": 1,
+        "country_count": 1,
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
+        "ads": [
+          {
+            "ad_id": "3286370288186135",
+            "product_name": "Unidentified product",
+            "product_key": "unverified-3286370288186135",
+            "category": "other",
+            "advertiser": "Alibaba.com",
+            "source_country": "CA",
+            "ad_url": "https://www.facebook.com/ads/library/?id=3286370288186135",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/515489780_24547209824891590_1074253681052589088_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WdFqG5O4hi4Q7kNvwFRBXXa&_nc_oc=Adprl-_5x2sehX_sPkJgMvlEpWKz9s48L2At_G82Gq2eq-PGq7KvC0-4L7c5qi-2_Vg&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=j1BjnTQRctYRwX0x3Utb8g&_nc_ss=79289&oh=00_AQMonUjkCnaTtdL-iqYjj6NesGocrANSPm28XOBfDyap8w&oe=6AE638CA",
+            "video_url": null,
+            "first_seen": "2026-10-27T10:22:20.748397+00:00",
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
+          }
+        ],
+        "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
+      },
+      {
+        "name": "Unidentified product",
+        "group_key": "unverified-416221204765902",
+        "ad_count": 1,
+        "advertiser_count": 1,
+        "country_count": 1,
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
+        "ads": [
+          {
+            "ad_id": "416221204765902",
+            "product_name": "Unidentified product",
+            "product_key": "unverified-416221204765902",
+            "category": "other",
+            "advertiser": "Pockt",
+            "source_country": "CA",
+            "ad_url": "https://www.facebook.com/ads/library/?id=416221204765902",
+            "landing_url": "https://pockt.co/products/pockt-bundle-2",
+            "image_url": null,
+            "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMQxB9YeFX9352BttYlCazQLURwv5X4JLbEo_31mKLjMEqF_uuv6YP4vQ3TM1uQQCUau9ioIoHOHy3geRgMwcyYKJ6fnHwBVMpP4ipEL6p7jQ.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=W9D-dw3k5X4Q7kNvwE-WagC&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwMDY0Mzk2OTQzNjQ4MTEsImFzc2V0X2FnZV9kYXlzIjo4MTgsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoyOSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=f1faedd4b3cb3dff&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BQjQxMURGNDY0NkM4NEUzQkU1QkRFODU4MDEzM0Y5MV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfZXBoZW1lcmFsLzQ5NEFEQTRFMzZGODZFNEVFNzVDMjgwQjZCNUVBOThEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaWwsOHwNbJAxUCKAJDMywXQD0zMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=j1BjnTQRctYRwX0x3Utb8g&_nc_ss=79289&_nc_zt=28&oh=00_AQORLihKFirUgVfiL_znWmxFMp4yTtpRoXA6sYdi9aENHw&oe=6AE63A36",
+            "first_seen": "2026-10-27T10:22:20.748397+00:00",
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
+          }
+        ],
+        "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
+      },
+      {
+        "name": "Unidentified product",
+        "group_key": "unverified-1662854252245100",
+        "ad_count": 1,
+        "advertiser_count": 1,
+        "country_count": 1,
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
+        "ads": [
+          {
+            "ad_id": "1662854252245100",
+            "product_name": "Unidentified product",
+            "product_key": "unverified-1662854252245100",
+            "category": "other",
+            "advertiser": "Lug",
+            "source_country": "CA",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1662854252245100",
+            "landing_url": "http://www.luglife.com/",
+            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/715346822_1468924617881153_9219076496168555969_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FsY9rtsDw_cQ7kNvwH5QEl7&_nc_oc=AdpismsJbun7v_bmqt7oxUCVxqR-CQts4m_BrgZtmEUSFJV6CbRZEKEE57kzkHsTy1g&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=j1BjnTQRctYRwX0x3Utb8g&_nc_ss=79289&oh=00_AQNNqFfDyQObQWnRWV97v7VQE0tkUWiMgYDiBmJW0CyD1w&oe=6AE636C8",
+            "video_url": null,
+            "first_seen": "2026-10-27T10:22:20.748397+00:00",
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
+          }
+        ],
+        "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
+      },
+      {
+        "name": "Unidentified product",
+        "group_key": "unverified-1060577766298481",
+        "ad_count": 1,
+        "advertiser_count": 1,
+        "country_count": 1,
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
+        "ads": [
+          {
+            "ad_id": "1060577766298481",
+            "product_name": "Unidentified product",
+            "product_key": "unverified-1060577766298481",
+            "category": "other",
+            "advertiser": "Amazon.ca",
+            "source_country": "CA",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1060577766298481",
+            "landing_url": "https://www.amazon.ca/?tag=fbcmapradar-ca08-20&ascsubtag=pfb-RADAR-P11-V01-O1-te7uoc-19FNBW&mcid=29ccc665cd8f39bcbbf25941565cc0cd&ref_=pfb_RADAR_M_1ptxYP6PH8d0UK291f9CkiU2Hu5V",
+            "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/748597394_1644243784049562_8580477188369761636_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=edsEf773RE8Q7kNvwGZqMeS&_nc_oc=Adqi-ALOuVeXPNU-8jmu5dDSnBeNMOV3aAUJgU8Uk1GhTkrQnP6ia1Tv8jomdP4Ukgs&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=j1BjnTQRctYRwX0x3Utb8g&_nc_ss=79289&oh=00_AQMqZD7xkw-mBb5WQhSXrvknt_GHtw9JNHab0sz9Teb47g&oe=6AE657F7",
+            "video_url": null,
+            "first_seen": "2026-10-27T10:22:20.748397+00:00",
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
+          }
+        ],
+        "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
+      },
+      {
+        "name": "Unidentified product",
+        "group_key": "unverified-1372316674782671",
+        "ad_count": 1,
+        "advertiser_count": 1,
+        "country_count": 1,
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
+        "ads": [
+          {
+            "ad_id": "1372316674782671",
+            "product_name": "Unidentified product",
+            "product_key": "unverified-1372316674782671",
+            "category": "other",
+            "advertiser": "Alibaba.com",
+            "source_country": "CA",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1372316674782671",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/716353279_2246171399527893_6573551059068310485_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lpFq3-RBPbcQ7kNvwGdrk6r&_nc_oc=AdrhtAFD9dJZ9HZz_W6wWS1keMfbCfVCsuCx5bxDpRfKTd-o6gvDYOS5P1CQ3LtckxY&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=j1BjnTQRctYRwX0x3Utb8g&_nc_ss=79289&oh=00_AQNhaJgTKEDzdjDDoHfIqoySDEI_fxGYx4PNEaJpqcbv7g&oe=6AE65C43",
+            "video_url": null,
+            "first_seen": "2026-10-27T10:22:20.748397+00:00",
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
+          }
+        ],
+        "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
+      },
+      {
+        "name": "Unidentified product",
+        "group_key": "unverified-1453204536091890",
+        "ad_count": 1,
+        "advertiser_count": 1,
+        "country_count": 1,
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
+        "ads": [
+          {
+            "ad_id": "1453204536091890",
+            "product_name": "Unidentified product",
+            "product_key": "unverified-1453204536091890",
+            "category": "other",
+            "advertiser": "Alibaba.com",
+            "source_country": "CA",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1453204536091890",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/698928551_1932630390952722_4899484868787895639_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7tkG7ZikCQcQ7kNvwGkYH2N&_nc_oc=AdrP9j0RxnBbSSXQguKTrVDBo9RUC74X-a9t9ovOmvP9GQvr4iQnfa-JVPWiLEnQPSQ&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=j1BjnTQRctYRwX0x3Utb8g&_nc_ss=79289&oh=00_AQM5Z1DULDiU8O921r0VkOleolkJLdtUcRFSm2Q-fTeDJw&oe=6AE65D01",
+            "video_url": null,
+            "first_seen": "2026-10-27T10:22:20.748397+00:00",
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
+          }
+        ],
+        "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
+      },
+      {
+        "name": "Unidentified product",
+        "group_key": "unverified-2003918407194148",
+        "ad_count": 1,
+        "advertiser_count": 1,
+        "country_count": 1,
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
+        "ads": [
+          {
+            "ad_id": "2003918407194148",
+            "product_name": "Unidentified product",
+            "product_key": "unverified-2003918407194148",
+            "category": "other",
+            "advertiser": "Alibaba.com",
+            "source_country": "CA",
+            "ad_url": "https://www.facebook.com/ads/library/?id=2003918407194148",
+            "landing_url": "https://m.alibaba.com/product/pageBuild.html?src=cpm_fb&account=DPA&biz=ggs_app&product_id=1601649379732&pcate=201336407&field=GGS&fbclid=IwY2xjawQzB25leHRuA2FlbQIxMABicmlkETFQT3NMeGhNbHlaTFI3RE04c3J0YwZhcHBfaWQPNDM2NzYxNzc5NzQ0NjIwAAEeIt86N3d57HISDXfc2BiXfcxru9CF-8_0XbzfI9Jop343ODtqfz15Xr4jhh8_aem_0Oc_3x4K5BIh98j2pOJEpA",
+            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/659051673_1425153455397847_756395451914317521_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ahWDmb2cZb8Q7kNvwFGnHZQ&_nc_oc=AdoR-j6y9GHW21iVSV1g2_THVp9yuBrLrnSa9XguZkJwVSCnRUGc7MmPhgN-wYTsyO8&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=4oO-kQlNfvgxx8flSKfo-w&_nc_ss=79289&oh=00_AQNA012PtmeTKWvqxUZ_WdcpHBJzXO2D690YYRx6M16cnw&oe=6AE66510",
+            "video_url": null,
+            "first_seen": "2026-10-27T10:22:20.748397+00:00",
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
+          }
+        ],
+        "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
+      },
+      {
+        "name": "Unidentified product",
+        "group_key": "unverified-1735255301174192",
+        "ad_count": 1,
+        "advertiser_count": 1,
+        "country_count": 1,
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
+        "ads": [
+          {
+            "ad_id": "1735255301174192",
+            "product_name": "Unidentified product",
+            "product_key": "unverified-1735255301174192",
+            "category": "other",
+            "advertiser": "Alibaba.com",
+            "source_country": "CA",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1735255301174192",
+            "landing_url": "https://m-sale.alibaba.com/p/24daily/1t_p/index.html?wx_navbar_transparent=true&path=%2Fp%2Fdxf44i7x5%2Findex.html&ncms_spm=a27aq.30023270&fbclid=fbclid",
+            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/615820475_851628134350149_7552235803839805669_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qGd0WFVo4EwQ7kNvwFs26l3&_nc_oc=Adr3ehWUDKZ62FwMbW3IESqmgv-GQ28yx4jPO1DwI90BugD5Z2AK59xti7omh5ESZ7k&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=4oO-kQlNfvgxx8flSKfo-w&_nc_ss=79289&oh=00_AQMfBENNK8Cd56hhVAUn4USEMIUnoSv4WDWrFYG2-6etxQ&oe=6AE632F5",
+            "video_url": null,
+            "first_seen": "2026-10-27T10:22:20.748397+00:00",
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
+          }
+        ],
+        "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
+      },
+      {
+        "name": "Unidentified product",
+        "group_key": "unverified-1664287378325730",
+        "ad_count": 1,
+        "advertiser_count": 1,
+        "country_count": 1,
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
+        "ads": [
+          {
+            "ad_id": "1664287378325730",
+            "product_name": "Unidentified product",
+            "product_key": "unverified-1664287378325730",
+            "category": "other",
+            "advertiser": "Alibaba.com",
+            "source_country": "CA",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1664287378325730",
+            "landing_url": "https://m-sale.alibaba.com/p/24daily/1t_p/index.html?wx_navbar_transparent=true&path=%2Fp%2Fdxf44i7x5%2Findex.html&ncms_spm=a27aq.30023270&fbclid=fbclid",
+            "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/671582901_1429875148465351_5367356020669632742_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=m_EA_a5mc-kQ7kNvwG32_cr&_nc_oc=AdppYl11H3UaaXt2YR45tsXN_XkvSlb8PlaEippK0r0ykVMcDGAIDWr1lg4foUhoECU&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=4oO-kQlNfvgxx8flSKfo-w&_nc_ss=79289&oh=00_AQOCB_BAAaUDhK63VFX2DqgQ11BPQ1mOB9Hpa5yPL3vw4Q&oe=6AE66179",
+            "video_url": null,
+            "first_seen": "2026-10-27T10:22:20.748397+00:00",
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
+          }
+        ],
+        "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
+      },
+      {
+        "name": "Unidentified product",
+        "group_key": "unverified-1485153393155218",
+        "ad_count": 1,
+        "advertiser_count": 1,
+        "country_count": 1,
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
+        "ads": [
+          {
+            "ad_id": "1485153393155218",
+            "product_name": "Unidentified product",
+            "product_key": "unverified-1485153393155218",
+            "category": "other",
+            "advertiser": "Alibaba.com",
+            "source_country": "CA",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1485153393155218",
+            "landing_url": "https://m-sale.alibaba.com/p/24daily/1t_p/index.html?wx_navbar_transparent=true&path=%2Fp%2Fdxf44i7x5%2Findex.html&ncms_spm=a27aq.30023270&fbclid=fbclid",
+            "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/580531579_1227896375843822_4319208071171648448_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dAofC8Z5ItwQ7kNvwFh_nSr&_nc_oc=AdqYmOMb1qNeMtNOpBvmVuonofvB5PCzkkE9SJTNHZtWkcPkaIkHrIKiNH2SK5FPwCU&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=4oO-kQlNfvgxx8flSKfo-w&_nc_ss=79289&oh=00_AQP1ZPxhlLmYbVfS-JBSxUGOzJtKuHbr728hjUAjXD9yUA&oe=6AE65600",
+            "video_url": null,
+            "first_seen": "2026-10-27T10:22:20.748397+00:00",
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
+          }
+        ],
+        "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
+      },
+      {
+        "name": "Unidentified product",
+        "group_key": "unverified-2071385466977337",
+        "ad_count": 1,
+        "advertiser_count": 1,
+        "country_count": 1,
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
+        "ads": [
+          {
+            "ad_id": "2071385466977337",
+            "product_name": "Unidentified product",
+            "product_key": "unverified-2071385466977337",
+            "category": "other",
+            "advertiser": "Alibaba.com",
+            "source_country": "CA",
+            "ad_url": "https://www.facebook.com/ads/library/?id=2071385466977337",
+            "landing_url": "https://sale.alibaba.com/p/fy26_sp_prod/index.html?wx_navbar_transparent=true&path=%2Fp%2Fdc8q27ui5%2Findex.html&ncms_spm=a27aq.45299021a27aq&field=ggs",
+            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/648602505_3080694092318784_5182068453435293665_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JYxKRyA0ockQ7kNvwFhTAXK&_nc_oc=AdrjDex3ZCu4_WoUltZR4Lk68ijhOzA9eS0G8pP7kJZmt_vwSkKTXaiNygL8LgKWKP4&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=4oO-kQlNfvgxx8flSKfo-w&_nc_ss=79289&oh=00_AQPB2Lhg9zWrEnqNwnfw2x1VT5SoqfxavLuGsv2tuH6m7A&oe=6AE645D6",
+            "video_url": null,
+            "first_seen": "2026-10-27T10:22:20.748397+00:00",
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
+          }
+        ],
+        "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
+      },
+      {
+        "name": "Unidentified product",
+        "group_key": "unverified-1044537391876760",
+        "ad_count": 1,
+        "advertiser_count": 1,
+        "country_count": 1,
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
+        "ads": [
+          {
+            "ad_id": "1044537391876760",
+            "product_name": "Unidentified product",
+            "product_key": "unverified-1044537391876760",
+            "category": "other",
+            "advertiser": "SHEIN HOME",
+            "source_country": "CA",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1044537391876760",
+            "landing_url": "https://m.shein.com/ca/ark/default?scene=1&test=5051&ad_type=DPA&url_from=adhub2048761922240987138&pf=Facebook&placement={{placement}}&site_source_name={{site_source_name}}",
+            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/681163151_1893346681338346_294341162248669379_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WmdkBouaWgEQ7kNvwF8TpSc&_nc_oc=AdozS3ycf1BwIqF3g0rARax5YyodXPv3m-Bfi-2bYBrzB2sdtrsa1wvqCApn39KBUBw&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=4oO-kQlNfvgxx8flSKfo-w&_nc_ss=79289&oh=00_AQMqTzN3lw_18VdfScjYMt4pB4M43uKDYqzRTQwTTTKfZA&oe=6AE654D3",
+            "video_url": null,
+            "first_seen": "2026-10-27T10:22:20.748397+00:00",
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
+          }
+        ],
+        "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
+      },
+      {
+        "name": "Unidentified product",
+        "group_key": "unverified-1986166835632317",
+        "ad_count": 1,
+        "advertiser_count": 1,
+        "country_count": 1,
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
+        "ads": [
+          {
+            "ad_id": "1986166835632317",
+            "product_name": "Unidentified product",
+            "product_key": "unverified-1986166835632317",
+            "category": "other",
+            "advertiser": "Alibaba.com",
+            "source_country": "CA",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1986166835632317",
+            "landing_url": "https://sale.alibaba.com/p/fy26_sp_prod/index.html?wx_navbar_transparent=true&path=/p/dc8q27ui5/index.html&ncms_spm=a27aq.45299021a27aq&field=ggs",
+            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/645626648_1450822809851299_3372262060499202680_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XeajW-2ytsYQ7kNvwGxoZ4-&_nc_oc=Adp_PXXpJmHoBJiBt2OyyZVisxXiEHqTJ8Vr0S0wOPIS-1YbePvrswkFGoGrGFCReiI&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=4oO-kQlNfvgxx8flSKfo-w&_nc_ss=79289&oh=00_AQM_N7F6G1BziY6PpVf4RYAe7hW-POumr8iUgzfV_8zLoQ&oe=6AE65064",
+            "video_url": null,
+            "first_seen": "2026-10-27T10:22:20.748397+00:00",
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
+          }
+        ],
+        "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
+      },
+      {
+        "name": "Unidentified product",
+        "group_key": "unverified-4487455611465961",
+        "ad_count": 1,
+        "advertiser_count": 1,
+        "country_count": 1,
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
+        "ads": [
+          {
+            "ad_id": "4487455611465961",
+            "product_name": "Unidentified product",
+            "product_key": "unverified-4487455611465961",
+            "category": "other",
+            "advertiser": "SHEIN HOME",
+            "source_country": "CA",
+            "ad_url": "https://www.facebook.com/ads/library/?id=4487455611465961",
+            "landing_url": "https://m.shein.com/ca/ark/default?scene=1&test=5051&ad_type=DPA&url_from=adhub2102287728686436353&pf=Facebook&placement={{placement}}&site_source_name={{site_source_name}}",
+            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/818910633_1044904645049781_386225905761919765_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bBKXrf2zLtsQ7kNvwHa3emk&_nc_oc=AdohBgV65DV5Rs-vnWh7L2Tv3zewItq3PW4c0AkBooKRdETUt0e3fRzVZL6CzapUnNo&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=4oO-kQlNfvgxx8flSKfo-w&_nc_ss=79289&oh=00_AQM4ngSPrk0bfKoOGZVtwTBaCAsX6YM3fZnlO7RRvGYE9Q&oe=6AE665CA",
+            "video_url": null,
+            "first_seen": "2026-10-27T10:22:20.748397+00:00",
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
           }
         ],
         "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
@@ -738,487 +1227,12 @@
         "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
       },
       {
-        "name": "Unidentified product",
-        "group_key": "unverified-889221703988502",
-        "ad_count": 1,
-        "advertiser_count": 1,
-        "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
-        "ads": [
-          {
-            "ad_id": "889221703988502",
-            "product_name": "Unidentified product",
-            "product_key": "unverified-889221703988502",
-            "category": "other",
-            "advertiser": "Alibaba.com",
-            "source_country": "CA",
-            "ad_url": "https://www.facebook.com/ads/library/?id=889221703988502",
-            "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign&cid=202014504",
-            "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/367480512_1678608495946534_5636508171230058345_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gpXT7ILRahAQ7kNvwGaVeaJ&_nc_oc=AdoXR5K7epxix_IQDlvJLwjiGpO8B-EMZR4Ra1RMLpYCza6ybJ-q19gp_U2eedY02sA&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=UhMXZZzjgRKuOMxVgBvyaw&_nc_ss=79289&oh=00_AQMjb0PuwNetFSwRCv-QrXHcooZ_B7ZQQVqt-A8ZPw0QNA&oe=6AE63567",
-            "video_url": null,
-            "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
-          }
-        ],
-        "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
-      },
-      {
-        "name": "Unidentified product",
-        "group_key": "unverified-1256297569349287",
-        "ad_count": 1,
-        "advertiser_count": 1,
-        "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
-        "ads": [
-          {
-            "ad_id": "1256297569349287",
-            "product_name": "Unidentified product",
-            "product_key": "unverified-1256297569349287",
-            "category": "other",
-            "advertiser": "Gadgets",
-            "source_country": "CA",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1256297569349287",
-            "landing_url": "https://www.dhgate.com/?utm_source=RMKT&utm_medium=120235692253370098&f=bm%7Cfb%7Crmkt%7Cyujing%7Cutm%7C0823%7C120235692253370098",
-            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/573317740_1809884896319825_1096190331108813071_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3XVFRTddiNkQ7kNvwH0_veW&_nc_oc=AdoUjA22DIK04w7Rx8wcRLP7LSjJCK0Yzpp8EO-Et_kSGniRVE1PYkEDd8I0L45V5FA&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=UhMXZZzjgRKuOMxVgBvyaw&_nc_ss=79289&oh=00_AQPEwUOE3neffXnMqsjwEDQc-eR4uMlb5qXrmhaJ4OjQiQ&oe=6AE635D4",
-            "video_url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPryGQXvkCmXhbykk6SDADhJWInEXQ0RaPDHeODHtgk5Ba1TaP-EVOjcconCN19G1ITlH0Am0TgNP-f2nGgt2wYuVzG0rjbEPpd2iOYrZD4TA.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=3HSgfr9RATwQ7kNvwHsT1Ft&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIwNTY2NDQ1OTg0MDQ0MTUsImFzc2V0X2FnZV9kYXlzIjo0MDYsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=ba23ab1d4938db18&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GNTQwNTg1RUQ3MDUxQzM2MTJDMDZGMjAzMDI1QjQ5Rl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzRBNEI0MThFNzU0RjJGRDQ0MTk2MzZCQzA5QjQzOUI4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb-1LyrvKCnBxUCKAJDMywXQDgqfvnbItEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=UhMXZZzjgRKuOMxVgBvyaw&_nc_ss=79289&_nc_zt=28&oh=00_AQMXR2RMYTmQWbjbUIRU7p0b_5wTHTctag6GWJNe8JdT5A&oe=6AE6380B",
-            "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
-          }
-        ],
-        "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
-      },
-      {
-        "name": "Unidentified product",
-        "group_key": "unverified-1404633704493603",
-        "ad_count": 1,
-        "advertiser_count": 1,
-        "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
-        "ads": [
-          {
-            "ad_id": "1404633704493603",
-            "product_name": "Unidentified product",
-            "product_key": "unverified-1404633704493603",
-            "category": "other",
-            "advertiser": "Yoto",
-            "source_country": "CA",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1404633704493603",
-            "landing_url": "https://ca.yotoplay.com/lp/why-yoto/travel-music",
-            "image_url": null,
-            "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQM19x1XQBXTOttDMmNXozGxy2Y8FO52B5KdlC_delL0dis3Fy5KPtDvP-kdLJ6jOX9ValV-JZ_JM3RpiJa0d4ByaC4KTRflzrtfrnIYI5G6fw.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=Yyq_EtBo5FsQ7kNvwF3_NCo&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI0NTMxNjAzNzE4MjMwNDAsImFzc2V0X2FnZV9kYXlzIjoxMTYsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=7e2f2dc875674b79&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FQzQzQUM2MjNBMTM1NEEwRTZCRUQ2M0YwM0YzREM4OV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0U2NDAzRUIyODJGQ0UzMzA0NDM2QjZDREU3MkQyOThCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaAh9GI3cjbCBUCKAJDMywXQDcAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=UhMXZZzjgRKuOMxVgBvyaw&_nc_ss=79289&_nc_zt=28&oh=00_AQNIH6lyXuj_4Cy5oXVO-dWzNz_cFxzycwWo0Ml7ZgH0lA&oe=6AE64DD8",
-            "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
-          }
-        ],
-        "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
-      },
-      {
-        "name": "Unidentified product",
-        "group_key": "unverified-1657765439246003",
-        "ad_count": 1,
-        "advertiser_count": 1,
-        "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
-        "ads": [
-          {
-            "ad_id": "1657765439246003",
-            "product_name": "Unidentified product",
-            "product_key": "unverified-1657765439246003",
-            "category": "other",
-            "advertiser": "Yoto",
-            "source_country": "CA",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1657765439246003",
-            "landing_url": "https://ca.yotoplay.com/lp/why-yoto/travel-music",
-            "image_url": null,
-            "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQObDJ55UjPP0mB5l6pypArbJPWMx_2HMJ_O7a3pnJ1qr1uYw07rQxLi86zmfpBB7b3vqQQf3fLKNd2tp6La7YZF1PVGxWinzc4UIUIhkOMy-A.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=sQFnLZGo83IQ7kNvwFpK05O&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjg5ODk3NDg3OTg5MTU0NSwiYXNzZXRfYWdlX2RheXMiOjExNiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjMxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=3661f599ecdc821&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81QjRFMDEyQjUyNEVBODRCQzU1NDdCMkFEQ0U0QUU5QV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0JFNDFBMEVFQTAzNkFDMkM3RjhFM0Y5QjRGNDg0MkI3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaygYbmnOeYAxUCKAJDMywXQD-iDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=UhMXZZzjgRKuOMxVgBvyaw&_nc_ss=79289&_nc_zt=28&oh=00_AQNYoYhkEG8zImhLKR-prFvWN_1WQe4rxM6C41qScqPFIw&oe=6AE6527A",
-            "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
-          }
-        ],
-        "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
-      },
-      {
-        "name": "Unidentified product",
-        "group_key": "unverified-1304217921687706",
-        "ad_count": 1,
-        "advertiser_count": 1,
-        "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
-        "ads": [
-          {
-            "ad_id": "1304217921687706",
-            "product_name": "Unidentified product",
-            "product_key": "unverified-1304217921687706",
-            "category": "other",
-            "advertiser": "Alibaba.com",
-            "source_country": "CA",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1304217921687706",
-            "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
-            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/696056476_2762247587488421_6218798996235950050_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VsvYExzwgGYQ7kNvwHn_ri1&_nc_oc=AdpLKk0t4Lp1QgVaQKwzLDk6jnFepULGhLIKYk3ldu3Zsd85_uikAQpkEXJX9uXtGRM&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=UhMXZZzjgRKuOMxVgBvyaw&_nc_ss=79289&oh=00_AQN-zlu9eWiJwcNIu5llfe3_UeecHzId1aP2szLMN5U8Jg&oe=6AE6689F",
-            "video_url": null,
-            "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
-          }
-        ],
-        "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
-      },
-      {
-        "name": "Unidentified product",
-        "group_key": "unverified-3286370288186135",
-        "ad_count": 1,
-        "advertiser_count": 1,
-        "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
-        "ads": [
-          {
-            "ad_id": "3286370288186135",
-            "product_name": "Unidentified product",
-            "product_key": "unverified-3286370288186135",
-            "category": "other",
-            "advertiser": "Alibaba.com",
-            "source_country": "CA",
-            "ad_url": "https://www.facebook.com/ads/library/?id=3286370288186135",
-            "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
-            "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/515489780_24547209824891590_1074253681052589088_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WdFqG5O4hi4Q7kNvwFRBXXa&_nc_oc=Adprl-_5x2sehX_sPkJgMvlEpWKz9s48L2At_G82Gq2eq-PGq7KvC0-4L7c5qi-2_Vg&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=j1BjnTQRctYRwX0x3Utb8g&_nc_ss=79289&oh=00_AQMonUjkCnaTtdL-iqYjj6NesGocrANSPm28XOBfDyap8w&oe=6AE638CA",
-            "video_url": null,
-            "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
-          }
-        ],
-        "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
-      },
-      {
-        "name": "Unidentified product",
-        "group_key": "unverified-416221204765902",
-        "ad_count": 1,
-        "advertiser_count": 1,
-        "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
-        "ads": [
-          {
-            "ad_id": "416221204765902",
-            "product_name": "Unidentified product",
-            "product_key": "unverified-416221204765902",
-            "category": "other",
-            "advertiser": "Pockt",
-            "source_country": "CA",
-            "ad_url": "https://www.facebook.com/ads/library/?id=416221204765902",
-            "landing_url": "https://pockt.co/products/pockt-bundle-2",
-            "image_url": null,
-            "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMQxB9YeFX9352BttYlCazQLURwv5X4JLbEo_31mKLjMEqF_uuv6YP4vQ3TM1uQQCUau9ioIoHOHy3geRgMwcyYKJ6fnHwBVMpP4ipEL6p7jQ.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=W9D-dw3k5X4Q7kNvwE-WagC&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwMDY0Mzk2OTQzNjQ4MTEsImFzc2V0X2FnZV9kYXlzIjo4MTgsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoyOSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=f1faedd4b3cb3dff&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BQjQxMURGNDY0NkM4NEUzQkU1QkRFODU4MDEzM0Y5MV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfZXBoZW1lcmFsLzQ5NEFEQTRFMzZGODZFNEVFNzVDMjgwQjZCNUVBOThEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaWwsOHwNbJAxUCKAJDMywXQD0zMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=j1BjnTQRctYRwX0x3Utb8g&_nc_ss=79289&_nc_zt=28&oh=00_AQORLihKFirUgVfiL_znWmxFMp4yTtpRoXA6sYdi9aENHw&oe=6AE63A36",
-            "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
-          }
-        ],
-        "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
-      },
-      {
-        "name": "Unidentified product",
-        "group_key": "unverified-1662854252245100",
-        "ad_count": 1,
-        "advertiser_count": 1,
-        "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
-        "ads": [
-          {
-            "ad_id": "1662854252245100",
-            "product_name": "Unidentified product",
-            "product_key": "unverified-1662854252245100",
-            "category": "other",
-            "advertiser": "Lug",
-            "source_country": "CA",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1662854252245100",
-            "landing_url": "http://www.luglife.com/",
-            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/715346822_1468924617881153_9219076496168555969_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FsY9rtsDw_cQ7kNvwH5QEl7&_nc_oc=AdpismsJbun7v_bmqt7oxUCVxqR-CQts4m_BrgZtmEUSFJV6CbRZEKEE57kzkHsTy1g&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=j1BjnTQRctYRwX0x3Utb8g&_nc_ss=79289&oh=00_AQNNqFfDyQObQWnRWV97v7VQE0tkUWiMgYDiBmJW0CyD1w&oe=6AE636C8",
-            "video_url": null,
-            "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
-          }
-        ],
-        "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
-      },
-      {
-        "name": "Unidentified product",
-        "group_key": "unverified-1060577766298481",
-        "ad_count": 1,
-        "advertiser_count": 1,
-        "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
-        "ads": [
-          {
-            "ad_id": "1060577766298481",
-            "product_name": "Unidentified product",
-            "product_key": "unverified-1060577766298481",
-            "category": "other",
-            "advertiser": "Amazon.ca",
-            "source_country": "CA",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1060577766298481",
-            "landing_url": "https://www.amazon.ca/?tag=fbcmapradar-ca08-20&ascsubtag=pfb-RADAR-P11-V01-O1-te7uoc-19FNBW&mcid=29ccc665cd8f39bcbbf25941565cc0cd&ref_=pfb_RADAR_M_1ptxYP6PH8d0UK291f9CkiU2Hu5V",
-            "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/748597394_1644243784049562_8580477188369761636_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=edsEf773RE8Q7kNvwGZqMeS&_nc_oc=Adqi-ALOuVeXPNU-8jmu5dDSnBeNMOV3aAUJgU8Uk1GhTkrQnP6ia1Tv8jomdP4Ukgs&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=j1BjnTQRctYRwX0x3Utb8g&_nc_ss=79289&oh=00_AQMqZD7xkw-mBb5WQhSXrvknt_GHtw9JNHab0sz9Teb47g&oe=6AE657F7",
-            "video_url": null,
-            "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
-          }
-        ],
-        "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
-      },
-      {
-        "name": "Unidentified product",
-        "group_key": "unverified-1372316674782671",
-        "ad_count": 1,
-        "advertiser_count": 1,
-        "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
-        "ads": [
-          {
-            "ad_id": "1372316674782671",
-            "product_name": "Unidentified product",
-            "product_key": "unverified-1372316674782671",
-            "category": "other",
-            "advertiser": "Alibaba.com",
-            "source_country": "CA",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1372316674782671",
-            "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
-            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/716353279_2246171399527893_6573551059068310485_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lpFq3-RBPbcQ7kNvwGdrk6r&_nc_oc=AdrhtAFD9dJZ9HZz_W6wWS1keMfbCfVCsuCx5bxDpRfKTd-o6gvDYOS5P1CQ3LtckxY&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=j1BjnTQRctYRwX0x3Utb8g&_nc_ss=79289&oh=00_AQNhaJgTKEDzdjDDoHfIqoySDEI_fxGYx4PNEaJpqcbv7g&oe=6AE65C43",
-            "video_url": null,
-            "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
-          }
-        ],
-        "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
-      },
-      {
-        "name": "Unidentified product",
-        "group_key": "unverified-1453204536091890",
-        "ad_count": 1,
-        "advertiser_count": 1,
-        "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
-        "ads": [
-          {
-            "ad_id": "1453204536091890",
-            "product_name": "Unidentified product",
-            "product_key": "unverified-1453204536091890",
-            "category": "other",
-            "advertiser": "Alibaba.com",
-            "source_country": "CA",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1453204536091890",
-            "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
-            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/698928551_1932630390952722_4899484868787895639_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7tkG7ZikCQcQ7kNvwGkYH2N&_nc_oc=AdrP9j0RxnBbSSXQguKTrVDBo9RUC74X-a9t9ovOmvP9GQvr4iQnfa-JVPWiLEnQPSQ&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=j1BjnTQRctYRwX0x3Utb8g&_nc_ss=79289&oh=00_AQM5Z1DULDiU8O921r0VkOleolkJLdtUcRFSm2Q-fTeDJw&oe=6AE65D01",
-            "video_url": null,
-            "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
-          }
-        ],
-        "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
-      },
-      {
-        "name": "Unidentified product",
-        "group_key": "unverified-2003918407194148",
-        "ad_count": 1,
-        "advertiser_count": 1,
-        "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
-        "ads": [
-          {
-            "ad_id": "2003918407194148",
-            "product_name": "Unidentified product",
-            "product_key": "unverified-2003918407194148",
-            "category": "other",
-            "advertiser": "Alibaba.com",
-            "source_country": "CA",
-            "ad_url": "https://www.facebook.com/ads/library/?id=2003918407194148",
-            "landing_url": "https://m.alibaba.com/product/pageBuild.html?src=cpm_fb&account=DPA&biz=ggs_app&product_id=1601649379732&pcate=201336407&field=GGS&fbclid=IwY2xjawQzB25leHRuA2FlbQIxMABicmlkETFQT3NMeGhNbHlaTFI3RE04c3J0YwZhcHBfaWQPNDM2NzYxNzc5NzQ0NjIwAAEeIt86N3d57HISDXfc2BiXfcxru9CF-8_0XbzfI9Jop343ODtqfz15Xr4jhh8_aem_0Oc_3x4K5BIh98j2pOJEpA",
-            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/659051673_1425153455397847_756395451914317521_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ahWDmb2cZb8Q7kNvwFGnHZQ&_nc_oc=AdoR-j6y9GHW21iVSV1g2_THVp9yuBrLrnSa9XguZkJwVSCnRUGc7MmPhgN-wYTsyO8&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=4oO-kQlNfvgxx8flSKfo-w&_nc_ss=79289&oh=00_AQNA012PtmeTKWvqxUZ_WdcpHBJzXO2D690YYRx6M16cnw&oe=6AE66510",
-            "video_url": null,
-            "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
-          }
-        ],
-        "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
-      },
-      {
-        "name": "Unidentified product",
-        "group_key": "unverified-1735255301174192",
-        "ad_count": 1,
-        "advertiser_count": 1,
-        "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
-        "ads": [
-          {
-            "ad_id": "1735255301174192",
-            "product_name": "Unidentified product",
-            "product_key": "unverified-1735255301174192",
-            "category": "other",
-            "advertiser": "Alibaba.com",
-            "source_country": "CA",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1735255301174192",
-            "landing_url": "https://m-sale.alibaba.com/p/24daily/1t_p/index.html?wx_navbar_transparent=true&path=%2Fp%2Fdxf44i7x5%2Findex.html&ncms_spm=a27aq.30023270&fbclid=fbclid",
-            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/615820475_851628134350149_7552235803839805669_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qGd0WFVo4EwQ7kNvwFs26l3&_nc_oc=Adr3ehWUDKZ62FwMbW3IESqmgv-GQ28yx4jPO1DwI90BugD5Z2AK59xti7omh5ESZ7k&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=4oO-kQlNfvgxx8flSKfo-w&_nc_ss=79289&oh=00_AQMfBENNK8Cd56hhVAUn4USEMIUnoSv4WDWrFYG2-6etxQ&oe=6AE632F5",
-            "video_url": null,
-            "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
-          }
-        ],
-        "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
-      },
-      {
-        "name": "Unidentified product",
-        "group_key": "unverified-1664287378325730",
-        "ad_count": 1,
-        "advertiser_count": 1,
-        "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
-        "ads": [
-          {
-            "ad_id": "1664287378325730",
-            "product_name": "Unidentified product",
-            "product_key": "unverified-1664287378325730",
-            "category": "other",
-            "advertiser": "Alibaba.com",
-            "source_country": "CA",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1664287378325730",
-            "landing_url": "https://m-sale.alibaba.com/p/24daily/1t_p/index.html?wx_navbar_transparent=true&path=%2Fp%2Fdxf44i7x5%2Findex.html&ncms_spm=a27aq.30023270&fbclid=fbclid",
-            "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/671582901_1429875148465351_5367356020669632742_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=m_EA_a5mc-kQ7kNvwG32_cr&_nc_oc=AdppYl11H3UaaXt2YR45tsXN_XkvSlb8PlaEippK0r0ykVMcDGAIDWr1lg4foUhoECU&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=4oO-kQlNfvgxx8flSKfo-w&_nc_ss=79289&oh=00_AQOCB_BAAaUDhK63VFX2DqgQ11BPQ1mOB9Hpa5yPL3vw4Q&oe=6AE66179",
-            "video_url": null,
-            "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
-          }
-        ],
-        "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
-      },
-      {
-        "name": "Unidentified product",
-        "group_key": "unverified-1485153393155218",
-        "ad_count": 1,
-        "advertiser_count": 1,
-        "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
-        "ads": [
-          {
-            "ad_id": "1485153393155218",
-            "product_name": "Unidentified product",
-            "product_key": "unverified-1485153393155218",
-            "category": "other",
-            "advertiser": "Alibaba.com",
-            "source_country": "CA",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1485153393155218",
-            "landing_url": "https://m-sale.alibaba.com/p/24daily/1t_p/index.html?wx_navbar_transparent=true&path=%2Fp%2Fdxf44i7x5%2Findex.html&ncms_spm=a27aq.30023270&fbclid=fbclid",
-            "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/580531579_1227896375843822_4319208071171648448_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dAofC8Z5ItwQ7kNvwFh_nSr&_nc_oc=AdqYmOMb1qNeMtNOpBvmVuonofvB5PCzkkE9SJTNHZtWkcPkaIkHrIKiNH2SK5FPwCU&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=4oO-kQlNfvgxx8flSKfo-w&_nc_ss=79289&oh=00_AQP1ZPxhlLmYbVfS-JBSxUGOzJtKuHbr728hjUAjXD9yUA&oe=6AE65600",
-            "video_url": null,
-            "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
-          }
-        ],
-        "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
-      },
-      {
-        "name": "Unidentified product",
-        "group_key": "unverified-2071385466977337",
-        "ad_count": 1,
-        "advertiser_count": 1,
-        "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
-        "ads": [
-          {
-            "ad_id": "2071385466977337",
-            "product_name": "Unidentified product",
-            "product_key": "unverified-2071385466977337",
-            "category": "other",
-            "advertiser": "Alibaba.com",
-            "source_country": "CA",
-            "ad_url": "https://www.facebook.com/ads/library/?id=2071385466977337",
-            "landing_url": "https://sale.alibaba.com/p/fy26_sp_prod/index.html?wx_navbar_transparent=true&path=%2Fp%2Fdc8q27ui5%2Findex.html&ncms_spm=a27aq.45299021a27aq&field=ggs",
-            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/648602505_3080694092318784_5182068453435293665_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JYxKRyA0ockQ7kNvwFhTAXK&_nc_oc=AdrjDex3ZCu4_WoUltZR4Lk68ijhOzA9eS0G8pP7kJZmt_vwSkKTXaiNygL8LgKWKP4&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=4oO-kQlNfvgxx8flSKfo-w&_nc_ss=79289&oh=00_AQPB2Lhg9zWrEnqNwnfw2x1VT5SoqfxavLuGsv2tuH6m7A&oe=6AE645D6",
-            "video_url": null,
-            "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
-          }
-        ],
-        "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
-      },
-      {
-        "name": "Unidentified product",
-        "group_key": "unverified-1044537391876760",
-        "ad_count": 1,
-        "advertiser_count": 1,
-        "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
-        "ads": [
-          {
-            "ad_id": "1044537391876760",
-            "product_name": "Unidentified product",
-            "product_key": "unverified-1044537391876760",
-            "category": "other",
-            "advertiser": "SHEIN HOME",
-            "source_country": "CA",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1044537391876760",
-            "landing_url": "https://m.shein.com/ca/ark/default?scene=1&test=5051&ad_type=DPA&url_from=adhub2048761922240987138&pf=Facebook&placement={{placement}}&site_source_name={{site_source_name}}",
-            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/681163151_1893346681338346_294341162248669379_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WmdkBouaWgEQ7kNvwF8TpSc&_nc_oc=AdozS3ycf1BwIqF3g0rARax5YyodXPv3m-Bfi-2bYBrzB2sdtrsa1wvqCApn39KBUBw&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=4oO-kQlNfvgxx8flSKfo-w&_nc_ss=79289&oh=00_AQMqTzN3lw_18VdfScjYMt4pB4M43uKDYqzRTQwTTTKfZA&oe=6AE654D3",
-            "video_url": null,
-            "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
-          }
-        ],
-        "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
-      },
-      {
-        "name": "Unidentified product",
-        "group_key": "unverified-1986166835632317",
-        "ad_count": 1,
-        "advertiser_count": 1,
-        "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
-        "ads": [
-          {
-            "ad_id": "1986166835632317",
-            "product_name": "Unidentified product",
-            "product_key": "unverified-1986166835632317",
-            "category": "other",
-            "advertiser": "Alibaba.com",
-            "source_country": "CA",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1986166835632317",
-            "landing_url": "https://sale.alibaba.com/p/fy26_sp_prod/index.html?wx_navbar_transparent=true&path=/p/dc8q27ui5/index.html&ncms_spm=a27aq.45299021a27aq&field=ggs",
-            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/645626648_1450822809851299_3372262060499202680_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XeajW-2ytsYQ7kNvwGxoZ4-&_nc_oc=Adp_PXXpJmHoBJiBt2OyyZVisxXiEHqTJ8Vr0S0wOPIS-1YbePvrswkFGoGrGFCReiI&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=4oO-kQlNfvgxx8flSKfo-w&_nc_ss=79289&oh=00_AQM_N7F6G1BziY6PpVf4RYAe7hW-POumr8iUgzfV_8zLoQ&oe=6AE65064",
-            "video_url": null,
-            "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
-          }
-        ],
-        "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
-      },
-      {
-        "name": "Unidentified product",
-        "group_key": "unverified-4487455611465961",
-        "ad_count": 1,
-        "advertiser_count": 1,
-        "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
-        "ads": [
-          {
-            "ad_id": "4487455611465961",
-            "product_name": "Unidentified product",
-            "product_key": "unverified-4487455611465961",
-            "category": "other",
-            "advertiser": "SHEIN HOME",
-            "source_country": "CA",
-            "ad_url": "https://www.facebook.com/ads/library/?id=4487455611465961",
-            "landing_url": "https://m.shein.com/ca/ark/default?scene=1&test=5051&ad_type=DPA&url_from=adhub2102287728686436353&pf=Facebook&placement={{placement}}&site_source_name={{site_source_name}}",
-            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/818910633_1044904645049781_386225905761919765_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bBKXrf2zLtsQ7kNvwHa3emk&_nc_oc=AdohBgV65DV5Rs-vnWh7L2Tv3zewItq3PW4c0AkBooKRdETUt0e3fRzVZL6CzapUnNo&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=4oO-kQlNfvgxx8flSKfo-w&_nc_ss=79289&oh=00_AQM4ngSPrk0bfKoOGZVtwTBaCAsX6YM3fZnlO7RRvGYE9Q&oe=6AE665CA",
-            "video_url": null,
-            "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
-          }
-        ],
-        "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
-      },
-      {
         "name": "Upgrade Your Ride with BEVINSEE! 🚗",
         "group_key": "unverified-2078776719716743",
         "ad_count": 1,
         "advertiser_count": 1,
         "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
         "ads": [
           {
             "ad_id": "2078776719716743",
@@ -1232,7 +1246,7 @@
             "image_url": null,
             "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMn_UQm5BjqO7mly_Ize7N2PKB9xTh_1ZBtp1zmWNbvBQCjryCNZqHdjld7QDFmmOziXs3NxhUSLPtI17HZwuJqbHHF9MuCpQzuYvxTOoLbkA.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=rGdUSjlcXHwQ7kNvwG6Oy5H&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI3MzIxMDU3NDM4NDg2NTYsImFzc2V0X2FnZV9kYXlzIjoyNzQsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo1MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=c59091dec658fb85&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DQzRBOTg5QThEMEI2NjRFODBCQzA3REI1Q0M4MzI4Q19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0RDNDkyN0NDQTYyQkE1NDZGRUEyQTI3RTFDOUE2MTg2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACag086FvrXaCRUCKAJDMywXQEj3bItDlYEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=UhMXZZzjgRKuOMxVgBvyaw&_nc_ss=79289&_nc_zt=28&oh=00_AQPXoJp7dtiqQ_uMy6P0oUWYpEbcjBMzKf1XmRiEZrdakg&oe=6AE63508",
             "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
           }
         ],
         "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
@@ -1243,7 +1257,7 @@
         "ad_count": 1,
         "advertiser_count": 1,
         "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
         "ads": [
           {
             "ad_id": "3789714428001398",
@@ -1257,7 +1271,7 @@
             "image_url": null,
             "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m86/AQMgfOPPtxVe8-nJ6ijBGczZrT6IpKe72q1K7x40m49pQJplRZNmZbHlLDI4v_Q8oostX715QtMY6MPe9aOUb2W_X4MWJHYGY22y6Uc.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=Xb5fyePygckQ7kNvwG9BRSl&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTI4MC5kYXNoX2Jhc2VsaW5lXzFfdjEiLCJ4cHZfYXNzZXRfaWQiOjEyMzMzMDM3Mzg3MjQyMzIsImFzc2V0X2FnZV9kYXlzIjoyODcsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjozNDksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=198a29359412e6e2&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9EMzQ4NzUyNzA2OEM2Q0U0NDM1M0M3QTgxMjA3RDRCOV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYR2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8xMTc5MzE0ODQ0MzQ4Mzg1XzI5NDY4NDkzNDQ4NzM0NjUzNjEubXA0FQICyAESACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJpC--fPc67AEFQIoAkMzLBdAdd4UeuFHrhgSZGFzaF9iYXNlbGluZV8xX3YxEQB1AGXmnQEA&_nc_gid=UhMXZZzjgRKuOMxVgBvyaw&_nc_ss=79289&_nc_zt=28&oh=00_AQPouNAaGxnbpHX_YLU8GiLlJ6io9NitFTCtzkvw3pxUiw&oe=6AE25D51",
             "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
           }
         ],
         "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
@@ -1268,7 +1282,7 @@
         "ad_count": 1,
         "advertiser_count": 1,
         "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
         "ads": [
           {
             "ad_id": "1140982527844588",
@@ -1282,7 +1296,7 @@
             "image_url": null,
             "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNgZua1c8ddCwHcpGFdZI_4cxmrkoqGLTLPk2RYhdcLAJotyvIysae6G-32Z9cJi4pWxIRDlPMkSNiHeIaScv8sCrPGm-_wamDoY5SVt9rS-A.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=THqyx3zJFCQQ7kNvwGjUwbr&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE4Nzc4OTY3MTMwNDEwMDQsImFzc2V0X2FnZV9kYXlzIjo1NTQsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=dcb292db8aa3903&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85NjQ2Rjc3MDk2Q0Y2MERENjZBNTMxNzJDRDFBQjM4NF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dPSHpTeDFxU2tCVjIyNENBS29scUF2MXJIb1RidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbY0Yvo_PvVBhUCKAJDMywXQDzdsi0OVgQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=j1BjnTQRctYRwX0x3Utb8g&_nc_ss=79289&_nc_zt=28&oh=00_AQPSzvFCMuBRIG10MIeZvi3dzbineFqIWCZyxC8bR7QWmg&oe=6AE63421",
             "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
           }
         ],
         "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
@@ -1293,7 +1307,7 @@
         "ad_count": 1,
         "advertiser_count": 1,
         "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
         "ads": [
           {
             "ad_id": "1227960612728390",
@@ -1307,7 +1321,7 @@
             "image_url": null,
             "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNgZua1c8ddCwHcpGFdZI_4cxmrkoqGLTLPk2RYhdcLAJotyvIysae6G-32Z9cJi4pWxIRDlPMkSNiHeIaScv8sCrPGm-_wamDoY5SVt9rS-A.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=THqyx3zJFCQQ7kNvwGjUwbr&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE4Nzc4OTY3MTMwNDEwMDQsImFzc2V0X2FnZV9kYXlzIjo1NTQsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=dcb292db8aa3903&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85NjQ2Rjc3MDk2Q0Y2MERENjZBNTMxNzJDRDFBQjM4NF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dPSHpTeDFxU2tCVjIyNENBS29scUF2MXJIb1RidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbY0Yvo_PvVBhUCKAJDMywXQDzdsi0OVgQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=j1BjnTQRctYRwX0x3Utb8g&_nc_ss=79289&_nc_zt=28&oh=00_AQPSzvFCMuBRIG10MIeZvi3dzbineFqIWCZyxC8bR7QWmg&oe=6AE63421",
             "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
           }
         ],
         "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
@@ -1318,7 +1332,7 @@
         "ad_count": 1,
         "advertiser_count": 1,
         "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
         "ads": [
           {
             "ad_id": "2651266715258894",
@@ -1332,7 +1346,7 @@
             "image_url": null,
             "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNgZua1c8ddCwHcpGFdZI_4cxmrkoqGLTLPk2RYhdcLAJotyvIysae6G-32Z9cJi4pWxIRDlPMkSNiHeIaScv8sCrPGm-_wamDoY5SVt9rS-A.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=THqyx3zJFCQQ7kNvwGjUwbr&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE4Nzc4OTY3MTMwNDEwMDQsImFzc2V0X2FnZV9kYXlzIjo1NTQsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=dcb292db8aa3903&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85NjQ2Rjc3MDk2Q0Y2MERENjZBNTMxNzJDRDFBQjM4NF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dPSHpTeDFxU2tCVjIyNENBS29scUF2MXJIb1RidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbY0Yvo_PvVBhUCKAJDMywXQDzdsi0OVgQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=j1BjnTQRctYRwX0x3Utb8g&_nc_ss=79289&_nc_zt=28&oh=00_AQPSzvFCMuBRIG10MIeZvi3dzbineFqIWCZyxC8bR7QWmg&oe=6AE63421",
             "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
           }
         ],
         "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
@@ -1343,7 +1357,7 @@
         "ad_count": 1,
         "advertiser_count": 1,
         "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
         "ads": [
           {
             "ad_id": "1539796003919986",
@@ -1357,7 +1371,7 @@
             "image_url": null,
             "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNgZua1c8ddCwHcpGFdZI_4cxmrkoqGLTLPk2RYhdcLAJotyvIysae6G-32Z9cJi4pWxIRDlPMkSNiHeIaScv8sCrPGm-_wamDoY5SVt9rS-A.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=THqyx3zJFCQQ7kNvwGjUwbr&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE4Nzc4OTY3MTMwNDEwMDQsImFzc2V0X2FnZV9kYXlzIjo1NTQsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=dcb292db8aa3903&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85NjQ2Rjc3MDk2Q0Y2MERENjZBNTMxNzJDRDFBQjM4NF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dPSHpTeDFxU2tCVjIyNENBS29scUF2MXJIb1RidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbY0Yvo_PvVBhUCKAJDMywXQDzdsi0OVgQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=j1BjnTQRctYRwX0x3Utb8g&_nc_ss=79289&_nc_zt=28&oh=00_AQPSzvFCMuBRIG10MIeZvi3dzbineFqIWCZyxC8bR7QWmg&oe=6AE63421",
             "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
           }
         ],
         "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
@@ -1368,7 +1382,7 @@
         "ad_count": 1,
         "advertiser_count": 1,
         "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
         "ads": [
           {
             "ad_id": "2957107811146131",
@@ -1382,7 +1396,7 @@
             "image_url": null,
             "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNgZua1c8ddCwHcpGFdZI_4cxmrkoqGLTLPk2RYhdcLAJotyvIysae6G-32Z9cJi4pWxIRDlPMkSNiHeIaScv8sCrPGm-_wamDoY5SVt9rS-A.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=THqyx3zJFCQQ7kNvwGjUwbr&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE4Nzc4OTY3MTMwNDEwMDQsImFzc2V0X2FnZV9kYXlzIjo1NTQsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=dcb292db8aa3903&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85NjQ2Rjc3MDk2Q0Y2MERENjZBNTMxNzJDRDFBQjM4NF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dPSHpTeDFxU2tCVjIyNENBS29scUF2MXJIb1RidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbY0Yvo_PvVBhUCKAJDMywXQDzdsi0OVgQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=j1BjnTQRctYRwX0x3Utb8g&_nc_ss=79289&_nc_zt=28&oh=00_AQPSzvFCMuBRIG10MIeZvi3dzbineFqIWCZyxC8bR7QWmg&oe=6AE63421",
             "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
           }
         ],
         "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
@@ -1393,7 +1407,7 @@
         "ad_count": 1,
         "advertiser_count": 1,
         "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
         "ads": [
           {
             "ad_id": "2075705556584125",
@@ -1407,7 +1421,7 @@
             "image_url": null,
             "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPmCGYAL_bsHd-6KdW2J5oAg68lWvC_1mnVoy-q8f1y9Mak6GY191ygB6TpG6qCA3TkcCaPtjCF4PiZaid5E9hnSKfNhwzMsEdwwmsNl2Ie1A.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=vtLtVCmULvMQ7kNvwGer0zr&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjQxMDE0NTA2MzM0NDEzODAsImFzc2V0X2FnZV9kYXlzIjoyOTQsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxMiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=7a1baa7721c9b34e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zNDRCQkExRkUxMzIwRUU3RUQ4NTM2QUEwOUJFQTJCNF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzVCNDg2OEEyOUIxMEREREJBOThDQzhCMUQwQUNBNkFDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbIwY_B7I_JDhUCKAJDMywXQClmZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=UhMXZZzjgRKuOMxVgBvyaw&_nc_ss=79289&_nc_zt=28&oh=00_AQP1QCB-1jY7cMP980ZzObFBjbXZnNTKfYjP92xl90TsrQ&oe=6AE650DA",
             "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
           }
         ],
         "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
@@ -1418,7 +1432,7 @@
         "ad_count": 1,
         "advertiser_count": 1,
         "country_count": 1,
-        "last_seen": "2026-10-27T10:24:46.893575+00:00",
+        "last_seen": "2026-10-27T10:38:22.391948+00:00",
         "ads": [
           {
             "ad_id": "2773652896175093",
@@ -1432,7 +1446,7 @@
             "image_url": null,
             "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMc5GahKCI3nSkrp1wHQlbEwMOvO1R84uGiA9HExM33H8eOjMtX2Jt1JyM5b4jyMYUI5AMKhjNLXwLgscauAbqRdVLhQd1ak5kH8uITpV3sEQ.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=Hc7SuS9IRmsQ7kNvwGSIPR2&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE4NjMwODE0ODExMjAzNTMsImFzc2V0X2FnZV9kYXlzIjo1NzAsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=251fa15cca36a144&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CQzQ3REMyRDZFNEFGODFFRkZBREZCNzNFQjU5MjU5QV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dOM2pFeDNPN280MXQ3Z0RBRF9XdGk0SDJmRXFidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbCqfXdzp3PBhUCKAJDMywXQECMzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=j1BjnTQRctYRwX0x3Utb8g&_nc_ss=79289&_nc_zt=28&oh=00_AQNH0Ii1ytZ33IO_3VGm4psVb39wRPRzw-1VwkcjlKTxtw&oe=6AE63A3B",
             "first_seen": "2026-10-27T10:22:20.748397+00:00",
-            "last_seen": "2026-10-27T10:24:46.893575+00:00"
+            "last_seen": "2026-10-27T10:38:22.391948+00:00"
           }
         ],
         "grouping_notice": "Approximate name-based grouping; product identity not independently verified"
