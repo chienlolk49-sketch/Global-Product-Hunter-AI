@@ -49,6 +49,16 @@ CATEGORIES = {
 }
 MAX_STORED_ADS = 1000
 WINDOW_DAYS = 35
+PLACEHOLDER_RE = re.compile(r"(\{\{|\}\}|product\.name|^shop now$|^buy now$|^learn more$)", re.I)
+
+def classify_name(name):
+    """Assign a niche only from product-name evidence, never the query alone."""
+    cleaned = identity(name)
+    for category, terms in CATEGORIES.items():
+        if any(re.search(r"(?<!\\w)" + re.escape(term) + r"(?!\\w)", cleaned, re.I) for term in terms):
+            return category
+    return "other"
+
 
 def load(path, default):
     try:
@@ -116,15 +126,17 @@ def main():
             video = next((v.get("video_hd_url") or v.get("video_sd_url") for v in (a.get("videos") or []) if isinstance(v, dict)), None)
             # Group by exact normalized product-oriented ad title where present.
             # Heuristic, not a verified SKU or proof that differently named ads match.
-            product_name = title if len(identity(title)) >= 10 else textval(a.get("link_description"))
-            if len(identity(product_name)) < 10:
+            product_name = title if len(identity(title)) >= 10 and not PLACEHOLDER_RE.search(title) else textval(a.get("link_description"))
+            if len(identity(product_name)) < 10 or PLACEHOLDER_RE.search(product_name):
                 product_name = (body.split("\n")[0] if body else "")[:100]
+            if len(identity(product_name)) < 10 or PLACEHOLDER_RE.search(product_name):
+                product_name = "Unidentified product"
+            category = classify_name(product_name)
             key = identity(product_name)
-            if len(key) < 10:
-                key = f"unknown-{aid}"  # do not incorrectly merge unlike products
-                product_name = title or "Unidentified product"
-            phrase = words.lower()
-            category = next((k for k, terms in CATEGORIES.items() if any(t in phrase for t in terms)), term_category)
+            # Generic ad copy and placeholder names are NOT reliable SKU identities.
+            # Do not merge unrelated advertisers merely for matching slogans.
+            if category == "other" or product_name == "Unidentified product":
+                key = f"unverified-{aid}"
             record = {
                 "ad_id": aid, "product_name": product_name[:150], "product_key": key,
                 "category": category, "advertiser": page_name, "source_country": country,
@@ -141,6 +153,15 @@ def main():
               and not PET_RE.search(textval(a.get("product_name")))]
     recent.sort(key=lambda a: a.get("last_seen", ""), reverse=True)
     recent = recent[:MAX_STORED_ADS]
+    # Correct legacy pilot rows from the first run before producing rankings.
+    for ad in recent:
+        name = textval(ad.get("product_name"))
+        if PLACEHOLDER_RE.search(name):
+            name = "Unidentified product"
+            ad["product_name"] = name
+        ad["category"] = classify_name(name)
+        if ad["category"] == "other":
+            ad["product_key"] = f"unverified-{ad['ad_id']}"
     group_map = defaultdict(list)
     for ad in recent:
         group_map[(ad["category"], ad["product_key"])].append(ad)
