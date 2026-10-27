@@ -1,0 +1,61 @@
+name: Cloud Hunter pilot (Meta public ads)
+on:
+  workflow_dispatch:
+  schedule:
+    # Schedules run ONLY from the default branch, and can be delayed or dropped.
+    - cron: "17 0,6,12,18 * * *"
+  push:
+    branches:
+      - feature/cloud-hunter-pilot
+    paths:
+      - ".github/workflows/cloud-hunter.yml"
+      - "cloud_hunter/scan.py"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: cloud-hunter-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - name: Checkout the branch (including stored datasets)
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install upstream scraper
+        run: |
+          git clone --depth 1 https://github.com/SaldanhaC3/sonda-imperial.git /tmp/sonda-imperial
+          python -m pip install "playwright>=1.44" "rich>=13.0"
+          python -m playwright install --with-deps chromium
+      - name: Scan a bounded sample of Meta public ads
+        id: scan
+        continue-on-error: true
+        env:
+          PYTHONPATH: /tmp/sonda-imperial
+        run: python cloud_hunter/scan.py
+      - name: Save real results and diagnostic status
+        if: always()
+        run: |
+          if test -f cloud_hunter/data/status.json; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add cloud_hunter/data/
+            if ! git diff --cached --quiet; then
+              git commit -m "data: update cloud hunter results and run status"
+              git push
+            fi
+          else
+            echo "No status JSON; scan may have failed before data creation."
+          fi
+      - name: Mark unsuccessful collection as a failed run
+        if: steps.scan.outcome != 'success'
+        run: exit 1
