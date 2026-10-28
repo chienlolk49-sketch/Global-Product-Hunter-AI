@@ -1,35 +1,38 @@
 {
-  "timestamp_utc": "2026-10-27T10:38:22.391948+00:00",
+  "timestamp_utc": "2026-10-28T03:27:59.073815+00:00",
   "attempts": [
     {
-      "country": "CA",
-      "keyword": "fitness accessory",
-      "category": "sport",
-      "found": 15
+      "country": "FR",
+      "keyword": "makeup tools",
+      "category": "beauty",
+      "found": 30
     },
     {
-      "country": "CA",
-      "keyword": "car accessories",
-      "category": "auto",
-      "found": 15
+      "country": "BE",
+      "keyword": "neck massager",
+      "category": "wellness",
+      "found": 29
     },
     {
-      "country": "CA",
-      "keyword": "travel organizer",
-      "category": "travel",
-      "found": 15
+      "country": "RO",
+      "keyword": "posture support",
+      "category": "wellness",
+      "found": 30
     },
     {
-      "country": "CA",
-      "keyword": "garden tools",
-      "category": "garden",
-      "found": 15
+      "country": "KE",
+      "keyword": "massage device",
+      "category": "wellness",
+      "found": 30
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 1,
-  "total_unique_ads": 59,
+  "new_ads": 0,
+  "unique_active_ads_observed_last_48h": 96,
+  "qualifying_products": 0,
+  "groups_below_threshold_or_unverified": 86,
+  "threshold_min_unique_active_ad_ids": 21,
   "state": "ok",
-  "limitations": "A bounded keyword sample, NOT all Meta ads or verified product sales/views"
+  "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
 }
