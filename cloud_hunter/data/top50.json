@@ -1,19 +1,20 @@
 {
-  "updated_at": "2026-10-28T03:25:05.832855+00:00",
+  "updated_at": "2026-10-28T03:26:23.785886+00:00",
   "minimum_active_ads": 21,
   "active_window_hours": 48,
   "categories": {
     "beauty": [],
-    "health": [],
+    "wellness": [],
     "home": [],
     "kitchen": [],
     "electronics": [],
     "fashion": [],
     "baby": [],
     "sport": [],
-    "auto": [],
+    "vehicle": [],
     "travel": [],
     "garden": [],
+    "toys": [],
     "office": [],
     "food": [],
     "other": []
