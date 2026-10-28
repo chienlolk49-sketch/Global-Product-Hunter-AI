@@ -8,6 +8,7 @@ from __future__ import annotations
 import json
 import re
 import sys
+import time
 from collections import defaultdict
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -66,12 +67,15 @@ CATEGORIES = {
     "office": ("desk", "office", "stationery", "notebook"),
     "food": ("coffee", "snack", "tea", "food", "drinks"),
 }
-MAX_STORED_ADS = 3000
+MAX_STORED_ADS = 12000
 WINDOW_DAYS = 35
 ACTIVE_WINDOW_HOURS = 48
 MIN_ACTIVE_ADS = 21  # strictly more than 20 distinct active-query ad IDs
 SCAN_INTERVAL_MINUTES = 15
-MAX_RESULTS_PER_QUERY = 30
+MAX_RESULTS_PER_QUERY = 180
+MAX_QUERIES_PER_RUN = 12
+SCAN_BUDGET_SECONDS = 440
+TARGET_PER_CATEGORY = 50
 PLACEHOLDER_RE = re.compile(r"(\{\{|\}\}|product\.name|^shop now$|^buy now$|^learn more$)", re.I)
 
 def classify_name(name):
@@ -131,7 +135,7 @@ def product_identity(ad):
         return "unverified:"+aid, "Unidentified product", "other"
     category = "other"
     for cname, phrases in CATEGORIES.items():
-        if any(re.search(r"(?<!\\w)"+re.escape(t)+r"(?!\\w)",label,re.I) for t in phrases):
+        if any(re.search(r"(?<!\w)"+re.escape(t)+r"(?!\w)",label,re.I) for t in phrases):
             category = cname
             break
     tokens = [x for x in identity(slug).split() if len(x)>=3 and x not in GENERIC_TERMS]
@@ -152,28 +156,40 @@ def product_identity(ad):
 def main():
     old = load(STORE / "ads.json", {"ads": []}).get("ads", [])
     by_id = {str(a["ad_id"]): a for a in old if isinstance(a, dict) and a.get("ad_id")}
-    cycle = int(NOW.timestamp()) // (SCAN_INTERVAL_MINUTES * 60)
+    progress=load(STORE / "scan_progress.json", {"cursor":0,"total_queries_attempted":0})
+    cursor=max(0,int(progress.get("cursor",0)))
+    started=time.monotonic()
     attempted = []
     successes = 0
     new_count = 0
     # Cover all countries over many runs; only 4 bounded searches per run.
     from fb_ads_scraper.scraper import AdLibraryScraper
     from fb_ads_scraper.parser import parse_ad
-    for offset in range(4):
-        term_category, term = SEARCH_TERMS[(cycle * 4 + offset) % len(SEARCH_TERMS)]
-        country = COUNTRIES[(cycle * 3 + offset * 11) % len(COUNTRIES)]
+    for offset in range(MAX_QUERIES_PER_RUN):
+        if time.monotonic()-started > SCAN_BUDGET_SECONDS:
+            break
+        category_order=tuple(CATEGORIES)
+        cat_index=cursor % len(category_order)
+        term_category=category_order[cat_index]
+        terms=[word for niche,word in SEARCH_TERMS if niche==term_category]
+        rotation=cursor//len(category_order)
+        term=terms[rotation % len(terms)]
+        country=COUNTRIES[(rotation*7 + cat_index*13) % len(COUNTRIES)]
+        cursor+=1
         assert country not in EXCLUDED_COUNTRIES
         url = ("https://www.facebook.com/ads/library/?active_status=active&ad_type=all"
                f"&country={country}&q={quote(term)}&search_type=keyword_unordered&media_type=all")
         check = {"country": country, "keyword": term, "category": term_category}
         attempted.append(check)
         try:
-            scraper = AdLibraryScraper(url=url, max_results=MAX_RESULTS_PER_QUERY, headful=False, timeout=65)
+            scraper = AdLibraryScraper(url=url, max_results=MAX_RESULTS_PER_QUERY, headful=False, timeout=55)
             ads = scraper.run()
             check["found"] = len(ads)
             successes += 1
         except Exception as exc:
             check["error"] = (type(exc).__name__ + ": " + str(exc))[:350]
+            if any(word in check["error"].lower() for word in ("captcha","checkpoint","rate limit","http 429","login/verifica")):
+                break
             continue
         for a in ads:
             # Search is explicitly active_status=active; reject explicitly inactive hits.
@@ -276,9 +292,16 @@ def main():
         "qualifying_products":sum(len(x) for x in rankings.values()),
         "groups_below_threshold_or_unverified":pending_count,
         "threshold_min_unique_active_ad_ids":MIN_ACTIVE_ADS,
-        "state":"ok" if successes else "scrape_failed",
+        "state":"goal_reached" if all(len(v)>=TARGET_PER_CATEGORY for k,v in rankings.items() if k!="other") else ("progress_incomplete" if successes else "scrape_failed"),
+        "goal_completed":all(len(v)>=TARGET_PER_CATEGORY for k,v in rankings.items() if k!="other"),
+        "category_qualified_counts":{k:len(v) for k,v in rankings.items() if k!="other"},
+        "unfinished_categories":{k:TARGET_PER_CATEGORY-len(v) for k,v in rankings.items() if k!="other" and len(v)<TARGET_PER_CATEGORY},
+        "total_queries_attempted_to_date":int(progress.get("total_queries_attempted",0))+len(attempted),
         "limitations":"Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
     }
+    save(STORE / "scan_progress.json",{
+        "cursor":cursor,"total_queries_attempted":status["total_queries_attempted_to_date"],
+        "last_run_at":NOW.isoformat(),"unfinished_categories":status["unfinished_categories"]})
     save(STORE / "ads.json", {"updated_at": NOW.isoformat(), "ads": recent})
     save(STORE / "top50.json", {"updated_at": NOW.isoformat(), "minimum_active_ads": MIN_ACTIVE_ADS,
                                 "active_window_hours": ACTIVE_WINDOW_HOURS, "categories": rankings})
