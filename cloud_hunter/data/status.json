@@ -1,11 +1,11 @@
 {
-  "timestamp_utc": "2026-10-28T07:59:16.590800+00:00",
+  "timestamp_utc": "2026-10-28T08:04:03.849060+00:00",
   "attempts": [
     {
       "country": "US",
       "keyword": "hair serum",
       "category": "beauty",
-      "found": 30
+      "found": 0
     },
     {
       "country": "NL",
@@ -29,19 +29,19 @@
       "country": "KZ",
       "keyword": "phone accessory",
       "category": "electronics",
-      "found": 29
+      "found": 0
     },
     {
       "country": "DE",
       "keyword": "crossbody bag",
       "category": "fashion",
-      "found": 30
+      "found": 0
     },
     {
       "country": "AT",
       "keyword": "baby care",
       "category": "baby",
-      "found": 30
+      "found": 0
     },
     {
       "country": "NZ",
@@ -76,10 +76,10 @@
   ],
   "searches_succeeded": 12,
   "searches_attempted": 12,
-  "new_ads": 234,
-  "unique_active_ads_observed_last_48h": 841,
+  "new_ads": 155,
+  "unique_active_ads_observed_last_48h": 762,
   "qualifying_products": 1,
-  "groups_below_threshold_or_unverified": 713,
+  "groups_below_threshold_or_unverified": 639,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "progress_incomplete",
   "goal_completed": false,

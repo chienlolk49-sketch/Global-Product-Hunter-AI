@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T07:59:16.590800+00:00",
+  "updated_at": "2026-10-28T08:04:03.849060+00:00",
   "minimum_active_ads": 21,
   "active_window_hours": 48,
   "categories": {
@@ -15,7 +15,7 @@
           "AE",
           "BR"
         ],
-        "last_active_observation": "2026-10-28T07:59:16.590800+00:00",
+        "last_active_observation": "2026-10-28T08:04:03.849060+00:00",
         "ads": [
           {
             "ad_id": "2958403441180827",
@@ -26,11 +26,11 @@
             "source_country": "AE",
             "ad_url": "https://www.facebook.com/ads/library/?id=2958403441180827",
             "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
-            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/787406195_1402149615397582_5463985773329166344_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CG1SsU_p8HIQ7kNvwHMjg6J&_nc_oc=Adqvs5z4rh_rIT4Hb0I4lxDM-mALP_6HF0hpyJe4-12yW7ZGHNj03OikkHVbsf5VnuY&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=_2mUovrB6kMf04_brybH8w&_nc_ss=79289&oh=00_AQRaFV-tgMIRfYJ2VU052Lga8aJt2Bo4aSx2yOZbRyg7XQ&oe=6AE76C9C",
+            "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/787406195_1402149615397582_5463985773329166344_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CG1SsU_p8HIQ7kNvwEWYWD4&_nc_oc=AdrOPEPypvglqGfe4tyzFQM-hjZGsYhmn0lNc-HVoTRWJ1Mo5xdPjHneTobi41FAQ9Q&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=kQ3K6NxFSj9Gvz0ePerx-A&_nc_ss=79289&oh=00_AQTn7imGG4FOf2WqQhDCVk3GMilMkXAj3WPpL12917rbHw&oe=6AE76C9C",
             "video_url": null,
-            "first_seen": "2026-10-28T07:59:16.590800+00:00",
-            "last_seen": "2026-10-28T07:59:16.590800+00:00",
-            "active_checked_at": "2026-10-28T07:59:16.590800+00:00",
+            "first_seen": "2026-10-28T08:04:03.849060+00:00",
+            "last_seen": "2026-10-28T08:04:03.849060+00:00",
+            "active_checked_at": "2026-10-28T08:04:03.849060+00:00",
             "is_active_observed": true,
             "source_countries": [
               "AE"
@@ -45,11 +45,11 @@
             "source_country": "AE",
             "ad_url": "https://www.facebook.com/ads/library/?id=1011070308628776",
             "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
-            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/786928189_1060802603508481_3828372478266990237_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GadmRjqVWtkQ7kNvwGA8dpj&_nc_oc=Adp8Jf79H9-yH72UQ0Iz9b5B1PyRmdFy4g-i_CqFdS59cuHfVEKMk1nt8wHDYwx6XYw&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=_2mUovrB6kMf04_brybH8w&_nc_ss=79289&oh=00_AQQslu5VEdxQiWT0x2nctp_xax4OHiTIPg2h2S1vuPWICQ&oe=6AE76AA0",
+            "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/786928189_1060802603508481_3828372478266990237_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GadmRjqVWtkQ7kNvwGWq0AI&_nc_oc=Adqf7CrYna_zeaEyK2d6LBlVpXW-KapikJAURP6xnn_R5zNhwGImNc_T696ZQb-qGYs&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=kQ3K6NxFSj9Gvz0ePerx-A&_nc_ss=79289&oh=00_AQRv1cF0Qw7gVBHdqeZTER5r-BctwVpK1m735zbY8EwSVw&oe=6AE76AA0",
             "video_url": null,
-            "first_seen": "2026-10-28T07:59:16.590800+00:00",
-            "last_seen": "2026-10-28T07:59:16.590800+00:00",
-            "active_checked_at": "2026-10-28T07:59:16.590800+00:00",
+            "first_seen": "2026-10-28T08:04:03.849060+00:00",
+            "last_seen": "2026-10-28T08:04:03.849060+00:00",
+            "active_checked_at": "2026-10-28T08:04:03.849060+00:00",
             "is_active_observed": true,
             "source_countries": [
               "AE"
@@ -64,11 +64,11 @@
             "source_country": "AE",
             "ad_url": "https://www.facebook.com/ads/library/?id=1616899620058987",
             "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
-            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/821420200_1516102077212390_7874218292505720673_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kuhe728eRGoQ7kNvwFlbRBu&_nc_oc=AdpyuWXWedLY-LnzmBVVZtNiHG7Jamfa_uk7EIPoPUjKNA70NaaQgyxA6a3XtXCWvMg&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=_2mUovrB6kMf04_brybH8w&_nc_ss=79289&oh=00_AQT5W4NoLbD8xsBM0wOu7buyvhOKgHZDWcn7d9qyvovO3A&oe=6AE7872B",
+            "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/821420200_1516102077212390_7874218292505720673_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kuhe728eRGoQ7kNvwHYaKa1&_nc_oc=AdqR7ubfcPEy_7SsqV40nB1foI4uVr4sgNS_TSelDWzdd3xHITzXFbvhmz8EbF3QMyc&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=kQ3K6NxFSj9Gvz0ePerx-A&_nc_ss=79289&oh=00_AQQsVnKzSAhGaVYrmmBPf2zRLofJlnF8c7HZM5w1Vx5B4w&oe=6AE7872B",
             "video_url": null,
-            "first_seen": "2026-10-28T07:59:16.590800+00:00",
-            "last_seen": "2026-10-28T07:59:16.590800+00:00",
-            "active_checked_at": "2026-10-28T07:59:16.590800+00:00",
+            "first_seen": "2026-10-28T08:04:03.849060+00:00",
+            "last_seen": "2026-10-28T08:04:03.849060+00:00",
+            "active_checked_at": "2026-10-28T08:04:03.849060+00:00",
             "is_active_observed": true,
             "source_countries": [
               "AE"
@@ -83,11 +83,11 @@
             "source_country": "AE",
             "ad_url": "https://www.facebook.com/ads/library/?id=1696356968113358",
             "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
-            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/780422333_1949275839095068_1576923080516773826_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZQ53cCWYVU8Q7kNvwH-jbV7&_nc_oc=Adp6kYL-roA-wupvhE0hn2uK3_1wy5HclgM45Wi0YVfeJvXdoMdry8Suh6wIzKhGlLA&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=_2mUovrB6kMf04_brybH8w&_nc_ss=79289&oh=00_AQT7H1nIJFG3iQ1wopeKxbmgWRWFRASfmkgH3lLoCyZ74g&oe=6AE769DC",
+            "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/780422333_1949275839095068_1576923080516773826_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZQ53cCWYVU8Q7kNvwG5losV&_nc_oc=AdpC2Z_XhDoWNy09OQagXwyFyvTNt6zAwNpgLvit1ZvP41Q4VXobIhKOZtOIXlTWxMo&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=kQ3K6NxFSj9Gvz0ePerx-A&_nc_ss=79289&oh=00_AQTNK6Gm_ewu2nMSd1UsPHyJfmsMfo5vuFT1_i9S18Qe_w&oe=6AE769DC",
             "video_url": null,
-            "first_seen": "2026-10-28T07:59:16.590800+00:00",
-            "last_seen": "2026-10-28T07:59:16.590800+00:00",
-            "active_checked_at": "2026-10-28T07:59:16.590800+00:00",
+            "first_seen": "2026-10-28T08:04:03.849060+00:00",
+            "last_seen": "2026-10-28T08:04:03.849060+00:00",
+            "active_checked_at": "2026-10-28T08:04:03.849060+00:00",
             "is_active_observed": true,
             "source_countries": [
               "AE"
@@ -102,11 +102,11 @@
             "source_country": "AE",
             "ad_url": "https://www.facebook.com/ads/library/?id=1077246991687185",
             "landing_url": "https://track.tryrosabella.com/cdc16426-3e48-40a7-9fad-21098084f6cf",
-            "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/800085437_3107746672912491_9079909128641911915_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=I37xixtuPZAQ7kNvwH_sL4H&_nc_oc=AdrLCWMSclpIY8lq6BmPLAv4Nel_h22ZVZzlvBplJz3m9KfOVtS9mDP1CLqjXktQZ3w&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=_2mUovrB6kMf04_brybH8w&_nc_ss=79289&oh=00_AQRph-7ItoUmz8TCPpcWhfgRc62TOizaGiUZrKDxlm7I3g&oe=6AE7858C",
+            "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/800085437_3107746672912491_9079909128641911915_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=I37xixtuPZAQ7kNvwHyIm7C&_nc_oc=AdqmJ02ZVYRI6eyKid5qYzVJOKyZJHSk2F2eHRsBNJU_-Z69469PVeh_Xh8RnTIA7nw&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=kQ3K6NxFSj9Gvz0ePerx-A&_nc_ss=79289&oh=00_AQQKSZBqD02v-ftKBR2QKjoCi02PBw1sX-s2C9FmNvYBMw&oe=6AE7858C",
             "video_url": null,
-            "first_seen": "2026-10-28T07:59:16.590800+00:00",
-            "last_seen": "2026-10-28T07:59:16.590800+00:00",
-            "active_checked_at": "2026-10-28T07:59:16.590800+00:00",
+            "first_seen": "2026-10-28T08:04:03.849060+00:00",
+            "last_seen": "2026-10-28T08:04:03.849060+00:00",
+            "active_checked_at": "2026-10-28T08:04:03.849060+00:00",
             "is_active_observed": true,
             "source_countries": [
               "AE"
@@ -121,11 +121,11 @@
             "source_country": "AE",
             "ad_url": "https://www.facebook.com/ads/library/?id=2609476426156051",
             "landing_url": "https://track.tryrosabella.com/cdc16426-3e48-40a7-9fad-21098084f6cf",
-            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/809656483_1138140645375707_254433488580295893_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kZmYjs68bDEQ7kNvwEL_x3K&_nc_oc=Adq0O0KY82BzY_ovJwC1Km-JwpWsFtn2RQZxtl-2JfJkFD7wbaIZrMxgRZWB3AgIm5o&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=_2mUovrB6kMf04_brybH8w&_nc_ss=79289&oh=00_AQTjsGLOcjWj3UnU6jKFlep-SgA3PbeUBFWx0IyUaaeoPA&oe=6AE79A4E",
+            "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/809656483_1138140645375707_254433488580295893_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kZmYjs68bDEQ7kNvwFwajcT&_nc_oc=Adqo7Hnpb1BGWV4GJ7UNXcGQytbLfwXAOkPRK_83uBTWN_0xMkJ7xR3ulELwrwWUa9A&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=kQ3K6NxFSj9Gvz0ePerx-A&_nc_ss=79289&oh=00_AQRqEGn8bE0Zt2qh52Bmw4FrpF1MggqBxHrA1W-Oc9-z5Q&oe=6AE79A4E",
             "video_url": null,
-            "first_seen": "2026-10-28T07:59:16.590800+00:00",
-            "last_seen": "2026-10-28T07:59:16.590800+00:00",
-            "active_checked_at": "2026-10-28T07:59:16.590800+00:00",
+            "first_seen": "2026-10-28T08:04:03.849060+00:00",
+            "last_seen": "2026-10-28T08:04:03.849060+00:00",
+            "active_checked_at": "2026-10-28T08:04:03.849060+00:00",
             "is_active_observed": true,
             "source_countries": [
               "AE"
@@ -140,11 +140,11 @@
             "source_country": "AE",
             "ad_url": "https://www.facebook.com/ads/library/?id=1460244559343666",
             "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
-            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/819300754_1530283599113626_1659569745515960890_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7UMmLygNNz0Q7kNvwFM_YkJ&_nc_oc=AdrCqCV1QkWv-aiRogTVyH70lgHC4jTU1P5gEk6mrbbtRQy7y5PwRvT56MR_GNCUCvQ&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=_2mUovrB6kMf04_brybH8w&_nc_ss=79289&oh=00_AQQmBpivfn7eRahoiS3c_tClTCMCKsAae8vA6TwyovjNeQ&oe=6AE7893E",
+            "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/819300754_1530283599113626_1659569745515960890_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7UMmLygNNz0Q7kNvwGGekEQ&_nc_oc=AdpJdqQmhLPPK7DCd7WiQxspVdK1pkun7HZWa-DxongKuhCqJl4xtymkPUlxNN_ik6I&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=kQ3K6NxFSj9Gvz0ePerx-A&_nc_ss=79289&oh=00_AQTKNGKNKYbt88cZApWOTC37wDouTdCWOZaeiMpsX7naFA&oe=6AE7893E",
             "video_url": null,
-            "first_seen": "2026-10-28T07:59:16.590800+00:00",
-            "last_seen": "2026-10-28T07:59:16.590800+00:00",
-            "active_checked_at": "2026-10-28T07:59:16.590800+00:00",
+            "first_seen": "2026-10-28T08:04:03.849060+00:00",
+            "last_seen": "2026-10-28T08:04:03.849060+00:00",
+            "active_checked_at": "2026-10-28T08:04:03.849060+00:00",
             "is_active_observed": true,
             "source_countries": [
               "AE"
@@ -159,11 +159,11 @@
             "source_country": "AE",
             "ad_url": "https://www.facebook.com/ads/library/?id=2512384359247339",
             "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
-            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/786939331_1031442179478023_496869313072601486_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uzzLTw3qbHgQ7kNvwGc5MNJ&_nc_oc=AdqAeUFv4z9a44B4898Tb367g_5q1cXaMel8tQEQgVnxSsXzglmGUTQs9Yded9ojZYA&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=_2mUovrB6kMf04_brybH8w&_nc_ss=79289&oh=00_AQTasGIZH8OkcxHtavJQD826NMuIoWLT3luF8KW8OTzJJQ&oe=6AE772F7",
+            "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/786939331_1031442179478023_496869313072601486_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uzzLTw3qbHgQ7kNvwGlCmp1&_nc_oc=AdrfBPlYPiH5GPmI1rLE_5XVJKiyrW7MU6ycWi8FEr_Fh0m7D5bociLlLyxtr2uBYHE&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=kQ3K6NxFSj9Gvz0ePerx-A&_nc_ss=79289&oh=00_AQTxjaI9liJ3DtMIdrOq3yVQHHKNshLUfU7s6p4Okfi7gw&oe=6AE772F7",
             "video_url": null,
-            "first_seen": "2026-10-28T07:59:16.590800+00:00",
-            "last_seen": "2026-10-28T07:59:16.590800+00:00",
-            "active_checked_at": "2026-10-28T07:59:16.590800+00:00",
+            "first_seen": "2026-10-28T08:04:03.849060+00:00",
+            "last_seen": "2026-10-28T08:04:03.849060+00:00",
+            "active_checked_at": "2026-10-28T08:04:03.849060+00:00",
             "is_active_observed": true,
             "source_countries": [
               "AE"
@@ -178,11 +178,11 @@
             "source_country": "AE",
             "ad_url": "https://www.facebook.com/ads/library/?id=1410740231199418",
             "landing_url": "https://track.tryrosabella.com/cdc16426-3e48-40a7-9fad-21098084f6cf",
-            "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/795529336_2340428509695319_4463706628185543830_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=E8xjrYTwsdAQ7kNvwE80bpc&_nc_oc=Adqw-EGYwMMT_iiI8Bg1AFGdp8oUmUSrI5GKnpPTCed7OpGGNkSpHcKmu117nHMQSPg&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=_2mUovrB6kMf04_brybH8w&_nc_ss=79289&oh=00_AQSL_uuj_su5tu18wt4A2BBy_fJtdR94IqMh95i7pIcgnQ&oe=6AE7842F",
+            "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/795529336_2340428509695319_4463706628185543830_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=E8xjrYTwsdAQ7kNvwG5xVV3&_nc_oc=AdpwDfTkuF2yz0vKUm-LGhPggmeM5W0RlI6UU1XQGc7OW9UD0C0FvFJPDhQo-m0LQU0&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=kQ3K6NxFSj9Gvz0ePerx-A&_nc_ss=79289&oh=00_AQT0jjXZd3NsQZp_gb-qtLtwnHFSwOMZmrw1A6-aeaw7Sw&oe=6AE7842F",
             "video_url": null,
-            "first_seen": "2026-10-28T07:59:16.590800+00:00",
-            "last_seen": "2026-10-28T07:59:16.590800+00:00",
-            "active_checked_at": "2026-10-28T07:59:16.590800+00:00",
+            "first_seen": "2026-10-28T08:04:03.849060+00:00",
+            "last_seen": "2026-10-28T08:04:03.849060+00:00",
+            "active_checked_at": "2026-10-28T08:04:03.849060+00:00",
             "is_active_observed": true,
             "source_countries": [
               "AE"
@@ -197,11 +197,11 @@
             "source_country": "AE",
             "ad_url": "https://www.facebook.com/ads/library/?id=1411546294437760",
             "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
-            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/795583348_1630884708750089_758203878879954335_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=N6EzHJAlCwgQ7kNvwHdazJh&_nc_oc=AdqosZQlCnjNSH1j6Dcn5xhDsVjBAmuwqXAgDMNNyyNCa8bX7-eK-8EbY2pB8fByU3E&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=_2mUovrB6kMf04_brybH8w&_nc_ss=79289&oh=00_AQTjl33HjNgoVZj_fTTH0V4PMMGsSqV4JotnRm8Jicvc1g&oe=6AE78D4D",
+            "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/795583348_1630884708750089_758203878879954335_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=N6EzHJAlCwgQ7kNvwFW8nxn&_nc_oc=AdqFs4tzpE5p7z9MJkquQtW9trJlQ6NVta_4uuzY2xmJvcndTeDCLaQv1nXEJJxalX0&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=kQ3K6NxFSj9Gvz0ePerx-A&_nc_ss=79289&oh=00_AQTiucAarnrfK0QHv9EaLtUEzIDcC6oBYFCZASGcYKqj-g&oe=6AE78D4D",
             "video_url": null,
-            "first_seen": "2026-10-28T07:59:16.590800+00:00",
-            "last_seen": "2026-10-28T07:59:16.590800+00:00",
-            "active_checked_at": "2026-10-28T07:59:16.590800+00:00",
+            "first_seen": "2026-10-28T08:04:03.849060+00:00",
+            "last_seen": "2026-10-28T08:04:03.849060+00:00",
+            "active_checked_at": "2026-10-28T08:04:03.849060+00:00",
             "is_active_observed": true,
             "source_countries": [
               "AE"
@@ -216,11 +216,11 @@
             "source_country": "AE",
             "ad_url": "https://www.facebook.com/ads/library/?id=1549653883494892",
             "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
-            "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/820199044_1577076504194865_6169902599231962723_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JD_gow-X29sQ7kNvwEXDFjZ&_nc_oc=AdocRgrvNS6M4WRoghBuvL-QF5JuQ4gVsN2Tpmfer2E0SAKGn5gm_WIjW3WldAbVWIM&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=_2mUovrB6kMf04_brybH8w&_nc_ss=79289&oh=00_AQS-utzFO0L_cRBpvNRp35vjWYJAHfJjaKvWs_1qrRpyUA&oe=6AE794E5",
+            "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/820199044_1577076504194865_6169902599231962723_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JD_gow-X29sQ7kNvwGLxhDo&_nc_oc=AdpKR8jHCBjiEwSSiTD1O6FKxjauufkSkxeN444_dVVH4NuXPgOK5yNOiEVypBHhDzk&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=kQ3K6NxFSj9Gvz0ePerx-A&_nc_ss=79289&oh=00_AQQz4EwMcO3UggxOISs2VSyAYYkX3Y3rz9QafDj0EeG9Eg&oe=6AE794E5",
             "video_url": null,
-            "first_seen": "2026-10-28T07:59:16.590800+00:00",
-            "last_seen": "2026-10-28T07:59:16.590800+00:00",
-            "active_checked_at": "2026-10-28T07:59:16.590800+00:00",
+            "first_seen": "2026-10-28T08:04:03.849060+00:00",
+            "last_seen": "2026-10-28T08:04:03.849060+00:00",
+            "active_checked_at": "2026-10-28T08:04:03.849060+00:00",
             "is_active_observed": true,
             "source_countries": [
               "AE"
@@ -235,11 +235,11 @@
             "source_country": "AE",
             "ad_url": "https://www.facebook.com/ads/library/?id=968372235517292",
             "landing_url": "https://track.tryrosabella.com/cdc16426-3e48-40a7-9fad-21098084f6cf",
-            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/819012137_4563118037306401_1508865416290871705_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GfBdC_DFIVsQ7kNvwENXnKt&_nc_oc=Adpc5zuYcg4LTLfuZRr_kAh0-t5heszTqhe9viJdUUlwIeuF06VpM4bnOlKLUP8hcbs&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=_2mUovrB6kMf04_brybH8w&_nc_ss=79289&oh=00_AQRrkGfsROany2ajkGEKFlYMCfrY_JiPNvfkcCDG4coEnw&oe=6AE77371",
+            "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/819012137_4563118037306401_1508865416290871705_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GfBdC_DFIVsQ7kNvwGk7z-w&_nc_oc=AdpUnKygk8tsJHsLcKFMgOhJKlIqJhcjIMSm3nu9YrYZ6KkvwStTV-oPG6qcDwf3KV0&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=kQ3K6NxFSj9Gvz0ePerx-A&_nc_ss=79289&oh=00_AQRoIyp2v68AJOQxgljy8QHS-stKRsuvXo7Jshy5rfL8sQ&oe=6AE77371",
             "video_url": null,
-            "first_seen": "2026-10-28T07:59:16.590800+00:00",
-            "last_seen": "2026-10-28T07:59:16.590800+00:00",
-            "active_checked_at": "2026-10-28T07:59:16.590800+00:00",
+            "first_seen": "2026-10-28T08:04:03.849060+00:00",
+            "last_seen": "2026-10-28T08:04:03.849060+00:00",
+            "active_checked_at": "2026-10-28T08:04:03.849060+00:00",
             "is_active_observed": true,
             "source_countries": [
               "AE"
@@ -254,11 +254,11 @@
             "source_country": "BR",
             "ad_url": "https://www.facebook.com/ads/library/?id=1077131378619957",
             "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
-            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/816030239_1971548616766311_637578522928131888_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7k5OHapiJZ8Q7kNvwHLF-dF&_nc_oc=AdppYib3XJ90eSDU0WJOeo8qW6R43bp-XRjgD4_sD0dQW_pkuKKY7HySeFmoN-36wWM&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=tc6kJIAdSPPBewCJ1g_Hxg&_nc_ss=79289&oh=00_AQRJ4jNQmkurHqNeiSRTC3QkEh-N9IWboYPPMBpQ5jZISg&oe=6AE787C8",
+            "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/816030239_1971548616766311_637578522928131888_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7k5OHapiJZ8Q7kNvwEKS4Ez&_nc_oc=Adooeon4MlUvntkScuvCJy704NO5q_wOZ0OSOanL1hnCO2LJAwzPNEwuyNdQ5SF5vPs&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=o4TFL2pmYhmMd9qCp5a37Q&_nc_ss=79289&oh=00_AQQOEpn07n2xljpqTdRabJlebnIFIoS48TMoNNYI0KroUg&oe=6AE787C8",
             "video_url": null,
-            "first_seen": "2026-10-28T07:59:16.590800+00:00",
-            "last_seen": "2026-10-28T07:59:16.590800+00:00",
-            "active_checked_at": "2026-10-28T07:59:16.590800+00:00",
+            "first_seen": "2026-10-28T08:04:03.849060+00:00",
+            "last_seen": "2026-10-28T08:04:03.849060+00:00",
+            "active_checked_at": "2026-10-28T08:04:03.849060+00:00",
             "is_active_observed": true,
             "source_countries": [
               "BR"
@@ -273,11 +273,11 @@
             "source_country": "BR",
             "ad_url": "https://www.facebook.com/ads/library/?id=1454579686577926",
             "landing_url": "https://track.tryrosabella.com/cdc16426-3e48-40a7-9fad-21098084f6cf",
-            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/800598477_1046930658431196_6391737630457071934_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6tdBwDlkszAQ7kNvwE8YPqt&_nc_oc=Adr7FIPsf1qzgzIcnf1OPZhZlZMPLrar5fAaaqJBNJt9yzrZ6d_hlVrUzxHmTZSvpHM&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=tc6kJIAdSPPBewCJ1g_Hxg&_nc_ss=79289&oh=00_AQQnE0RkSLYTMydNML_KAyCrqNXtGGwQS90UIbIpcTEgSQ&oe=6AE77094",
+            "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/800598477_1046930658431196_6391737630457071934_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6tdBwDlkszAQ7kNvwEIEoQe&_nc_oc=Adpr6zEZgiJoIj46O0yI5NFibcdPwEvfK6-RtfuxHD1GIBQDvrUPEtv8VLkjWXMHKBU&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=o4TFL2pmYhmMd9qCp5a37Q&_nc_ss=79289&oh=00_AQSpq4dYXsopFS66fFkzQqjw1UISJYno-GeXXdDvY3a9qQ&oe=6AE77094",
             "video_url": null,
-            "first_seen": "2026-10-28T07:59:16.590800+00:00",
-            "last_seen": "2026-10-28T07:59:16.590800+00:00",
-            "active_checked_at": "2026-10-28T07:59:16.590800+00:00",
+            "first_seen": "2026-10-28T08:04:03.849060+00:00",
+            "last_seen": "2026-10-28T08:04:03.849060+00:00",
+            "active_checked_at": "2026-10-28T08:04:03.849060+00:00",
             "is_active_observed": true,
             "source_countries": [
               "BR"
@@ -292,11 +292,11 @@
             "source_country": "BR",
             "ad_url": "https://www.facebook.com/ads/library/?id=2986660478339533",
             "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
-            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/818510473_1038317909029592_6148641447088398466_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UcJT80cqtRMQ7kNvwFC3A3u&_nc_oc=Adp7vf-dCw_qB6mTEx8LWHYGbLcbJted0iFkMKpoMa0UE1I2lP3q8eXktGA2m74g9Bc&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=tc6kJIAdSPPBewCJ1g_Hxg&_nc_ss=79289&oh=00_AQT2LtYHD9FLT2RACLm4-NjAX3MeBYNwif1wsGQu-TbdoQ&oe=6AE77849",
+            "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/818510473_1038317909029592_6148641447088398466_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UcJT80cqtRMQ7kNvwHQmqR0&_nc_oc=AdrO6IpC1Lgw50046zvOL3pqF7TghTl1-F7gUc1G9Fk38uNp1x5JF8Ayjzxa499RGds&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=o4TFL2pmYhmMd9qCp5a37Q&_nc_ss=79289&oh=00_AQSkXHtK54mULZ3svwCXXAKx-yV8yXy7SZ2mHsQdUVpRFw&oe=6AE77849",
             "video_url": null,
-            "first_seen": "2026-10-28T07:59:16.590800+00:00",
-            "last_seen": "2026-10-28T07:59:16.590800+00:00",
-            "active_checked_at": "2026-10-28T07:59:16.590800+00:00",
+            "first_seen": "2026-10-28T08:04:03.849060+00:00",
+            "last_seen": "2026-10-28T08:04:03.849060+00:00",
+            "active_checked_at": "2026-10-28T08:04:03.849060+00:00",
             "is_active_observed": true,
             "source_countries": [
               "BR"
@@ -311,11 +311,11 @@
             "source_country": "BR",
             "ad_url": "https://www.facebook.com/ads/library/?id=1028252830251737",
             "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
-            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/796639858_1849581735841365_5852488422440015442_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qe5pfYbA91IQ7kNvwG8jdcZ&_nc_oc=AdpKZvrLUMODrZSIdsHDTC3w1YbBOvw08MxjNAo-sxOomXEMwwCEPLgxD0ISIWCNkm8&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=tc6kJIAdSPPBewCJ1g_Hxg&_nc_ss=79289&oh=00_AQQCyaYTcX4JN91m-xQpnb1Y7oSFRyU4kPPMUtJkNyb1XQ&oe=6AE79002",
+            "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/796639858_1849581735841365_5852488422440015442_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qe5pfYbA91IQ7kNvwEhjuuE&_nc_oc=AdqxGEFGqE_IUtHAdFJixumCh4b2j4lgM2QR4REOwK1hF96DmAgfPECEepnNraY4Dtc&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=o4TFL2pmYhmMd9qCp5a37Q&_nc_ss=79289&oh=00_AQRJ7aBPcddTWfmDY9hOk7jKQvaQqCqRhy1v9qLop-RSKA&oe=6AE79002",
             "video_url": null,
-            "first_seen": "2026-10-28T07:59:16.590800+00:00",
-            "last_seen": "2026-10-28T07:59:16.590800+00:00",
-            "active_checked_at": "2026-10-28T07:59:16.590800+00:00",
+            "first_seen": "2026-10-28T08:04:03.849060+00:00",
+            "last_seen": "2026-10-28T08:04:03.849060+00:00",
+            "active_checked_at": "2026-10-28T08:04:03.849060+00:00",
             "is_active_observed": true,
             "source_countries": [
               "BR"
@@ -330,11 +330,11 @@
             "source_country": "BR",
             "ad_url": "https://www.facebook.com/ads/library/?id=1764857541417900",
             "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
-            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/802680795_2209519649593757_6223209566027306055_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-rKWJszZ-UkQ7kNvwFkw8Cy&_nc_oc=Adp9foBohqvW9jycdVsASm3ccll5D7a1xSAup_z-51WBiZugpDTXvv1VwPf7MF49TxQ&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=tc6kJIAdSPPBewCJ1g_Hxg&_nc_ss=79289&oh=00_AQS4pl25EcgQjzPCr-ozWNzgWYGlBaYHChlqDzx20FHVhQ&oe=6AE776B3",
+            "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/802680795_2209519649593757_6223209566027306055_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-rKWJszZ-UkQ7kNvwE2U2ek&_nc_oc=AdpXxuC5UDf_9Yn_ucc6QLmBxZD4oXQ11502N1bLNTxbVvZpme4-tRiSktzqV9iGRk4&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=o4TFL2pmYhmMd9qCp5a37Q&_nc_ss=79289&oh=00_AQQFfmKAosfExKV7b5lEP6l4CJf59WbFBCST_V_oEiTieA&oe=6AE776B3",
             "video_url": null,
-            "first_seen": "2026-10-28T07:59:16.590800+00:00",
-            "last_seen": "2026-10-28T07:59:16.590800+00:00",
-            "active_checked_at": "2026-10-28T07:59:16.590800+00:00",
+            "first_seen": "2026-10-28T08:04:03.849060+00:00",
+            "last_seen": "2026-10-28T08:04:03.849060+00:00",
+            "active_checked_at": "2026-10-28T08:04:03.849060+00:00",
             "is_active_observed": true,
             "source_countries": [
               "BR"
@@ -349,11 +349,11 @@
             "source_country": "BR",
             "ad_url": "https://www.facebook.com/ads/library/?id=1052834297576604",
             "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
-            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/803068082_1048754464654724_7694330789449155527_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=o8lRBGDTVRkQ7kNvwG0dxWq&_nc_oc=Adrnc_TlbylY8iMziAJK7oRa42UKXBmGgtJunAh5rycy1Un_3xtuW2uKwJiT54qfDug&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=tc6kJIAdSPPBewCJ1g_Hxg&_nc_ss=79289&oh=00_AQQFXYUVYo88oG5x1iH-or1K-IK5rp6IDwTWtFfkYjDHhA&oe=6AE79A8B",
+            "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/803068082_1048754464654724_7694330789449155527_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=o8lRBGDTVRkQ7kNvwF2HL9_&_nc_oc=Adp-Ql8uIZ95AX7DeqlZMsJf7nPkJ15I4jICU2GMwdMXwfTmHIExul2ZszWqriOAYZ8&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=o4TFL2pmYhmMd9qCp5a37Q&_nc_ss=79289&oh=00_AQRYGXN-GYXCpc8SKh9MZ-lUco-gzDZ7IJrxCcw7h_sHGQ&oe=6AE79A8B",
             "video_url": null,
-            "first_seen": "2026-10-28T07:59:16.590800+00:00",
-            "last_seen": "2026-10-28T07:59:16.590800+00:00",
-            "active_checked_at": "2026-10-28T07:59:16.590800+00:00",
+            "first_seen": "2026-10-28T08:04:03.849060+00:00",
+            "last_seen": "2026-10-28T08:04:03.849060+00:00",
+            "active_checked_at": "2026-10-28T08:04:03.849060+00:00",
             "is_active_observed": true,
             "source_countries": [
               "BR"
@@ -368,11 +368,11 @@
             "source_country": "BR",
             "ad_url": "https://www.facebook.com/ads/library/?id=1067112572886891",
             "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
-            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/799869670_1399947318181814_5622419939105259039_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=e3fdKHEGpBcQ7kNvwG_ccWC&_nc_oc=AdrlpvJndDDM12iFV-HmtItx74fsD9vUnxsiC2jwcbxY25CboFiefxPmitMttm9R6lg&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=tc6kJIAdSPPBewCJ1g_Hxg&_nc_ss=79289&oh=00_AQTd_fjlw2qbTHaUegxZUu9vCMQfnvzKYT10YH-L4FoiXg&oe=6AE76FD1",
+            "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/799869670_1399947318181814_5622419939105259039_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=e3fdKHEGpBcQ7kNvwFOuGX8&_nc_oc=Ado3bx7f51pmqMpsNsBZdN9SSXQDSEa67rB8DL4zjtm4mUKSjZhoDtLImZiMgGlA6d0&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=o4TFL2pmYhmMd9qCp5a37Q&_nc_ss=79289&oh=00_AQSknmld6hpvpPhAz0h2siHHN9Q3QZJFxTxqPEMx8c-XUA&oe=6AE76FD1",
             "video_url": null,
-            "first_seen": "2026-10-28T07:59:16.590800+00:00",
-            "last_seen": "2026-10-28T07:59:16.590800+00:00",
-            "active_checked_at": "2026-10-28T07:59:16.590800+00:00",
+            "first_seen": "2026-10-28T08:04:03.849060+00:00",
+            "last_seen": "2026-10-28T08:04:03.849060+00:00",
+            "active_checked_at": "2026-10-28T08:04:03.849060+00:00",
             "is_active_observed": true,
             "source_countries": [
               "BR"
@@ -387,11 +387,11 @@
             "source_country": "BR",
             "ad_url": "https://www.facebook.com/ads/library/?id=1093420763078615",
             "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
-            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/803102801_2655218584907692_1097683173354636259_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ykaaPKNjGloQ7kNvwH5t_AM&_nc_oc=AdqXwzma5YvJK8yn1iDymvrGbe1pDRd9K_7_rW7HFgLeNPfNQZGEd-Yz1D9MfXmUwrc&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=tc6kJIAdSPPBewCJ1g_Hxg&_nc_ss=79289&oh=00_AQSCJCspZlqLfvnlAcCYNn24ZA4GLO52aQAbHqMuBESCIA&oe=6AE79871",
+            "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/803102801_2655218584907692_1097683173354636259_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ykaaPKNjGloQ7kNvwFQBAhZ&_nc_oc=AdoDJwCZI6SeET0qWu6WpN2BF5UlzgJdrOIxCKtDM3747ckKncytc3E8VTLzUhfxlFA&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=o4TFL2pmYhmMd9qCp5a37Q&_nc_ss=79289&oh=00_AQQqroRJLTbrkvuYQQTUsebQFXkTAxLrwtoNgdwN5SVpdQ&oe=6AE79871",
             "video_url": null,
-            "first_seen": "2026-10-28T07:59:16.590800+00:00",
-            "last_seen": "2026-10-28T07:59:16.590800+00:00",
-            "active_checked_at": "2026-10-28T07:59:16.590800+00:00",
+            "first_seen": "2026-10-28T08:04:03.849060+00:00",
+            "last_seen": "2026-10-28T08:04:03.849060+00:00",
+            "active_checked_at": "2026-10-28T08:04:03.849060+00:00",
             "is_active_observed": true,
             "source_countries": [
               "BR"
@@ -406,11 +406,11 @@
             "source_country": "BR",
             "ad_url": "https://www.facebook.com/ads/library/?id=1403739244436218",
             "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
-            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/818959855_2938983679834794_3318958071140306867_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JjpzHIcNJ8kQ7kNvwEEiNvv&_nc_oc=AdrTn_NIN_d9kzP1tkUCol6aqOiLsh8rXnfkTJS2m5S82iVKivIttw8Epbk2s6T3yNg&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=tc6kJIAdSPPBewCJ1g_Hxg&_nc_ss=79289&oh=00_AQQcwW67y8r3S4dT88_CxopRrnp_WELCLkN0jtCcv-WfEg&oe=6AE76851",
+            "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/818959855_2938983679834794_3318958071140306867_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JjpzHIcNJ8kQ7kNvwHBulZm&_nc_oc=AdopVcdpDGBq_PTFeJgVbjIFbBh8fSZB80nZioXozlDaITU5BY122bluhAYw5Wksapw&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=o4TFL2pmYhmMd9qCp5a37Q&_nc_ss=79289&oh=00_AQQRntm7x0_zJYucftZXT6VAw1RECcGFxMZs30LTFgkl2g&oe=6AE76851",
             "video_url": null,
-            "first_seen": "2026-10-28T07:59:16.590800+00:00",
-            "last_seen": "2026-10-28T07:59:16.590800+00:00",
-            "active_checked_at": "2026-10-28T07:59:16.590800+00:00",
+            "first_seen": "2026-10-28T08:04:03.849060+00:00",
+            "last_seen": "2026-10-28T08:04:03.849060+00:00",
+            "active_checked_at": "2026-10-28T08:04:03.849060+00:00",
             "is_active_observed": true,
             "source_countries": [
               "BR"
