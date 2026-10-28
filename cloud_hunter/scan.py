@@ -12,7 +12,7 @@ import time
 from collections import defaultdict
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
-from urllib.parse import quote, urlsplit
+from urllib.parse import quote, urlsplit, unquote
 
 ROOT = Path(__file__).resolve().parents[1]
 STORE = ROOT / "cloud_hunter" / "data"
@@ -152,9 +152,10 @@ def product_identity(ad):
     if not slug or not link or (urlsplit(link).hostname and TRACKER_RE.search(urlsplit(link).hostname or "")):
         return "unverified:"+aid,label,"other"
     if slug and len(set(tokens))>=3:
-        key="sku:"+" ".join(tokens)
+        # Keep different retailers and different item paths separate.
+        key="item:"+host+":"+slug
     elif slug and len(set(tokens))>=2:
-        key="url:"+host+":"+" ".join(tokens)
+        key="item:"+host+":"+slug
     elif not slug and len(set(title_tokens))>=5:
         key="unverified:"+aid
     else:
@@ -190,9 +191,48 @@ def main():
         pkey,pname,pcategory=product_identity(existing_ad)
         if pcategory!="other" and not pkey.startswith("unverified:"):
             pending_groups[(pcategory,pkey,pname)].append(existing_ad.get("ad_id"))
-    pending_candidates=sorted(
-        ((len(set(ids)),cat,name) for (cat,key,name),ids in pending_groups.items() if 4<=len(set(ids))<MIN_ACTIVE_ADS),
-        key=lambda row:-row[0])
+    # Search real high-confidence product URL candidates instead of using an ad slogan.
+    # A focused search includes a brand/page or a distinctive part of the item slug.
+    candidate_searches=[]
+    brand_groups=defaultdict(lambda: {"ids":set(),"countries":set(),"pages":set(),"slug":""})
+    for existing_ad in by_id.values():
+        if existing_ad.get("is_active_observed") is not True: continue
+        try:
+            checked=datetime.fromisoformat(str(existing_ad.get("active_checked_at","")).replace("Z","+00:00")).astimezone(UTC)
+        except (ValueError,TypeError,OverflowError): continue
+        if not NOW-timedelta(hours=ACTIVE_WINDOW_HOURS)<=checked<=NOW: continue
+        url=str(existing_ad.get("landing_url") or "")
+        try:
+            u=urlsplit(url)
+            m=PRODUCT_PATH_RE.search(unquote(u.path))
+            if not m or not u.hostname or TRACKER_RE.search(u.hostname): continue
+            slug=identity(re.sub(r"[-_+.]+"," ",unquote(m.group(1))))
+            if len(slug)<9 or PET_RE.search(slug):continue
+            k=(u.hostname.lower(),slug)
+            group=brand_groups[k]
+            group["ids"].add(str(existing_ad["ad_id"]))
+            group["slug"]=slug
+            group["pages"].add(str(existing_ad.get("advertiser") or ""))
+            group["countries"].update(x for x in (existing_ad.get("source_countries") or []) if x)
+        except (ValueError,KeyError,TypeError): continue
+    for group in brand_groups.values():
+        n=len(group["ids"])
+        if not 3<=n<MIN_ACTIVE_ADS: continue
+        category=classify_name(group["slug"])
+        if category=="other": continue
+        words=group["slug"].split()
+        if len(words)<2: continue
+        query=" ".join(words[:7])[:75]
+        for country in sorted(group["countries"])[:2]:
+            if country not in EXCLUDED_COUNTRIES:
+                candidate_searches.append((n,category,query,country))
+        for page in sorted(group["pages"]):
+            if len(page)>=5 and page.lower() not in ("facebook","shop now"):
+                for country in sorted(group["countries"])[:1]:
+                    if country not in EXCLUDED_COUNTRIES:
+                        candidate_searches.append((n,category,page[:75],country))
+    candidate_searches.sort(key=lambda x:(-x[0],x[1],x[2]))
+    pending_candidates=candidate_searches[:30]
     for offset in range(MAX_QUERIES_PER_RUN):
         if time.monotonic()-started > SCAN_BUDGET_SECONDS:
             break
@@ -203,11 +243,10 @@ def main():
         rotation=cursor//len(category_order)
         term=terms[rotation % len(terms)]
         country=COUNTRIES[(rotation*7 + cat_index*13) % len(COUNTRIES)]
-        if pending_candidates and offset % 4 == 3:
-            number,term_category,label=pending_candidates[(cursor//4)%min(15,len(pending_candidates))]
-            focused=re.sub(r"\s+"," ",label).strip()
-            if len(focused)>=10:
-                term=focused[:90]
+        if pending_candidates and offset % 3 == 2:
+            number,term_category,focused,candidate_country=pending_candidates[(cursor//3)%len(pending_candidates)]
+            term=focused
+            country=candidate_country
         cursor+=1
         assert country not in EXCLUDED_COUNTRIES
         url = ("https://www.facebook.com/ads/library/?active_status=active&ad_type=all"
@@ -226,7 +265,8 @@ def main():
             continue
         for a in ads:
             # Search is explicitly active_status=active; reject explicitly inactive hits.
-            if a.get("is_active") is False:
+            if a.get("is_active") is not True:
+                # Unknown is not a confirmation of active status.
                 continue
             aid = str(a.get("ad_archive_id") or "").strip()
             if not aid:
@@ -336,6 +376,8 @@ def main():
         "per_job_time_limit_seconds":SCAN_BUDGET_SECONDS,
         "target_per_category":TARGET_PER_CATEGORY,
         "candidates_near_threshold":len(pending_candidates),
+        "collection_limit_warning":"180 is a configured ceiling, not confirmed pagination. Source parser may deliver only ~30 per query.",
+        "focused_queries_this_run":sum(1 for i in range(len(attempted)) if i%3==2 and bool(pending_candidates)),
         "limitations":"Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
     }
     save(STORE / "scan_progress.json",{
