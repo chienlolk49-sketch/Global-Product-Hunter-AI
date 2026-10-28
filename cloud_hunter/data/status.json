@@ -1,5 +1,5 @@
 {
-  "timestamp_utc": "2026-10-28T08:08:46.529605+00:00",
+  "timestamp_utc": "2026-10-28T08:19:24.321821+00:00",
   "attempts": [
     {
       "country": "CO",
@@ -71,15 +71,15 @@
       "country": "UY",
       "keyword": "navy blue tote bag",
       "category": "fashion",
-      "found": 0
+      "found": 1
     }
   ],
   "searches_succeeded": 12,
   "searches_attempted": 12,
-  "new_ads": 186,
-  "unique_active_ads_observed_last_48h": 948,
+  "new_ads": 190,
+  "unique_active_ads_observed_last_48h": 952,
   "qualifying_products": 0,
-  "groups_below_threshold_or_unverified": 886,
+  "groups_below_threshold_or_unverified": 891,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "progress_incomplete",
   "goal_completed": false,
@@ -116,7 +116,7 @@
     "food": 50
   },
   "total_queries_attempted_to_date": 24,
-  "campaign_started_at": "2026-10-28T08:08:46.529605+00:00",
+  "campaign_started_at": "2026-10-28T08:19:24.321821+00:00",
   "campaign_state": "collecting",
   "campaign_has_time_limit": false,
   "per_job_time_limit_seconds": 440,

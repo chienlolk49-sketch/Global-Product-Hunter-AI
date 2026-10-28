@@ -1,9 +1,9 @@
 {
   "cursor": 24,
   "total_queries_attempted": 24,
-  "campaign_started_at": "2026-10-28T08:08:46.529605+00:00",
+  "campaign_started_at": "2026-10-28T08:19:24.321821+00:00",
   "campaign_state": "collecting",
-  "last_run_at": "2026-10-28T08:08:46.529605+00:00",
+  "last_run_at": "2026-10-28T08:19:24.321821+00:00",
   "unfinished_categories": {
     "beauty": 50,
     "wellness": 50,
