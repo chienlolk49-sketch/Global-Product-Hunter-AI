@@ -2,6 +2,7 @@
 import React, { useState, useEffect } from 'react';
 import Layout from './components/Layout';
 import Dashboard from './pages/Dashboard';
+import CloudHunter from './pages/CloudHunter';
 import DailyFinder from './pages/DailyFinder';
 import Analysis from './pages/Analysis';
 import AIAssistant from './pages/AIAssistant';
@@ -39,6 +40,8 @@ const App: React.FC = () => {
     switch (activeTab) {
       case 'dashboard':
         return <Dashboard lang={lang} />;
+      case 'cloud-hunter':
+        return <CloudHunter />;
       case 'daily-hunt':
         return <DailyFinder lang={lang} onAnalyzeProduct={handleAnalyzeProduct} onOpenSettings={() => setActiveTab('settings')} />;
       case 'analysis':
