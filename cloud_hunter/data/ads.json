@@ -1,6 +1,1660 @@
 {
-  "updated_at": "2026-10-28T04:19:45.342253+00:00",
+  "updated_at": "2026-10-28T05:06:26.040052+00:00",
   "ads": [
+    {
+      "ad_id": "960557046536059",
+      "product_name": "source safety on alibaba com alibaba com-world s leading b2b marketplace",
+      "product_key": "unverified:960557046536059",
+      "category": "other",
+      "advertiser": "Alibaba.com",
+      "source_country": "PT",
+      "ad_url": "https://www.facebook.com/ads/library/?id=960557046536059",
+      "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+      "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/559815341_671225365668817_8789393907366654079_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vt9FxGJOhawQ7kNvwEg0m7B&_nc_oc=Adoz43QxNXjtWFB4xbC1-BK4o3XnzVrQavRu-DBURcuEX0FCSr_MZuWVUcG6QvYrDNw&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=41qBjdmoQUtrO9hLIn_VGQ&_nc_ss=79289&oh=00_AQRaFnmCskNjPMuasC1PDnfJfsSgCu_DpLmlC4mTOTEQCA&oe=6AE75744",
+      "video_url": null,
+      "first_seen": "2026-10-28T04:07:16.346327+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "LK",
+        "PT"
+      ]
+    },
+    {
+      "ad_id": "2773652896175093",
+      "product_name": "luxury foldable trunk organizer",
+      "product_key": "unverified:2773652896175093",
+      "category": "other",
+      "advertiser": "Pinauto Shop",
+      "source_country": "HU",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2773652896175093",
+      "landing_url": "https://pinauto-store.com/products/luxury-foldable-trunk-organizer",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMc5GahKCI3nSkrp1wHQlbEwMOvO1R84uGiA9HExM33H8eOjMtX2Jt1JyM5b4jyMYUI5AMKhjNLXwLgscauAbqRdVLhQd1ak5kH8uITpV3sEQ.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=QLI0FEtqFfQQ7kNvwFRrcLf&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE4NjMwODE0ODExMjAzNTMsImFzc2V0X2FnZV9kYXlzIjo1NzEsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=251fa15cca36a144&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CQzQ3REMyRDZFNEFGODFFRkZBREZCNzNFQjU5MjU5QV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dOM2pFeDNPN280MXQ3Z0RBRF9XdGk0SDJmRXFidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbCqfXdzp3PBhUCKAJDMywXQECMzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=-pW1E70mVPbfkRcgH94INQ&_nc_ss=79289&_nc_zt=28&oh=00_AQTCqiEQIU-ECJJ9qWYTsJOGt5yUr_LMJJwoqOHHk_JMGg&oe=6AE7537B",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "HU"
+      ]
+    },
+    {
+      "ad_id": "1140982527844588",
+      "product_name": "standing makeup bag portable large capacity",
+      "product_key": "sku:standing makeup bag portable large capacity",
+      "category": "beauty",
+      "advertiser": "Doresty-A",
+      "source_country": "HU",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1140982527844588",
+      "landing_url": "https://doresty.store/products/standing-makeup-bag-portable-large-capacity",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNgZua1c8ddCwHcpGFdZI_4cxmrkoqGLTLPk2RYhdcLAJotyvIysae6G-32Z9cJi4pWxIRDlPMkSNiHeIaScv8sCrPGm-_wamDoY5SVt9rS-A.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=J9hyUUC8ih8Q7kNvwFyzszF&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE4Nzc4OTY3MTMwNDEwMDQsImFzc2V0X2FnZV9kYXlzIjo1NTUsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=dcb292db8aa3903&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85NjQ2Rjc3MDk2Q0Y2MERENjZBNTMxNzJDRDFBQjM4NF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dPSHpTeDFxU2tCVjIyNENBS29scUF2MXJIb1RidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbY0Yvo_PvVBhUCKAJDMywXQDzdsi0OVgQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=-pW1E70mVPbfkRcgH94INQ&_nc_ss=79289&_nc_zt=28&oh=00_AQSym5FUv5OvTKZ_epb08QchWDcx1fXjnedHwObthR-C1A&oe=6AE74D61",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "HU"
+      ]
+    },
+    {
+      "ad_id": "1227960612728390",
+      "product_name": "standing makeup bag portable large capacity",
+      "product_key": "sku:standing makeup bag portable large capacity",
+      "category": "beauty",
+      "advertiser": "Doresty-A",
+      "source_country": "HU",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1227960612728390",
+      "landing_url": "https://doresty.store/products/standing-makeup-bag-portable-large-capacity",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNgZua1c8ddCwHcpGFdZI_4cxmrkoqGLTLPk2RYhdcLAJotyvIysae6G-32Z9cJi4pWxIRDlPMkSNiHeIaScv8sCrPGm-_wamDoY5SVt9rS-A.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=J9hyUUC8ih8Q7kNvwFyzszF&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE4Nzc4OTY3MTMwNDEwMDQsImFzc2V0X2FnZV9kYXlzIjo1NTUsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=dcb292db8aa3903&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85NjQ2Rjc3MDk2Q0Y2MERENjZBNTMxNzJDRDFBQjM4NF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dPSHpTeDFxU2tCVjIyNENBS29scUF2MXJIb1RidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbY0Yvo_PvVBhUCKAJDMywXQDzdsi0OVgQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=-pW1E70mVPbfkRcgH94INQ&_nc_ss=79289&_nc_zt=28&oh=00_AQSym5FUv5OvTKZ_epb08QchWDcx1fXjnedHwObthR-C1A&oe=6AE74D61",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "HU"
+      ]
+    },
+    {
+      "ad_id": "2651266715258894",
+      "product_name": "standing makeup bag portable large capacity",
+      "product_key": "sku:standing makeup bag portable large capacity",
+      "category": "beauty",
+      "advertiser": "Doresty-A",
+      "source_country": "HU",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2651266715258894",
+      "landing_url": "https://doresty.store/products/standing-makeup-bag-portable-large-capacity",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNgZua1c8ddCwHcpGFdZI_4cxmrkoqGLTLPk2RYhdcLAJotyvIysae6G-32Z9cJi4pWxIRDlPMkSNiHeIaScv8sCrPGm-_wamDoY5SVt9rS-A.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=J9hyUUC8ih8Q7kNvwFyzszF&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE4Nzc4OTY3MTMwNDEwMDQsImFzc2V0X2FnZV9kYXlzIjo1NTUsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=dcb292db8aa3903&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85NjQ2Rjc3MDk2Q0Y2MERENjZBNTMxNzJDRDFBQjM4NF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dPSHpTeDFxU2tCVjIyNENBS29scUF2MXJIb1RidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbY0Yvo_PvVBhUCKAJDMywXQDzdsi0OVgQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=-pW1E70mVPbfkRcgH94INQ&_nc_ss=79289&_nc_zt=28&oh=00_AQSym5FUv5OvTKZ_epb08QchWDcx1fXjnedHwObthR-C1A&oe=6AE74D61",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "HU"
+      ]
+    },
+    {
+      "ad_id": "1539796003919986",
+      "product_name": "standing makeup bag portable large capacity",
+      "product_key": "sku:standing makeup bag portable large capacity",
+      "category": "beauty",
+      "advertiser": "Doresty-A",
+      "source_country": "HU",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1539796003919986",
+      "landing_url": "https://doresty.store/products/standing-makeup-bag-portable-large-capacity",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNgZua1c8ddCwHcpGFdZI_4cxmrkoqGLTLPk2RYhdcLAJotyvIysae6G-32Z9cJi4pWxIRDlPMkSNiHeIaScv8sCrPGm-_wamDoY5SVt9rS-A.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=J9hyUUC8ih8Q7kNvwFyzszF&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE4Nzc4OTY3MTMwNDEwMDQsImFzc2V0X2FnZV9kYXlzIjo1NTUsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=dcb292db8aa3903&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85NjQ2Rjc3MDk2Q0Y2MERENjZBNTMxNzJDRDFBQjM4NF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dPSHpTeDFxU2tCVjIyNENBS29scUF2MXJIb1RidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbY0Yvo_PvVBhUCKAJDMywXQDzdsi0OVgQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=-pW1E70mVPbfkRcgH94INQ&_nc_ss=79289&_nc_zt=28&oh=00_AQSym5FUv5OvTKZ_epb08QchWDcx1fXjnedHwObthR-C1A&oe=6AE74D61",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "HU"
+      ]
+    },
+    {
+      "ad_id": "2957107811146131",
+      "product_name": "standing makeup bag portable large capacity",
+      "product_key": "sku:standing makeup bag portable large capacity",
+      "category": "beauty",
+      "advertiser": "Doresty-A",
+      "source_country": "HU",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2957107811146131",
+      "landing_url": "https://doresty.store/products/standing-makeup-bag-portable-large-capacity",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNgZua1c8ddCwHcpGFdZI_4cxmrkoqGLTLPk2RYhdcLAJotyvIysae6G-32Z9cJi4pWxIRDlPMkSNiHeIaScv8sCrPGm-_wamDoY5SVt9rS-A.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=J9hyUUC8ih8Q7kNvwFyzszF&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE4Nzc4OTY3MTMwNDEwMDQsImFzc2V0X2FnZV9kYXlzIjo1NTUsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=dcb292db8aa3903&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85NjQ2Rjc3MDk2Q0Y2MERENjZBNTMxNzJDRDFBQjM4NF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dPSHpTeDFxU2tCVjIyNENBS29scUF2MXJIb1RidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbY0Yvo_PvVBhUCKAJDMywXQDzdsi0OVgQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=-pW1E70mVPbfkRcgH94INQ&_nc_ss=79289&_nc_zt=28&oh=00_AQSym5FUv5OvTKZ_epb08QchWDcx1fXjnedHwObthR-C1A&oe=6AE74D61",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "HU"
+      ]
+    },
+    {
+      "ad_id": "1281810399943734",
+      "product_name": "source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
+      "product_key": "title:source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
+      "category": "fashion",
+      "advertiser": "Alibaba.com",
+      "source_country": "HU",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1281810399943734",
+      "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+      "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/666314347_1571520623936638_1474522252203630699_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eACgTyDWdFMQ7kNvwHUVZC1&_nc_oc=Adq0kVIfdclzCt3uX95T0UfsPgODqrwTbWiT43mPW9buHGCIBJM6a6hAtqcPEcxoQPU&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=-pW1E70mVPbfkRcgH94INQ&_nc_ss=79289&oh=00_AQRzFNHbYFR785GjJ59SEvJyaEXIZBBIs6nIEpSYxlkDdw&oe=6AE74751",
+      "video_url": null,
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "HU"
+      ]
+    },
+    {
+      "ad_id": "4534307760187849",
+      "product_name": "pinauto coussin de siege auto personnalise 1",
+      "product_key": "unverified:4534307760187849",
+      "category": "other",
+      "advertiser": "Pinauto Shop",
+      "source_country": "HU",
+      "ad_url": "https://www.facebook.com/ads/library/?id=4534307760187849",
+      "landing_url": "https://fr.pinauto-store.com/products/pinauto-coussin-de-siege-auto-personnalise-1",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPLg9FodJ7f5hhdtha6HvrmZociu4_YINnP41We6TnruuZL7jy12ISx_O_ypJvgeazkQGhZKkj5EnZJ7CiqX1PPXD97Rc6yeinhDoYJwShkSg.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=GbKANgM0TVMQ7kNvwFXA4YP&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEyNjgwOTgzNDU0MDEzMTYsImFzc2V0X2FnZV9kYXlzIjoxMzYsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=4ecc8344e32191a8&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DMzRDQjNEQzVFNzE3Njg5MDNDMDFERkI0QUQ2MjQ5NF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0VGNDlGOUQzQzM4MUM3RjhBNkU2MEFBMDQ2OTE5OEExX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbI79f2hNXABBUCKAJDMywXQDczMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=-pW1E70mVPbfkRcgH94INQ&_nc_ss=79289&_nc_zt=28&oh=00_AQRUlKckm_tjazfiitxa65fMYN4KBmi9h7agYFjHr2V0Jg&oe=6AE7503A",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "HU"
+      ]
+    },
+    {
+      "ad_id": "1091542067001061",
+      "product_name": "source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
+      "product_key": "title:source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
+      "category": "fashion",
+      "advertiser": "Alibaba.com",
+      "source_country": "HU",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1091542067001061",
+      "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign&cid=1524",
+      "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/855887115_29108081178788653_5836667405340620904_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KDBUSpQgpyMQ7kNvwFKQb33&_nc_oc=Ado8Er_gzGvTXVZZ7wxhuar_WNegBlKL452f7IVtbheE4o4-TucxqsPtlzYt6KAl1dw&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=-pW1E70mVPbfkRcgH94INQ&_nc_ss=79289&oh=00_AQSSMcNhpB2nkCodFgDOMK0XP90U9vEl5ETFJSvqfPIyhQ&oe=6AE749E4",
+      "video_url": null,
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "HU"
+      ]
+    },
+    {
+      "ad_id": "1599846398378141",
+      "product_name": "travel organizers",
+      "product_key": "url:quadlockcase.net:travel organizers",
+      "category": "travel",
+      "advertiser": "QUAD LOCK",
+      "source_country": "HU",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1599846398378141",
+      "landing_url": "https://www.quadlockcase.net/collections/shop-travel/products/travel-organizers",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/723137409_1792362868809135_4411510974204065197_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BfKpLh-R2QAQ7kNvwG7l70x&_nc_oc=Adqqt68EnoK1bluCsYb6c2cA64-IOjpZyYMP5vO2gw8MDccPA1crw5ZVe-XICbbTujs&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=-pW1E70mVPbfkRcgH94INQ&_nc_ss=79289&oh=00_AQRX1Y5FkciMQXzFyUBkHWphgLRpE4B9IwbzwwIUUbKj5w&oe=6AE7642D",
+      "video_url": null,
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "HU"
+      ]
+    },
+    {
+      "ad_id": "1176334737988867",
+      "product_name": "pinauto coussin de siege auto personnalise 1",
+      "product_key": "unverified:1176334737988867",
+      "category": "other",
+      "advertiser": "Pinauto Shop",
+      "source_country": "HU",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1176334737988867",
+      "landing_url": "https://fr.pinauto-store.com/products/pinauto-coussin-de-siege-auto-personnalise-1",
+      "image_url": null,
+      "video_url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMWzBIks3fuW_uxIlDex3CxGvk2zzhIMyMEnjyJo2HH1o2YZO9rohWVvwYWxTblAFX11ZVSKgMaxbkbH58CIAF_2-EVjb9gHC-wEc7t-7wb6Q.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=B_HopF0uPwcQ7kNvwF406D8&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjQ1MTczNzk1Nzg1NTE3OTgsImFzc2V0X2FnZV9kYXlzIjoxMzYsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=72c8c791aef20fb9&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85MzRCNzUwOEMzNEFBNjlCQUZEQzQ3NTc3MEE3QjQ5M19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzhCNEQ0RTlBQjcyMDMzRkU5RDM5NkQ4QkMyQTkwNTkxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbs98LRjKKGEBUCKAJDMywXQDd3S8an754YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=-pW1E70mVPbfkRcgH94INQ&_nc_ss=79289&_nc_zt=28&oh=00_AQTwNMY2fXwnwYzktGUJ1PfVYRMI26pl00-6YPTrvLQe4Q&oe=6AE74477",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "HU"
+      ]
+    },
+    {
+      "ad_id": "4731916457133917",
+      "product_name": "natural relief in weeks",
+      "product_key": "unverified:4731916457133917",
+      "category": "other",
+      "advertiser": "American Health Support Community",
+      "source_country": "HU",
+      "ad_url": "https://www.facebook.com/ads/library/?id=4731916457133917",
+      "landing_url": "https://shop.pipitea.com/hbt/kd/c/sp-nm",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/819212212_2110997532957023_9164701617763440640_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iTpne2LESU0Q7kNvwFz10S7&_nc_oc=AdozY7lfbHba1m1-YiHXEbAzFxqPnSFWPj12YDDZMIwRVvYfcOXwm4bSvlWIk56vqXE&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=-pW1E70mVPbfkRcgH94INQ&_nc_ss=79289&oh=00_AQRnIikwNRoXRc2l0G3ISfb937_wS5jphHzmfia86cB2eQ&oe=6AE74FD9",
+      "video_url": null,
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "HU"
+      ]
+    },
+    {
+      "ad_id": "1337115138001734",
+      "product_name": "luxury foldable trunk organizer",
+      "product_key": "unverified:1337115138001734",
+      "category": "other",
+      "advertiser": "Pinauto Shop",
+      "source_country": "HU",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1337115138001734",
+      "landing_url": "https://pinauto-store.com/products/luxury-foldable-trunk-organizer",
+      "image_url": null,
+      "video_url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMMfvAhuL-BZerL1rLG_6SNEG_WB_ej_RLfAOtAq7QVywFVS7bntw6mWxqZBoZz7aOpaQ70hHiveV-0DTjzqQIxwo-ky34qcPTJrb4d0I-f5g.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=B3JDXoNmj7kQ7kNvwFfKOQL&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExODI1ODQ2OTk5MTI2MzIsImFzc2V0X2FnZV9kYXlzIjo1NzEsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo0MiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=6b934ca7bb90fa64&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zMzQ2OTQ4RTREREJEQTE3MzZCOTgxRjgzOUMxNjJCQl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dLTzlIQjJfWU5tY0dlQUVBQXhEU1dxa25DaFRidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbwhqTPvuOZBBUCKAJDMywXQEUqn752yLQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=-pW1E70mVPbfkRcgH94INQ&_nc_ss=79289&_nc_zt=28&oh=00_AQRa60lRsIeTF-0C4h7hTWfDvijn0dxB0_H9VQjgO_7UEw&oe=6AE76D88",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "HU"
+      ]
+    },
+    {
+      "ad_id": "1048731824884495",
+      "product_name": "smart pill organizer 50 off",
+      "product_key": "unverified:1048731824884495",
+      "category": "other",
+      "advertiser": "Naoven",
+      "source_country": "HU",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1048731824884495",
+      "landing_url": "http://www.naoven.com/pillpouch",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMuBxD7RyESYK-blJz6q9fvA4YNXnIzzTyrdzcw62BH9pexupJHsQLOJcHHJbMWM4NUuMx87DU7ij2tQV1Ed7s7yyhFqbicSQlVUN0icAQ_yw.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=JpHzPlr-hKEQ7kNvwHT3g4q&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIxODk3Mjg2ODUyMTc4MjcsImFzc2V0X2FnZV9kYXlzIjo3MCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjM5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=69268274b56937a6&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84QzQ0MTg5OEJBODM2MzdEMzQzMzkwQjc5N0VBODc4Ql9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzBENERBNjlBRDJFODJFOEJENTI3MzI3REIxQzRDQUI3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbG4P6G_uLjBxUCKAJDMywXQEOAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=-pW1E70mVPbfkRcgH94INQ&_nc_ss=79289&_nc_zt=28&oh=00_AQRLui1iEtlx4X4Wtj8UGWDQbQEtGM8CkuQWIfic4caydg&oe=6AE764E7",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "HU"
+      ]
+    },
+    {
+      "ad_id": "1623424545414056",
+      "product_name": "pinauto coussin de siege auto personnalise 1",
+      "product_key": "unverified:1623424545414056",
+      "category": "other",
+      "advertiser": "Pinauto Shop",
+      "source_country": "HU",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1623424545414056",
+      "landing_url": "https://fr.pinauto-store.com/products/pinauto-coussin-de-siege-auto-personnalise-1",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMd3_aifK_C5p903Ju5HwrSxsYh9wXfM6HexSQnb1LKBh7E0w8GsUqk0mrfzruI4jZI3CliiF_4Szj6mEMMa3UlU4OdIeXL7fzCIM7Xb74_FA.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=5dvF5cJzB3IQ7kNvwGFKtRb&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIwNDk0ODkyMjU2NTU5MjAsImFzc2V0X2FnZV9kYXlzIjoxMzYsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyMSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=4e9053dec6e1d193&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zQzQzOTAzQUY1Mjk3NUJGMDk0RTU2N0VFMzRDQ0Q5QV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzkxNEI3MzYyNDI5MjM4QzFFOEM1NkE4REM4NkY2RDg2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbgmaHU_P-jBxUCKAJDMywXQDUiDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=-pW1E70mVPbfkRcgH94INQ&_nc_ss=79289&_nc_zt=28&oh=00_AQQXR-lS9K0P_Ogc0Sa3CyaA81NJKEgjKhMTwJZxPbIU_A&oe=6AE76410",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "HU"
+      ]
+    },
+    {
+      "ad_id": "2012510236297657",
+      "product_name": "standing makeup bag portable large capacity",
+      "product_key": "sku:standing makeup bag portable large capacity",
+      "category": "beauty",
+      "advertiser": "Doresty-A",
+      "source_country": "HU",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2012510236297657",
+      "landing_url": "https://doresty.store/products/standing-makeup-bag-portable-large-capacity",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNgZua1c8ddCwHcpGFdZI_4cxmrkoqGLTLPk2RYhdcLAJotyvIysae6G-32Z9cJi4pWxIRDlPMkSNiHeIaScv8sCrPGm-_wamDoY5SVt9rS-A.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=J9hyUUC8ih8Q7kNvwFyzszF&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE4Nzc4OTY3MTMwNDEwMDQsImFzc2V0X2FnZV9kYXlzIjo1NTUsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=dcb292db8aa3903&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85NjQ2Rjc3MDk2Q0Y2MERENjZBNTMxNzJDRDFBQjM4NF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dPSHpTeDFxU2tCVjIyNENBS29scUF2MXJIb1RidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbY0Yvo_PvVBhUCKAJDMywXQDzdsi0OVgQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=-pW1E70mVPbfkRcgH94INQ&_nc_ss=79289&_nc_zt=28&oh=00_AQSym5FUv5OvTKZ_epb08QchWDcx1fXjnedHwObthR-C1A&oe=6AE74D61",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "HU"
+      ]
+    },
+    {
+      "ad_id": "2833639876977916",
+      "product_name": "standing makeup bag portable large capacity",
+      "product_key": "sku:standing makeup bag portable large capacity",
+      "category": "beauty",
+      "advertiser": "Doresty-A",
+      "source_country": "HU",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2833639876977916",
+      "landing_url": "https://doresty.store/products/standing-makeup-bag-portable-large-capacity",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNgZua1c8ddCwHcpGFdZI_4cxmrkoqGLTLPk2RYhdcLAJotyvIysae6G-32Z9cJi4pWxIRDlPMkSNiHeIaScv8sCrPGm-_wamDoY5SVt9rS-A.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=J9hyUUC8ih8Q7kNvwFyzszF&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE4Nzc4OTY3MTMwNDEwMDQsImFzc2V0X2FnZV9kYXlzIjo1NTUsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=dcb292db8aa3903&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85NjQ2Rjc3MDk2Q0Y2MERENjZBNTMxNzJDRDFBQjM4NF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dPSHpTeDFxU2tCVjIyNENBS29scUF2MXJIb1RidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbY0Yvo_PvVBhUCKAJDMywXQDzdsi0OVgQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=-pW1E70mVPbfkRcgH94INQ&_nc_ss=79289&_nc_zt=28&oh=00_AQSym5FUv5OvTKZ_epb08QchWDcx1fXjnedHwObthR-C1A&oe=6AE74D61",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "HU"
+      ]
+    },
+    {
+      "ad_id": "1412437346916051",
+      "product_name": "book sleeve book organizer sewing pattern",
+      "product_key": "unverified:1412437346916051",
+      "category": "other",
+      "advertiser": "Sewing Foundry",
+      "source_country": "HU",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1412437346916051",
+      "landing_url": "https://sewingfoundry.com/products/book-sleeve-book-organizer-sewing-pattern",
+      "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/825268345_4606707612941498_1342293871865783585_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=E_Gbcdr7O0UQ7kNvwGsVW4Y&_nc_oc=AdpFjnukzIE9ZPj9ijncwAwyKtlLI1PRrf11ovbj3NVrknwVAVi_nkxhFDWzgvghcY8&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=-pW1E70mVPbfkRcgH94INQ&_nc_ss=79289&oh=00_AQQlIxP7Rki0yuhvmYFBBW2jGArOc9ccKxzHlmo96Gdr-w&oe=6AE758D7",
+      "video_url": null,
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "HU"
+      ]
+    },
+    {
+      "ad_id": "687501654395172",
+      "product_name": "luxury foldable trunk organizer",
+      "product_key": "unverified:687501654395172",
+      "category": "other",
+      "advertiser": "Pinauto Shop",
+      "source_country": "HU",
+      "ad_url": "https://www.facebook.com/ads/library/?id=687501654395172",
+      "landing_url": "https://pinauto-store.com/products/luxury-foldable-trunk-organizer",
+      "image_url": null,
+      "video_url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQP9pb2xMdSzuxTevu27QddANBEwNz07SWnT2j13teQfNeWdpn8a7p-3XgZ_8M4XsPKraIBqzzxipSgFZsvX4z8d0aqlXZCv4TEFTi9lDnlp3g.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=zVypLYwZz2sQ7kNvwF0T1xE&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzMTMwODIyNjY1NzUwMzIsImFzc2V0X2FnZV9kYXlzIjo1NzEsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo3NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=f051a6e1338f014&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84MzQzRDhGODA5QjkxMjMxQUNEOEQ3RTI5RTdGM0NBNl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dIZ0xGeDBJUUJ2cTdOUUVBTVpIYzFkNkZhQnNidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbwgvuguY_VBBUCKAJDMywXQFL5mZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=-pW1E70mVPbfkRcgH94INQ&_nc_ss=79289&_nc_zt=28&oh=00_AQQmTvtC8nlK2H0vgL7vBYRC9I9K6_LnOtRhZJa-dtbhWA&oe=6AE73BEB",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "HU"
+      ]
+    },
+    {
+      "ad_id": "2449386952222202",
+      "product_name": "pinauto coussin de siege auto personnalise 1",
+      "product_key": "unverified:2449386952222202",
+      "category": "other",
+      "advertiser": "Pinauto Shop",
+      "source_country": "HU",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2449386952222202",
+      "landing_url": "https://fr.pinauto-store.com/products/pinauto-coussin-de-siege-auto-personnalise-1",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMiUiayORxmOty6ExbEGB9S9_W_-T6EXn1xKSb-hoUHgLPmX6qwjjY_XgcjVb_mSeOtjTOXKjV6AvkBReisz-kq-bhZuwC5zAzgG_L5gy-Hfw.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=2nYd7EiF0FMQ7kNvwHit6l8&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE4NTQ1MTQ3MTIxNzU0NzYsImFzc2V0X2FnZV9kYXlzIjoxMzYsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=c7720496d759f8e2&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yMzQxQUE2Mzc2Rjk5RjZGOEM5MDBGNjg2NDEyNDY5NF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0RCNEY1NzhERDhGMkJCNjFEQUQ3RTBBQUQ0OUJCMkJEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbojbOq-6rLBhUCKAJDMywXQDS7peNT988YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=-pW1E70mVPbfkRcgH94INQ&_nc_ss=79289&_nc_zt=28&oh=00_AQQuPcaqVlio47tHz4MdlpGwtmmAQua-jpCg3CApKwcmvQ&oe=6AE74965",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "HU"
+      ]
+    },
+    {
+      "ad_id": "1315230617365220",
+      "product_name": "pinauto coussin de siege auto personnalise 1",
+      "product_key": "unverified:1315230617365220",
+      "category": "other",
+      "advertiser": "Pinauto Shop",
+      "source_country": "HU",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1315230617365220",
+      "landing_url": "https://fr.pinauto-store.com/products/pinauto-coussin-de-siege-auto-personnalise-1",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOR5_d1gOBpEsF0hsmbPeMPBgwlV27WM1JtRt6Q-Q99K4aDAc8YPqHiGSza2QcQvwTDaDovqX2cp-YHtCWeRzVZnq-uiWjXkwZ6BZmTKd92uQ.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=4nmvKO1jXOcQ7kNvwGJTnnT&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwMTg4MjgxNTcxOTA4MDEsImFzc2V0X2FnZV9kYXlzIjoxMzYsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=c3b5d24619c3366b&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83RTRFODQ3MjIxMjQ5NEIwNEQ0RDRBMjNBQzZCN0VCOF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzAxNDg5MUQ2NTE0MjFCNTcwNEUyODRFMzA1RDRDNzhCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaiiqymzafPAxUCKAJDMywXQDczMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=-pW1E70mVPbfkRcgH94INQ&_nc_ss=79289&_nc_zt=28&oh=00_AQQHNgaxygpFXMLOqX7jT510iCbqYQHZ0fdKBYxQsMWaOA&oe=6AE7559E",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "HU"
+      ]
+    },
+    {
+      "ad_id": "2303793336770019",
+      "product_name": "luxury foldable trunk organizer",
+      "product_key": "unverified:2303793336770019",
+      "category": "other",
+      "advertiser": "Pinauto Shop",
+      "source_country": "HU",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2303793336770019",
+      "landing_url": "https://pinauto-store.com/products/luxury-foldable-trunk-organizer",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOYHO3aCz7DwculNN0im0h5v7s72XZ-oK9mY3yTn3Cm28zRKO8ut1Nwu11eRS6TmVMvTJ9vOWQCNQwrXVebgv-Loe3akBSh9X8OkkmOvIuWPA.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=ePtjtvxsngEQ7kNvwHcVJ48&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEyMTExMTI2NDA2MjcyMDEsImFzc2V0X2FnZV9kYXlzIjo1NzEsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo1MiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=e9f8c7adbf59679a&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9ENzQyNjNFNDE2MEQ0NDg2RjI4MTgwOEIxQjVGNjBCMl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dEcU5GQjAwZjJ4dEgtWURBRDVweUVFeHJ5QVRidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaCiNKrhOCmBBUCKAJDMywXQEo7peNT988YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=-pW1E70mVPbfkRcgH94INQ&_nc_ss=79289&_nc_zt=28&oh=00_AQSGg5uVfRTmbpVSlkR06tjkeg6kVtFbqF-Aqr0hdMOzRg&oe=6AE7511B",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "HU"
+      ]
+    },
+    {
+      "ad_id": "1225177822918071",
+      "product_name": "crossbody l2eather bag",
+      "product_key": "sku:crossbody l2eather bag",
+      "category": "fashion",
+      "advertiser": "Enjoyaitlife-US",
+      "source_country": "HU",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1225177822918071",
+      "landing_url": "https://www.enjoyaitlife.com/products/crossbody-l2eather-bag",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMExqznG5te5z4YolSybrzNDCYGh4jEnqfSOYh_PaV5ZMkHM04HbxJXsbFRvwNttkkGE4RbbuP0BcZi9x4msEj2xPeIUhsSczuaF-Z7romM0Q.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=hyLOTcDzb1UQ7kNvwFdJg7R&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNjQwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjY0MTIzNDg4NTU3Mzc0OCwiYXNzZXRfYWdlX2RheXMiOjUzOCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjU5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=c95f0c1987b70008&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85ODQzOEJDMjY3NkJGOTdEMjc4N0JEQzFFNzA2NDk4Nl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dPNkNqQjNQRXBqTzIzNENBQldDN2JfamotRXBidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbo8ZOZ5MyjAhUCKAJDMywXQE3MzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=-pW1E70mVPbfkRcgH94INQ&_nc_ss=79289&_nc_zt=28&oh=00_AQT4NWO8HwQnGzA6vh4KjySa3rbSCWi9pWrMGbY4nXvTuQ&oe=6AE760DC",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "HU"
+      ]
+    },
+    {
+      "ad_id": "1241004131290109",
+      "product_name": "crossbody l2eather bag",
+      "product_key": "sku:crossbody l2eather bag",
+      "category": "fashion",
+      "advertiser": "Enjoyaitlife-US",
+      "source_country": "HU",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1241004131290109",
+      "landing_url": "https://www.enjoyaitlife.com/products/crossbody-l2eather-bag",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMExqznG5te5z4YolSybrzNDCYGh4jEnqfSOYh_PaV5ZMkHM04HbxJXsbFRvwNttkkGE4RbbuP0BcZi9x4msEj2xPeIUhsSczuaF-Z7romM0Q.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=hyLOTcDzb1UQ7kNvwFdJg7R&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNjQwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjY0MTIzNDg4NTU3Mzc0OCwiYXNzZXRfYWdlX2RheXMiOjUzOCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjU5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=c95f0c1987b70008&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85ODQzOEJDMjY3NkJGOTdEMjc4N0JEQzFFNzA2NDk4Nl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dPNkNqQjNQRXBqTzIzNENBQldDN2JfamotRXBidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbo8ZOZ5MyjAhUCKAJDMywXQE3MzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=-pW1E70mVPbfkRcgH94INQ&_nc_ss=79289&_nc_zt=28&oh=00_AQT4NWO8HwQnGzA6vh4KjySa3rbSCWi9pWrMGbY4nXvTuQ&oe=6AE760DC",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "HU"
+      ]
+    },
+    {
+      "ad_id": "832015223107028",
+      "product_name": "luxury foldable trunk organizer",
+      "product_key": "unverified:832015223107028",
+      "category": "other",
+      "advertiser": "Pinauto Shop",
+      "source_country": "HU",
+      "ad_url": "https://www.facebook.com/ads/library/?id=832015223107028",
+      "landing_url": "https://pinauto-store.com/products/luxury-foldable-trunk-organizer",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQM74f06I3X-LYy_5ZIlc4dLdpJLME4aInYtcer01W4aOdSybBwX9fUZ2CzV0mU5nUNzlJne5s22-jnNPAXs6GlipuJGMPOfEXxmJsau2qEgwA.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=5dr8HlWaRWoQ7kNvwGJVIBs&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzMzgxODExNzQwNjgyMjgsImFzc2V0X2FnZV9kYXlzIjo1NzEsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo1MiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=89e64f0d0f5642b2&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85ODQ5QTk4QjYzMDI1RDcyNTFBMTUyODEyOThEOEFBRF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dMWllKQjI2T2JtVy1qMENBQkdDSTRCdVlRczRidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaIkLTYssTgBBUCKAJDMywXQEpiDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=-pW1E70mVPbfkRcgH94INQ&_nc_ss=79289&_nc_zt=28&oh=00_AQTL8rZ7xHjlb8-paRobdP6KIu8UZS9RP3SfdvhnJq49vg&oe=6AE74F31",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "HU"
+      ]
+    },
+    {
+      "ad_id": "900132586455649",
+      "product_name": "pinauto coussin de siege auto personnalise 1",
+      "product_key": "unverified:900132586455649",
+      "category": "other",
+      "advertiser": "Pinauto Shop",
+      "source_country": "HU",
+      "ad_url": "https://www.facebook.com/ads/library/?id=900132586455649",
+      "landing_url": "https://fr.pinauto-store.com/products/pinauto-coussin-de-siege-auto-personnalise-1",
+      "image_url": null,
+      "video_url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNTNqrukZfNtftLJ2WWVR40epugin1G_mGDGSHtyrT9-qAFqArjuVgovlTObB9-zc7eAzXcndlaR4jH4YCqkElrY_tSoXzaY10D5wyTvzjJiw.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=1FVqiNIOR1sQ7kNvwFNmxuV&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIwNzg4ODQ3NzYzNDM3NDUsImFzc2V0X2FnZV9kYXlzIjoxMzYsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=1421dc55d7f1d369&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81ODQyREFBNUZEM0E0QjUwQjFBNTg2REYxQkFBMDU5Rl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzNFNDZBQTczM0U0NkU0NzY5RkM4ODcwMUIzODkwMkEyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaC4_vJgq-xBxUCKAJDMywXQDTEGJN0vGoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=-pW1E70mVPbfkRcgH94INQ&_nc_ss=79289&_nc_zt=28&oh=00_AQRxuW7EOS5CxxN-lspMudXUNM_0J1y-HQKS-2rCcHk6ig&oe=6AE74D0C",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "HU"
+      ]
+    },
+    {
+      "ad_id": "1508621520084758",
+      "product_name": "luxury foldable trunk organizer",
+      "product_key": "unverified:1508621520084758",
+      "category": "other",
+      "advertiser": "Pinauto Shop",
+      "source_country": "HU",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1508621520084758",
+      "landing_url": "https://pinauto-store.com/products/luxury-foldable-trunk-organizer",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPu8y3Q8BrOj_KQsD9P7d0oE30yPaaysPG2MfQo1eDdIEHujxovc3O6fQDTnuXrtG2S-NBdEJoNhJQInrPP8-1_-2ruHEPUG6hVS8Dbq6XYIg.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=iNhA4SQdHRgQ7kNvwHIHwrw&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjYzMDU3NTczOTczODU4NSwiYXNzZXRfYWdlX2RheXMiOjU3MSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjMxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=44fe111f7842aeb3&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wOTQzRDM4Rjg3MUIwNDFGNDk1NDQ4QTAyREUyRjI5RV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dLY3dFeDFrTG1BWU9OOGdBRGFYYXZ3clBOOHNidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACay58Svq-CeAhUCKAJDMywXQD-AAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=-pW1E70mVPbfkRcgH94INQ&_nc_ss=79289&_nc_zt=28&oh=00_AQSX9I7YvqfkD6XnVihDLUO9t8qTA-3CaMaxf3NhU1tlxw&oe=6AE753B0",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "HU"
+      ]
+    },
+    {
+      "ad_id": "2196822994490946",
+      "product_name": "pinauto coussin de siege auto personnalise 1",
+      "product_key": "unverified:2196822994490946",
+      "category": "other",
+      "advertiser": "Pinauto Shop",
+      "source_country": "HU",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2196822994490946",
+      "landing_url": "https://fr.pinauto-store.com/products/pinauto-coussin-de-siege-auto-personnalise-1",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPTfJPsehFYrIIRBVeMqzmofU01xqxItVYeJUBTqMY1STIhjj8l4vDn9Yb7ufwVgNRtzYZb8bFwKWvxuJ4NtcVEL7vlkJmlTfIEAgCMOy4QCQ.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=XBy8Ed5ZVJkQ7kNvwEv4Mgt&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk3MzUyMDE4ODc4NTA0MywiYXNzZXRfYWdlX2RheXMiOjEzNiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjIwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=de94a95ea684d85e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80QjQ2NEVCNzgyODBFRDNEMDdERkQ4MjA4NUNBMUNCNF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0JCNDBDMjcwNDg4MTlGNjAzRUQ1NUM5Qjg0MDNENUJFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACamhsbQqtq6AxUCKAJDMywXQDSQ5WBBiTcYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=-pW1E70mVPbfkRcgH94INQ&_nc_ss=79289&_nc_zt=28&oh=00_AQQuSKymYPevIA_VyE86JrBoFJIbCJQssMM7ZhwQHgqyIw&oe=6AE7683B",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "HU"
+      ]
+    },
+    {
+      "ad_id": "1378920657415323",
+      "product_name": "pinauto coussin de siege auto personnalise 1",
+      "product_key": "unverified:1378920657415323",
+      "category": "other",
+      "advertiser": "Pinauto Shop",
+      "source_country": "HU",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1378920657415323",
+      "landing_url": "https://fr.pinauto-store.com/products/pinauto-coussin-de-siege-auto-personnalise-1",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPeqKVydp87Db2EawCtLcN4VyWYF90KGQTCF5htiUalBdzxwrCpSK1heRJOTeFHtgJUpfWnpV5186a_kmUkdPl5fyUnWy3wZueQE6N87RbPCQ.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=QhIycodG01EQ7kNvwEeqfbw&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1NzU1MzYzNTc1NTc1NjksImFzc2V0X2FnZV9kYXlzIjoxMzYsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyMSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=2912baa95d3fbba0&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FNjQwRDUxRUEzNUQ3RUE5QThDQkI5MERFN0U3NzlCN19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Q5NDE1QjA0QjJGODI2NDhERkQzNDE4MzUzRjQ1Rjg5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaCleLOpLzMBRUCKAJDMywXQDUiDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=-pW1E70mVPbfkRcgH94INQ&_nc_ss=79289&_nc_zt=28&oh=00_AQShJ_q0RMfxAl4-dptPiWpKQlKPwHg33pW2Zn9Fa7MrXw&oe=6AE74512",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "HU"
+      ]
+    },
+    {
+      "ad_id": "2114931159056875",
+      "product_name": "pinauto coussin de siege auto personnalise 1",
+      "product_key": "unverified:2114931159056875",
+      "category": "other",
+      "advertiser": "Pinauto Shop",
+      "source_country": "HU",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2114931159056875",
+      "landing_url": "https://fr.pinauto-store.com/products/pinauto-coussin-de-siege-auto-personnalise-1",
+      "image_url": null,
+      "video_url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOg2-Ke_GEeUiZLn_kTPWUUoGZZYSbfjZPANx6knfvPC16CTi52Gb7R9_QPhSJJhQAf490g6ed0DRoTNDBEt_sqamg6ejtrJOQ8cvzF0EQncQ.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=V7iRV3DjgogQ7kNvwFjC-EO&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3NDczODU5ODk4NDMzOTEsImFzc2V0X2FnZV9kYXlzIjoxMzYsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=ce6b15b8c2551d3&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83QTQ3NEVDRjU0RUU1NUE1NDIwRjExMjU1NjdGNEE4Rl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0ZGNEI1ODAyQjBCMjkyOTBERjYxMkVFMUM2RTVDMkIwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb-pq6ToM-aBhUCKAJDMywXQDezMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=-pW1E70mVPbfkRcgH94INQ&_nc_ss=79289&_nc_zt=28&oh=00_AQRfjQhkzvcuorPIgMpZ9dNxB0mFx7Q7HsTz0DLXjHSgZA&oe=6AE75FA5",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "HU"
+      ]
+    },
+    {
+      "ad_id": "1701752505291324",
+      "product_name": "touchscreen phone pouch",
+      "product_key": "unverified:1701752505291324",
+      "category": "electronics",
+      "advertiser": "Bamaxisboon_hhh",
+      "source_country": "NG",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1701752505291324",
+      "landing_url": "https://www.zenblux.com/funnel/news-cute-and-stylish-mobile-phone-case-m-26",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQN7QuI8GkCF4W5IKXMtxHHX4qAKGQ2lgWgdYNzr0kr-K7DEfq271vGxOferkX54DP4CQcqNgG1rCw_DXUrJIGwA_KPwhizHWtdnUXX3rJhdcQ.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=HjDCt9iQK04Q7kNvwGoir2H&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE4NDE4Mzk3NDM5MDAxOTIsImFzc2V0X2FnZV9kYXlzIjoxNiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjIzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=2b764d6c9a192575&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BQzgwQTJCN0RBQTk0NEE1QkQxOTQ3MjVBMzI1RkE5Rl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Y5RUM0OUVDRjFCOTQwRDc4MEZCMzZFRTNGNkFGRUM3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbA6Ni6l8nFBhUCKAJDMywXQDdVP3ztkWgYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=jnC6u58sqkdH82EU8nMyKg&_nc_ss=79289&_nc_zt=28&oh=00_AQQB8bVPgcyYp4itmiDiZukk66SrLNKPLKKFHttkh-51GA&oe=6AE748DD",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "NG"
+      ]
+    },
+    {
+      "ad_id": "1659858698868970",
+      "product_name": "touchscreen phone pouch",
+      "product_key": "unverified:1659858698868970",
+      "category": "electronics",
+      "advertiser": "Bamaxisboon_hhh",
+      "source_country": "NG",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1659858698868970",
+      "landing_url": "https://www.zenblux.com/funnel/news-cute-and-stylish-mobile-phone-case-m-26",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQP4aUNqGJtLgwaKFQpip9tmgoQcVuXq3r2diaOY116gvMR4-iSR9it1gn04apjO6Ai5CtI1t8lnsOL2NpDsjkaSiteoVvbJZypjLv-zDrwrgg.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=uTR7fQTDObUQ7kNvwES59my&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2MDUzMDkwOTEzODc5NjcsImFzc2V0X2FnZV9kYXlzIjoxMCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjIzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=196c4b2cd6c5a95a&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CRjFCQTc0RUNFRTE0MTk2ODhGMjQ4QzE4OUExMDY2NV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzdCM0MxNDZGOEQ3QzQwQzE4NEE5MzFFQkY4MkE2QTc3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb-6KzipIHaBRUCKAJDMywXQDdVP3ztkWgYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=jnC6u58sqkdH82EU8nMyKg&_nc_ss=79289&_nc_zt=28&oh=00_AQSnOC9orMTXL2tZHjdv1W1Fj5VOP-XoMMsKM7X96rJ9Zw&oe=6AE74D99",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "NG"
+      ]
+    },
+    {
+      "ad_id": "1414480784148605",
+      "product_name": "touchscreen phone pouch",
+      "product_key": "unverified:1414480784148605",
+      "category": "electronics",
+      "advertiser": "Bamaxisboon_hhh",
+      "source_country": "NG",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1414480784148605",
+      "landing_url": "https://www.zenblux.com/funnel/news-cute-and-stylish-mobile-phone-case-m-26",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPzjh0Jy8Wk4IBQK1LwDazgrucJ_nfJPU6O9T591X1MWJgtk8odFqgkX_SEZsERbw4IQvcznjlVfkkaIvDhPAIrg_8JbdI2beMEIUoXW_Yqwg.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=YahrvwafYrwQ7kNvwGBAs8e&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3NTY5MzIzNjU0MjA3MjIsImFzc2V0X2FnZV9kYXlzIjoxMCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjIzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=4409b9abd6d366d5&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FMUY1QzMxNjgxRjg0OUI0QTVFRUY2NDQ0QzNFOUE5N19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0QzMUMyQjVDQzAzQTQ1ODA4NjI1NzI0RkY4ODYwRUNEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbkosiY9vqeBhUCKAJDMywXQDdVP3ztkWgYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=jnC6u58sqkdH82EU8nMyKg&_nc_ss=79289&_nc_zt=28&oh=00_AQRGH01Hd0VjzqTEwesJeOMp02Ht_t1LG1_Qi22o5GuHzQ&oe=6AE74922",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "NG"
+      ]
+    },
+    {
+      "ad_id": "901365072370780",
+      "product_name": "𝐍𝐚𝐭𝐢𝐯𝐞𝐌𝐚𝐱 𝐌𝐢𝐧𝐢 𝐈𝐧𝐯𝐞𝐫𝐭𝐞𝐫 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐨𝐫𝐬 𝐐𝐮𝐢𝐞𝐭 𝐅𝐮𝐞𝐥 𝐄𝐟𝐟𝐢𝐜𝐢𝐞𝐧𝐭 𝐑𝐞𝐥𝐢𝐚𝐛𝐥𝐞",
+      "product_key": "unverified:901365072370780",
+      "category": "other",
+      "advertiser": "NativeWay",
+      "source_country": "LK",
+      "ad_url": "https://www.facebook.com/ads/library/?id=901365072370780",
+      "landing_url": "https://facebook.com/nativewayglobal",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/745144851_1966560117334528_7855525892372688545_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jILvXWErSzAQ7kNvwG9EK0p&_nc_oc=AdpDrVJal4w_9XTedVzq9B38y4R77jE37ypNf1-g0ADT6_S6-yMQob5KA-BzQHxwmJU&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=mqLr9UDceHSQWaGq465yBQ&_nc_ss=79289&oh=00_AQRu9RjfKDHe3fCYB3eZN1oRZevGuTaTJS5Cb43__OgKqA&oe=6AE74BAC",
+      "video_url": null,
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "LK"
+      ]
+    },
+    {
+      "ad_id": "690463373873352",
+      "product_name": "firman power equipment",
+      "product_key": "unverified:690463373873352",
+      "category": "other",
+      "advertiser": "Firman Power Equipment",
+      "source_country": "LK",
+      "ad_url": "https://www.facebook.com/ads/library/?id=690463373873352",
+      "landing_url": "https://www.costco.ca/CatalogSearch?keyword=firman&brand=firman&dept=All&refine=||Brand_attr-Firman",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/588254826_1507121293896155_4478632036928835707_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=39eEzAZT714Q7kNvwEMthfc&_nc_oc=Adozoq0B66WgmKvt6cCed2rg4g3DrwuWeUTW7GLE_BIFXUEqRn7LaDM2OGIwv1TmKyQ&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=mqLr9UDceHSQWaGq465yBQ&_nc_ss=79289&oh=00_AQT1rbyqp7kIBTMgZUSG1Tqz6RqyYuLV5yZtnGaDeeqnBg&oe=6AE76755",
+      "video_url": null,
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "LK"
+      ]
+    },
+    {
+      "ad_id": "1945178976247141",
+      "product_name": "launch your store with salehoo",
+      "product_key": "unverified:1945178976247141",
+      "category": "other",
+      "advertiser": "SaleHoo",
+      "source_country": "LK",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1945178976247141",
+      "landing_url": "https://www.salehoo.com/trial",
+      "image_url": null,
+      "video_url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPWWStNTD49TjSwSR5SKR8NR8nGvQUHoebi4oUFYrv8KHV8AB4VKN8skuCCyakvUZikkmcifWDW8zbBSCSMCoGC3Fl5O3OBfOBHT5oZ__HX7A.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=QfrlMMNBy4IQ7kNvwEzRJ3S&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjgwMTQwMjk5NTg5NTM5OSwiYXNzZXRfYWdlX2RheXMiOjQ2NSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjg3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=e782520c4ea09f44&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yNjZDREM3QUVBNjQ0QUU2ODdERkQwQjQ4QTk0QkRFRF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzdBNEMzMzZBQjRGMzU1QUFDMjk3OTM1QTg3QjUyOEE1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbOsaPO5bfsAhUCKAJDMywXQFXAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=mqLr9UDceHSQWaGq465yBQ&_nc_ss=79289&_nc_zt=28&oh=00_AQQLpAfLjukDYV786tgu4RZMiHmV0RdYRWz3IpLnPYlXzQ&oe=6AE7494D",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "LK"
+      ]
+    },
+    {
+      "ad_id": "1734506807620256",
+      "product_name": "your adventure starts here",
+      "product_key": "unverified:1734506807620256",
+      "category": "other",
+      "advertiser": "Gopro Lover",
+      "source_country": "LK",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1734506807620256",
+      "landing_url": "https://api.whatsapp.com/send",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/773800190_928471972995492_5489527023934101761_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JGpTrD0YphIQ7kNvwFZiH0M&_nc_oc=AdpXSX6W7cTXqf08_SKtYr8omrQDuyd2XHav_agsfkgOmKIFiTFbw2k3RVs2topHrAY&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=mqLr9UDceHSQWaGq465yBQ&_nc_ss=79289&oh=00_AQSIRpNsim-9k9xAJVPSoDXGKUAXqu9AGFF3-vgewQkD5g&oe=6AE74857",
+      "video_url": null,
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "LK"
+      ]
+    },
+    {
+      "ad_id": "1395855582536172",
+      "product_name": "come to the factory and get your ro plant according to your need",
+      "product_key": "title:come to the factory and get your ro plant according to your need",
+      "category": "garden",
+      "advertiser": "Water Purification Equipment Anna",
+      "source_country": "LK",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1395855582536172",
+      "landing_url": null,
+      "image_url": null,
+      "video_url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNFaQgVv5TL4uulMFl_uiFmx63fn3lYwZa0xFI28Rq9Ty1TG0Yq2rBWPrKVIMyKkHJnA7UFW8rMrRhLSyfMFUzkA2QN4UxiRAzKbiWiOSGxbg.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=JJhxTP_oh0UQ7kNvwFQ9mhD&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0MTI3NDYzNjA1MDU1MzgsImFzc2V0X2FnZV9kYXlzIjo4LCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6MTQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=56d5ed0009e0256a&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81RTM2RDE0RjUyOEY0MTg2OEY3M0M5MDQ5MTNDQzRFNl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0I3MDA3NThGN0NEOTQ1MEM4QkE3M0Q2Rjc0MTlENjU4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaEk87P1LiCBRUCKAJDMywXQC2ZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=mqLr9UDceHSQWaGq465yBQ&_nc_ss=79289&_nc_zt=28&oh=00_AQQB8PS0KmUaHAljArrGNfj3Rx9PFktgkROBWSPB8TZxRQ&oe=6AE76B60",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "LK"
+      ]
+    },
+    {
+      "ad_id": "918288257493276",
+      "product_name": "ක ම ප බඩ rent කරම",
+      "product_key": "unverified:918288257493276",
+      "category": "other",
+      "advertiser": "Travelgears",
+      "source_country": "LK",
+      "ad_url": "https://www.facebook.com/ads/library/?id=918288257493276",
+      "landing_url": null,
+      "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/784617481_1625116229263183_2575869466457875376_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jYBP1pzoqpwQ7kNvwG47PL4&_nc_oc=AdokiDYZQQIOgEl4hhPHvrc61OlMOtz06dioP2mg7jxxVTGECDI8AJvdhv9RfUz6DYc&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=mqLr9UDceHSQWaGq465yBQ&_nc_ss=79289&oh=00_AQSqzfjLSZUbrK2p-ASaaAc_AU-8-tMwUR48vKJHGssD6Q&oe=6AE764F1",
+      "video_url": null,
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "LK"
+      ]
+    },
+    {
+      "ad_id": "38779667391681070",
+      "product_name": "army surplus stores guide",
+      "product_key": "unverified:38779667391681070",
+      "category": "other",
+      "advertiser": "Lux & Lush",
+      "source_country": "LK",
+      "ad_url": "https://www.facebook.com/ads/library/?id=38779667391681070",
+      "landing_url": "https://sarb.path-2-career.com/article/sarb-army-stores-vev/?channel=mm_ch44262&rac=Army+Surplus+Stores+Guide",
+      "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/834419215_1614138060369699_5269366967167269517_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cTucymqSwwQQ7kNvwHfkp84&_nc_oc=AdoHqce-aY75Y7dgJzWCABhEUbFTX78CCFQFUNdC5klcETSI5RkEZT7nFtz0mh9_toY&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=mqLr9UDceHSQWaGq465yBQ&_nc_ss=79289&oh=00_AQTrPVn8MKbn8efuNtWq_UvHyvt13ROfs565ZHwAXu3wwg&oe=6AE7495C",
+      "video_url": null,
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "LK"
+      ]
+    },
+    {
+      "ad_id": "1985350452045369",
+      "product_name": "army surplus stores guide",
+      "product_key": "unverified:1985350452045369",
+      "category": "other",
+      "advertiser": "GlobalGlimpses",
+      "source_country": "LK",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1985350452045369",
+      "landing_url": "https://sarb.daily-buzzz.com/article/sarb-army-stores-vev/?channel=mm_ch9701&rac=Army+Surplus+Stores+Guide",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/839934741_1442550694738498_3968162302085729762_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RJJzq7gqV6QQ7kNvwFqrLSx&_nc_oc=AdrP7_uAROJNBGoI8X23lzq81y1duQvTxrtU8dSVYc3OFUChtgHPrMqkhGVY6ZOFmVk&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=mqLr9UDceHSQWaGq465yBQ&_nc_ss=79289&oh=00_AQQg0SDO2gP1Fo7Ye1WUTyBfiHWjRvfkq0k-GMQ2OXVqKQ&oe=6AE766A7",
+      "video_url": null,
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "LK"
+      ]
+    },
+    {
+      "ad_id": "1692563961728495",
+      "product_name": "more tent glamping tent",
+      "product_key": "unverified:1692563961728495",
+      "category": "other",
+      "advertiser": "MORE TENT Glamping Tent",
+      "source_country": "LK",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1692563961728495",
+      "landing_url": "http://fb.me/",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/490036773_4188703614749768_7160135083522061476_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bn9sw9UEoLcQ7kNvwE5-KeO&_nc_oc=AdotUKfTCWJl36fAIAwAsSIC70ND4LIHCr93fSS_45nZy15oKxhw9RunUtiXsFdlCW0&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=mqLr9UDceHSQWaGq465yBQ&_nc_ss=79289&oh=00_AQTp7DWCQbyhyeocMyx8G1KyHwKzlFlpCLF3cHMmlZfVgg&oe=6AE74CA7",
+      "video_url": null,
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "LK"
+      ]
+    },
+    {
+      "ad_id": "3671126229729940",
+      "product_name": "forbidden love with my rival",
+      "product_key": "unverified:3671126229729940",
+      "category": "other",
+      "advertiser": "NS-JM-a",
+      "source_country": "LK",
+      "ad_url": "https://www.facebook.com/ads/library/?id=3671126229729940",
+      "landing_url": "https://fb.netshort.com/netshort-h5-landing-page/wDMAz0X_c_O.html?pid=metaweb_int&c={{campaign.name}}&af_c_id={{campaign.id}}&af_adset={{adset.name}}&af_adset_id={{adset.id}}&af_ad={{ad.name}}&af_ad_id={{ad.id}}&af_channel={{placement}}&af_siteid={{site_source_name}}&af_force_deeplink=true&type=1&link_id=2112541099817947138&af_sub2=0",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMVtUFfvnuG_zbCMdynJcSMDCrksD6sPF4n67BE98g-u4WXOHZZGTDmEScNVJk3kv8LX_cWiQByU0ktKHy17DX4R9mvmjOqvCjPHRBA8UiViQ.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=C0ig_-thmK4Q7kNvwEKZG_e&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3OTM5MzQ5NTUwNTM0MDYsImFzc2V0X2FnZV9kYXlzIjoyNiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjgyNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=f0056169407a767b&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81REE0OUVEMTY3MjE0NEFBQkE4MEY3MTlGMTBCNjU1Ql9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0U0QzdGRTU0NUQ3RDQzOEE5RjZFNUE4QTdGQjhGODdEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa8hfj74OSvBhUCKAJDMywXQInEzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=mqLr9UDceHSQWaGq465yBQ&_nc_ss=79289&_nc_zt=28&oh=00_AQRoCaC51R_VVV_Nv3joUl6jehYBS4acTgoHS-nJKJD2Nw&oe=6AE745DE",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "LK"
+      ]
+    },
+    {
+      "ad_id": "1416941920073252",
+      "product_name": "build your own trailer",
+      "product_key": "unverified:1416941920073252",
+      "category": "other",
+      "advertiser": "Creativo Digital",
+      "source_country": "LK",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1416941920073252",
+      "landing_url": "https://trailerbuildplans.creativodigital.shop/",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/861994086_1417660517195321_132004231933280890_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3UlSy-WH1GsQ7kNvwHalMVM&_nc_oc=Adpy5MAjyDRvd_iGSfV3H5C7MxwpQ3N6cjePim1M5GgrqqqFGXv7yhGyzMG4whbz8nM&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=mqLr9UDceHSQWaGq465yBQ&_nc_ss=79289&oh=00_AQSISQ8CWhNDM7fBM4ZetX53G_0WGaCdGIJjbqPtHnYXUQ&oe=6AE761AA",
+      "video_url": null,
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "LK"
+      ]
+    },
+    {
+      "ad_id": "2560973071044661",
+      "product_name": "build your own trailer",
+      "product_key": "unverified:2560973071044661",
+      "category": "other",
+      "advertiser": "Creativo Digital",
+      "source_country": "LK",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2560973071044661",
+      "landing_url": "https://trailerbuildplans.creativodigital.shop/",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/859901284_1439711954984805_5489414014574898799_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8RHjBv0Z1n4Q7kNvwGbjnRZ&_nc_oc=Adop2LD6CUJClH4kONCPSOb6t-dZ6gQnwdVNWlYoQBGxNurgBm7qXVtIhhqqeH_Fllg&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=mqLr9UDceHSQWaGq465yBQ&_nc_ss=79289&oh=00_AQSrQo8CodunYdI3d3BnGuHyDlny3H5e84OoAo-sfSxWCw&oe=6AE74AE5",
+      "video_url": null,
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "LK"
+      ]
+    },
+    {
+      "ad_id": "1427443169601948",
+      "product_name": "build your own trailer",
+      "product_key": "unverified:1427443169601948",
+      "category": "other",
+      "advertiser": "Creativo Digital",
+      "source_country": "LK",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1427443169601948",
+      "landing_url": "https://trailerbuildplans.creativodigital.shop/",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMLiE1NjF8kNqnZg6fJMOziFzlcIuPaLN02GGuIYY9YFQ7QoV8vklQ1CDQEL6G127HNI7Y54YhZ42v66nBhQzGsGd4Hx6oEDTIOyTuvHg3xPw.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=6H0pqrvdezAQ7kNvwEhr_qB&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1NzQzMjIwNzE0MDUwODgsImFzc2V0X2FnZV9kYXlzIjozLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MjUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=7ebc5f800a132a04&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FMzA0NDM0RjMyNzI0OTkzOUFBRENGMjRFQTBGMDk0Rl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzE2Njc1NjdDRTA2RDRDMDM5QzMwNzk4NjU5NERGQkIxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbAiKC9zfXLBRUCKAJDMywXQDldsi0OVgQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=mqLr9UDceHSQWaGq465yBQ&_nc_ss=79289&_nc_zt=28&oh=00_AQTgKIshhceIZ1n6RpvmBKBS84OqMrXVBaO_wi0axWATAQ&oe=6AE74A8C",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "LK"
+      ]
+    },
+    {
+      "ad_id": "1145158458082626",
+      "product_name": "army surplus stores guide",
+      "product_key": "unverified:1145158458082626",
+      "category": "other",
+      "advertiser": "Travel Trends",
+      "source_country": "LK",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1145158458082626",
+      "landing_url": "https://sarb.path-2-career.com/article/sarb-army-surplus-stores-vev/?channel=mm_ch15188&creative_id=1001116",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/852415373_2203119967216405_895218841849277731_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-PkiXzijsyYQ7kNvwF6mJYc&_nc_oc=AdqVGiDfhUKFSk398tinDyZOR1cqd-ZVOuW2Sy5IV0qV1lrsgLBnQTf9Fs3t8K8Qtik&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=mqLr9UDceHSQWaGq465yBQ&_nc_ss=79289&oh=00_AQRJcMKdkFN8gVHhC-Z7KxaUxnwMUB9TXQABnggnJ4qQNA&oe=6AE748E0",
+      "video_url": null,
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "LK"
+      ]
+    },
+    {
+      "ad_id": "1419897696963795",
+      "product_name": "දවස ද හ කට අත ර දහන ව ම",
+      "product_key": "unverified:1419897696963795",
+      "category": "other",
+      "advertiser": "Travelgears",
+      "source_country": "LK",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1419897696963795",
+      "landing_url": "https://api.whatsapp.com/send",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQM3H3X_Rf8dgLBVb7RWkawyJxbKDhkwZUvXMM-TYGj4sQs9UDDHeRwRcTPPNYcl0Xkf_ogAWnevP8iTQQDkOEaaoRVfAJD_IMQX5TQQfpi0Pw.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=YR-3zUGuVVwQ7kNvwHZc5yv&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExMzMzMTMwMTkyMzc0OTQsImFzc2V0X2FnZV9kYXlzIjo0LCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6MjEwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=5d528f24e6d6b741&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84OEE5RTc3MERFNzc0NTU3QTQwRDg5NDM5Mjc2MDE0MF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzNERUJGOEVDM0RBQzRDRTU4NkI1QjQ5NTcwQ0JDRTUxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbs0fL-v6-DBBUCKAJDMywXQGpR64UeuFIYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=mqLr9UDceHSQWaGq465yBQ&_nc_ss=79289&_nc_zt=28&oh=00_AQRTPAoqTCBeoh4h8CV32msgHmZ6RyyNOufyvUkgSWRDvw&oe=6AE76AA2",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "LK"
+      ]
+    },
+    {
+      "ad_id": "1113133474536503",
+      "product_name": "army surplus stores guide",
+      "product_key": "unverified:1113133474536503",
+      "category": "other",
+      "advertiser": "Travel Trends",
+      "source_country": "LK",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1113133474536503",
+      "landing_url": "https://sarb.path-2-career.com/article/sarb-army-surplus-stores-vev/?channel=mm_ch15188&creative_id=1001117",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/854568828_3540320926146722_6664273143436354419_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZIZjzOs5G2oQ7kNvwHzyQeg&_nc_oc=Adok3HAJEeaWO9ccQtys8xwX1VErEU-97DceS0TBPs10un_rLuYblrmEgA7HeWNZWWk&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=mqLr9UDceHSQWaGq465yBQ&_nc_ss=79289&oh=00_AQSfuYLMCW8YzUwYZpI8Jap5b-O5SHvE78kWJl9xkpv3EQ&oe=6AE76867",
+      "video_url": null,
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "LK"
+      ]
+    },
+    {
+      "ad_id": "1121944246978848",
+      "product_name": "transparent pe waterproof rain cover for outdoor",
+      "product_key": "unverified:1121944246978848",
+      "category": "other",
+      "advertiser": "Tremendousup-SU",
+      "source_country": "LK",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1121944246978848",
+      "landing_url": "https://www.novtris.com/funnel/news-transparent-pe-waterproof-rain-cover-for-outdoor-wmy-m-1",
+      "image_url": null,
+      "video_url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMg55MHUGyLem7zCjZvVDApKYC_tJ5fR8RKGqEnQyD1AK4qs79i7GKk6vJ9Bo5lbvYVmr5jwL3BDjxbd185aCmrZlERKPDWbcvXi5nsPQ-kVA.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=ydwgt5z9HIAQ7kNvwFnHjgX&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE5MTAzMjUzNTM0NjA0NTgsImFzc2V0X2FnZV9kYXlzIjozLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MjgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=e9b4927deaebf4c8&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xMDk3MjI2MzZCNUY0RDlGQTJDNkNFQkEzQkI1RkU5Nl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzBCMjRDQjQ3MkUzRjQzMjBCOEMwQUI2N0NBRTEzRDlDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbUy8mBydvkBhUCKAJDMywXQDwIcrAgxJwYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=mqLr9UDceHSQWaGq465yBQ&_nc_ss=79289&_nc_zt=28&oh=00_AQQ8mnPRS9FIWAIHDiQf-B5ejTrJcfJKgySgYGOE7N0Alg&oe=6AE75DB7",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "LK"
+      ]
+    },
+    {
+      "ad_id": "1486045966917147",
+      "product_name": "stainless steel trailer jack electric drill adapter",
+      "product_key": "unverified:1486045966917147",
+      "category": "other",
+      "advertiser": "Ascribeavail.EA04",
+      "source_country": "LK",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1486045966917147",
+      "landing_url": "https://www.ascribeavail.com/pages/news-stainless-steel-trailer-jack-electric-drill-adapter-m-3",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMW8qcLMEnez63qlWLqrPquFjHe9tq2FJ224MjZYjLiGV9Vpk9psEsJKmbfZLvP3zZcN9tnFPlC0vxUb7U8d58kL8gM8U7RLXooJAIJrFP9MQ.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=087gzivwEdoQ7kNvwG-TYZu&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNDgwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE4NDE1NTE1OTM3NDg4NjksImFzc2V0X2FnZV9kYXlzIjo1LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MzUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=e19770187b1b45a9&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CQzhGQkY5QkFEREI0NUIwOUQ4REM3MzUxRDQwMjMwMl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzlGNzZFMUQ3QjQ2NzRBOTFCRUNBNjQ1RjhCRkMwODgxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaK5qXJtLjFBhUCKAJDMywXQEGIcrAgxJwYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=mqLr9UDceHSQWaGq465yBQ&_nc_ss=79289&_nc_zt=28&oh=00_AQS0ms3FP4Y3zKwMWSz2QxMyH7gLZ22PmmTWTLKjqD8dVQ&oe=6AE75F10",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "LK"
+      ]
+    },
+    {
+      "ad_id": "2800580287005258",
+      "product_name": "transparent pe waterproof rain cover for outdoor",
+      "product_key": "unverified:2800580287005258",
+      "category": "other",
+      "advertiser": "Tremendousup-SU",
+      "source_country": "LK",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2800580287005258",
+      "landing_url": "https://www.novtris.com/funnel/news-transparent-pe-waterproof-rain-cover-for-outdoor-wmy-m-1",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOwAdys_CkYaPqDUMYZ9Il7lhWQ5fjNqJCLjBOSw-LDKzWlkxtBi_n0qKw7Z4Ma-mTqXO1uvDXw91w6HUQ_oKRe6UH78anahwsMd15-fPKRUw.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=TCy3dNiePgoQ7kNvwGCAcBS&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3MDk5MTAzNDM4OTE5MjEsImFzc2V0X2FnZV9kYXlzIjozLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MjMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=2dfa09bb7276b1f8&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85QTMyNjczODkyNzM0RDEyOTQ2OUE3QUYxNjRGNjJGQ19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzk5M0Q1QjgxNzEzNzRERUM4MUNDNEFGMzQ5RERGRDkzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACai76nq8MmJBhUCKAJDMywXQDczMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=mqLr9UDceHSQWaGq465yBQ&_nc_ss=79289&_nc_zt=28&oh=00_AQRDiOySqavPJGfDZSvPeL29vYM_b50-3Xrm6Qm97hgu5Q&oe=6AE7464E",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "LK"
+      ]
+    },
+    {
+      "ad_id": "999139336555716",
+      "product_name": "transparent pe waterproof rain cover for outdoor",
+      "product_key": "unverified:999139336555716",
+      "category": "other",
+      "advertiser": "Parallelat#1",
+      "source_country": "LK",
+      "ad_url": "https://www.facebook.com/ads/library/?id=999139336555716",
+      "landing_url": "https://www.novtris.com/funnel/news-transparent-pe-waterproof-rain-cover-for-outdoor-wmy-m-1",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMfVPhQph-9Yo7KEZjTfFR2SIkZ0djLg_TyuKUzp_9jQHFM-9YDkWGyAyCWMUYL9WvPnhdlg_mBuhviesgW-BytbsU9HYsyditkW0FJEK8tQQ.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=5jODdZArjVMQ7kNvwH1xRvz&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2NDI2NTU3MTQxNjAwOTUsImFzc2V0X2FnZV9kYXlzIjo0LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MzEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=c9f0e48ec3c7160f&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81OTE1NENGREM4MTI0Njk4OTZGNDM5Q0ZCMzQ0MUNDN19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzc5NkM4N0FBRTkwMTRBNzBBN0RBOTUzQkE0MTM3OUI4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa-t6Xlkv_qBRUCKAJDMywXQD-ZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=mqLr9UDceHSQWaGq465yBQ&_nc_ss=79289&_nc_zt=28&oh=00_AQTvswGkgcnAhlNd7xV4_OKEMtiDSmvIM2_3hzer2eSXaA&oe=6AE74CC6",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "LK"
+      ]
+    },
+    {
+      "ad_id": "2356431721774606",
+      "product_name": "transparent pe waterproof rain cover for outdoor",
+      "product_key": "unverified:2356431721774606",
+      "category": "other",
+      "advertiser": "Enquireget6",
+      "source_country": "LK",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2356431721774606",
+      "landing_url": "https://www.rivlume.com/funnel/news-transparent-pe-waterproof-rain-cover-for-outdoor-wmy-m-1",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOwkp-rdOTp5PNkk5Yfw9y_7zDQ4yzS2SptrDD-Gfz2X3mIUVvwbpvzbdnG6RiQJg1jnmlenZ7Su5ryAbkCE0OvVKzI9FFEpN_H4Oi3dACQsg.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=r3jAJlmxM-kQ7kNvwGRfu8x&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExMzg3NDM5MDE4MzU3MzAsImFzc2V0X2FnZV9kYXlzIjo0LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MzEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=5c954f294992ffa3&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wMTA0NTc3NEUzREM0MjE3QjU3RThGNkRGQ0U3Q0REMF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzM1QTY3MkNBQUI5NDRCOUQ5NTkyNjY3RUFCODgxMzNBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACakx5Kcz-uFBBUCKAJDMywXQD-ZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=mqLr9UDceHSQWaGq465yBQ&_nc_ss=79289&_nc_zt=28&oh=00_AQQ2oDIYk5CnFc5mhrIuXpmuf31F_OW-3f5g8yAvrFWxLQ&oe=6AE73D09",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "LK"
+      ]
+    },
+    {
+      "ad_id": "3278430522348058",
+      "product_name": "transparent pe waterproof rain cover for outdoor",
+      "product_key": "unverified:3278430522348058",
+      "category": "other",
+      "advertiser": "Occasionalous.Pro",
+      "source_country": "LK",
+      "ad_url": "https://www.facebook.com/ads/library/?id=3278430522348058",
+      "landing_url": "https://www.crispelyx.com/funnel/news-transparent-pe-waterproof-rain-cover-for-outdoor-wmy-m-1",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMgfpdjEmcW-GfDTO0NKvIf8rcBiDk6hjZhuKHEhxQ3bJELOj3ygAKUs_USJYGrTbQTTDqJgADxfGpHtoMMBBqkqHYI57zQxztf_ADB7kXABQ.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=6sXxpqwXDqcQ7kNvwELiguv&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1NDQyOTQ5Njc0NTY1MDcsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MzEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=f2d9a49ca549813b&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9EOEM4NDU2REE5OTk0MUI3OThCQTg5NDZCNUEzMTg1RF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzExNDc3RUQyNTI4MTRFQ0NBMUNGMTMzM0MwNUMzRTgzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb2y7WP5qG-BRUCKAJDMywXQD-ZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=mqLr9UDceHSQWaGq465yBQ&_nc_ss=79289&_nc_zt=28&oh=00_AQQHOToBkfVYm8Z0cH3BqU9tSSn40idL4WGzWEyNqVQ1Vw&oe=6AE74F10",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "LK"
+      ]
+    },
+    {
+      "ad_id": "29359116833685250",
+      "product_name": "transparent pe waterproof rain cover for outdoor",
+      "product_key": "unverified:29359116833685250",
+      "category": "other",
+      "advertiser": "Slycunning%p",
+      "source_country": "LK",
+      "ad_url": "https://www.facebook.com/ads/library/?id=29359116833685250",
+      "landing_url": "https://www.slycunning.net/pages/news-transparent-pe-waterproof-rain-cover-for-outdoor-wmy-m-1",
+      "image_url": null,
+      "video_url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOfExQfgexJn_-hX9n_8HnSlb6z7aeR3cRoPMNCFgykCOJIz6H20JGLMZyFQxJydBrUFjVJ19lS1YV7kj7KHBYB_OmWEvQ2oIa4Nkm1_xDGPA.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=qlvi6ItIAbQQ7kNvwH9PHAZ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExNTQ5MDg2MDM5MjI0NDgsImFzc2V0X2FnZV9kYXlzIjozLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MzEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=9f3a1f5c9c5eef08&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FNEJDMDgzMzIxQjM0NEFDQTdCRTEyRUIxREFBQUM2OV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzFDNTIwNDdBODEyRjRGQzg5OTQ4MDY1REJFMUU1NTQyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACag4K3Rw5iNBBUCKAJDMywXQD-ZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=mqLr9UDceHSQWaGq465yBQ&_nc_ss=79289&_nc_zt=28&oh=00_AQQHA42ds9zn-NMakgU_1k4wEKVBCZiMJlR3RlAeRhEmJQ&oe=6AE739C8",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "LK"
+      ]
+    },
+    {
+      "ad_id": "1086801053851249",
+      "product_name": "pure color blasting fun",
+      "product_key": "unverified:1086801053851249",
+      "category": "other",
+      "advertiser": "Ivy Color Block",
+      "source_country": "SI",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1086801053851249",
+      "landing_url": "http://itunes.apple.com/app/id6478063606",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMrVD19jyuOPE9hsfWpUgHF7wVB3dwSCwi-v4QLW_SiUD8Bb7_Rifme02v9P6wKbfaww0tSXPg8vFz6YA5IlnOW6eq9RlcuZJ_JlJoXWhdLYw.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=T7fmEQkMTxIQ7kNvwEb4wbq&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzNzczMTI2MzA1NzI4MTIsImFzc2V0X2FnZV9kYXlzIjo3MSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjM4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=13470aae189d1c6&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GMTRENTU5NjYzRDNGNjZGQjM1MDU3RUFERkMxQTk5QV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzgwNEY2OEM4NzRGOURDNEI4QjMyRkM5RDA2M0YxM0FGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaYnLjhkqryBBUCKAJDMywXQENd0vGp--cYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=YVxh9cg5QnTYOnErfD70yg&_nc_ss=79289&_nc_zt=28&oh=00_AQRwP1eGGb6Y_NMnFjLgPUXdkvw5VPStiKMjI5184RpiIA&oe=6AE75084",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "SI"
+      ]
+    },
+    {
+      "ad_id": "1538006124799544",
+      "product_name": "so satisfying untangle all arrows",
+      "product_key": "unverified:1538006124799544",
+      "category": "other",
+      "advertiser": "Arrows World",
+      "source_country": "SI",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1538006124799544",
+      "landing_url": "http://play.google.com/store/apps/details?id=com.tap.away.arrows.logic.puzzle.brain.game",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQM8sxZHrFK05m25q3yCjMqFFOElKSlUCG12pYc9YymWiIogR-OsE4WtYj1dNkBdL9Ym0sURwbBKTzV8-U8CqAKx47Jg5LxDsIY75bbWiutztQ.mp4?_nc_cat=1&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=wfTcjx2WsssQ7kNvwHGxRW0&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwNzI5Njc0MDE5NTU3MjEsImFzc2V0X2FnZV9kYXlzIjo2NywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjMxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=3a8d2a9f4173b7b1&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84NzQwNTQzNDcyMDE3MjZCNENDNkQ0QkVBOUQwRDdBNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQ1NEJDNTNDRDE0RUVBMDM3NUNFQ0Q4OThDRDAwNTkxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaShsuN9vbnAxUCKAJDMywXQD8Q5WBBiTcYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=YVxh9cg5QnTYOnErfD70yg&_nc_ss=79289&_nc_zt=28&oh=00_AQQX56cqsZtZkgELGFzC5d1pHYtmBK4VJO30hlopiNXuWg&oe=6AE73DC9",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "SI"
+      ]
+    },
+    {
+      "ad_id": "1141181218456749",
+      "product_name": "so satisfying untangle all arrows",
+      "product_key": "unverified:1141181218456749",
+      "category": "other",
+      "advertiser": "Arrows World",
+      "source_country": "SI",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1141181218456749",
+      "landing_url": "http://play.google.com/store/apps/details?id=com.tap.away.arrows.logic.puzzle.brain.game",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQM8sxZHrFK05m25q3yCjMqFFOElKSlUCG12pYc9YymWiIogR-OsE4WtYj1dNkBdL9Ym0sURwbBKTzV8-U8CqAKx47Jg5LxDsIY75bbWiutztQ.mp4?_nc_cat=1&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=wfTcjx2WsssQ7kNvwHGxRW0&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwNzI5Njc0MDE5NTU3MjEsImFzc2V0X2FnZV9kYXlzIjo2NywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjMxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=3a8d2a9f4173b7b1&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84NzQwNTQzNDcyMDE3MjZCNENDNkQ0QkVBOUQwRDdBNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQ1NEJDNTNDRDE0RUVBMDM3NUNFQ0Q4OThDRDAwNTkxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaShsuN9vbnAxUCKAJDMywXQD8Q5WBBiTcYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=YVxh9cg5QnTYOnErfD70yg&_nc_ss=79289&_nc_zt=28&oh=00_AQQX56cqsZtZkgELGFzC5d1pHYtmBK4VJO30hlopiNXuWg&oe=6AE73DC9",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "SI"
+      ]
+    },
+    {
+      "ad_id": "1102044295551583",
+      "product_name": "so satisfying untangle all arrows",
+      "product_key": "unverified:1102044295551583",
+      "category": "other",
+      "advertiser": "Arrows World",
+      "source_country": "SI",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1102044295551583",
+      "landing_url": "http://play.google.com/store/apps/details?id=com.tap.away.arrows.logic.puzzle.brain.game",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQM8sxZHrFK05m25q3yCjMqFFOElKSlUCG12pYc9YymWiIogR-OsE4WtYj1dNkBdL9Ym0sURwbBKTzV8-U8CqAKx47Jg5LxDsIY75bbWiutztQ.mp4?_nc_cat=1&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=wfTcjx2WsssQ7kNvwHGxRW0&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwNzI5Njc0MDE5NTU3MjEsImFzc2V0X2FnZV9kYXlzIjo2NywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjMxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=3a8d2a9f4173b7b1&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84NzQwNTQzNDcyMDE3MjZCNENDNkQ0QkVBOUQwRDdBNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQ1NEJDNTNDRDE0RUVBMDM3NUNFQ0Q4OThDRDAwNTkxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaShsuN9vbnAxUCKAJDMywXQD8Q5WBBiTcYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=YVxh9cg5QnTYOnErfD70yg&_nc_ss=79289&_nc_zt=28&oh=00_AQQX56cqsZtZkgELGFzC5d1pHYtmBK4VJO30hlopiNXuWg&oe=6AE73DC9",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "SI"
+      ]
+    },
+    {
+      "ad_id": "1589489905731864",
+      "product_name": "so satisfying untangle all arrows",
+      "product_key": "unverified:1589489905731864",
+      "category": "other",
+      "advertiser": "Arrows World",
+      "source_country": "SI",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1589489905731864",
+      "landing_url": "http://play.google.com/store/apps/details?id=com.tap.away.arrows.logic.puzzle.brain.game",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQM8sxZHrFK05m25q3yCjMqFFOElKSlUCG12pYc9YymWiIogR-OsE4WtYj1dNkBdL9Ym0sURwbBKTzV8-U8CqAKx47Jg5LxDsIY75bbWiutztQ.mp4?_nc_cat=1&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=wfTcjx2WsssQ7kNvwHGxRW0&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwNzI5Njc0MDE5NTU3MjEsImFzc2V0X2FnZV9kYXlzIjo2NywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjMxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=3a8d2a9f4173b7b1&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84NzQwNTQzNDcyMDE3MjZCNENDNkQ0QkVBOUQwRDdBNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQ1NEJDNTNDRDE0RUVBMDM3NUNFQ0Q4OThDRDAwNTkxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaShsuN9vbnAxUCKAJDMywXQD8Q5WBBiTcYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=YVxh9cg5QnTYOnErfD70yg&_nc_ss=79289&_nc_zt=28&oh=00_AQQX56cqsZtZkgELGFzC5d1pHYtmBK4VJO30hlopiNXuWg&oe=6AE73DC9",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "SI"
+      ]
+    },
+    {
+      "ad_id": "2213245275888885",
+      "product_name": "so satisfying untangle all arrows",
+      "product_key": "unverified:2213245275888885",
+      "category": "other",
+      "advertiser": "Arrows World",
+      "source_country": "SI",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2213245275888885",
+      "landing_url": "http://play.google.com/store/apps/details?id=com.tap.away.arrows.logic.puzzle.brain.game",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQM8sxZHrFK05m25q3yCjMqFFOElKSlUCG12pYc9YymWiIogR-OsE4WtYj1dNkBdL9Ym0sURwbBKTzV8-U8CqAKx47Jg5LxDsIY75bbWiutztQ.mp4?_nc_cat=1&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=wfTcjx2WsssQ7kNvwHGxRW0&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwNzI5Njc0MDE5NTU3MjEsImFzc2V0X2FnZV9kYXlzIjo2NywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjMxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=3a8d2a9f4173b7b1&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84NzQwNTQzNDcyMDE3MjZCNENDNkQ0QkVBOUQwRDdBNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQ1NEJDNTNDRDE0RUVBMDM3NUNFQ0Q4OThDRDAwNTkxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaShsuN9vbnAxUCKAJDMywXQD8Q5WBBiTcYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=YVxh9cg5QnTYOnErfD70yg&_nc_ss=79289&_nc_zt=28&oh=00_AQQX56cqsZtZkgELGFzC5d1pHYtmBK4VJO30hlopiNXuWg&oe=6AE73DC9",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "SI"
+      ]
+    },
+    {
+      "ad_id": "29171427525791774",
+      "product_name": "so satisfying untangle all arrows",
+      "product_key": "unverified:29171427525791774",
+      "category": "other",
+      "advertiser": "Arrows World",
+      "source_country": "SI",
+      "ad_url": "https://www.facebook.com/ads/library/?id=29171427525791774",
+      "landing_url": "http://play.google.com/store/apps/details?id=com.tap.away.arrows.logic.puzzle.brain.game",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQM8sxZHrFK05m25q3yCjMqFFOElKSlUCG12pYc9YymWiIogR-OsE4WtYj1dNkBdL9Ym0sURwbBKTzV8-U8CqAKx47Jg5LxDsIY75bbWiutztQ.mp4?_nc_cat=1&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=wfTcjx2WsssQ7kNvwHGxRW0&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwNzI5Njc0MDE5NTU3MjEsImFzc2V0X2FnZV9kYXlzIjo2NywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjMxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=3a8d2a9f4173b7b1&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84NzQwNTQzNDcyMDE3MjZCNENDNkQ0QkVBOUQwRDdBNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQ1NEJDNTNDRDE0RUVBMDM3NUNFQ0Q4OThDRDAwNTkxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaShsuN9vbnAxUCKAJDMywXQD8Q5WBBiTcYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=YVxh9cg5QnTYOnErfD70yg&_nc_ss=79289&_nc_zt=28&oh=00_AQQX56cqsZtZkgELGFzC5d1pHYtmBK4VJO30hlopiNXuWg&oe=6AE73DC9",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "SI"
+      ]
+    },
+    {
+      "ad_id": "2065315880762828",
+      "product_name": "so satisfying untangle all arrows",
+      "product_key": "unverified:2065315880762828",
+      "category": "other",
+      "advertiser": "Arrows World",
+      "source_country": "SI",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2065315880762828",
+      "landing_url": "http://play.google.com/store/apps/details?id=com.tap.away.arrows.logic.puzzle.brain.game",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQM8sxZHrFK05m25q3yCjMqFFOElKSlUCG12pYc9YymWiIogR-OsE4WtYj1dNkBdL9Ym0sURwbBKTzV8-U8CqAKx47Jg5LxDsIY75bbWiutztQ.mp4?_nc_cat=1&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=wfTcjx2WsssQ7kNvwHGxRW0&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwNzI5Njc0MDE5NTU3MjEsImFzc2V0X2FnZV9kYXlzIjo2NywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjMxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=3a8d2a9f4173b7b1&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84NzQwNTQzNDcyMDE3MjZCNENDNkQ0QkVBOUQwRDdBNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQ1NEJDNTNDRDE0RUVBMDM3NUNFQ0Q4OThDRDAwNTkxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaShsuN9vbnAxUCKAJDMywXQD8Q5WBBiTcYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=YVxh9cg5QnTYOnErfD70yg&_nc_ss=79289&_nc_zt=28&oh=00_AQQX56cqsZtZkgELGFzC5d1pHYtmBK4VJO30hlopiNXuWg&oe=6AE73DC9",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "SI"
+      ]
+    },
+    {
+      "ad_id": "2492687244573561",
+      "product_name": "so satisfying untangle all arrows",
+      "product_key": "unverified:2492687244573561",
+      "category": "other",
+      "advertiser": "Arrows World",
+      "source_country": "SI",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2492687244573561",
+      "landing_url": "http://play.google.com/store/apps/details?id=com.tap.away.arrows.logic.puzzle.brain.game",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQM8sxZHrFK05m25q3yCjMqFFOElKSlUCG12pYc9YymWiIogR-OsE4WtYj1dNkBdL9Ym0sURwbBKTzV8-U8CqAKx47Jg5LxDsIY75bbWiutztQ.mp4?_nc_cat=1&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=wfTcjx2WsssQ7kNvwHGxRW0&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwNzI5Njc0MDE5NTU3MjEsImFzc2V0X2FnZV9kYXlzIjo2NywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjMxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=3a8d2a9f4173b7b1&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84NzQwNTQzNDcyMDE3MjZCNENDNkQ0QkVBOUQwRDdBNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQ1NEJDNTNDRDE0RUVBMDM3NUNFQ0Q4OThDRDAwNTkxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaShsuN9vbnAxUCKAJDMywXQD8Q5WBBiTcYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=YVxh9cg5QnTYOnErfD70yg&_nc_ss=79289&_nc_zt=28&oh=00_AQQX56cqsZtZkgELGFzC5d1pHYtmBK4VJO30hlopiNXuWg&oe=6AE73DC9",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "SI"
+      ]
+    },
+    {
+      "ad_id": "2865598930499784",
+      "product_name": "so satisfying untangle all arrows",
+      "product_key": "unverified:2865598930499784",
+      "category": "other",
+      "advertiser": "Arrows World",
+      "source_country": "SI",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2865598930499784",
+      "landing_url": "http://play.google.com/store/apps/details?id=com.tap.away.arrows.logic.puzzle.brain.game",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQM8sxZHrFK05m25q3yCjMqFFOElKSlUCG12pYc9YymWiIogR-OsE4WtYj1dNkBdL9Ym0sURwbBKTzV8-U8CqAKx47Jg5LxDsIY75bbWiutztQ.mp4?_nc_cat=1&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=wfTcjx2WsssQ7kNvwHGxRW0&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwNzI5Njc0MDE5NTU3MjEsImFzc2V0X2FnZV9kYXlzIjo2NywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjMxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=3a8d2a9f4173b7b1&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84NzQwNTQzNDcyMDE3MjZCNENDNkQ0QkVBOUQwRDdBNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQ1NEJDNTNDRDE0RUVBMDM3NUNFQ0Q4OThDRDAwNTkxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaShsuN9vbnAxUCKAJDMywXQD8Q5WBBiTcYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=YVxh9cg5QnTYOnErfD70yg&_nc_ss=79289&_nc_zt=28&oh=00_AQQX56cqsZtZkgELGFzC5d1pHYtmBK4VJO30hlopiNXuWg&oe=6AE73DC9",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "SI"
+      ]
+    },
+    {
+      "ad_id": "1856725509086614",
+      "product_name": "so satisfying untangle all arrows",
+      "product_key": "unverified:1856725509086614",
+      "category": "other",
+      "advertiser": "Arrows World",
+      "source_country": "SI",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1856725509086614",
+      "landing_url": "http://play.google.com/store/apps/details?id=com.tap.away.arrows.logic.puzzle.brain.game",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQM8sxZHrFK05m25q3yCjMqFFOElKSlUCG12pYc9YymWiIogR-OsE4WtYj1dNkBdL9Ym0sURwbBKTzV8-U8CqAKx47Jg5LxDsIY75bbWiutztQ.mp4?_nc_cat=1&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=wfTcjx2WsssQ7kNvwHGxRW0&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwNzI5Njc0MDE5NTU3MjEsImFzc2V0X2FnZV9kYXlzIjo2NywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjMxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=3a8d2a9f4173b7b1&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84NzQwNTQzNDcyMDE3MjZCNENDNkQ0QkVBOUQwRDdBNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQ1NEJDNTNDRDE0RUVBMDM3NUNFQ0Q4OThDRDAwNTkxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaShsuN9vbnAxUCKAJDMywXQD8Q5WBBiTcYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=YVxh9cg5QnTYOnErfD70yg&_nc_ss=79289&_nc_zt=28&oh=00_AQQX56cqsZtZkgELGFzC5d1pHYtmBK4VJO30hlopiNXuWg&oe=6AE73DC9",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "SI"
+      ]
+    },
+    {
+      "ad_id": "1849702872858185",
+      "product_name": "so satisfying untangle all arrows",
+      "product_key": "unverified:1849702872858185",
+      "category": "other",
+      "advertiser": "Arrows World",
+      "source_country": "SI",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1849702872858185",
+      "landing_url": "http://play.google.com/store/apps/details?id=com.tap.away.arrows.logic.puzzle.brain.game",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQM8sxZHrFK05m25q3yCjMqFFOElKSlUCG12pYc9YymWiIogR-OsE4WtYj1dNkBdL9Ym0sURwbBKTzV8-U8CqAKx47Jg5LxDsIY75bbWiutztQ.mp4?_nc_cat=1&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=wfTcjx2WsssQ7kNvwHGxRW0&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwNzI5Njc0MDE5NTU3MjEsImFzc2V0X2FnZV9kYXlzIjo2NywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjMxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=3a8d2a9f4173b7b1&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84NzQwNTQzNDcyMDE3MjZCNENDNkQ0QkVBOUQwRDdBNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQ1NEJDNTNDRDE0RUVBMDM3NUNFQ0Q4OThDRDAwNTkxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaShsuN9vbnAxUCKAJDMywXQD8Q5WBBiTcYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=YVxh9cg5QnTYOnErfD70yg&_nc_ss=79289&_nc_zt=28&oh=00_AQQX56cqsZtZkgELGFzC5d1pHYtmBK4VJO30hlopiNXuWg&oe=6AE73DC9",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "SI"
+      ]
+    },
+    {
+      "ad_id": "2344781582941484",
+      "product_name": "so satisfying untangle all arrows",
+      "product_key": "unverified:2344781582941484",
+      "category": "other",
+      "advertiser": "Arrows World",
+      "source_country": "SI",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2344781582941484",
+      "landing_url": "http://play.google.com/store/apps/details?id=com.tap.away.arrows.logic.puzzle.brain.game",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQM8sxZHrFK05m25q3yCjMqFFOElKSlUCG12pYc9YymWiIogR-OsE4WtYj1dNkBdL9Ym0sURwbBKTzV8-U8CqAKx47Jg5LxDsIY75bbWiutztQ.mp4?_nc_cat=1&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=wfTcjx2WsssQ7kNvwHGxRW0&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwNzI5Njc0MDE5NTU3MjEsImFzc2V0X2FnZV9kYXlzIjo2NywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjMxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=3a8d2a9f4173b7b1&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84NzQwNTQzNDcyMDE3MjZCNENDNkQ0QkVBOUQwRDdBNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQ1NEJDNTNDRDE0RUVBMDM3NUNFQ0Q4OThDRDAwNTkxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaShsuN9vbnAxUCKAJDMywXQD8Q5WBBiTcYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=YVxh9cg5QnTYOnErfD70yg&_nc_ss=79289&_nc_zt=28&oh=00_AQQX56cqsZtZkgELGFzC5d1pHYtmBK4VJO30hlopiNXuWg&oe=6AE73DC9",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "SI"
+      ]
+    },
+    {
+      "ad_id": "1075922885224548",
+      "product_name": "so satisfying untangle all arrows",
+      "product_key": "unverified:1075922885224548",
+      "category": "other",
+      "advertiser": "Arrows World",
+      "source_country": "SI",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1075922885224548",
+      "landing_url": "http://play.google.com/store/apps/details?id=com.tap.away.arrows.logic.puzzle.brain.game",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQM8sxZHrFK05m25q3yCjMqFFOElKSlUCG12pYc9YymWiIogR-OsE4WtYj1dNkBdL9Ym0sURwbBKTzV8-U8CqAKx47Jg5LxDsIY75bbWiutztQ.mp4?_nc_cat=1&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=wfTcjx2WsssQ7kNvwHGxRW0&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwNzI5Njc0MDE5NTU3MjEsImFzc2V0X2FnZV9kYXlzIjo2NywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjMxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=3a8d2a9f4173b7b1&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84NzQwNTQzNDcyMDE3MjZCNENDNkQ0QkVBOUQwRDdBNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQ1NEJDNTNDRDE0RUVBMDM3NUNFQ0Q4OThDRDAwNTkxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaShsuN9vbnAxUCKAJDMywXQD8Q5WBBiTcYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=YVxh9cg5QnTYOnErfD70yg&_nc_ss=79289&_nc_zt=28&oh=00_AQQX56cqsZtZkgELGFzC5d1pHYtmBK4VJO30hlopiNXuWg&oe=6AE73DC9",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "SI"
+      ]
+    },
+    {
+      "ad_id": "2133894907537764",
+      "product_name": "tap to blast win",
+      "product_key": "unverified:2133894907537764",
+      "category": "other",
+      "advertiser": "Ivy Color Block",
+      "source_country": "SI",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2133894907537764",
+      "landing_url": "http://itunes.apple.com/app/id6478063606",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMrVD19jyuOPE9hsfWpUgHF7wVB3dwSCwi-v4QLW_SiUD8Bb7_Rifme02v9P6wKbfaww0tSXPg8vFz6YA5IlnOW6eq9RlcuZJ_JlJoXWhdLYw.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=T7fmEQkMTxIQ7kNvwEb4wbq&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzNzczMTI2MzA1NzI4MTIsImFzc2V0X2FnZV9kYXlzIjo3MSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjM4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=13470aae189d1c6&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GMTRENTU5NjYzRDNGNjZGQjM1MDU3RUFERkMxQTk5QV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzgwNEY2OEM4NzRGOURDNEI4QjMyRkM5RDA2M0YxM0FGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaYnLjhkqryBBUCKAJDMywXQENd0vGp--cYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=YVxh9cg5QnTYOnErfD70yg&_nc_ss=79289&_nc_zt=28&oh=00_AQRwP1eGGb6Y_NMnFjLgPUXdkvw5VPStiKMjI5184RpiIA&oe=6AE75084",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "SI"
+      ]
+    },
+    {
+      "ad_id": "1811045266545361",
+      "product_name": "unidentified product",
+      "product_key": "unverified:1811045266545361",
+      "category": "other",
+      "advertiser": "HAPPY - Fun Puzzle",
+      "source_country": "SI",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1811045266545361",
+      "landing_url": "https://www.facebook.com/gaming/play/1948005032323830/",
+      "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/734472403_1027474429812985_3417607904253618304_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sNJl9A5u3XEQ7kNvwH-p6dU&_nc_oc=AdoAOO-mm3QCfUNWSxc8zh6-MOs5fyt_j_1duSuqq4TiMsiSilp5FsoXCdVqkBWX7Zw&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=YVxh9cg5QnTYOnErfD70yg&_nc_ss=79289&oh=00_AQSDloiNgZVfvQHe5LbLOkggVXMlJ60476mWbOm9CNE7lA&oe=6AE74882",
+      "video_url": null,
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "SI"
+      ]
+    },
+    {
+      "ad_id": "1024634970489151",
+      "product_name": "unidentified product",
+      "product_key": "unverified:1024634970489151",
+      "category": "other",
+      "advertiser": "Sunflower - Puzzle",
+      "source_country": "SI",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1024634970489151",
+      "landing_url": "https://www.facebook.com/gaming/play/662177059658793/",
+      "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/758543358_2104010850223964_205697836598990085_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=x-0qPzPAoyYQ7kNvwGmbQXB&_nc_oc=AdpoSK6ElNcOZwHAOZF8xMLDkdCqQWYzlDMLQBkXREkuzxr4o3xwnmOBhfSHjSFlpjk&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=YVxh9cg5QnTYOnErfD70yg&_nc_ss=79289&oh=00_AQRGIEuYlUn9QCuKwuFMyVnlv2FJyLRsYFiC8Sbn6Dqo5A&oe=6AE74CFE",
+      "video_url": null,
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "SI"
+      ]
+    },
+    {
+      "ad_id": "2547051535799771",
+      "product_name": "wow claim your free game gift now",
+      "product_key": "title:wow claim your free game gift now",
+      "category": "toys",
+      "advertiser": "Gossip Harbor",
+      "source_country": "SI",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2547051535799771",
+      "landing_url": "http://play.google.com/store/apps/details?id=com.mergegames.gossipharbor",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/608887310_1519960405964217_4918155425037164786_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=f8SjCGTfBigQ7kNvwFlSd-K&_nc_oc=AdrPL8QDBDF-p32OwyfQHNqt8M83nJ_BGX2-eHphWcRDvwKnlwBXxTI_pL5ItFs1-5E&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=YVxh9cg5QnTYOnErfD70yg&_nc_ss=79289&oh=00_AQRNvqWaEZJ5Qjtq4AtHj5sh4b46mQMKqzXMNSdkI7IkJA&oe=6AE743F9",
+      "video_url": null,
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "SI"
+      ]
+    },
+    {
+      "ad_id": "665561449822028",
+      "product_name": "unidentified product",
+      "product_key": "unverified:665561449822028",
+      "category": "other",
+      "advertiser": "Screw Puzzle",
+      "source_country": "SI",
+      "ad_url": "https://www.facebook.com/ads/library/?id=665561449822028",
+      "landing_url": "http://play.google.com/store/apps/details?id=screw.puzzle.nuts.bolts.pin.wood.games",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPve_YXk-0_G5IDev73DBT2D0gPvzIsnGyWPRiE7yjyT-0LBtCRl3wV9jGOEXI54VhZ0N637aSSirmfHSP7dxaunwwp7YJIz-AzrvSUL2fkGA.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=_xw4b7zfe_EQ7kNvwE295-K&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTI4MC5kYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjo2MjcwMDc3MTMwOTQyOTUsImFzc2V0X2FnZV9kYXlzIjo0ODMsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozNSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=a089016dfac7c7f3&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9EOTQ4NTE3QkEyRUMzNkM0MjgwQzIwNjdFOEY3MjlBNF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dCSGtzeDZCMi02dDRTa0dBRVVPTTgxSEdzY2didjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACauqpXA05CdAhUCKAJDMywXQEGAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=YVxh9cg5QnTYOnErfD70yg&_nc_ss=79289&_nc_zt=28&oh=00_AQSLGR61I-31rYIFe33Npe0imIxC9lVCTzNkRMihs8yyhg&oe=6AE74916",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "SI"
+      ]
+    },
+    {
+      "ad_id": "964123203116644",
+      "product_name": "this game traps your brain",
+      "product_key": "title:this game traps your brain",
+      "category": "toys",
+      "advertiser": "Flower Forest - Word Puzzle",
+      "source_country": "SI",
+      "ad_url": "https://www.facebook.com/ads/library/?id=964123203116644",
+      "landing_url": "http://play.google.com/store/apps/details?id=com.flower.forest.word.puzzle",
+      "image_url": null,
+      "video_url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMt0miWXsOzyV7joz5cWsYLrDZjwLkP0IvO0PakFa_1Z99yOB-cus2h0K8QboRzxUGHR6UnlOelSsG84SnOaEpammaG9LYLr23x6QsSwTfukw.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=8JqAq3ydS48Q7kNvwHglB88&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzODc4ODA4ODk4Mzc1MjEsImFzc2V0X2FnZV9kYXlzIjoxNDcsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoyOSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=ca205636a3b75209&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85NzRDMzIwODM5RjlFMjgzMkY5ODNFMTQyQUZBQjZBRF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzEzNEE3MjJBRjA3NzI0QjZFMUFDODdBQUYwNzY1Njk5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACain--2ppH3BBUCKAJDMywXQD3dsi0OVgQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=YVxh9cg5QnTYOnErfD70yg&_nc_ss=79289&_nc_zt=28&oh=00_AQSJB7j1bFvTw1JvS2JnKaQMG3wbilY1HyTvRK4DPyLt_Q&oe=6AE7549D",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "SI"
+      ]
+    },
+    {
+      "ad_id": "1052985817397386",
+      "product_name": "this game traps your brain",
+      "product_key": "title:this game traps your brain",
+      "category": "toys",
+      "advertiser": "Flower Forest - Word Puzzle",
+      "source_country": "SI",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1052985817397386",
+      "landing_url": "http://play.google.com/store/apps/details?id=com.flower.forest.word.puzzle",
+      "image_url": null,
+      "video_url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMt0miWXsOzyV7joz5cWsYLrDZjwLkP0IvO0PakFa_1Z99yOB-cus2h0K8QboRzxUGHR6UnlOelSsG84SnOaEpammaG9LYLr23x6QsSwTfukw.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=8JqAq3ydS48Q7kNvwHglB88&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzODc4ODA4ODk4Mzc1MjEsImFzc2V0X2FnZV9kYXlzIjoxNDcsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoyOSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=ca205636a3b75209&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85NzRDMzIwODM5RjlFMjgzMkY5ODNFMTQyQUZBQjZBRF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzEzNEE3MjJBRjA3NzI0QjZFMUFDODdBQUYwNzY1Njk5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACain--2ppH3BBUCKAJDMywXQD3dsi0OVgQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=YVxh9cg5QnTYOnErfD70yg&_nc_ss=79289&_nc_zt=28&oh=00_AQSJB7j1bFvTw1JvS2JnKaQMG3wbilY1HyTvRK4DPyLt_Q&oe=6AE7549D",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "SI"
+      ]
+    },
+    {
+      "ad_id": "2257878428302515",
+      "product_name": "block blast - the addictive puzzle game",
+      "product_key": "title:block blast - the addictive puzzle game",
+      "category": "toys",
+      "advertiser": "Block Blast",
+      "source_country": "SI",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2257878428302515",
+      "landing_url": "http://play.google.com/store/apps/details?id=com.block.juggle",
+      "image_url": null,
+      "video_url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNAmyyVvU2sxE4ghG_J-SEWIvBYdM5NFrqqOagrOzpN8sZdas9uklhI-LG0PCkxs4mkKwNJWa1popISn4zzFr0x21dtW7iJbgqfPguK1Q0WQg.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=yEyyt3b-oUIQ7kNvwEl6xg6&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzNTkyNjI0MTYwMTYxNzgsImFzc2V0X2FnZV9kYXlzIjo1MywidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjU0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=fabf4af40d55ddb2&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yMjQxMTk5MTU2M0U0OTAxOEU4NkM3NTc0RUQ0OTA5NF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0IxNDRDMjM4Q0Y1NDY5NUE2MTMzRDU5QzU1ODBEMUE5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbkzLSXvo_qBBUCKAJDMywXQEso9cKPXCkYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=YVxh9cg5QnTYOnErfD70yg&_nc_ss=79289&_nc_zt=28&oh=00_AQQqJO4-aFFHPKZGlRJqxtsoCVpt4D_k33mNS5Vfxgl5iw&oe=6AE76DF9",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "SI"
+      ]
+    },
+    {
+      "ad_id": "4463762357226991",
+      "product_name": "new game for puzzle lovers",
+      "product_key": "unverified:4463762357226991",
+      "category": "toys",
+      "advertiser": "Inspired Games",
+      "source_country": "SI",
+      "ad_url": "https://www.facebook.com/ads/library/?id=4463762357226991",
+      "landing_url": "http://play.google.com/store/apps/details?id=com.inspiredsquare.jupiter",
+      "image_url": null,
+      "video_url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMsGqF5HwHKOAIjpGStAIthzXJLhh4qTGDLgyuNGzP_skzyg-7qbTpeVCouKx_hXv393WN_7ILwDKCZIHOB3wzyu9T6wHPOE3EeCKf1T1B4Hg.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=xKFXwkbjKKQQ7kNvwFQCr3R&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjczNjMxNDk4OTA2NTg4OSwiYXNzZXRfYWdlX2RheXMiOjUxNiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjMwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=807c16d94315a1a2&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yMTQ4MDFGMkFENEVGNkVBRjkyQjdCMjMyQjI2QkU4M19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dEMFU2UjEwVU9uX0ViOEZBTk1qcEc2NnpDQnBidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbC2u2VluvOAhUCKAJDMywXQD4HrhR64UgYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=YVxh9cg5QnTYOnErfD70yg&_nc_ss=79289&_nc_zt=28&oh=00_AQSveMk292q4TJB92AH7l8-jKsY6wg_jG_LVGSKwdN5JLg&oe=6AE73EEF",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "SI"
+      ]
+    },
+    {
+      "ad_id": "2210449659526813",
+      "product_name": "hard day have a easy game",
+      "product_key": "title:hard day have a easy game",
+      "category": "toys",
+      "advertiser": "Family Savior: Screw Puzzle3",
+      "source_country": "SI",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2210449659526813",
+      "landing_url": "http://play.google.com/store/apps/details?id=com.screw.puzzle.family",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOiQJKJoHY_mq46BhrrmA1h_RzwCfBxJc1fTPHpl1zW77nXuLVq0mB85v90i3aRWjB99e9202EOKG-vjZJ3CBn0q7una7WrBCvg66KNAOIIew.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=isweU4zMvecQ7kNvwFQ5DfY&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3NDgwNDAzNDYyMTUxMTUsImFzc2V0X2FnZV9kYXlzIjoxMTAsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo2MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=fb10eeb779a51de7&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80NjQ5NThFRDExQjA0MjdGOTJDNDgzOEQ4M0VCRTBCRF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0RCNDY2M0Y4NTdDNTJCMjlCNTcwOUI0NThFNUQ4RUExX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaWi52-q_WaBhUCKAJDMywXQE4AAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=YVxh9cg5QnTYOnErfD70yg&_nc_ss=79289&_nc_zt=28&oh=00_AQRmxN9E2vKlN_g34sFPE0scT0KjFsZEaJ9xpVg22lpR6A&oe=6AE74B30",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "SI"
+      ]
+    },
+    {
+      "ad_id": "1386615943457426",
+      "product_name": "so satisfying untangle all arrows",
+      "product_key": "unverified:1386615943457426",
+      "category": "other",
+      "advertiser": "Arrows World",
+      "source_country": "SI",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1386615943457426",
+      "landing_url": "http://play.google.com/store/apps/details?id=com.tap.away.arrows.logic.puzzle.brain.game",
+      "image_url": null,
+      "video_url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQND0NAZmZOAT6csXoSBnD2t-zm_A8ix8uZh7DYQUZtZshgvw8jugw3iONHvCytdM1K8BglWEy-wlwijPo9FNFhEnSx4AgYXx0lQ13aZYlDYZg.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=EFExZia_USgQ7kNvwEhoww1&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI2MzQ5MjQ3MTY5NjY5MTAsImFzc2V0X2FnZV9kYXlzIjo2NywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjM0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=5405492d9d2ab0d5&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GNzQ0MTVBOTQyRDA2NzgwMTI3RDgxNTEwQkQyMjFCRl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzI1NDMwQUU4M0YzQkYzOEZCRkQyNDMyRUNEQTIyMjg5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8j5785pyuCRUCKAJDMywXQEEqn752yLQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=YVxh9cg5QnTYOnErfD70yg&_nc_ss=79289&_nc_zt=28&oh=00_AQTfU-ubKSPOkiRTw_7kQ0iQKiA3AEoejSPhcmvWKgM25g&oe=6AE764E3",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "SI"
+      ]
+    },
+    {
+      "ad_id": "1632654255089041",
+      "product_name": "pure satisfying fun",
+      "product_key": "unverified:1632654255089041",
+      "category": "other",
+      "advertiser": "Ivy Color Block",
+      "source_country": "SI",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1632654255089041",
+      "landing_url": "http://itunes.apple.com/app/id6478063606",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMrVD19jyuOPE9hsfWpUgHF7wVB3dwSCwi-v4QLW_SiUD8Bb7_Rifme02v9P6wKbfaww0tSXPg8vFz6YA5IlnOW6eq9RlcuZJ_JlJoXWhdLYw.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=T7fmEQkMTxIQ7kNvwEb4wbq&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzNzczMTI2MzA1NzI4MTIsImFzc2V0X2FnZV9kYXlzIjo3MSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjM4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=13470aae189d1c6&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GMTRENTU5NjYzRDNGNjZGQjM1MDU3RUFERkMxQTk5QV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzgwNEY2OEM4NzRGOURDNEI4QjMyRkM5RDA2M0YxM0FGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaYnLjhkqryBBUCKAJDMywXQENd0vGp--cYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=YVxh9cg5QnTYOnErfD70yg&_nc_ss=79289&_nc_zt=28&oh=00_AQRwP1eGGb6Y_NMnFjLgPUXdkvw5VPStiKMjI5184RpiIA&oe=6AE75084",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "SI"
+      ]
+    },
+    {
+      "ad_id": "987170637737158",
+      "product_name": "so satisfying untangle all arrows",
+      "product_key": "unverified:987170637737158",
+      "category": "other",
+      "advertiser": "Arrows World",
+      "source_country": "SI",
+      "ad_url": "https://www.facebook.com/ads/library/?id=987170637737158",
+      "landing_url": "http://play.google.com/store/apps/details?id=com.tap.away.arrows.logic.puzzle.brain.game",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/841373174_3985453008428549_2526643477933570431_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yaOJxkVqe64Q7kNvwHDlZHl&_nc_oc=Adqiv3oWQyGHHCh2rXCYCXGxSa-w5z3DVRGLWAcHngAX_gt8zrLBJsd_FVPU8r57h8c&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=YVxh9cg5QnTYOnErfD70yg&_nc_ss=79289&oh=00_AQQT0PTMDXR-60p7szq1fh7ijkRwFjnlOtTcdMkPThDctQ&oe=6AE74078",
+      "video_url": null,
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "SI"
+      ]
+    },
+    {
+      "ad_id": "949338371552764",
+      "product_name": "unidentified product",
+      "product_key": "unverified:949338371552764",
+      "category": "other",
+      "advertiser": "Gems Art",
+      "source_country": "SI",
+      "ad_url": "https://www.facebook.com/ads/library/?id=949338371552764",
+      "landing_url": "http://itunes.apple.com/app/id6783612928",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQM3rJXfsliLXudajp0kYNlOxkt7jR5mQRF1Ekc5ENtohuop8g3SCMWfDlYJLlj_2n-Gq9jE54gpFjljaxeCBzAz-eBD7Ll1a2FUX_1wGqwb9w.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=TPqnxYoEEC0Q7kNvwHu6vlj&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI5NTUyNTc5MzQ4MTY0NjEsImFzc2V0X2FnZV9kYXlzIjo4NSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjU5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=f19d14d4a9f8194a&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80RjQ5QzJDRjBFRjExQzIyRjUxOUE5RUQ3MDEwMkE5N19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0MzNDYxRUUyMzE0Q0YyREQ4OTdDMTU1QTVGREEyOTg5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaak-W20_K_ChUCKAJDMywXQE2AAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=YVxh9cg5QnTYOnErfD70yg&_nc_ss=79289&_nc_zt=28&oh=00_AQQ4Zx2zjPErjY6JcGC161uv7rvrDQZomOUqyfSUsZJP7A&oe=6AE7436A",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "SI"
+      ]
+    },
+    {
+      "ad_id": "839542788680412",
+      "product_name": "unidentified product",
+      "product_key": "unverified:839542788680412",
+      "category": "other",
+      "advertiser": "Infinite Minesweeper",
+      "source_country": "SI",
+      "ad_url": "https://www.facebook.com/ads/library/?id=839542788680412",
+      "landing_url": "http://itunes.apple.com/app/id6476042029",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMUVueJlZVTmZUIh6lJp896NisanKU8iL36Hcu87uboIdzN2GPbVJ5V7stvRvjEKbbV6g4pI0axxswWFEygL_IwXHjufTpcdWBeNKypwY0sMg.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=IHSuIT50DHMQ7kNvwG4AeaV&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjg1MjI4MzY4MDUwNDA2NywiYXNzZXRfYWdlX2RheXMiOjMyMywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjU3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=362ce70062e1d87c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yNTQ1OUREMEFDOTAyOEU0RTdFRkIwMkI4NjE2NURBNF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzdDNDUxQzM3RTE2QTAzRTA5OUY4OEJCQjkxMzMyQjhCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaG5LGguMmDAxUCKAJDMywXQEy7peNT988YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=YVxh9cg5QnTYOnErfD70yg&_nc_ss=79289&_nc_zt=28&oh=00_AQTf0FgJ38PdIacRkkNKmrvXSt_r9rI0fcCuvMziZt_ntQ&oe=6AE74E83",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "SI"
+      ]
+    },
+    {
+      "ad_id": "26301563239431463",
+      "product_name": "unidentified product",
+      "product_key": "unverified:26301563239431463",
+      "category": "other",
+      "advertiser": "Infinite Minesweeper",
+      "source_country": "SI",
+      "ad_url": "https://www.facebook.com/ads/library/?id=26301563239431463",
+      "landing_url": "http://play.google.com/store/apps/details?id=com.grykuby.minesweeper",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMUVueJlZVTmZUIh6lJp896NisanKU8iL36Hcu87uboIdzN2GPbVJ5V7stvRvjEKbbV6g4pI0axxswWFEygL_IwXHjufTpcdWBeNKypwY0sMg.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=IHSuIT50DHMQ7kNvwG4AeaV&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjg1MjI4MzY4MDUwNDA2NywiYXNzZXRfYWdlX2RheXMiOjMyMywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjU3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=362ce70062e1d87c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yNTQ1OUREMEFDOTAyOEU0RTdFRkIwMkI4NjE2NURBNF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzdDNDUxQzM3RTE2QTAzRTA5OUY4OEJCQjkxMzMyQjhCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaG5LGguMmDAxUCKAJDMywXQEy7peNT988YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=YVxh9cg5QnTYOnErfD70yg&_nc_ss=79289&_nc_zt=28&oh=00_AQTf0FgJ38PdIacRkkNKmrvXSt_r9rI0fcCuvMziZt_ntQ&oe=6AE74E83",
+      "first_seen": "2026-10-28T05:06:26.040052+00:00",
+      "last_seen": "2026-10-28T05:06:26.040052+00:00",
+      "active_checked_at": "2026-10-28T05:06:26.040052+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "SI"
+      ]
+    },
     {
       "ad_id": "1235262958442178",
       "product_name": "smile today xl crossbody",
@@ -2424,25 +4078,6 @@
       "ad_url": "https://www.facebook.com/ads/library/?id=2193126974568446",
       "landing_url": "https://burga.com/",
       "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/844758590_1460193242706969_653694218229544475_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ltzVCuSNrEwQ7kNvwEFPWeF&_nc_oc=Adrqcv_aSs28tZI4i9TfQsy3Lfakt15jOthsh6w_Lz2Xk599vQo-DbgKADmsJ1bNL3E&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=41qBjdmoQUtrO9hLIn_VGQ&_nc_ss=79289&oh=00_AQRV1hGEdrbG6WMFfiIE7ZhXoQMKx6nkbQeZWzX2A46qQw&oe=6AE741CD",
-      "video_url": null,
-      "first_seen": "2026-10-28T04:07:16.346327+00:00",
-      "last_seen": "2026-10-28T04:07:16.346327+00:00",
-      "active_checked_at": "2026-10-28T04:07:16.346327+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "PT"
-      ]
-    },
-    {
-      "ad_id": "960557046536059",
-      "product_name": "source safety on alibaba com alibaba com-world s leading b2b marketplace",
-      "product_key": "unverified:960557046536059",
-      "category": "other",
-      "advertiser": "Alibaba.com",
-      "source_country": "PT",
-      "ad_url": "https://www.facebook.com/ads/library/?id=960557046536059",
-      "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
-      "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/559815341_671225365668817_8789393907366654079_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vt9FxGJOhawQ7kNvwEg0m7B&_nc_oc=Adoz43QxNXjtWFB4xbC1-BK4o3XnzVrQavRu-DBURcuEX0FCSr_MZuWVUcG6QvYrDNw&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=41qBjdmoQUtrO9hLIn_VGQ&_nc_ss=79289&oh=00_AQRaFnmCskNjPMuasC1PDnfJfsSgCu_DpLmlC4mTOTEQCA&oe=6AE75744",
       "video_url": null,
       "first_seen": "2026-10-28T04:07:16.346327+00:00",
       "last_seen": "2026-10-28T04:07:16.346327+00:00",
