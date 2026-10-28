@@ -342,6 +342,38 @@ def main():
         "cursor":cursor,"total_queries_attempted":status["total_queries_attempted_to_date"],
         "campaign_started_at":campaign_started_at,"campaign_state":status["campaign_state"],
         "last_run_at":NOW.isoformat(),"unfinished_categories":status["unfinished_categories"]})
+    # Separate incomplete real-product leads from the strictly verified Top 50.
+    candidate_groups=defaultdict(dict)
+    for ad in recent:
+        link=str(ad.get("landing_url") or "")
+        try:
+            u=urlsplit(link)
+            m=PRODUCT_PATH_RE.search(u.path)
+            if not (u.scheme in ("https","http") and u.hostname and m):
+                continue
+            host=u.hostname.lower().removeprefix("www.")
+            if TRACKER_RE.search(host):
+                continue
+            slug=identity(m.group(1).replace("-"," ").replace("_"," "))
+            if len(slug)<9 or PET_RE.search(slug) or BULKY_RE.search(slug):
+                continue
+            candidate_groups[(host,u.path.lower())][str(ad["ad_id"])]=(slug,link,ad)
+        except (ValueError,KeyError,TypeError):
+            continue
+    candidates=[]
+    for group in candidate_groups.values():
+        if len(group)<2:
+            continue
+        rows=list(group.values())
+        name,link,_=rows[0]
+        candidates.append({"name":name,"category":classify_name(name),
+            "observed_ad_ids":len(rows),"missing_to_21":max(0,MIN_ACTIVE_ADS-len(rows)),
+            "product_url":link,"sample_ad_links":[a["ad_url"] for _,_,a in rows[:5]],
+            "verification":"RESEARCH ONLY: URL-level match, not fully verified product identity"})
+    candidates.sort(key=lambda x:-x["observed_ad_ids"])
+    save(STORE / "candidates.json",{"updated_at":NOW.isoformat(),
+        "notice":"Candidates are separate from qualified Top 50; not proof of 21 active ads.",
+        "count":len(candidates),"candidates":candidates[:100]})
     save(STORE / "ads.json", {"updated_at": NOW.isoformat(), "ads": recent})
     save(STORE / "top50.json", {"updated_at": NOW.isoformat(), "minimum_active_ads": MIN_ACTIVE_ADS,
                                 "active_window_hours": ACTIVE_WINDOW_HOURS, "categories": rankings})
