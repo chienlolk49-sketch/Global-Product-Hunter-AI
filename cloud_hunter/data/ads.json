@@ -1,6 +1,2097 @@
 {
-  "updated_at": "2026-10-28T07:37:24.907350+00:00",
+  "updated_at": "2026-10-28T08:26:25.534297+00:00",
   "ads": [
+    {
+      "ad_id": "4159793154166068",
+      "product_name": "online shopping carnival in the ip fantasy land",
+      "product_key": "title:online shopping carnival in the ip fantasy land",
+      "category": "vehicle",
+      "advertiser": "Gadgets",
+      "source_country": "US",
+      "ad_url": "https://www.facebook.com/ads/library/?id=4159793154166068",
+      "landing_url": "http://www.dhgate.com/",
+      "image_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.35426-6/622442810_33355179124130267_4701317827587251550_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8Gu-qaKscmwQ7kNvwHucWjd&_nc_oc=AdrLMzCNdpQygb85ywiwWLTqLcxBV6his_I-y9XUcNT2NFfB2atVn3AF3eVbhJoeqV8&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=Xj2pmcnws2BtbguU1aUJfA&_nc_ss=79289&oh=00_AQTWulVSfGgu7ahpz8EKpZP_Dw6Na6J4_ROxuDMmIUyuug&oe=6AE7811C",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "US"
+      ]
+    },
+    {
+      "ad_id": "2339386123553641",
+      "product_name": "toys on sale this week at target yes please",
+      "product_key": "title:toys on sale this week at target yes please",
+      "category": "toys",
+      "advertiser": "Target",
+      "source_country": "US",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2339386123553641",
+      "landing_url": "http://play.google.com/store/apps/details?id=com.target.ui",
+      "image_url": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.35426-6/838745565_1457791302893482_3869192303360652192_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CrABxg1a97kQ7kNvwH4GJGv&_nc_oc=AdoZZC2hdr-YD2p8Rz8-QQJtk6Tz2xHbYPcXizB-p3u8gn1Wd3jHWLC7Rvy6PfU7U3Q&_nc_zt=14&_nc_ht=scontent-lga3-1.xx&_nc_gid=Xj2pmcnws2BtbguU1aUJfA&_nc_ss=79289&oh=00_AQRUw8EI46bUhbaJNYkaA30BKucAXysjws7uW9zEOt9qFg&oe=6AE7739E",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "US"
+      ]
+    },
+    {
+      "ad_id": "2225077621393395",
+      "product_name": "unidentified product",
+      "product_key": "unverified:2225077621393395",
+      "category": "other",
+      "advertiser": "On the Radar",
+      "source_country": "US",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2225077621393395",
+      "landing_url": "https://www.temu.com/kuiper/un3.html?subj=dpa-un-default&_bg_fs=1&_p_jump_id=947&_x_vst_scene=adg&locale_override=211~~USD&_p_rfs=1&_x_ads_channel=facebook&_x_ads_sub_channel=sc_dpa&_x_bg_adid=udp2013441816&_x_ads_set={{campaign.id}}&_x_ads_id={{adset.id}}&_x_ads_creative_id={{ad.id}}&_x_ns_source={{site_source_name}}&_x_ns_placement={{placement}}",
+      "image_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.35426-6/797859825_974336749024124_8520662780828026593_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JaBszLwNhk4Q7kNvwGbqdu9&_nc_oc=AdorfS89vU1Hj8yY0-dxcHXyYE-eV2vLjfHGd7yjk0TCkW2c6PnF8zHySGTSTFQhVxE&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=Xj2pmcnws2BtbguU1aUJfA&_nc_ss=79289&oh=00_AQSxlr_krbroDYEv84U0t3PeerF9NrPIuNr1yWCb2m-f1g&oe=6AE78C49",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "US"
+      ]
+    },
+    {
+      "ad_id": "1241057777865496",
+      "product_name": "blockblaster diy ops handle set",
+      "product_key": "unverified:1241057777865496",
+      "category": "other",
+      "advertiser": "BlockBlaster",
+      "source_country": "US",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1241057777865496",
+      "landing_url": "https://block-blaster.com/products/blockblaster-diy-ops-handle-set%E2%84%A2",
+      "image_url": null,
+      "video_url": "https://video-lga3-3.xx.fbcdn.net/o1/v/t2/f2/m366/AQM58bXQMtu1sTeou5l_IxVNvDTQQNFqhlU2koo5kq11lIQSXAmT8i2E8KFXE-HCW6xWq3UCDzXsAmJwI0E6rdE1-aB4-gjnU_BhEH-JLopytA.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-lga3-3.xx.fbcdn.net&_nc_ohc=tb6RVY2kJU0Q7kNvwFEZuOx&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIxMzU1MzE2NjcxODczNzcsImFzc2V0X2FnZV9kYXlzIjozNTAsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=f4e36dd0df6ee52c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BRDRCODMwMTYzOTc2ODNCMTJFNzM1Q0VCNEE4MUE4Nl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0ZFNDQ1MTNCRjY4NDNEMTE4MUYxNjBGMzJEOERGMjk5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbimu_mppDLBxUCKAJDMywXQENIcrAgxJwYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=Xj2pmcnws2BtbguU1aUJfA&_nc_ss=79289&_nc_zt=28&oh=00_AQSTMi15wI60xnW9ibfztNsi99kYnA5bGsWWFetX1yGxEg&oe=6AE77712",
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "US"
+      ]
+    },
+    {
+      "ad_id": "1060898446659838",
+      "product_name": "on sale starting at just 1 5 now freshly restocked grab it before it s gone",
+      "product_key": "unverified:1060898446659838",
+      "category": "other",
+      "advertiser": "Chris and Melis - Designer Decor Deals & Furniture Finds",
+      "source_country": "US",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1060898446659838",
+      "landing_url": "https://walmart.markable.ai/11QlKQPThx",
+      "image_url": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.35426-6/788777967_2096614074290071_3321452108733386168_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qNddE86o7FIQ7kNvwHCn2EE&_nc_oc=AdpwX9McyhxRR5NMtdqMsc_n__DNF1ooZGa2sMxvXzq0mj1GcIcHspJPEsolFGktqZA&_nc_zt=14&_nc_ht=scontent-lga3-1.xx&_nc_gid=Xj2pmcnws2BtbguU1aUJfA&_nc_ss=79289&oh=00_AQQGAqXWKWFZOriMGsKhhHmEOMKw16bYGTNWBcyHoKGFtw&oe=6AE78019",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "US"
+      ]
+    },
+    {
+      "ad_id": "1032649873084697",
+      "product_name": "unidentified product",
+      "product_key": "unverified:1032649873084697",
+      "category": "other",
+      "advertiser": "Temu Spotlights",
+      "source_country": "US",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1032649873084697",
+      "landing_url": "https://www.temu.com/kuiper/un3.html?subj=dpa-un-default&_bg_fs=1&_p_jump_id=947&_x_vst_scene=adg&locale_override=211~~USD&_p_rfs=1&_x_ads_channel=facebook&_x_ads_sub_channel=sc_dpa&_x_bg_adid=udp2012895052&_x_ads_set={{campaign.id}}&_x_ads_id={{adset.id}}&_x_ads_creative_id={{ad.id}}&_x_ns_source={{site_source_name}}&_x_ns_placement={{placement}}",
+      "image_url": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.35426-6/787905593_2046245679587635_4781595035216368036_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9cnUJlTOMuAQ7kNvwFdMgAU&_nc_oc=AdohWSXlf-yS_L5Aprf4vEnBy-Ma5cz2jrtkbMVNwacxg5q2eESxeqWhAeM2lv1t2dc&_nc_zt=14&_nc_ht=scontent-lga3-1.xx&_nc_gid=Xj2pmcnws2BtbguU1aUJfA&_nc_ss=79289&oh=00_AQSXbh17EZ6NBAssbdUlYc7qyYYvXb9lYKBbz7rI2ueTAQ&oe=6AE791AE",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "US"
+      ]
+    },
+    {
+      "ad_id": "1689476532356323",
+      "product_name": "finally something the whole family actually wants to do",
+      "product_key": "unverified:1689476532356323",
+      "category": "other",
+      "advertiser": "Parenting Hacks 101",
+      "source_country": "US",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1689476532356323",
+      "landing_url": "https://theuzzle.com/pages/uzzle-blockwork-bundle",
+      "image_url": null,
+      "video_url": "https://video-lga3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPVXIrwBrdi4VSipkdN73GJD_WNNU9k2uV_xxwY0Gnld2QRzhic1YVbBDsmQFFXZmKjTPoS93EJ_v1P1tqfKACKvzKZaXyESvHmA68n3x3cqA.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-lga3-2.xx.fbcdn.net&_nc_ohc=bqv1iNQU3mgQ7kNvwHZh6HY&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIxNzg3MzM1NTk2NTUyOTcsImFzc2V0X2FnZV9kYXlzIjo4MiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjg0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=545ad7a6330f298&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82QjQyRDkxOThFMTQwN0UzN0YwOUFFQjA0NURFRjY4RV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0YyNDYwOTFEODhDNTlGNkNDNzlDNEM0QzQ5MzAyQjk2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaCrpH-_eLeBxUCKAJDMywXQFUKn752yLQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=Xj2pmcnws2BtbguU1aUJfA&_nc_ss=79289&_nc_zt=28&oh=00_AQT1HDccHjWQ55sOtd9PLplKqfbB3E13LqyF05WdJJF9Wg&oe=6AE78FE1",
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "US"
+      ]
+    },
+    {
+      "ad_id": "1732959764684036",
+      "product_name": "aliexpress",
+      "product_key": "unverified:1732959764684036",
+      "category": "other",
+      "advertiser": "AliExpress",
+      "source_country": "US",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1732959764684036",
+      "landing_url": "http://www.aliexpress.com/",
+      "image_url": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.35426-6/736980557_2431053974070736_6409210358097495077_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VNNcJNmXPLoQ7kNvwHPEjVu&_nc_oc=Adop7h7d0oOriKMs03ApY1xoJDeys_udB2xJWJybGCWrrpPmy1ZO7hLs8RhBtprrOhI&_nc_zt=14&_nc_ht=scontent-lga3-1.xx&_nc_gid=Xj2pmcnws2BtbguU1aUJfA&_nc_ss=79289&oh=00_AQS1pqh5szhONdjLryEMPtMUS4YuQoTTgyvImV4Yy7FC3A&oe=6AE76F0D",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "US"
+      ]
+    },
+    {
+      "ad_id": "2013041136016829",
+      "product_name": "unidentified product",
+      "product_key": "unverified:2013041136016829",
+      "category": "other",
+      "advertiser": "Daily Living",
+      "source_country": "US",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2013041136016829",
+      "landing_url": "https://www.temu.com/kuiper/un3.html?subj=dpa-un-default&_bg_fs=1&_p_jump_id=947&_x_vst_scene=adg&locale_override=211~~USD&_p_rfs=1&_x_ads_channel=facebook&_x_ads_sub_channel=sc_dpa&_x_bg_adid=udp2013351545&_x_ads_set={{campaign.id}}&_x_ads_id={{adset.id}}&_x_ads_creative_id={{ad.id}}&_x_ns_source={{site_source_name}}&_x_ns_placement={{placement}}",
+      "image_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.35426-6/813692294_2858466014527199_8159861741596358583_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=C52cxl48EhMQ7kNvwG6_O4Q&_nc_oc=AdqnY94kntDD-VdDIULMXA9m26pDG65GdJdGVudAMxM9RYYeBdHtawEvK1x9juqgJ_k&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=Xj2pmcnws2BtbguU1aUJfA&_nc_ss=79289&oh=00_AQQIHBABMLfkUEj6oBKvFoZNdbB3N6uhrD5sW0a_XKiV9Q&oe=6AE76A9E",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "US"
+      ]
+    },
+    {
+      "ad_id": "1086912024066050",
+      "product_name": "a new way to learn",
+      "product_key": "unverified:1086912024066050",
+      "category": "other",
+      "advertiser": "Practical Grandma",
+      "source_country": "US",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1086912024066050",
+      "landing_url": "https://checkout.thegroovd.com/childrens-magicbooks",
+      "image_url": null,
+      "video_url": "https://video-lga3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNMua7NFT9jndJt7H9I9N7kOggcxRNKBkUKHEKbkIIvjqdDmG5Wnbar-85KNccCdtFgzsl4DZ9-jiTn2Ad86LRuBtNMTR1GbulE6uuBeyP7LQ.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-lga3-1.xx.fbcdn.net&_nc_ohc=rSxZjbmMq-sQ7kNvwFJC0y-&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIxMjA4ODk4NDg1MjU3OTIsImFzc2V0X2FnZV9kYXlzIjo0MywidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjE3MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=48e1e18e2d1de40e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81RTQ3NjRERUNEMDlDMTA4MDhBQjM0RDVGNENFNUFCRF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Q0NEUxOTRFQjYxM0NCRUI2RkQ3MTI3Qzk5ODRFOEI4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbAz7vghLzEBxUCKAJDMywXQGVRLxqfvncYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=Xj2pmcnws2BtbguU1aUJfA&_nc_ss=79289&_nc_zt=28&oh=00_AQRvvUpUvMbMEThLdVwEjMFhAyc5SyNOxQ_rLk51DO1VZw&oe=6AE79FC9",
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "US"
+      ]
+    },
+    {
+      "ad_id": "1146841880108583",
+      "product_name": "smart chain train kids toy",
+      "product_key": "sku:smart chain train kids toy",
+      "category": "toys",
+      "advertiser": "KiddoFinds",
+      "source_country": "US",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1146841880108583",
+      "landing_url": "https://kiddofinds.com/products/smart-chain-train-kids-toy",
+      "image_url": null,
+      "video_url": "https://video-lga3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQP4bIUhIISdlynq7he0RMosFFEzk0-1nCJEs9DxF30erUB6K_pIptYCbSpvuvHLJoc48zCzAlGj9iuxBtGV9I_lhGzRak8s3c6q8NF-047Vyg.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-lga3-1.xx.fbcdn.net&_nc_ohc=SqkPwyduG0MQ7kNvwGRPbSd&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjc4MDI4NzEzODMwNDg3NiwiYXNzZXRfYWdlX2RheXMiOjM4OSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=b3b7b5b5c52a2e32&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83NDRDNDMzMjJEODNCQjA2RTdENzBBMkZFRDJFNkRBNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0M3NDNGMjIxM0MxMjg4M0Q0NDgyMzQwMkQ5RThFRUJGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbYzZyb2OriAhUCKAJDMywXQC4Q5WBBiTcYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=Xj2pmcnws2BtbguU1aUJfA&_nc_ss=79289&_nc_zt=28&oh=00_AQSXfmZsEpPQ_7vkVLYOHanaQmLIEJVHn8btAwEcjJ_8Bg&oe=6AE77E36",
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "US"
+      ]
+    },
+    {
+      "ad_id": "4079026612314853",
+      "product_name": "rainbow spinning and color tower toy",
+      "product_key": "sku:rainbow spinning and color tower toy",
+      "category": "toys",
+      "advertiser": "KiddoFinds",
+      "source_country": "US",
+      "ad_url": "https://www.facebook.com/ads/library/?id=4079026612314853",
+      "landing_url": "https://kiddofinds.com/products/rainbow-spinning-and-color-tower-toy",
+      "image_url": null,
+      "video_url": "https://video-lga3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPAqUwMn4jlSlVXZ_mupqrnW065H6W9pRslRZPvKVS4lUI3jk-tZ5es5ZssLzR7u0UpwTe8eTpT__MVkzP3WTVbRq5rQjoRA42N2KLrKNMKcg.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-lga3-1.xx.fbcdn.net&_nc_ohc=jyB4-iavltAQ7kNvwH-sDgj&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExMTYxNzI4NDA3MTI4MDMsImFzc2V0X2FnZV9kYXlzIjo0MDcsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyMiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=6ee37178e51d1b05&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84NTQwRDZBREJEMEUzMTM2OUJFQzVDRkRGREREQzk5QV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzM4NEZBMUU2NUUzMzc4OTlFOTc4MTQ4OEFGOTAwOEI1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbG6e3a58n7AxUCKAJDMywXQDZu2RaHKwIYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=Xj2pmcnws2BtbguU1aUJfA&_nc_ss=79289&_nc_zt=28&oh=00_AQTPlABPMQx-MO78VUD-Ubr5zWF1yulVFHEbZnEoLQlyBg&oe=6AE76FDA",
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "US"
+      ]
+    },
+    {
+      "ad_id": "1070358689032144",
+      "product_name": "b0gmjpmxdg",
+      "product_key": "unverified:1070358689032144",
+      "category": "other",
+      "advertiser": "Scrungo Games",
+      "source_country": "US",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1070358689032144",
+      "landing_url": "https://www.amazon.com/dp/B0GMJPMXDG?ref=clp_hp_h_pc",
+      "image_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.35426-6/802902214_1483979976896252_1411773371095354829_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cNJ7Xg9hIagQ7kNvwGnhvSs&_nc_oc=AdrcR8W-cg-gfxSDpk532ZOlQiDdfgNP1ga0HVvGGrF7-zdGgehBA5bypFTxHiH6BLk&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=Xj2pmcnws2BtbguU1aUJfA&_nc_ss=79289&oh=00_AQS0Lq3smy_VY9HMiSdRvB_HaGG4192WJFnqD0dfLFNaWQ&oe=6AE76E9C",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "US"
+      ]
+    },
+    {
+      "ad_id": "1551954805719907",
+      "product_name": "infant and child studies centre",
+      "product_key": "title:infant and child studies centre",
+      "category": "baby",
+      "advertiser": "University of Toronto Mississauga Infant and Child Studies Centre",
+      "source_country": "US",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1551954805719907",
+      "landing_url": "https://www.utm.utoronto.ca/infant-child-centre/registration-form",
+      "image_url": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.35426-6/452913650_1178081999938203_6141489724534842179_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VsT3eBDCClwQ7kNvwEizN0P&_nc_oc=Adr2580Nc4f3gM47dtN0F5z-x0vcXtUqcWUZg1R2f-GNWXGtoGkm7zI1Hl2qcHhxi3c&_nc_zt=14&_nc_ht=scontent-lga3-1.xx&_nc_gid=Xj2pmcnws2BtbguU1aUJfA&_nc_ss=79289&oh=00_AQRbdC2EEi4ZM9IIXT1UWXjJY5oWdj0mmBFMI2nmJtfXQQ&oe=6AE78951",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "US"
+      ]
+    },
+    {
+      "ad_id": "1397067554295810",
+      "product_name": "infant and child studies centre",
+      "product_key": "title:infant and child studies centre",
+      "category": "baby",
+      "advertiser": "University of Toronto Mississauga Infant and Child Studies Centre",
+      "source_country": "US",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1397067554295810",
+      "landing_url": "https://www.utm.utoronto.ca/infant-child-centre/registration-form",
+      "image_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.35426-6/448711065_1370183720343891_7358063135903369424_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3Pm9J9SRb6wQ7kNvwHZh-j4&_nc_oc=AdoZF36k015yL-Zd3c0EPoTC-_a6Z6z1sx0ZWLdagS9_K4gRmltFLXyAiHxXc4LQ53U&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=Xj2pmcnws2BtbguU1aUJfA&_nc_ss=79289&oh=00_AQRO-UZNHkhvavNEo02m4R2a8Gf80KZPJJlH59IbSRTsFQ&oe=6AE782DD",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "US"
+      ]
+    },
+    {
+      "ad_id": "2405476280222416",
+      "product_name": "personalized crayon charles montessori doll",
+      "product_key": "unverified:2405476280222416",
+      "category": "other",
+      "advertiser": "Leyadoll",
+      "source_country": "US",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2405476280222416",
+      "landing_url": "https://leyadoll.com/collections/personalized-educational-dolls/products/personalized-crayon-charles-montessori-doll",
+      "image_url": null,
+      "video_url": "https://video-lga3-3.xx.fbcdn.net/o1/v/t2/f2/m366/AQMHX6U1AOmgOQ_HXzuEyBFnOVKloJznGX9N8s7Xg5wcT2Zxm1exu2W09axdaNsdBCuhC5Uj3ClrZ5GMNtFC_AiKofSjIgf-lOkXMGoWy4UVEw.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-lga3-3.xx.fbcdn.net&_nc_ohc=n493zuKrHzsQ7kNvwH0ONnT&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjMxNTk1NzI0NDA4OTYxOTAsImFzc2V0X2FnZV9kYXlzIjoyMjksInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoyNSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=e97ebc177de6379c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wQTQwQTE5RkQ1MzMwODk0OUMzRDM5QTg1RTgzQjM4M19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzJCNDJDNzgyMzMwQkJGNkQzNUY3MzlBMENGQjdFMDhFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8ytqPqeecCxUCKAJDMywXQDk7peNT988YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=Xj2pmcnws2BtbguU1aUJfA&_nc_ss=79289&_nc_zt=28&oh=00_AQSe4T2IqWnsE5YXhDiYrNmpGNJGk8MNHHwEMjYqgt5pLw&oe=6AE76C7A",
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "US"
+      ]
+    },
+    {
+      "ad_id": "847221323888830",
+      "product_name": "our main focus is the preservation of coloring books and their art relating to children s properties",
+      "product_key": "unverified:847221323888830",
+      "category": "other",
+      "advertiser": "RetroReprints",
+      "source_country": "US",
+      "ad_url": "https://www.facebook.com/ads/library/?id=847221323888830",
+      "landing_url": null,
+      "image_url": null,
+      "video_url": "https://video-lga3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQOQZfs7pZPi0td8GFERrPgatHThrXPJwkCCjjKO4eTEvXDKKzA0UNswastsQRuEHSJVJxL-D8sKQ1N9VHzHUuB1.mp4?_nc_cat=107&_nc_sid=ef5aa3&_nc_ht=video-lga3-2.xx.fbcdn.net&_nc_ohc=XXpL__rnT6YQ7kNvwG5F6ks&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTAwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjoyMTQzNTcwMTQzMDUyNjkzLCJhc3NldF9hZ2VfZGF5cyI6MjIzLCJ2aV91c2VjYXNlX2lkIjoxMDY4MCwiZHVyYXRpb25fcyI6MTUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=Xj2pmcnws2BtbguU1aUJfA&_nc_ss=79289&_nc_zt=28&oh=00_AQRxC8-nraBY9PJ265pgHJdytSsLBOx70cWKAZ_F-1ulzg&oe=6AE79A68",
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "US"
+      ]
+    },
+    {
+      "ad_id": "1779510636802321",
+      "product_name": "aliexpress",
+      "product_key": "unverified:1779510636802321",
+      "category": "other",
+      "advertiser": "AliExpress",
+      "source_country": "US",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1779510636802321",
+      "landing_url": "https://www.AliExpress.com/",
+      "image_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.35426-6/786353634_1606156864235228_1452679310052856119_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AAwiMBCFShUQ7kNvwGpeqq4&_nc_oc=AdqluHePfARhzANYYH_lyfyCcZ-feQsIwz0jUICFqN51pVqP2bwPX7vhSq0yau-v7ZA&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=Xj2pmcnws2BtbguU1aUJfA&_nc_ss=79289&oh=00_AQSyB7zdNouCUx6jyE6YHdcTt0T7TB-JWT_cmdneRwbE7g&oe=6AE78B9E",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "US"
+      ]
+    },
+    {
+      "ad_id": "2161092428160226",
+      "product_name": "unidentified product",
+      "product_key": "unverified:2161092428160226",
+      "category": "other",
+      "advertiser": "On the Radar",
+      "source_country": "US",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2161092428160226",
+      "landing_url": "https://www.temu.com/kuiper/un3.html?subj=dpa-un-default&_bg_fs=1&_p_jump_id=947&_x_vst_scene=adg&locale_override=211~~USD&_p_rfs=1&_x_ads_channel=facebook&_x_ads_sub_channel=sc_dpa&_x_bg_adid=udp2013441830&_x_ads_set={{campaign.id}}&_x_ads_id={{adset.id}}&_x_ads_creative_id={{ad.id}}&_x_ns_source={{site_source_name}}&_x_ns_placement={{placement}}",
+      "image_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.35426-6/816088534_1126974766329644_7234428710265095445_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BcZG0VHbU4YQ7kNvwHzpObX&_nc_oc=AdrxqX9gRFyCLRZ5TdE_I2kvEjLDGT1M-yHtjBAghIizX4tx4klHEfHP40hXeBYGE8Q&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=Xj2pmcnws2BtbguU1aUJfA&_nc_ss=79289&oh=00_AQTu1iLEGTlhxBawwBRz8q_ba-AjAhoOQ4qe7713v1nRBw&oe=6AE77C2F",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "US"
+      ]
+    },
+    {
+      "ad_id": "2011407486231515",
+      "product_name": "unidentified product",
+      "product_key": "unverified:2011407486231515",
+      "category": "other",
+      "advertiser": "AliExpress",
+      "source_country": "US",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2011407486231515",
+      "landing_url": "http://s.click.aliexpress.com/",
+      "image_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.35426-6/802121417_1660588929400362_5833420553517288322_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=u5RMsOwb34wQ7kNvwGyZNND&_nc_oc=AdpDaUb1-toB4xZ6idYlnve-lOOkTjVzdL0G9nzszAlDFUW7nPDhmLMm1MCqaQOUsOU&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=Xj2pmcnws2BtbguU1aUJfA&_nc_ss=79289&oh=00_AQRtMIs2IC86y5FrYhzcRL-dubS2QpyDDpDUAO2PDZEl5A&oe=6AE785EC",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "US"
+      ]
+    },
+    {
+      "ad_id": "995924766157969",
+      "product_name": "montessori farm learning train",
+      "product_key": "unverified:995924766157969",
+      "category": "other",
+      "advertiser": "The Familys Place",
+      "source_country": "US",
+      "ad_url": "https://www.facebook.com/ads/library/?id=995924766157969",
+      "landing_url": "https://thefamilysplace.com/products/montessori-farm-learning-train",
+      "image_url": null,
+      "video_url": "https://video-lga3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQM04pyriVUYxnYwlW5wzrKVlFAtZ5UDki5VYWYXzxb1Zls03gDx58hteMxZkL0vp7E_YamL_V5z_CQbfR-6ZxzdayuNQVCzVVj8zVU4LRELdg.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-lga3-1.xx.fbcdn.net&_nc_ohc=m7rL8mWq4mMQ7kNvwE98ff5&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjg1NzI0NzI0MDExODE1NiwiYXNzZXRfYWdlX2RheXMiOjE2MiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjY2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=c7a2d768536f90d6&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80MzREQTc3RkU5MUQzNzI2RjYxRjZGRDc1MzkxMzdBM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzVDNDEwQTNBMTYxRUQ4RTdDN0U0Q0U1Q0E2QkREQzhDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaY_trTreqFAxUCKAJDMywXQFCCHKwIMScYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=Xj2pmcnws2BtbguU1aUJfA&_nc_ss=79289&_nc_zt=28&oh=00_AQRV3LnyBRzstI6vKCCMHt1llBNXWu1feZjvatSU9jJnEQ&oe=6AE78A6B",
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "US"
+      ]
+    },
+    {
+      "ad_id": "1542877550662804",
+      "product_name": "i m a child development specialist one 37 gift does more for your grandchild than every toy in their room comb",
+      "product_key": "title:i m a child development specialist one 37 gift does more for your grandchild than every toy in their room comb",
+      "category": "toys",
+      "advertiser": "Early Learning Insider",
+      "source_country": "US",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1542877550662804",
+      "landing_url": "https://www.yourlittleexplorer.com/pages/best_grandchild_gift",
+      "image_url": null,
+      "video_url": "https://video-lga3-3.xx.fbcdn.net/o1/v/t2/f2/m366/AQPinTbMO934LIeN1WqrDHw2jtIqvqYIrvhmgbarTEClN6PWJUgxN8i18_n6pG-GlKraWRsTUB64wvKcLUV1usiXtOQq2sSd17xMEP8KuuIf5w.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-lga3-3.xx.fbcdn.net&_nc_ohc=djYVBG09G8YQ7kNvwH4NPYF&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIxODU4NTkyOTIxNTI1MDIsImFzc2V0X2FnZV9kYXlzIjoyMjIsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyMTIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=79e280a1d97dda41&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80MjRBRjdGMTM1MzYwRURDOUVBMkZCRDlENEYxNDU4QV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzRDNDgzMzQ4OUE1QTM3RTg1ODMxN0U2MTQ3NTdDQUIwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbsiprq4IHiBxUCKAJDMywXQGqayLQ5WBAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=Xj2pmcnws2BtbguU1aUJfA&_nc_ss=79289&_nc_zt=28&oh=00_AQRDVWMDWHKcE94rPCs2ceurZmhYZP1E8loREB_hMjgxsA&oe=6AE786E8",
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "US"
+      ]
+    },
+    {
+      "ad_id": "1016404677825096",
+      "product_name": "discover sustainably crafted wooden toys designed to spark your child s imagination built to last a",
+      "product_key": "title:discover sustainably crafted wooden toys designed to spark your child s imagination built to last a",
+      "category": "toys",
+      "advertiser": "Hape Toys",
+      "source_country": "US",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1016404677825096",
+      "landing_url": "http://toys.hape.com/",
+      "image_url": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.35426-6/753164173_1044741591624737_5452434749756169652_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=alp_Kq2yEZQQ7kNvwHC2Ysf&_nc_oc=Adq0fUAiwA6JOV14OaU17y8Ci56wJApIELjqDNPiavmdrj2pSqgkQbGYd2nrCuUjUWk&_nc_zt=14&_nc_ht=scontent-lga3-1.xx&_nc_gid=Xj2pmcnws2BtbguU1aUJfA&_nc_ss=79289&oh=00_AQSB528VHOJlJnE_cCRNGjCY5SgYtbmf0Knq5X5d8DB23g&oe=6AE78360",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "US"
+      ]
+    },
+    {
+      "ad_id": "1390555859446426",
+      "product_name": "educational childrens smartphone learning toy",
+      "product_key": "sku:educational childrens smartphone learning toy",
+      "category": "electronics",
+      "advertiser": "KiddoFinds",
+      "source_country": "US",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1390555859446426",
+      "landing_url": "https://kiddofinds.com/products/educational-childrens-smartphone-learning-toy",
+      "image_url": null,
+      "video_url": "https://video-lga3-3.xx.fbcdn.net/o1/v/t2/f2/m366/AQO2XA7ZUIBrj1T8NcTtYl2ynq2fQ2MdoCk61aY1EV-W_HsWOTSLhDxGZUt60dthU_AwVImFJ70zH0QAYZB-RF0nWuwAK9VdNQS8kXYNJyLS2g.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-lga3-3.xx.fbcdn.net&_nc_ohc=y7pCOPgucPAQ7kNvwFpFfJh&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExMjg4OTc3NDkwMzEyMDQsImFzc2V0X2FnZV9kYXlzIjozNDgsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=9ec85160d534c705&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DQzQyMEQ0QjlGNUQwMTFBMkRBNTBCNTQwQzFCN0JBRF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzJDNEYyRkY3MDYwNjI2NDQ1Mzg5MEMzNzRBNENENUE1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbI5IzVv66BBBUCKAJDMywXQDKZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=Xj2pmcnws2BtbguU1aUJfA&_nc_ss=79289&_nc_zt=28&oh=00_AQQof3siiFVIB9edvpIGwh8xV0VMduY1i5n7R8f0QkkfSA&oe=6AE78994",
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "US"
+      ]
+    },
+    {
+      "ad_id": "3345008649024710",
+      "product_name": "montessori brain blocks",
+      "product_key": "unverified:3345008649024710",
+      "category": "other",
+      "advertiser": "Montessori Generation",
+      "source_country": "US",
+      "ad_url": "https://www.facebook.com/ads/library/?id=3345008649024710",
+      "landing_url": "https://montessorigeneration.com/products/montessori-brain-blocks",
+      "image_url": null,
+      "video_url": "https://video-lga3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQP95DDsSMC7sBeuNqJPUGgqOUNVIKf5K8hMOdJQx8sdvqUK07SqqpEh9NG6Mb49s4PDfCs5Qa1BwDsEbAcjVg7AI6cSau1LMYvgU6a6Nonq6g.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-lga3-2.xx.fbcdn.net&_nc_ohc=Pn_6tvUkEqIQ7kNvwE5yYfb&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1NTMyODcyNjYwODUyMDgsImFzc2V0X2FnZV9kYXlzIjo0MDQsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=6ffb3ca4db7ff11a&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CMTQ3Q0M2QkY2MjQ2OEIyQTU5NDhFQ0UxNjEyMTg5MV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzBGNEEwRThGMzUwMDkwRTMwNUU4RTM4MkJBNjk1NDhGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACawpdX7m63CBRUCKAJDMywXQEDRBiTdLxsYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=Xj2pmcnws2BtbguU1aUJfA&_nc_ss=79289&_nc_zt=28&oh=00_AQRdG8JuFadp_4UKKvjyrBY5oTrvKtatinm4QrdM4FFw0w&oe=6AE7703F",
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "US"
+      ]
+    },
+    {
+      "ad_id": "1078620925094828",
+      "product_name": "grandparents can t be there every day luckily the right toy can",
+      "product_key": "title:grandparents can t be there every day luckily the right toy can",
+      "category": "toys",
+      "advertiser": "Clever Toys Box",
+      "source_country": "US",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1078620925094828",
+      "landing_url": "https://clevertoysbox.com/",
+      "image_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.35426-6/795709983_2153559161896811_7159823262837367131_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=L-IxM0LPBIoQ7kNvwFYmnyI&_nc_oc=Adp1TGjCPyOVDkPekDphA3qC2Za-IGEkliMSNtVnAOVJo7vLCOQF7oNB3rE2QgU5L60&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=Xj2pmcnws2BtbguU1aUJfA&_nc_ss=79289&oh=00_AQR9yCKBlIJb894XotKgw36bbm8dnlLuiL8t7nIpgF03aA&oe=6AE789ED",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "US"
+      ]
+    },
+    {
+      "ad_id": "1089642460110193",
+      "product_name": "unidentified product",
+      "product_key": "unverified:1089642460110193",
+      "category": "other",
+      "advertiser": "Temu",
+      "source_country": "US",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1089642460110193",
+      "landing_url": "https://www.temu.com/kuiper/un3.html?subj=dpa-un-default&_bg_fs=1&_p_jump_id=947&_x_vst_scene=adg&locale_override=211~~USD&_p_rfs=1&_x_ads_channel=facebook&_x_ads_sub_channel=sc_dpa&_x_bg_adid=udp2012895083&_x_ads_set={{campaign.id}}&_x_ads_id={{adset.id}}&_x_ads_creative_id={{ad.id}}&_x_ns_source={{site_source_name}}&_x_ns_placement={{placement}}",
+      "image_url": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.35426-6/784819026_1789078675754752_5061065626812931207_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9_5vfEqhrZQQ7kNvwGyG9cA&_nc_oc=Adq5Cbeg5s1aka-7u7oSw__Xyi0WPEa1iO_t-tKgadw8YjnUSlO7CGDwX26GKAGFHHQ&_nc_zt=14&_nc_ht=scontent-lga3-1.xx&_nc_gid=Xj2pmcnws2BtbguU1aUJfA&_nc_ss=79289&oh=00_AQQWiOkwxIfMmzvSaPvzOhWkBuomHxR0iaYnB4rP3gljsQ&oe=6AE786A7",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "US"
+      ]
+    },
+    {
+      "ad_id": "1040790402326643",
+      "product_name": "a new way to learn",
+      "product_key": "unverified:1040790402326643",
+      "category": "other",
+      "advertiser": "Practical Grandma",
+      "source_country": "US",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1040790402326643",
+      "landing_url": "https://checkout.thegroovd.com/childrens-magicbooks",
+      "image_url": null,
+      "video_url": "https://video-lga3-3.xx.fbcdn.net/o1/v/t2/f2/m366/AQOIYWERnlHxhJPJtndG_cc-SZeb5XLao_eeUDjUcye8HmJEO1d8ulL03BcfKUpyROCXhMdVTqC9wJFS7hizqPhdh52OTDiXZuUA4SdXUm3JPg.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-lga3-3.xx.fbcdn.net&_nc_ohc=k1OeQ5dqQ1MQ7kNvwH8cI1q&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjM0NzkwOTkxMzU1ODUzOTIsImFzc2V0X2FnZV9kYXlzIjo0OCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjIxNSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=57f73b84205cf2a9&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85NjQxODE0NEI3MjI5MDNFNTczNEUxMjk2MDcyRjY4Q19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzUwNDM0MDI5OEI2MDZBRjMxNEJCRDU1ODI4NTdEQ0JBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbgsevBnI6uDBUCKAJDMywXQGryn752yLQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=Xj2pmcnws2BtbguU1aUJfA&_nc_ss=79289&_nc_zt=28&oh=00_AQQNzg5b3XLXnwegDPMaqZUr7BNZgowuszUvqEEUf_u8rg&oe=6AE77780",
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "US"
+      ]
+    },
+    {
+      "ad_id": "1817984039375714",
+      "product_name": "unidentified product",
+      "product_key": "unverified:1817984039375714",
+      "category": "other",
+      "advertiser": "On the Radar",
+      "source_country": "US",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1817984039375714",
+      "landing_url": "https://www.temu.com/kuiper/un3.html?subj=dpa-un-default&_bg_fs=1&_p_jump_id=947&_x_vst_scene=adg&locale_override=211~~USD&_p_rfs=1&_x_ads_channel=facebook&_x_ads_sub_channel=sc_dpa&_x_bg_adid=udp2013441840&_x_ads_set={{campaign.id}}&_x_ads_id={{adset.id}}&_x_ads_creative_id={{ad.id}}&_x_ns_source={{site_source_name}}&_x_ns_placement={{placement}}",
+      "image_url": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.35426-6/809226090_1273710264844509_6708719653032163316_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pixQg_XHd2sQ7kNvwGIXc2X&_nc_oc=AdpHZetDEG-wlsCer0BvScjED9jHjsVuks7B9uciewsmPVpB2sfNg5cadmT7D8-mynE&_nc_zt=14&_nc_ht=scontent-lga3-1.xx&_nc_gid=Xj2pmcnws2BtbguU1aUJfA&_nc_ss=79289&oh=00_AQSOZqGDrY5Xgju2_C5NCPaMkgwnfS_fLphpncqro_nWPw&oe=6AE7831F",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "US"
+      ]
+    },
+    {
+      "ad_id": "1520533849761614",
+      "product_name": "unidentified product",
+      "product_key": "unverified:1520533849761614",
+      "category": "other",
+      "advertiser": "AliExpress",
+      "source_country": "US",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1520533849761614",
+      "landing_url": "http://s.click.aliexpress.com/",
+      "image_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.35426-6/802121417_1660588929400362_5833420553517288322_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=u5RMsOwb34wQ7kNvwGyZNND&_nc_oc=AdpDaUb1-toB4xZ6idYlnve-lOOkTjVzdL0G9nzszAlDFUW7nPDhmLMm1MCqaQOUsOU&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=Xj2pmcnws2BtbguU1aUJfA&_nc_ss=79289&oh=00_AQRtMIs2IC86y5FrYhzcRL-dubS2QpyDDpDUAO2PDZEl5A&oe=6AE785EC",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "US"
+      ]
+    },
+    {
+      "ad_id": "1327828775834263",
+      "product_name": "choose from one of the world s leading b2b ecommerce platforms and enjoy trade assurance that applie",
+      "product_key": "unverified:1327828775834263",
+      "category": "other",
+      "advertiser": "Alibaba.com",
+      "source_country": "ES",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1327828775834263",
+      "landing_url": "http://www.alibaba.com/",
+      "image_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.35426-6/505863490_687552424080782_2439082270811029106_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2okJ9pkjazwQ7kNvwGRKaXf&_nc_oc=AdqsKqvWNy78GxD5uyHebFzIXpaDn91qQvK28KmwSzmWS_6nG69fAUiJjUXW5kY-748&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=bO7tIKYRa2SgnFffYZAgFw&_nc_ss=79289&oh=00_AQQXIayuIIu63OU1EoZNS501U8ClppZVoOmnMDkqgz5_og&oe=6AE7910B",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "ES"
+      ]
+    },
+    {
+      "ad_id": "27058932423710207",
+      "product_name": "choose from one of the world s leading b2b ecommerce platforms and enjoy trade assurance that applie",
+      "product_key": "unverified:27058932423710207",
+      "category": "other",
+      "advertiser": "Alibaba.com",
+      "source_country": "ES",
+      "ad_url": "https://www.facebook.com/ads/library/?id=27058932423710207",
+      "landing_url": "http://www.alibaba.com/",
+      "image_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.35426-6/505709062_1060749092058102_6652578097931026189_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jhc9gRJiVtoQ7kNvwF7XMtB&_nc_oc=AdoaVQ_UeJ2UBmyH-Bozcx4_7aVMxrkEhe-oi2x3a0R2mfx7bJyB84eRGaqyALhtu-g&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=bO7tIKYRa2SgnFffYZAgFw&_nc_ss=79289&oh=00_AQQdH-F7EaDz8n2mX4YgYlXke5jMaRlJSLBJq7nQUqXqHg&oe=6AE79BAC",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "CZ",
+        "ES"
+      ]
+    },
+    {
+      "ad_id": "1336053748419921",
+      "product_name": "natural relief in weeks",
+      "product_key": "unverified:1336053748419921",
+      "category": "other",
+      "advertiser": "American Health Support Community",
+      "source_country": "ES",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1336053748419921",
+      "landing_url": "https://shop.pipitea.com/hbt/gr/ps",
+      "image_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.35426-6/711466687_3956051474528588_1057511412183035054_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bfoplsOGoUkQ7kNvwFJRkMC&_nc_oc=AdoEyoDwt0Cfistxii95foyxlQpKKL-sGu0N4H_-ScoOAxjdZtNy7ZMNbw2ET8Abhts&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=bO7tIKYRa2SgnFffYZAgFw&_nc_ss=79289&oh=00_AQTNKekRWEeVPyv5pf9H7op81RHqi9edpBEFw0zfIQ9LSg&oe=6AE782D3",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "ES"
+      ]
+    },
+    {
+      "ad_id": "1451502250048330",
+      "product_name": "natural relief in weeks",
+      "product_key": "unverified:1451502250048330",
+      "category": "other",
+      "advertiser": "Cholesterol Relief Community",
+      "source_country": "ES",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1451502250048330",
+      "landing_url": "https://shop.pipitea.com/ppch/sp-nm",
+      "image_url": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.35426-6/758554259_1554394033090897_6796348241734976472_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MuY5QKfguBgQ7kNvwE8RaSV&_nc_oc=Adq5UkoTX2-Chn6I3z-YKrRyO6jCZlhWqnYKp0CWOa0cAzIE3z4t4PL8jP27f-91O28&_nc_zt=14&_nc_ht=scontent-lga3-1.xx&_nc_gid=bO7tIKYRa2SgnFffYZAgFw&_nc_ss=79289&oh=00_AQTBHGe0kLUzaBGIXBsmCSDqIPbUnZTAB_-lsQn7rAKm9w&oe=6AE77BE2",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "ES"
+      ]
+    },
+    {
+      "ad_id": "1040456661810531",
+      "product_name": "natural relief in weeks",
+      "product_key": "unverified:1040456661810531",
+      "category": "other",
+      "advertiser": "American Health Support Community",
+      "source_country": "ES",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1040456661810531",
+      "landing_url": "https://shop.pipitea.com/hbt/kd/sp-nm",
+      "image_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.35426-6/753702446_1539668560986354_7219084575938352169_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CzqepzesmekQ7kNvwHjAhO9&_nc_oc=AdoVUFr2_aoacEXEevKuX_B0oKeFm4wLtbE7FqzFBasOmgwcghzcbZLx3dQN7BBJk7k&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=bO7tIKYRa2SgnFffYZAgFw&_nc_ss=79289&oh=00_AQSXnzEoWF2_rsTC_OpVP-PXN7034hYdlTWZ2vTLCDtcgA&oe=6AE79370",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "ES"
+      ]
+    },
+    {
+      "ad_id": "1047023941517249",
+      "product_name": "natural relief in weeks",
+      "product_key": "unverified:1047023941517249",
+      "category": "other",
+      "advertiser": "American Health Support Community",
+      "source_country": "ES",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1047023941517249",
+      "landing_url": "https://shop.pipitea.com/hbt/kd/sp-nm",
+      "image_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.35426-6/755171311_1054846213734576_2003003471637639533_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1-a1W3PPJ8UQ7kNvwGMEkp_&_nc_oc=AdoGeGJD9Y4Y6cL7Rm4xB6VRymxcf3csrIozLUIqwk858n7xes20oqtyRMwcUwSs_YQ&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=bO7tIKYRa2SgnFffYZAgFw&_nc_ss=79289&oh=00_AQQER-pdA-uuQUEFF93FZMaSmwLK5sooQarP1Jp7gv3LnQ&oe=6AE77EA3",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "ES"
+      ]
+    },
+    {
+      "ad_id": "4239340819650681",
+      "product_name": "family passport holder black for 4",
+      "product_key": "sku:family passport holder black for",
+      "category": "sport",
+      "advertiser": "Far & Wide - Family Travel",
+      "source_country": "ES",
+      "ad_url": "https://www.facebook.com/ads/library/?id=4239340819650681",
+      "landing_url": "https://www.farandwideofficial.com/products/family-passport-holder-black-for-4",
+      "image_url": null,
+      "video_url": "https://video-lga3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPr8GJhBo3wNihe8POEDPS1AswqMlX5Df00sobMACl-ILYdQaOhUC9PTEHy6tPCC_tbMz1S_in7am8P8N6v5a83pahLY2xKKqaeanTGyJ2x9A.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-lga3-2.xx.fbcdn.net&_nc_ohc=ZaKpg-LN8OUQ7kNvwFOVioy&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIzMjQ2NzQzMTEzMjYwNDIsImFzc2V0X2FnZV9kYXlzIjozMzgsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyNSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=8c4dddb9a754c3fc&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85QjQ5QTIwQTI4QzA3QURFMUNGODU4OTUwODhCQUI5MF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0U2NDU5OUI1NEY5MDE5Nzc4MjdGMzMyMzc2NzkzNDk4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa0pdyo7ZGhCBUCKAJDMywXQDkAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=bO7tIKYRa2SgnFffYZAgFw&_nc_ss=79289&_nc_zt=28&oh=00_AQQL34tdqX76eyAT849A4RqHRF9nFRvIpmXmi6FDjeO7_A&oe=6AE78941",
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "ES"
+      ]
+    },
+    {
+      "ad_id": "1067518792410951",
+      "product_name": "natural relief in weeks",
+      "product_key": "unverified:1067518792410951",
+      "category": "other",
+      "advertiser": "Cholesterol Relief Community",
+      "source_country": "ES",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1067518792410951",
+      "landing_url": "https://shop.pipitea.com/ppch/sp-nm",
+      "image_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.35426-6/758028536_1504811581415463_421390207094192987_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kXKDr1Dnoj4Q7kNvwGY6dt3&_nc_oc=AdrXZuN4HX-lHrzSYguEEUoX4Nj_20MDHFpwlTiwtXaVUaHtvaTuMC1vyZ9asIZicrc&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=bO7tIKYRa2SgnFffYZAgFw&_nc_ss=79289&oh=00_AQSTzOyT-xXopF4OufGI79NbAkYGhPWI4_PA2kvfpEuL2w&oe=6AE77B94",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "ES"
+      ]
+    },
+    {
+      "ad_id": "1755554935742053",
+      "product_name": "shop our collection",
+      "product_key": "unverified:1755554935742053",
+      "category": "other",
+      "advertiser": "Turgut Office",
+      "source_country": "ES",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1755554935742053",
+      "landing_url": "https://turgutoffice.com/",
+      "image_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.35426-6/863574406_2355169691918054_7544488601913279042_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SBqWGBafb8wQ7kNvwFIX0yf&_nc_oc=AdriCwji2jYOZ3aGmNlgyvk_OjXynYS1urDuARnuv9XXgPoI07X5Vx69LmVxeSk1-io&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=bO7tIKYRa2SgnFffYZAgFw&_nc_ss=79289&oh=00_AQQivqojRs3XpcdmWWWtKhfSz--LX06Px1EW-1vFXb-aAA&oe=6AE79872",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "ES"
+      ]
+    },
+    {
+      "ad_id": "2193229781440852",
+      "product_name": "natural relief in weeks",
+      "product_key": "unverified:2193229781440852",
+      "category": "other",
+      "advertiser": "American Health Support Community",
+      "source_country": "ES",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2193229781440852",
+      "landing_url": "https://shop.pipitea.com/hbt/gr/ps",
+      "image_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.35426-6/714599568_3708793835929143_1427339610911836413_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QmJfvdmKi3EQ7kNvwFGqs7c&_nc_oc=Adp1EhHQ2Bboacfda0tXLCuEo_xcxVuiYgkKvUqS9jDRkLfh9M78m47e0TZssvE6iCg&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=bO7tIKYRa2SgnFffYZAgFw&_nc_ss=79289&oh=00_AQRequgfxA3JmXG3rA2ZeQKH7zwE2PkBjRibnvGZmMqBzg&oe=6AE76E98",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "ES"
+      ]
+    },
+    {
+      "ad_id": "1342736021017508",
+      "product_name": "source electrical equipment supplies on alibaba com alibaba com-world s leading b2b marketplace",
+      "product_key": "unverified:1342736021017508",
+      "category": "other",
+      "advertiser": "Alibaba.com",
+      "source_country": "ES",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1342736021017508",
+      "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+      "image_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.35426-6/646358226_2109660626555956_8517559645845542477_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dEeuN49Q3AUQ7kNvwF5HNkF&_nc_oc=Adr-mlf6Ea_YagdwtDM8hNG1_Yi7UJJCNtDsb4sMy1JTJQ3_WpK36ndQbLPHfpJ2e2k&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=bO7tIKYRa2SgnFffYZAgFw&_nc_ss=79289&oh=00_AQQ_8MbauLngG-GHKbTE0HDSw1OCzq7N-_G3WpFAo9uRiQ&oe=6AE769AE",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "ES"
+      ]
+    },
+    {
+      "ad_id": "969977039349760",
+      "product_name": "natural relief in weeks",
+      "product_key": "unverified:969977039349760",
+      "category": "other",
+      "advertiser": "American Health Support Community",
+      "source_country": "ES",
+      "ad_url": "https://www.facebook.com/ads/library/?id=969977039349760",
+      "landing_url": "https://shop.pipitea.com/hbt/gr/ps",
+      "image_url": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.35426-6/712623460_1539424417842705_8314061277516505627_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3TGDWy5P8UoQ7kNvwFIAkZZ&_nc_oc=Adov8qgZ6o5wRnhrYT81YShIdand_DcCVGUZ76cyZYIj3uETcHfRavs22azTiNPnXvg&_nc_zt=14&_nc_ht=scontent-lga3-1.xx&_nc_gid=bO7tIKYRa2SgnFffYZAgFw&_nc_ss=79289&oh=00_AQRFzVp44xE9cH0924iMi1kKItsMsfLjInE8uvMNRq4ORQ&oe=6AE78F0B",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "ES"
+      ]
+    },
+    {
+      "ad_id": "1057906087005395",
+      "product_name": "peakzooc cyber stand",
+      "product_key": "unverified:1057906087005395",
+      "category": "other",
+      "advertiser": "Peakzooc.com",
+      "source_country": "ES",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1057906087005395",
+      "landing_url": "https://peakzooc.com/products/peakzooc-cyber-stand",
+      "image_url": null,
+      "video_url": "https://video-lga3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQO6fyf-MFclK35xzNMY0ky35tc9ViSFR8F4KSJLvisYUTCiNDtGvCnRO-NSHnmF1blvWSFbm4iDJrzlmhnKXQT1drrfh5vaJ4Z-RkXA8hpyGA.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-lga3-2.xx.fbcdn.net&_nc_ohc=oLnJdmikob4Q7kNvwGb9yf7&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExMzE0NjkzNjI1NjY5OTEsImFzc2V0X2FnZV9kYXlzIjo0MiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjMyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=173baf8add96c84&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wMDQxRTM2RkE5NTYzRkI1OTUzNDIxQzFBMDdCMzk4Ql9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0M0NDcyQTg2MzAzQTc3NzFCRDc2NTFBNEI1NEU0NTk0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACae3fDWl8SCBBUCKAJDMywXQEBMzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=bO7tIKYRa2SgnFffYZAgFw&_nc_ss=79289&_nc_zt=28&oh=00_AQTIsrnP8Z7xlPAZAShixlOzl2P9uCe11B9LTOyUa2Q10w&oe=6AE79285",
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "ES"
+      ]
+    },
+    {
+      "ad_id": "1124542376988530",
+      "product_name": "derby horse desk organizer",
+      "product_key": "sku:derby horse desk organizer",
+      "category": "office",
+      "advertiser": "Maison & Fitch",
+      "source_country": "ES",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1124542376988530",
+      "landing_url": "https://maisonandfitch.com/products/derby-horse-desk-organizer",
+      "image_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.35426-6/809685288_1057459470611699_9007110114089462449_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AOULXECUvIIQ7kNvwElHJzv&_nc_oc=AdrueKKJeXxXTpSDqX3AbUOIcGcxV1kU9bulf9Aophoxa4_Ll2QeCJI1dqVmpOxvx98&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=bO7tIKYRa2SgnFffYZAgFw&_nc_ss=79289&oh=00_AQRUquXXsiAUkV74jL2EKLLMN4o1F1TAhf4Nc_RBnZCdAQ&oe=6AE7969A",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "ES"
+      ]
+    },
+    {
+      "ad_id": "1633070191659978",
+      "product_name": "college hoodie desk organizer pen pencil and utensil holder 3d printed college football office and kitchen dec",
+      "product_key": "sku:college hoodie desk organizer pen pencil and utensil holder printed college football office and kitchen dec",
+      "category": "kitchen",
+      "advertiser": "Custom Face Stickers",
+      "source_country": "ES",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1633070191659978",
+      "landing_url": "https://customfacestickers.com/products/college-hoodie-desk-organizer-pen-pencil-and-utensil-holder-3d-printed-college-football-office-and-kitchen-decor-fan-gift-9?utm_source=Facebook&utm_medium=%7B%7Badset.id%7D%7D",
+      "image_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.35426-6/843884024_878557371913753_3696506191354477806_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VqcO_XUD4N0Q7kNvwFeT1Qn&_nc_oc=AdrSRk0wz4dFPViZk4FBfQyTWCuMRDGw44GAhX4MfRYC3RtCdWIFSKcQWXw-dwid1As&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=bO7tIKYRa2SgnFffYZAgFw&_nc_ss=79289&oh=00_AQQ_xlF19clxRysSfsWVmWgXOqwvP64D432zTO9VNXYf6Q&oe=6AE78320",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "ES"
+      ]
+    },
+    {
+      "ad_id": "1137938275451408",
+      "product_name": "nba hoodie desk organizer pen pencil and utensil holder fan gift 7",
+      "product_key": "sku:nba hoodie desk organizer pen pencil and utensil holder fan gift",
+      "category": "office",
+      "advertiser": "My Custom Brickfigures",
+      "source_country": "ES",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1137938275451408",
+      "landing_url": "https://mycustombrickfigures.com/products/nba-hoodie-desk-organizer-pen-pencil-and-utensil-holder-fan-gift-7?utm_source=Facebook&utm_medium=%7B%7Badset.id%7D%7D",
+      "image_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.35426-6/854050275_1131320219438165_7699028131371012202_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wsWYhaFs7QwQ7kNvwEke_h-&_nc_oc=AdrDngCD5puCQXW3YuMd8EGO8T_C0yrdKTnxRPrimBBfXGqrowvQxLOIFp_4ruShjkA&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=bO7tIKYRa2SgnFffYZAgFw&_nc_ss=79289&oh=00_AQQKs8AM7tPs_VeLlNw8nrdbeigdfBv7lx9Vyy0A__HPBQ&oe=6AE76D61",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "ES"
+      ]
+    },
+    {
+      "ad_id": "354331341059019",
+      "product_name": "pockt bundle 2",
+      "product_key": "unverified:354331341059019",
+      "category": "other",
+      "advertiser": "Pockt",
+      "source_country": "ES",
+      "ad_url": "https://www.facebook.com/ads/library/?id=354331341059019",
+      "landing_url": "https://pockt.co/products/pockt-bundle-2",
+      "image_url": null,
+      "video_url": "https://video-lga3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMsFbBFhgmYGUKs4XFVZrewkB30bJIVD9cSELTs7w0GnZGwmiu0AUj_7_Pi0h7I9P2xBLC-tioRgizostRQmXO8.mp4?_nc_cat=103&_nc_sid=ef5aa3&_nc_ht=video-lga3-1.xx.fbcdn.net&_nc_ohc=4GQghUTsBhMQ7kNvwFdfHKW&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjoxNzQ2MjMyOTI2MDkyNjEwLCJhc3NldF9hZ2VfZGF5cyI6MzU2LCJ2aV91c2VjYXNlX2lkIjoxMDY4MCwiZHVyYXRpb25fcyI6MjcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=bO7tIKYRa2SgnFffYZAgFw&_nc_ss=79289&_nc_zt=28&oh=00_AQQXNFo0Ckc8ZOfSi-dY9PlSVLX6qfwfnYXBg_rsxO9rSg&oe=6AE76AB4",
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "ES"
+      ]
+    },
+    {
+      "ad_id": "1363638519182037",
+      "product_name": "vitamin b complex liposomal",
+      "product_key": "unverified:1363638519182037",
+      "category": "other",
+      "advertiser": "MS support & tips",
+      "source_country": "ES",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1363638519182037",
+      "landing_url": "https://trynuvel.com/products/vitamin-b-complex-liposomal",
+      "image_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.35426-6/846611904_28735671539409040_6086592168355707823_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QeQ3LjaXYOwQ7kNvwEaCWvh&_nc_oc=Adoqo6S3dgSb9q7S29J-V0wNoQf2X_7tRKnaQD2KDZA6OOa3OLbNAhdBexFoPtnanKc&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=bO7tIKYRa2SgnFffYZAgFw&_nc_ss=79289&oh=00_AQTtzkpFGNBzEOnKURmooWjos81CKt1bqeUX6TXUNHJMZg&oe=6AE78B41",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "ES"
+      ]
+    },
+    {
+      "ad_id": "2321649088643534",
+      "product_name": "natural relief in weeks",
+      "product_key": "unverified:2321649088643534",
+      "category": "other",
+      "advertiser": "Cholesterol Relief Community",
+      "source_country": "ES",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2321649088643534",
+      "landing_url": "https://shop.pipitea.com/ppch/sp-nm",
+      "image_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.35426-6/758841295_1394796489201226_1449470721201386379_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Fu1MSPQES9oQ7kNvwGjcLZ0&_nc_oc=AdqbqpOPfkFEfaGbCfmOprOnNIrwzXszUzjzV36uePawfpseNomDtLnTy2RU0eTFsCM&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=bO7tIKYRa2SgnFffYZAgFw&_nc_ss=79289&oh=00_AQQ1nlqY0rM-pAJkoc5qfLccscPLf9FTE7OJVpQ2X5PrWg&oe=6AE79720",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "ES"
+      ]
+    },
+    {
+      "ad_id": "1301103215483846",
+      "product_name": "source furniture on alibaba com alibaba com-world s leading b2b marketplace",
+      "product_key": "unverified:1301103215483846",
+      "category": "other",
+      "advertiser": "Alibaba.com",
+      "source_country": "ES",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1301103215483846",
+      "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+      "image_url": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.35426-6/716590397_2323948211463373_4708622284088513617_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QEyWPjaXHuIQ7kNvwHP1ktE&_nc_oc=AdoIdU6eLtGyT8TkBwbUKLlQB9_of0Tyh7j7WcrRDnh1FL5BNDVcpJFe3pFRlnCwrs4&_nc_zt=14&_nc_ht=scontent-lga3-1.xx&_nc_gid=bO7tIKYRa2SgnFffYZAgFw&_nc_ss=79289&oh=00_AQT18cm0bkX8-fuW5kpy5fo68wkl5EX5R2oV7qHT2lPz_g&oe=6AE7746C",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "ES"
+      ]
+    },
+    {
+      "ad_id": "1620825659675553",
+      "product_name": "snapmaker u1 3d printer",
+      "product_key": "unverified:1620825659675553",
+      "category": "other",
+      "advertiser": "Snapmaker",
+      "source_country": "ES",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1620825659675553",
+      "landing_url": "https://eu.snapmaker.com/products/snapmaker-u1-3d-printer?utm_source=facebook&utm_medium=cpc&utm_campaign=u1launch2025&utm_content=u1preorder",
+      "image_url": null,
+      "video_url": "https://video-lga3-2.xx.fbcdn.net/o1/v/t2/f2/m367/AQNlyGmnx2LTjHAvDO4xMtUU_Z3ZcpUwYA_C0m5WqZT9W2h5NbFXFRxT3wPQCBsrXUoWL4gjROcTjmyjbn_T-VFNfE_1jF8UDYdnilkVtQ.mp4?_nc_cat=105&_nc_sid=ef5aa3&_nc_ht=video-lga3-2.xx.fbcdn.net&_nc_ohc=0Dn-Hw4AgfcQ7kNvwFPYZT0&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxODQ2NTU0MzYzNDE0MzEwMSwiYXNzZXRfYWdlX2RheXMiOjUyLCJ2aV91c2VjYXNlX2lkIjoxMjM3NCwiZHVyYXRpb25fcyI6MTYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=bO7tIKYRa2SgnFffYZAgFw&_nc_ss=79289&_nc_zt=28&oh=00_AQQVwdMds5tC0IA58XrKCqpnI418EDf1Wi3-Myh-frhRRg&oe=6AE7706D",
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "ES"
+      ]
+    },
+    {
+      "ad_id": "1150108390874203",
+      "product_name": "derby horse desk organizer",
+      "product_key": "sku:derby horse desk organizer",
+      "category": "office",
+      "advertiser": "Maison & Fitch",
+      "source_country": "ES",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1150108390874203",
+      "landing_url": "https://maisonandfitch.com/products/derby-horse-desk-organizer",
+      "image_url": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.35426-6/843521056_28769733016016616_3593149851596507135_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7euHAtI-lLcQ7kNvwF6Ni3H&_nc_oc=Adp97VfwwcCejlw3mjx9cf3xTDm5XgVSaYBF3KSljdR7mBEBmGEGzQOxDJ1DohC8sUw&_nc_zt=14&_nc_ht=scontent-lga3-1.xx&_nc_gid=bO7tIKYRa2SgnFffYZAgFw&_nc_ss=79289&oh=00_AQSMQI80wMKLV1WadTaAUkhha7NZZYOwFU0aEevs7a10wg&oe=6AE79466",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "ES"
+      ]
+    },
+    {
+      "ad_id": "1810878689923913",
+      "product_name": "this week promotion 3d printed samurai pen holder desk organizer",
+      "product_key": "sku:this week promotion printed samurai pen holder desk organizer",
+      "category": "office",
+      "advertiser": "Abasically",
+      "source_country": "ES",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1810878689923913",
+      "landing_url": "https://www.abasically.com/products/this-week-promotion--3d-printed-samurai-pen-holder-desk-organizer",
+      "image_url": null,
+      "video_url": "https://video-lga3-3.xx.fbcdn.net/o1/v/t2/f2/m366/AQPP1Des0qb6XD4aink46UAPL5lrepdzOYf89XJwJ8cbgHA6cnM0YN7voT9hH0RsS7ga7ty3m1wt2N7L7sPOaBdcPLLlvASPILU3sL8EP_avdA.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-lga3-3.xx.fbcdn.net&_nc_ohc=UD7UeebtW24Q7kNvwHYSBBn&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzMTA3NTU5OTM3MjMyNzMsImFzc2V0X2FnZV9kYXlzIjoxNTksInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxNSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=ad5b8ecd5298ba58&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DQTQxMzNDNjk3RjZGNDIwNkM0MkFFRTU4MzZGNkVCMF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzBBNDFCMEYyNThCNzdFNTZCM0FCQTBERTYyM0VDNUJDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaShqWWhYjUBBUCKAJDMywXQC4hysCDEm8YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=bO7tIKYRa2SgnFffYZAgFw&_nc_ss=79289&_nc_zt=28&oh=00_AQTuE_4Z8S3J3QNGyvTo0WSlbDmfUKqvICycpudwTd7iyQ&oe=6AE77082",
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "ES"
+      ]
+    },
+    {
+      "ad_id": "4453899974890334",
+      "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+      "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+      "category": "garden",
+      "advertiser": "Alibaba.com",
+      "source_country": "ES",
+      "ad_url": "https://www.facebook.com/ads/library/?id=4453899974890334",
+      "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+      "image_url": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.35426-6/641347871_935089049207067_2751147909974528982_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8qa3fXLMiJkQ7kNvwEaN0uv&_nc_oc=Adrk_88EFCn6i_gLxCPpOv4URHQ2NyOX8kSCC-w_8Iiggq8cojsCvLLuc0InowZFgn4&_nc_zt=14&_nc_ht=scontent-lga3-1.xx&_nc_gid=bO7tIKYRa2SgnFffYZAgFw&_nc_ss=79289&oh=00_AQTpaUBS4aHPDW3T7VqGLu2sAsiDCK8F57AJ6vSmMYH7gA&oe=6AE768DE",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "ES"
+      ]
+    },
+    {
+      "ad_id": "3336556023182982",
+      "product_name": "nba hoodie desk organizer pen pencil and utensil holder fan gift 7",
+      "product_key": "sku:nba hoodie desk organizer pen pencil and utensil holder fan gift",
+      "category": "office",
+      "advertiser": "Best Christmas Gifts",
+      "source_country": "ES",
+      "ad_url": "https://www.facebook.com/ads/library/?id=3336556023182982",
+      "landing_url": "https://bestchristmasgifts.com/products/nba-hoodie-desk-organizer-pen-pencil-and-utensil-holder-fan-gift-7?utm_source=Facebook&utm_medium=%7B%7Badset.id%7D%7D",
+      "image_url": null,
+      "video_url": "https://video-lga3-3.xx.fbcdn.net/o1/v/t2/f2/m366/AQM9oXpUd6FpQnxrH_i8OLrbkiwukueq7sfRHlbYSlUwo7YWv_2ssD6Ku482VYcbmXWv7WU6CA-6Sw111xK7P3aFmXiIpS_ktJVFvZLC_RvINQ.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-lga3-3.xx.fbcdn.net&_nc_ohc=csJrCMP5ck4Q7kNvwEA8odu&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExMTc4ODI5NDc1OTcyNTQsImFzc2V0X2FnZV9kYXlzIjoxOCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjEzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=c78af9043bc5a37c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9EQzY3RTg3MTQ3QjA0OTU4QkM5N0RCMEUzQkQ0N0Q1Rl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQ5RjU1REZBMzQ5MDQzRTVCQzM2QUFBNTVGNDNCRUFDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaMz-__rK38AxUCKAJDMywXQCsQ5WBBiTcYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=bO7tIKYRa2SgnFffYZAgFw&_nc_ss=79289&_nc_zt=28&oh=00_AQR00-yuFPOiGbVNZkdZK_DyqaExD8BUNTHDmZq3dVlwwQ&oe=6AE78C86",
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "ES"
+      ]
+    },
+    {
+      "ad_id": "4679790662343080",
+      "product_name": "she left me the fix for my ms nerve pain",
+      "product_key": "unverified:4679790662343080",
+      "category": "other",
+      "advertiser": "MS support & tips",
+      "source_country": "ES",
+      "ad_url": "https://www.facebook.com/ads/library/?id=4679790662343080",
+      "landing_url": "https://trynuvel.com/pages/ms-news",
+      "image_url": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.35426-6/844965835_1114078937782174_704193016769139037_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9m0exKtZkDcQ7kNvwGPPi3G&_nc_oc=AdqX5KrytU0OtwykkDJZ13oX0PvMP3HuHkwZzh02d4o_9G67W5mQOo3vPCTwrwkIYOs&_nc_zt=14&_nc_ht=scontent-lga3-1.xx&_nc_gid=bO7tIKYRa2SgnFffYZAgFw&_nc_ss=79289&oh=00_AQRvAbgvzQCO6pE_z0or8mLAY30_5BiAdEYtVUVo6c45xw&oe=6AE77130",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "ES"
+      ]
+    },
+    {
+      "ad_id": "1522918159116353",
+      "product_name": "makeup1134",
+      "product_key": "unverified:1522918159116353",
+      "category": "beauty",
+      "advertiser": "Pineapplea Lot",
+      "source_country": "ES",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1522918159116353",
+      "landing_url": "https://pineapplea.com/products/makeup1134",
+      "image_url": null,
+      "video_url": "https://video-lga3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMR7QYkDSiHP05BoP0jwqw_1k0Fcq1L4Z7_R-X_1KZcXEilZcyi-TujZXJDmMomo0MFr55N09kH0T-siArUJ5M4WmqSjhLRWfnN2ZPBOiGAww.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-lga3-2.xx.fbcdn.net&_nc_ohc=tOFyJQurERMQ7kNvwGpOzhb&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0MTAxODA3MTA5OTgyNDksImFzc2V0X2FnZV9kYXlzIjo4NSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=512ba78b0d0ae8d1&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xQTRBMjYxMjFDNThGQzU0NUVERTkxNTBERjcwNzE5MV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0ZDNEJCNEEyODk3RDYzMUY2RjhBRjhCOUU4MjkzNUE4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbSg8mFqaOBBRUCKAJDMywXQC4AAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=bO7tIKYRa2SgnFffYZAgFw&_nc_ss=79289&_nc_zt=28&oh=00_AQT80BRO_hz4eoDxRqI6PNO_c4iNH9gRoul1me2XSJ9FaQ&oe=6AE79A94",
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "ES"
+      ]
+    },
+    {
+      "ad_id": "1065464496205800",
+      "product_name": "bedside lamp with outlets usb",
+      "product_key": "unverified:1065464496205800",
+      "category": "other",
+      "advertiser": "Pineapplea Lot",
+      "source_country": "ES",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1065464496205800",
+      "landing_url": "https://pineapplea.com/products/bedside-lamp-with-outlets-usb",
+      "image_url": null,
+      "video_url": "https://video-lga3-3.xx.fbcdn.net/o1/v/t2/f2/m366/AQOgGe7QIYlrQGMOpWcUfDihLZvNQwJOBGUHjxJKUtIWUMd1x_Zv1giRPiAnrrA0VSZoO28Epw1XaGf_qvJxgXYLy4r4GLrGzNfw156Pp_2eAA.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-lga3-3.xx.fbcdn.net&_nc_ohc=BAgwB72xeSAQ7kNvwEv6XUS&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE5ODYwNjE4MDg3MTk1MjEsImFzc2V0X2FnZV9kYXlzIjo1NiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjQyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=16846497599d8cb4&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84MjQ5REZGMTJBREIwRkVCOTdBOUFBOTU5Q0RCMDg5RV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzlBNDAwMkVEREYyOTZENUIxRjc4QzgwOEUwOUZCQUE5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbC2uLJgZSHBxUCKAJDMywXQEVzMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=bO7tIKYRa2SgnFffYZAgFw&_nc_ss=79289&_nc_zt=28&oh=00_AQRGMv3agC7kYj5dbvm4SgpdhWfGqcVNLL3KL2WP0b-C4g&oe=6AE793E4",
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "ES"
+      ]
+    },
+    {
+      "ad_id": "951253054241328",
+      "product_name": "source school office supplies on alibaba com alibaba com-world s leading b2b marketplace",
+      "product_key": "title:source school office supplies on alibaba com alibaba com-world s leading b2b marketplace",
+      "category": "office",
+      "advertiser": "Alibaba.com",
+      "source_country": "CZ",
+      "ad_url": "https://www.facebook.com/ads/library/?id=951253054241328",
+      "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign&cid=21",
+      "image_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.35426-6/370369618_1759254284510285_1364633289978601603_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nwOHxJL7CsgQ7kNvwFvrIUE&_nc_oc=Adr0vbhMtSSypYzUy1VE7aM6RROOez-PHIpUlMObCx21LkYe3hEl-fH8zsCJtnny2HE&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=u_pT_y6wUOUl_SnqmLrbMw&_nc_ss=79289&oh=00_AQRQT6eDfedON7D7lywqJli6F3Ps-UK0iSZj7_RiVBNcpw&oe=6AE78A41",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "CZ"
+      ]
+    },
+    {
+      "ad_id": "828442756343878",
+      "product_name": "new 8-page jesus prophecy bestbiblesecret com",
+      "product_key": "unverified:828442756343878",
+      "category": "other",
+      "advertiser": "The Word Of The Lord - I Just Love You So Much",
+      "source_country": "CZ",
+      "ad_url": "https://www.facebook.com/ads/library/?id=828442756343878",
+      "landing_url": "http://BestBibleSecret.com/",
+      "image_url": null,
+      "video_url": "https://video-lga3-3.xx.fbcdn.net/o1/v/t2/f2/m366/AQPM3pC2iOuYoaX_URyKVQkVNRSneLctt9lSrOCk6LbbMzWulpor66eD71mk_DGf_HZkuq_iNyJl6UmNh9ldumM_-q51OVQZ1IBOqiDuthF75A.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-lga3-3.xx.fbcdn.net&_nc_ohc=YHeE70B-1FUQ7kNvwEc6NmW&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjY3MTU0ODc2MjM4NzY3NywiYXNzZXRfYWdlX2RheXMiOjM2NSwidmlfdXNlY2FzZV9pZCI6MTAxMjIsImR1cmF0aW9uX3MiOjE2MTQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=51d27707b74996f9&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82NTQ3MjBFMDM4MjREOUY3Q0EwRkRDOUNENUU2Qjk4Q19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzIxNEEwRUU0Rjk0NjREQjYzODM3NjkzMjZCMjlCOEExX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa60_OWpLGxAhUCKAJDMywXQJk4iDEm6XkYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZZSeAQA&_nc_gid=u_pT_y6wUOUl_SnqmLrbMw&_nc_ss=79289&_nc_zt=28&oh=00_AQSBQ0HIlz9Lshw5dekeqgtRZ7zMhRbXRIHZgG0j5xm4OA&oe=6AE78C4A",
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "CZ"
+      ]
+    },
+    {
+      "ad_id": "1239544194717803",
+      "product_name": "unidentified product",
+      "product_key": "unverified:1239544194717803",
+      "category": "other",
+      "advertiser": "ACO Office Supplies",
+      "source_country": "CZ",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1239544194717803",
+      "landing_url": "https://api.whatsapp.com/send",
+      "image_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.35426-6/629757154_1994427498151448_656536955743697965_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Z1LW9p6rTjUQ7kNvwE-dj4R&_nc_oc=AdpLg8_9cI6whtAQvUJg5c8wqqXYTyC5YIhZnNI6KUDOScdM29axZ4abiEuLK7BX8Vc&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=u_pT_y6wUOUl_SnqmLrbMw&_nc_ss=79289&oh=00_AQQvJQEvdPt_mm5T_3SwcsJ_ETlcDyE1cJIniiFQ_o1CsQ&oe=6AE78657",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "CZ"
+      ]
+    },
+    {
+      "ad_id": "1281369843860566",
+      "product_name": "personalized bright paisley floral doodle letter name magnetic bookmark clips school office stationary supplie",
+      "product_key": "title:personalized bright paisley floral doodle letter name magnetic bookmark clips school office stationary supplie",
+      "category": "office",
+      "advertiser": "Callie Gifts",
+      "source_country": "CZ",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1281369843860566",
+      "landing_url": "https://www.callie.com/personalized-bright-paisley-floral-doodle-letter-name-magnetic-bookmark-clip-school-office-stationary-supplies-birthday-reading-gift-for-bookworms?utm_source=facebook&utm_medium=cpm&utm_campaign=CAPS241489&utm_term=10498&utm_content=21054&aid=%7B%7Bad.id%7D%7D&asid=%7B%7Badset.id%7D%7D&cid=%7B%7Bcampaign.id%7D%7D",
+      "image_url": null,
+      "video_url": "https://video-lga3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNSBm3R6YrKms5DwqtCh_ft9F7BlhDC4BkmTuE5zEiMz3qzMcdLTQAJf94bp2LpO_szteFzXie99TchnbJSpysC2jmB6mg1QKusulHAD0aPeg.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-lga3-1.xx.fbcdn.net&_nc_ohc=9OfXOVvZCEgQ7kNvwG0bczw&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwNDg5OTk3NDQwNjc4MzEsImFzc2V0X2FnZV9kYXlzIjo0NTksInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoxNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=ebdb081801df443d&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81NjQzODU5QzVGNDRENDRFRjBDOUZENEZDMzQ2REQ5MV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0IzNDkzRTIyRThCNjQyNjYwNkQ3RTNDRTdEQUU2Q0E1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbu4-qR6YPdAxUCKAJDMywXQDDVP3ztkWgYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=u_pT_y6wUOUl_SnqmLrbMw&_nc_ss=79289&_nc_zt=28&oh=00_AQSP-JuTBtLv8STqsPENanv2837Ms5CxfBeg0s8sz5klhg&oe=6AE76D01",
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "CZ"
+      ]
+    },
+    {
+      "ad_id": "1347120526846935",
+      "product_name": "personalized bright paisley floral doodle letter name magnetic bookmark clips school office stationary supplie",
+      "product_key": "title:personalized bright paisley floral doodle letter name magnetic bookmark clips school office stationary supplie",
+      "category": "office",
+      "advertiser": "Callie Gifts",
+      "source_country": "CZ",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1347120526846935",
+      "landing_url": "https://www.callie.com/personalized-bright-paisley-floral-doodle-letter-name-magnetic-bookmark-clip-school-office-stationary-supplies-birthday-reading-gift-for-bookworms?utm_source=facebook&utm_medium=cpm&utm_campaign=CAPS241489&utm_term=10498&utm_content=21054&aid=%7B%7Bad.id%7D%7D&asid=%7B%7Badset.id%7D%7D&cid=%7B%7Bcampaign.id%7D%7D",
+      "image_url": null,
+      "video_url": "https://video-lga3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNSBm3R6YrKms5DwqtCh_ft9F7BlhDC4BkmTuE5zEiMz3qzMcdLTQAJf94bp2LpO_szteFzXie99TchnbJSpysC2jmB6mg1QKusulHAD0aPeg.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-lga3-1.xx.fbcdn.net&_nc_ohc=9OfXOVvZCEgQ7kNvwG0bczw&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwNDg5OTk3NDQwNjc4MzEsImFzc2V0X2FnZV9kYXlzIjo0NTksInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoxNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=ebdb081801df443d&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81NjQzODU5QzVGNDRENDRFRjBDOUZENEZDMzQ2REQ5MV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0IzNDkzRTIyRThCNjQyNjYwNkQ3RTNDRTdEQUU2Q0E1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbu4-qR6YPdAxUCKAJDMywXQDDVP3ztkWgYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=u_pT_y6wUOUl_SnqmLrbMw&_nc_ss=79289&_nc_zt=28&oh=00_AQSP-JuTBtLv8STqsPENanv2837Ms5CxfBeg0s8sz5klhg&oe=6AE76D01",
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "CZ"
+      ]
+    },
+    {
+      "ad_id": "1716399809587217",
+      "product_name": "personalized bright paisley floral doodle letter name magnetic bookmark clips school office stationary supplie",
+      "product_key": "title:personalized bright paisley floral doodle letter name magnetic bookmark clips school office stationary supplie",
+      "category": "office",
+      "advertiser": "Callie Gifts",
+      "source_country": "CZ",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1716399809587217",
+      "landing_url": "https://www.callie.com/personalized-bright-paisley-floral-doodle-letter-name-magnetic-bookmark-clip-school-office-stationary-supplies-birthday-reading-gift-for-bookworms?utm_source=facebook&utm_medium=cpm&utm_campaign=CAPS241489&utm_term=10498&utm_content=21054&aid=%7B%7Bad.id%7D%7D&asid=%7B%7Badset.id%7D%7D&cid=%7B%7Bcampaign.id%7D%7D",
+      "image_url": null,
+      "video_url": "https://video-lga3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNSBm3R6YrKms5DwqtCh_ft9F7BlhDC4BkmTuE5zEiMz3qzMcdLTQAJf94bp2LpO_szteFzXie99TchnbJSpysC2jmB6mg1QKusulHAD0aPeg.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-lga3-1.xx.fbcdn.net&_nc_ohc=9OfXOVvZCEgQ7kNvwG0bczw&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwNDg5OTk3NDQwNjc4MzEsImFzc2V0X2FnZV9kYXlzIjo0NTksInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoxNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=ebdb081801df443d&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81NjQzODU5QzVGNDRENDRFRjBDOUZENEZDMzQ2REQ5MV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0IzNDkzRTIyRThCNjQyNjYwNkQ3RTNDRTdEQUU2Q0E1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbu4-qR6YPdAxUCKAJDMywXQDDVP3ztkWgYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=u_pT_y6wUOUl_SnqmLrbMw&_nc_ss=79289&_nc_zt=28&oh=00_AQSP-JuTBtLv8STqsPENanv2837Ms5CxfBeg0s8sz5klhg&oe=6AE76D01",
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "CZ"
+      ]
+    },
+    {
+      "ad_id": "1740438103863784",
+      "product_name": "personalized bright paisley floral doodle letter name magnetic bookmark clips school office stationary supplie",
+      "product_key": "title:personalized bright paisley floral doodle letter name magnetic bookmark clips school office stationary supplie",
+      "category": "office",
+      "advertiser": "Callie Gifts",
+      "source_country": "CZ",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1740438103863784",
+      "landing_url": "https://www.callie.com/personalized-bright-paisley-floral-doodle-letter-name-magnetic-bookmark-clip-school-office-stationary-supplies-birthday-reading-gift-for-bookworms?utm_source=facebook&utm_medium=cpm&utm_campaign=CAPS241489&utm_term=10498&utm_content=21054&aid=%7B%7Bad.id%7D%7D&asid=%7B%7Badset.id%7D%7D&cid=%7B%7Bcampaign.id%7D%7D",
+      "image_url": null,
+      "video_url": "https://video-lga3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNSBm3R6YrKms5DwqtCh_ft9F7BlhDC4BkmTuE5zEiMz3qzMcdLTQAJf94bp2LpO_szteFzXie99TchnbJSpysC2jmB6mg1QKusulHAD0aPeg.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-lga3-1.xx.fbcdn.net&_nc_ohc=9OfXOVvZCEgQ7kNvwG0bczw&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwNDg5OTk3NDQwNjc4MzEsImFzc2V0X2FnZV9kYXlzIjo0NTksInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoxNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=ebdb081801df443d&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81NjQzODU5QzVGNDRENDRFRjBDOUZENEZDMzQ2REQ5MV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0IzNDkzRTIyRThCNjQyNjYwNkQ3RTNDRTdEQUU2Q0E1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbu4-qR6YPdAxUCKAJDMywXQDDVP3ztkWgYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=u_pT_y6wUOUl_SnqmLrbMw&_nc_ss=79289&_nc_zt=28&oh=00_AQSP-JuTBtLv8STqsPENanv2837Ms5CxfBeg0s8sz5klhg&oe=6AE76D01",
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "CZ"
+      ]
+    },
+    {
+      "ad_id": "2147850592672922",
+      "product_name": "source school office supplies on alibaba com alibaba com-world s leading b2b marketplace",
+      "product_key": "title:source school office supplies on alibaba com alibaba com-world s leading b2b marketplace",
+      "category": "office",
+      "advertiser": "Alibaba.com",
+      "source_country": "CZ",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2147850592672922",
+      "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+      "image_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.35426-6/678234272_1334521491917027_8268338436207174203_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YTp1NuILxgsQ7kNvwHPkQf8&_nc_oc=Adq5gq8GxmPyVRQdy2jRI8v6iZ5mDYezcF-vmLeizOOv6hIvNV-DKoicg0j2287l6vs&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=u_pT_y6wUOUl_SnqmLrbMw&_nc_ss=79289&oh=00_AQTjj9dy0dv0-fzDkSgyKm5T81H1cwBRv1QVtmNaWxv7HA&oe=6AE79B99",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "CZ"
+      ]
+    },
+    {
+      "ad_id": "1307321324760652",
+      "product_name": "10 days to go",
+      "product_key": "unverified:1307321324760652",
+      "category": "other",
+      "advertiser": "Canton Fair",
+      "source_country": "CZ",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1307321324760652",
+      "landing_url": null,
+      "image_url": null,
+      "video_url": "https://video-lga3-3.xx.fbcdn.net/o1/v/t2/f2/m366/AQNF4nj2yDq-W8bh6SaozDWCMmAc17FxbMxm_bBN2AaaUJNavxiPTAM-S-hmOg7GWqOKXme_Ys8u7a0uAafDQs03LaxcsFOQrNOFS2wxTOtRZw.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-lga3-3.xx.fbcdn.net&_nc_ohc=kBTdgywS9zoQ7kNvwFbgHNk&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTI4MC5kYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoyODc4MTY2NzI1ODEzNzE3MCwiYXNzZXRfYWdlX2RheXMiOjIzLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6NTY0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=a74bb77b85db4164&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84RDk1NUJFMEVCNjI0MzlDQUFCQzY2MDZDMzIwMUNDMF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzcxNDhEN0U5NTc5MzQwRTFCNzkzREM4QkMxNTg1M0Y0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACak6bfPw7GgZhUCKAJDMywXQIGgUeuFHrgYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=u_pT_y6wUOUl_SnqmLrbMw&_nc_ss=79289&_nc_zt=28&oh=00_AQReahzee5ICyI0vVlEfakZfKQCBqafr9-CiZjZHKaPKKQ&oe=6AE79424",
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "CZ"
+      ]
+    },
+    {
+      "ad_id": "1372316674782671",
+      "product_name": "source school office supplies on alibaba com alibaba com-world s leading b2b marketplace",
+      "product_key": "title:source school office supplies on alibaba com alibaba com-world s leading b2b marketplace",
+      "category": "office",
+      "advertiser": "Alibaba.com",
+      "source_country": "CZ",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1372316674782671",
+      "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+      "image_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.35426-6/719863797_985169000774542_7050776035057668504_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=F3GguzaCMgIQ7kNvwHvXz_0&_nc_oc=AdpKjmecl9R0aU3YEhOBxPC2v652EtIqzXMmCofB2wcZSDakFeyI083oaJEWLj8y528&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=u_pT_y6wUOUl_SnqmLrbMw&_nc_ss=79289&oh=00_AQSZMMSKe4M4JGlt43-I-wi4n4sUnrOTZDbenOtFPN4haA&oe=6AE7734D",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "CZ"
+      ]
+    },
+    {
+      "ad_id": "1666622017697388",
+      "product_name": "source school office supplies on alibaba com alibaba com-world s leading b2b marketplace",
+      "product_key": "title:source school office supplies on alibaba com alibaba com-world s leading b2b marketplace",
+      "category": "office",
+      "advertiser": "Alibaba.com",
+      "source_country": "CZ",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1666622017697388",
+      "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+      "image_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.35426-6/678796799_3070508666671626_4459207924975188456_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hOwPohQuy0cQ7kNvwE8EqvW&_nc_oc=Adrm28OsGu3_sFrQJongHkJvqAmT-W6wAOrnMPF_2QnYnTZTH8tdLxDqiHakrLMQpsk&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=u_pT_y6wUOUl_SnqmLrbMw&_nc_ss=79289&oh=00_AQRwxmuxMldW-wrAFs4qQY9XagAH4ni8mT68EBmdrTqx7w&oe=6AE77FC3",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "CZ"
+      ]
+    },
+    {
+      "ad_id": "1849064166120137",
+      "product_name": "mission start",
+      "product_key": "unverified:1849064166120137",
+      "category": "other",
+      "advertiser": "Police Chief",
+      "source_country": "CZ",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1849064166120137",
+      "landing_url": "http://play.google.com/store/apps/details?id=com.slg.policewar",
+      "image_url": null,
+      "video_url": "https://video-lga3-3.xx.fbcdn.net/o1/v/t2/f2/m366/AQM3qubvBHb3m5Wn8NLpM9vJStPvpi9tSKMg8hlV_t-YOHnXWuVtRaDdOBTRme0SgilkJubH_eCG17EqR3OXcSXYOYWRoey9O4digB6HtMPJdw.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-lga3-3.xx.fbcdn.net&_nc_ohc=XCZjbLgkPkYQ7kNvwFKcNL3&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIxNDk2MTA2MDkyOTQ3MjYsImFzc2V0X2FnZV9kYXlzIjoxMywidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjM4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=5c3e078a7cc308f7&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81NzlBODFENDhEOUU0NkJEQkYwNkFFMUZGMzkyQTEwQV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQ4MjgxRTY0MzI0MzREN0ZBMTg4RjEzOEY4RUE5NjdGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaM9q2M58PRBxUCKAJDMywXQENMzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=u_pT_y6wUOUl_SnqmLrbMw&_nc_ss=79289&_nc_zt=28&oh=00_AQSKBIw0TNFjzZmELbCq3Kcnrxzd17SrPvoyhL2gjsBfMw&oe=6AE780A6",
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "CZ"
+      ]
+    },
+    {
+      "ad_id": "1677609890174177",
+      "product_name": "source electrical equipment supplies on alibaba com alibaba com-world s leading b2b marketplace",
+      "product_key": "unverified:1677609890174177",
+      "category": "other",
+      "advertiser": "Alibaba.com",
+      "source_country": "CZ",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1677609890174177",
+      "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+      "image_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.35426-6/741416466_1003665072646245_3447185797744707680_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UAH7d9V82nYQ7kNvwFv07KL&_nc_oc=AdqkoindWWWMhABg_P07WyKE48yXLW16TpvA5mLBto7hEH57yqzXBZZnoL8dvjeu_Yw&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=u_pT_y6wUOUl_SnqmLrbMw&_nc_ss=79289&oh=00_AQQL5ojEUS-euNGj_8Cq21VeAinXzp8WnEd-wYU_l-JoEw&oe=6AE79E2E",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "CZ"
+      ]
+    },
+    {
+      "ad_id": "910749071566088",
+      "product_name": "source school office supplies on alibaba com alibaba com-world s leading b2b marketplace",
+      "product_key": "title:source school office supplies on alibaba com alibaba com-world s leading b2b marketplace",
+      "category": "office",
+      "advertiser": "Alibaba.com",
+      "source_country": "CZ",
+      "ad_url": "https://www.facebook.com/ads/library/?id=910749071566088",
+      "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+      "image_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.35426-6/648178834_1625849052463618_1675551034543064408_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UJzaCX10YuQQ7kNvwGLk3JM&_nc_oc=AdqxLhJkSBe7wzLpDxW3dBgg9etNnzTUjG7yR00rBGHscQ9VmLMJbxgOMqe9XSr2bhc&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=u_pT_y6wUOUl_SnqmLrbMw&_nc_ss=79289&oh=00_AQTboerRbqRSmlr4bn-T15ZS5LE5OIouaetBTBTRBhXpbQ&oe=6AE7A073",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "CZ"
+      ]
+    },
+    {
+      "ad_id": "1257076653073511",
+      "product_name": "source school office supplies on alibaba com alibaba com-world s leading b2b marketplace",
+      "product_key": "title:source school office supplies on alibaba com alibaba com-world s leading b2b marketplace",
+      "category": "office",
+      "advertiser": "Alibaba.com",
+      "source_country": "CZ",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1257076653073511",
+      "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+      "image_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.35426-6/549226189_1753278732019575_7631218890681580862_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Y95szXaUzg0Q7kNvwFJ22qG&_nc_oc=AdpnmFJm9dvttr-cQLu2EAd6eOpHJk2qTbSeOKUQwwmIvaWFovOwuTdJeW9eHuZiqPw&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=u_pT_y6wUOUl_SnqmLrbMw&_nc_ss=79289&oh=00_AQQ5om5tiHGXtb3EHY7a8TpaGWrhmGPBwdbfg3n1schXwA&oe=6AE787A5",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "CZ"
+      ]
+    },
+    {
+      "ad_id": "1647249656749918",
+      "product_name": "source school office supplies on alibaba com alibaba com-world s leading b2b marketplace",
+      "product_key": "title:source school office supplies on alibaba com alibaba com-world s leading b2b marketplace",
+      "category": "office",
+      "advertiser": "Alibaba.com",
+      "source_country": "CZ",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1647249656749918",
+      "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign&cid=21",
+      "image_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.35426-6/856791331_1129627049601625_886477888160121828_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=myaJdHvsxRYQ7kNvwFaJUQf&_nc_oc=AdpAlTh3J8YZOeVMfaiS_dAuzIuEqD82kyg0h5Rtt2FeqJKhs4CYTxIn9aohA_GMXaQ&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=u_pT_y6wUOUl_SnqmLrbMw&_nc_ss=79289&oh=00_AQSr05Ux8CNq7CwjVTQhIcgD_fkLcmj2DeJWhDyWMzN0qg&oe=6AE79158",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "CZ"
+      ]
+    },
+    {
+      "ad_id": "885443884317789",
+      "product_name": "source school office supplies on alibaba com alibaba com-world s leading b2b marketplace",
+      "product_key": "title:source school office supplies on alibaba com alibaba com-world s leading b2b marketplace",
+      "category": "office",
+      "advertiser": "Alibaba.com",
+      "source_country": "CZ",
+      "ad_url": "https://www.facebook.com/ads/library/?id=885443884317789",
+      "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+      "image_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.35426-6/648430723_2698468590533864_7623917797052964927_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vfAfV4jc_r4Q7kNvwHjmNaF&_nc_oc=AdoXFiVcXNwVmNKXxcFDRLgM9pCKnz5mAOt6i2r6a-g26N0QGarQpXO3wg50Dxt6Qqs&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=u_pT_y6wUOUl_SnqmLrbMw&_nc_ss=79289&oh=00_AQQZ6_cUi-_iONXUcXS9w3FPEO6RPEsuYeNQwGRrqekn3Q&oe=6AE782FF",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "CZ"
+      ]
+    },
+    {
+      "ad_id": "1838164733806676",
+      "product_name": "source school office supplies on alibaba com alibaba com-world s leading b2b marketplace",
+      "product_key": "title:source school office supplies on alibaba com alibaba com-world s leading b2b marketplace",
+      "category": "office",
+      "advertiser": "Alibaba.com",
+      "source_country": "CZ",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1838164733806676",
+      "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+      "image_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.35426-6/679059545_965140266063160_4614502871390595188_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UvFtPK0WGwIQ7kNvwHm3XoB&_nc_oc=AdoJVBOeJ2CYdr4K0jpxD_-6MLj2OIRJdn_yCfjgzcD6Pi3BR1YgDBNR41S2r9h0Ja8&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=u_pT_y6wUOUl_SnqmLrbMw&_nc_ss=79289&oh=00_AQR6OvE7FjkPJPaJUKrRaLW3n52S76iXnlmq2iSey3Qn3Q&oe=6AE79334",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "CZ"
+      ]
+    },
+    {
+      "ad_id": "2954097114800249",
+      "product_name": "source school office supplies on alibaba com alibaba com-world s leading b2b marketplace",
+      "product_key": "title:source school office supplies on alibaba com alibaba com-world s leading b2b marketplace",
+      "category": "office",
+      "advertiser": "Alibaba.com",
+      "source_country": "CZ",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2954097114800249",
+      "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+      "image_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.35426-6/671483665_1670849581000558_7508946003263338172_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_aid=0&_nc_ohc=vx-VeQMWn7sQ7kNvwHG9Fsz&_nc_oc=Ado-vq_c1RI3fyrW_3vk3VW3ebRP8a7EUBzBGSlEAlb8tkuj_2wvsfZtnde8ASmJQZI&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=u_pT_y6wUOUl_SnqmLrbMw&_nc_ss=79289&oh=00_AQSc3_goonSgwyoerM0i_fRSEFElSDwlJSBOVhtHGJYVRg&oe=6AE77684",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "CZ"
+      ]
+    },
+    {
+      "ad_id": "916480224353222",
+      "product_name": "source school office supplies on alibaba com alibaba com-world s leading b2b marketplace",
+      "product_key": "title:source school office supplies on alibaba com alibaba com-world s leading b2b marketplace",
+      "category": "office",
+      "advertiser": "Alibaba.com",
+      "source_country": "CZ",
+      "ad_url": "https://www.facebook.com/ads/library/?id=916480224353222",
+      "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+      "image_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.35426-6/647419409_694512237022703_6501091019049770846_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pFn1aOuy4w0Q7kNvwEDavEW&_nc_oc=AdprzKuPcQ_0e8K72nJ5hkR8xdWkXHErZyfx8PH-Thsqg69M4aZkxt3XvGLQgL5LjU0&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=u_pT_y6wUOUl_SnqmLrbMw&_nc_ss=79289&oh=00_AQSGXXJrICmfgJE1Eg5SQgsuqK4aDCdWMaHoj5uUsY-_XA&oe=6AE79AE1",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "CZ"
+      ]
+    },
+    {
+      "ad_id": "1547425213315791",
+      "product_name": "groundingwell bedsheet",
+      "product_key": "unverified:1547425213315791",
+      "category": "other",
+      "advertiser": "Charlotte Miller",
+      "source_country": "CZ",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1547425213315791",
+      "landing_url": "https://www.groundingwell.com/products/groundingwell-bedsheet",
+      "image_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.35426-6/768860390_1691946971859137_2304181129701811299_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jMPbKfSiS8gQ7kNvwEWDqjq&_nc_oc=AdrdCnq4oFl1CYZYbMUOLeQAIyLbfcBoYyVsaE755IeWSywgUk4lPe7_a4QqmmX-o0s&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=u_pT_y6wUOUl_SnqmLrbMw&_nc_ss=79289&oh=00_AQS3iCDNmqq-9LwNcsOuCnx3UeSZuOMBleI4UumLLhga-A&oe=6AE7766C",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "CZ"
+      ]
+    },
+    {
+      "ad_id": "714175368419109",
+      "product_name": "source school office supplies on alibaba com alibaba com-world s leading b2b marketplace",
+      "product_key": "title:source school office supplies on alibaba com alibaba com-world s leading b2b marketplace",
+      "category": "office",
+      "advertiser": "Alibaba.com",
+      "source_country": "CZ",
+      "ad_url": "https://www.facebook.com/ads/library/?id=714175368419109",
+      "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+      "image_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.35426-6/674459875_922990823907341_992164106071787961_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nyVvqS3iGawQ7kNvwGeESMk&_nc_oc=AdoLXgZPGR2aDHZTvbqO-jwEdSQhLhDTX-7RWbjlrba49GKz1Iif8ncsJ-ga4oAD_Ms&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=u_pT_y6wUOUl_SnqmLrbMw&_nc_ss=79289&oh=00_AQRF7GAkPhNZCQolt8wU0yrj2CsMIr14V8SAbTySFIQ0Vg&oe=6AE777E7",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "CZ"
+      ]
+    },
+    {
+      "ad_id": "1728669908193072",
+      "product_name": "fb en or001",
+      "product_key": "unverified:1728669908193072",
+      "category": "other",
+      "advertiser": "Choose True Nutra",
+      "source_country": "CZ",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1728669908193072",
+      "landing_url": "https://truenutra.com/products/fb-en-or001",
+      "image_url": null,
+      "video_url": "https://video-lga3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOxAKtb3xnqdR_NiCYxmRvrdkIYcJjVSELDySBfYKbYBn_wA5tyCAKf0Avo5L9QZ0uFjWyhEhcDc2i9vQD7mmQW9UctpnFrPaf9Qs8bbpdixw.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-lga3-2.xx.fbcdn.net&_nc_ohc=qlLAjiM0zWcQ7kNvwH2lMym&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI5ODY5MjY0MDE2Mzk2NjksImFzc2V0X2FnZV9kYXlzIjoyMSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjE0NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=9d10e374ecbac7a4&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yMDVDNUU5QTdEMDE0MzkyQjdBMDQwRTQ4RjVFNUU1MF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzdCMjZBRkZDRjhGRjQyRThCNURDREFBNjRBMDg0RDQ0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbq057y_6XOChUCKAJDMywXQGJd2yLQ5WAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=u_pT_y6wUOUl_SnqmLrbMw&_nc_ss=79289&_nc_zt=28&oh=00_AQT4P2a7Rk_-fDF6dJaDlDbXJjo3QEgD9HDU5nbxBROG_A&oe=6AE77617",
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "CZ"
+      ]
+    },
+    {
+      "ad_id": "1069224002497511",
+      "product_name": "shop smarter not harder download the alibaba b2b app to access millions of products global supp",
+      "product_key": "unverified:1069224002497511",
+      "category": "other",
+      "advertiser": "Alibaba.com",
+      "source_country": "PE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1069224002497511",
+      "landing_url": "http://play.google.com/store/apps/details?id=com.alibaba.intl.android.apps.poseidon",
+      "image_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.35426-6/763700964_2094990084727058_3354837617716022971_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pSnnL84gixgQ7kNvwGT_uiy&_nc_oc=AdpalW2t4hKbgkcKY7nEg9NnKrVDw5v3GXYh4neeCahVDGh9yf7-qbJktnxiiHRhiL4&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=IB4dejSA9eMoMKPhVxVxAA&_nc_ss=79289&oh=00_AQSIHJdc5siF_gSedamX-LS2SkmNH7YzaRZ-aifUDqyrnQ&oe=6AE79BCD",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "PE"
+      ]
+    },
+    {
+      "ad_id": "1562214281773014",
+      "product_name": "shop smarter not harder download the alibaba b2b app to access millions of products global supp",
+      "product_key": "unverified:1562214281773014",
+      "category": "other",
+      "advertiser": "Alibaba.com",
+      "source_country": "PE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1562214281773014",
+      "landing_url": "http://app.alibaba.com/",
+      "image_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.35426-6/764845094_2528482774332691_6210522938347602256_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nx6NjiciczUQ7kNvwFZbMb4&_nc_oc=AdqkPLSKU5aWxQcBVaSzdNjiWdlXyeMDLz0De5aRoxnJOH6HMVzsqogXSBIxI60MwNg&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=IB4dejSA9eMoMKPhVxVxAA&_nc_ss=79289&oh=00_AQT0okakzUBJEFOxWOdvNt7-jwkehshtKbsQlJO3Y6RiCw&oe=6AE7832C",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "PE"
+      ]
+    },
+    {
+      "ad_id": "1106756792025883",
+      "product_name": "shop smarter with the alibaba b2b app explore millions of products connect with global suppliers",
+      "product_key": "unverified:1106756792025883",
+      "category": "other",
+      "advertiser": "Alibaba.com",
+      "source_country": "PE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1106756792025883",
+      "landing_url": "http://play.google.com/store/apps/details?id=com.alibaba.intl.android.apps.poseidon",
+      "image_url": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.35426-6/792109705_2858750151167876_7357077330260556266_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CAzuTGUy-BUQ7kNvwFEU82C&_nc_oc=AdrQdYqI33QwWLsznSws1rilk7tpGqGY9rKDl15Lzvfrmz5XY16_vvr6_6dyIa4Vzw4&_nc_zt=14&_nc_ht=scontent-lga3-1.xx&_nc_gid=IB4dejSA9eMoMKPhVxVxAA&_nc_ss=79289&oh=00_AQQAF5sFXwiAA52Ql4wXp6LJxed8P0CPnQT2JvEiuZIiiA&oe=6AE779AB",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "PE"
+      ]
+    },
+    {
+      "ad_id": "2138413070045216",
+      "product_name": "shop smarter not harder download the alibaba b2b app to access millions of products global supp",
+      "product_key": "unverified:2138413070045216",
+      "category": "other",
+      "advertiser": "Alibaba.com",
+      "source_country": "PE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2138413070045216",
+      "landing_url": "http://play.google.com/store/apps/details?id=com.alibaba.intl.android.apps.poseidon",
+      "image_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.35426-6/790087023_1060100576722395_8717312503895222492_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vQeVbR6Tz50Q7kNvwHMaK0x&_nc_oc=Adphbxpff5CFDcNggsFu1V8pFc19TinDqTTxXHD7c3oZCdb-ANwnliDwDvI0cHj3ebM&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=IB4dejSA9eMoMKPhVxVxAA&_nc_ss=79289&oh=00_AQSdIj1QmI6IAa1P0_rV3ncsm9OU0gmiNZgg_9zwIP-UrA&oe=6AE78D83",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "PE"
+      ]
+    },
+    {
+      "ad_id": "1689213192793504",
+      "product_name": "watch smtv and get upliftment",
+      "product_key": "unverified:1689213192793504",
+      "category": "other",
+      "advertiser": "Supreme Master Television",
+      "source_country": "PE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1689213192793504",
+      "landing_url": "https://www.youtube.com/watch?v=ZzWBpGwKoaI",
+      "image_url": null,
+      "video_url": "https://video-lga3-3.xx.fbcdn.net/o1/v/t2/f2/m366/AQMo5-ITluTU9HbgrlbtkDKLC3Se8aGW5EBj03n8K_RnpuBedHYl_yF129W1uACpi--3PTfxYXxrrof4ycL-TwgvLp_DS4JNBzmLOSozozlFiQ.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-lga3-3.xx.fbcdn.net&_nc_ohc=irU5wdcLJmoQ7kNvwH-Oy3J&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTI4MC5kYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoyNTk5NTgzMTMwNDY4MDEyLCJhc3NldF9hZ2VfZGF5cyI6NzYsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxOTksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=6e2a98bfb410cc3b&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wNTQ4RkYzOEFDNUMxOEMyRkE4MEI4MjhEQjI0RERBMV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQyNDczMzk5NDI2OERGN0UyQjdFNUU3Qjc3MDFFQUFFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbY-vHQ05OeCRUCKAJDMywXQGjoeuFHrhQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=IB4dejSA9eMoMKPhVxVxAA&_nc_ss=79289&_nc_zt=28&oh=00_AQQUWleGoFI7U25dCZvmfR4iI75T3HAmbETcdbwtpSZwZQ&oe=6AE78DC8",
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "PE"
+      ]
+    },
+    {
+      "ad_id": "1769770830921020",
+      "product_name": "supreme master tv max - maximize your blessings at home work and anywhere",
+      "product_key": "unverified:1769770830921020",
+      "category": "other",
+      "advertiser": "Supreme Master Television",
+      "source_country": "PE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1769770830921020",
+      "landing_url": "https://suprememastertv.com/en1/max/",
+      "image_url": null,
+      "video_url": "https://video-lga3-3.xx.fbcdn.net/o1/v/t2/f2/m366/AQMo5-ITluTU9HbgrlbtkDKLC3Se8aGW5EBj03n8K_RnpuBedHYl_yF129W1uACpi--3PTfxYXxrrof4ycL-TwgvLp_DS4JNBzmLOSozozlFiQ.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-lga3-3.xx.fbcdn.net&_nc_ohc=irU5wdcLJmoQ7kNvwH-Oy3J&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTI4MC5kYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoyNTk5NTgzMTMwNDY4MDEyLCJhc3NldF9hZ2VfZGF5cyI6NzYsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxOTksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=6e2a98bfb410cc3b&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wNTQ4RkYzOEFDNUMxOEMyRkE4MEI4MjhEQjI0RERBMV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQyNDczMzk5NDI2OERGN0UyQjdFNUU3Qjc3MDFFQUFFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbY-vHQ05OeCRUCKAJDMywXQGjoeuFHrhQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=IB4dejSA9eMoMKPhVxVxAA&_nc_ss=79289&_nc_zt=28&oh=00_AQQUWleGoFI7U25dCZvmfR4iI75T3HAmbETcdbwtpSZwZQ&oe=6AE78DC8",
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "PE"
+      ]
+    },
+    {
+      "ad_id": "2416356642631198",
+      "product_name": "multifunctional car wash tool",
+      "product_key": "unverified:2416356642631198",
+      "category": "vehicle",
+      "advertiser": "Bamaxisboon_hhh",
+      "source_country": "PE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2416356642631198",
+      "landing_url": "https://www.zenblux.com/funnel/news-multifunctional-car-wash-tool-m-19",
+      "image_url": null,
+      "video_url": "https://video-lga3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQP4WOWp7PNyWKTj2ik46jItfFUjjDG9qOL8QO8DnZMI7iGesxi89fd7BvFEgeiaZR6fCzFfd_WuzuS4WC8bLxHQGJmmkL9re6sJ6CP4JJkhYg.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-lga3-1.xx.fbcdn.net&_nc_ohc=BiY__S6ITi8Q7kNvwHQ50Gl&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjQxOTMwMTMzODQzMzAwMzQsImFzc2V0X2FnZV9kYXlzIjoxOSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjQzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=ba471615f1ea5ddf&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DQTkyRDk3NDQ1QkQ0NTA4ODlBNEE2NTdFNDcyRkVCOV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzUxNTg0OUZCNTUyMzQ2RURBQ0QxNzg1RTNGQzk3OEJBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbk7P2UwOHyDhUCKAJDMywXQEXRBiTdLxsYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=IB4dejSA9eMoMKPhVxVxAA&_nc_ss=79289&_nc_zt=28&oh=00_AQTKeFbmXPCHIM_oBKoYopTjgc3BDbVP-AlHuEOMAuPP1A&oe=6AE77BC6",
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "PE"
+      ]
+    },
+    {
+      "ad_id": "1564950985194678",
+      "product_name": "source furniture on alibaba com alibaba com-world s leading b2b marketplace",
+      "product_key": "unverified:1564950985194678",
+      "category": "other",
+      "advertiser": "Alibaba.com",
+      "source_country": "PE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1564950985194678",
+      "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+      "image_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.35426-6/536673293_1840463503202935_5747798708660752386_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=b9vOxLUsMMcQ7kNvwF01K5D&_nc_oc=AdorvQHd7lTKouFSzSYKCWsxRXXxjYCYWT2aqzgocOeft4dEdbUoAaAcgzJEt-IBb4Y&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=IB4dejSA9eMoMKPhVxVxAA&_nc_ss=79289&oh=00_AQTN2xTLomv2KyEIj-PTJt8MMayPlUyMuEpMxKUAKcXbGw&oe=6AE78DE9",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "PE"
+      ]
+    },
+    {
+      "ad_id": "1400311672147884",
+      "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+      "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+      "category": "garden",
+      "advertiser": "Alibaba.com",
+      "source_country": "PE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1400311672147884",
+      "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+      "image_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.35426-6/746068168_1516279719572139_7222769199995721597_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=b1o0xKsPmn8Q7kNvwG3XZHV&_nc_oc=AdoSuCb4jpdytKb3MkLrcbSjvQshBmeDjBQuZ_b-p3R6OvZ74oborgjuYVky1kHpbpA&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=IB4dejSA9eMoMKPhVxVxAA&_nc_ss=79289&oh=00_AQSbOxjRJvvDGHCbe1E6gDPh8rU8PCJ7DqWNEhePFy8lHA&oe=6AE7690B",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "PE"
+      ]
+    },
+    {
+      "ad_id": "1566541874428950",
+      "product_name": "source material handling on alibaba com alibaba com-world s leading b2b marketplace",
+      "product_key": "unverified:1566541874428950",
+      "category": "other",
+      "advertiser": "Alibaba.com",
+      "source_country": "PE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1566541874428950",
+      "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+      "image_url": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.35426-6/662226576_816629804835274_7294601592343941070_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_Q8F5O7ZHJkQ7kNvwG4CfNc&_nc_oc=Adpl15g92Lh28qO30dXci2j4wvhoeZbEGsFFlVWUXNgTnjrXXEmb88iSWqN9gkSo8T0&_nc_zt=14&_nc_ht=scontent-lga3-1.xx&_nc_gid=IB4dejSA9eMoMKPhVxVxAA&_nc_ss=79289&oh=00_AQSEPlvkwQh5vIIVjNokZSJXRXQxU2NoIbstvGcvSbGvZQ&oe=6AE79935",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "PE"
+      ]
+    },
+    {
+      "ad_id": "1077131378619957",
+      "product_name": "support stamina and heart health every day",
+      "product_key": "title:support stamina and heart health every day",
+      "category": "wellness",
+      "advertiser": "Rosabella",
+      "source_country": "PE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1077131378619957",
+      "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
+      "image_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.35426-6/816030239_1971548616766311_637578522928131888_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7k5OHapiJZ8Q7kNvwEVMmMh&_nc_oc=Adp8Yv7678ddrhWIqfJIoA7RWNZjsJhX5QCAwu_h1h7D6-mjArpUq_aLB3hiiYE_TUw&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=IB4dejSA9eMoMKPhVxVxAA&_nc_ss=79289&oh=00_AQSXdhLwbjYyiNBVEHbn13T1E3lpTB5jex2rnQ7yCeucHg&oe=6AE787C8",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "PE"
+      ]
+    },
+    {
+      "ad_id": "1454579686577926",
+      "product_name": "support stamina and heart health every day",
+      "product_key": "title:support stamina and heart health every day",
+      "category": "wellness",
+      "advertiser": "The Heart Health Project",
+      "source_country": "PE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1454579686577926",
+      "landing_url": "https://track.tryrosabella.com/cdc16426-3e48-40a7-9fad-21098084f6cf",
+      "image_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.35426-6/800598477_1046930658431196_6391737630457071934_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6tdBwDlkszAQ7kNvwFX3-br&_nc_oc=AdpIsi0xcvIWSelLgXYpDO0x1Z5_3FqgwTHK6DF_B_1vFRLgR3LCrhPrdYTB61qPi1Q&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=IB4dejSA9eMoMKPhVxVxAA&_nc_ss=79289&oh=00_AQRPfFfmN8JLIUTipnto45CPOQOrzdpG8yH_nh1uoeYeZw&oe=6AE77094",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "PE"
+      ]
+    },
+    {
+      "ad_id": "2986660478339533",
+      "product_name": "support stamina and heart health every day",
+      "product_key": "title:support stamina and heart health every day",
+      "category": "wellness",
+      "advertiser": "Rosabella",
+      "source_country": "PE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2986660478339533",
+      "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
+      "image_url": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.35426-6/818510473_1038317909029592_6148641447088398466_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UcJT80cqtRMQ7kNvwHhgG9-&_nc_oc=AdqlM3F8pxdapMIWANn2cn85u3jE72QpfmWrx6dQ-UnH1mmMrlt5vyOJFIlhFwtvtOg&_nc_zt=14&_nc_ht=scontent-lga3-1.xx&_nc_gid=IB4dejSA9eMoMKPhVxVxAA&_nc_ss=79289&oh=00_AQTpC4ZK4_fS8mvAwZFiwcpzbgDDtg3M2F6WwsbZAMRBJA&oe=6AE77849",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "PE"
+      ]
+    },
+    {
+      "ad_id": "4707220076189639",
+      "product_name": "garden weed pulling tool opzslj 4 12",
+      "product_key": "sku:garden weed pulling tool opzslj",
+      "category": "garden",
+      "advertiser": "Hailoyearn.HA38",
+      "source_country": "PE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=4707220076189639",
+      "landing_url": "https://www.zenblux.com/products/garden-weed-pulling-tool-opzslj-4-12",
+      "image_url": null,
+      "video_url": "https://video-lga3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQM2fn5ktr-mxHOlcMv5ETfg1fHdJx6oJQhFH95avHIrBCRn1HqfQYHeTqi0OIeJvTt7y4cZ3Z3sC46e2Frqpu5bu5kH_KtAPmFDcoCpEeaNIg.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-lga3-2.xx.fbcdn.net&_nc_ohc=P-1xbpwialIQ7kNvwEc81fq&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjQ1OTg1NDk5OTM3MTU5MDMsImFzc2V0X2FnZV9kYXlzIjoxOSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjI5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=19d803c6bc29dd30&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82REIwMDg3MUYxNkI0NDYwQUVDM0M1RUI2QzEzN0EyRF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzYyNzM0QUQ3QzE3NjRBM0U4NUM5RDFFNzg0NDRCNUMxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb-4tut65arEBUCKAJDMywXQD1u2RaHKwIYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=IB4dejSA9eMoMKPhVxVxAA&_nc_ss=79289&_nc_zt=28&oh=00_AQS5Xvp3MrviSWdapkSjjtA9Z4eUBgwTPJOv3NBocbAENg&oe=6AE78E8F",
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "PE"
+      ]
+    },
+    {
+      "ad_id": "1028252830251737",
+      "product_name": "support stamina and heart health every day",
+      "product_key": "title:support stamina and heart health every day",
+      "category": "wellness",
+      "advertiser": "Rosabella",
+      "source_country": "PE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1028252830251737",
+      "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
+      "image_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.35426-6/796639858_1849581735841365_5852488422440015442_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qe5pfYbA91IQ7kNvwFWIW5O&_nc_oc=AdoSgch-21-KspW_D49an3dbj5BUZpMQzG2vXOPt8Aqr1BiPn7yIXlpD2qUR0gakQtc&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=IB4dejSA9eMoMKPhVxVxAA&_nc_ss=79289&oh=00_AQSNS1z_zQbFSTXl-xZCB4Ip1QYRGzw1Xb6E2oD1gz1fZg&oe=6AE79002",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "PE"
+      ]
+    },
+    {
+      "ad_id": "1758510578866973",
+      "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+      "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+      "category": "garden",
+      "advertiser": "Alibaba.com",
+      "source_country": "PE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1758510578866973",
+      "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+      "image_url": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.35426-6/668576393_1449531970048421_3220855404574117708_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SmcAsVhXyYsQ7kNvwEHqfqe&_nc_oc=AdqqhUnqB88DxEtc56MHa2rNZeKg9VIZ04RwR6Pp0F0YRZvTALiEL-zDmPltNu8JdtE&_nc_zt=14&_nc_ht=scontent-lga3-1.xx&_nc_gid=IB4dejSA9eMoMKPhVxVxAA&_nc_ss=79289&oh=00_AQRHMHu07L9jqmtPRc-0Oa6YdehqaC4210qF1YXkGTeEXw&oe=6AE78B0F",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "PE"
+      ]
+    },
+    {
+      "ad_id": "2423281484774325",
+      "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+      "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+      "category": "garden",
+      "advertiser": "Alibaba.com",
+      "source_country": "PE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2423281484774325",
+      "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+      "image_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.35426-6/536767067_1311671360465989_2623819452815956373_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ctOEc-mGFDcQ7kNvwHEKjOt&_nc_oc=AdoCerb8ZQv2B_TZtxVoz7RHI-x5XRO2LwOl-2bo2s5nRjkGPe1tl_d_q7ZS-qJuTbs&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=IB4dejSA9eMoMKPhVxVxAA&_nc_ss=79289&oh=00_AQSYPsL45BaL8SlS7udQxDrA9z_af_6kiVHWE02BKUQ8bg&oe=6AE77FFB",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "PE"
+      ]
+    },
+    {
+      "ad_id": "2254752218642844",
+      "product_name": "sale ends tonight 70 off",
+      "product_key": "unverified:2254752218642844",
+      "category": "other",
+      "advertiser": "Today Travel Tips",
+      "source_country": "PE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2254752218642844",
+      "landing_url": "https://vylaras.com/products/earbuds",
+      "image_url": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.35426-6/813345560_1063394366592915_5778511909170152303_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FTPDDJl1IlMQ7kNvwGbMUbN&_nc_oc=AdrDvoBP8erEbz5WI7b2eNZRoK26mo6jH5ZIsMDcUp4vkMMBY5bmSK-PLMkBmEw9QIM&_nc_zt=14&_nc_ht=scontent-lga3-1.xx&_nc_gid=IB4dejSA9eMoMKPhVxVxAA&_nc_ss=79289&oh=00_AQR89gRc2gem85_kBjKTXnPHLzYV2jrBoA01LeH6a94M3w&oe=6AE79229",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "PE"
+      ]
+    },
+    {
+      "ad_id": "1764857541417900",
+      "product_name": "support stamina and heart health every day",
+      "product_key": "title:support stamina and heart health every day",
+      "category": "wellness",
+      "advertiser": "Ashley Mccullough",
+      "source_country": "PE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1764857541417900",
+      "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
+      "image_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.35426-6/802680795_2209519649593757_6223209566027306055_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-rKWJszZ-UkQ7kNvwF0AyUV&_nc_oc=AdqftriO2kRCIJoQpgVUL0wwLLe13iE7gGgbr1vkutOA2nBbGHHDd5u0pkFVmdTh6jw&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=IB4dejSA9eMoMKPhVxVxAA&_nc_ss=79289&oh=00_AQT-z45-PZmwlfH7sLVd4WPOXvsoFyuX_1flY0NJgfw6Ow&oe=6AE776B3",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "PE"
+      ]
+    },
+    {
+      "ad_id": "1635400034280981",
+      "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+      "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+      "category": "garden",
+      "advertiser": "Alibaba.com",
+      "source_country": "PE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1635400034280981",
+      "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+      "image_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.35426-6/645531426_1447787276799010_8735004493884630145_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=aIRVhesY0rEQ7kNvwFGDiqN&_nc_oc=AdpBlzPdxw6oaB5ksTkgdUMpbnx8D4VD3OgNHbzCsG85R8hJTJaVlZgcF4QDwA0tblE&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=IB4dejSA9eMoMKPhVxVxAA&_nc_ss=79289&oh=00_AQT5YYb_isNhMFuNGBAQIEpbWJpJfh5xEmcln9B37k9UGA&oe=6AE7740E",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "PE"
+      ]
+    },
+    {
+      "ad_id": "1238442471613236",
+      "product_name": "source tools hardware on alibaba com alibaba com-world s leading b2b marketplace",
+      "product_key": "title:source tools hardware on alibaba com alibaba com-world s leading b2b marketplace",
+      "category": "garden",
+      "advertiser": "Alibaba.com",
+      "source_country": "PE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1238442471613236",
+      "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+      "image_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.35426-6/659680980_1619856175896022_3669259477233999792_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2r40m1KQAb8Q7kNvwHullUR&_nc_oc=AdpFZbGA9gJ5j4skUnwvttKuQdLJaLfUuGRCYcptu7_Rsws7BEjiHgZoK5Gg4SProZ0&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=IB4dejSA9eMoMKPhVxVxAA&_nc_ss=79289&oh=00_AQRO1nYVuiFnO3mELst1OXuOOSZsmGnOA-hr_gcR5qICAg&oe=6AE76DB4",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "PE"
+      ]
+    },
+    {
+      "ad_id": "1052834297576604",
+      "product_name": "support stamina and heart health every day",
+      "product_key": "title:support stamina and heart health every day",
+      "category": "wellness",
+      "advertiser": "Eric Bussey",
+      "source_country": "PE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1052834297576604",
+      "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
+      "image_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.35426-6/803068082_1048754464654724_7694330789449155527_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=o8lRBGDTVRkQ7kNvwGDPyaE&_nc_oc=Adru0H5rhNaeGPurkkOx-wpXseo12-usxHiWwXuMaBYyEHErFpjZfR5jfoAwmle2dFg&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=IB4dejSA9eMoMKPhVxVxAA&_nc_ss=79289&oh=00_AQRNivhU2Do1RAWIMLoL9y-AAjIjFGmFvZb8d8N8USUWoQ&oe=6AE79A8B",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "PE"
+      ]
+    },
+    {
+      "ad_id": "1067112572886891",
+      "product_name": "support stamina and heart health every day",
+      "product_key": "title:support stamina and heart health every day",
+      "category": "wellness",
+      "advertiser": "Eric Bussey",
+      "source_country": "PE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1067112572886891",
+      "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
+      "image_url": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.35426-6/799869670_1399947318181814_5622419939105259039_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=e3fdKHEGpBcQ7kNvwGFiw_q&_nc_oc=AdrzHULgGHRxgAwzg0dyTjfF6xbEr4J8NrXzLJvfoBKRlQkmzRHkC42wdbGhYuualec&_nc_zt=14&_nc_ht=scontent-lga3-1.xx&_nc_gid=IB4dejSA9eMoMKPhVxVxAA&_nc_ss=79289&oh=00_AQQH7vY6p7Nq5x5KJlMw48B9714DjmPHWawNeB4lQAhzxA&oe=6AE76FD1",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "PE"
+      ]
+    },
+    {
+      "ad_id": "1410002983737114",
+      "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+      "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+      "category": "garden",
+      "advertiser": "Alibaba.com",
+      "source_country": "PE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1410002983737114",
+      "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+      "image_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.35426-6/642324646_1478601783595780_632969137170769578_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ePIVWXX3h_EQ7kNvwGd1FDH&_nc_oc=AdqQ4lMdbFud6FS-zc_1X3oR7H8wMZAUpYiSc2EHc-HPCaxL_fVpOHkEta0efcPXOWM&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=IB4dejSA9eMoMKPhVxVxAA&_nc_ss=79289&oh=00_AQQx5DhiANTzc5_vcNfrk0TaZseNxQ_HezlUavfxAj2pQg&oe=6AE79121",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "PE"
+      ]
+    },
+    {
+      "ad_id": "1093420763078615",
+      "product_name": "support stamina and heart health every day",
+      "product_key": "title:support stamina and heart health every day",
+      "category": "wellness",
+      "advertiser": "Eric Bussey",
+      "source_country": "PE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1093420763078615",
+      "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
+      "image_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.35426-6/803102801_2655218584907692_1097683173354636259_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ykaaPKNjGloQ7kNvwGd7fDv&_nc_oc=AdoND1ua26bn-vefsRkntv-fOYS5M6f01qe4B4OwNmzUaTBwLHXtrdadnDkGI37UYrM&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=IB4dejSA9eMoMKPhVxVxAA&_nc_ss=79289&oh=00_AQTasEZUYiUQUFstGcmVGVtEj8cXSQGCf7epZCZ1lZLdKw&oe=6AE79871",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "PE"
+      ]
+    },
+    {
+      "ad_id": "1829461271766250",
+      "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+      "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+      "category": "garden",
+      "advertiser": "Alibaba.com",
+      "source_country": "PE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1829461271766250",
+      "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+      "image_url": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.35426-6/748700720_1473391838158720_5431392536035386095_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2AvgMtfOypUQ7kNvwGndXuc&_nc_oc=AdogQ02eRXzHU9jOfrYTVwm_HgrkSJYleyCFj8XtIZiLw9PqnlE0HOaYgHpW1QqAE7g&_nc_zt=14&_nc_ht=scontent-lga3-1.xx&_nc_gid=IB4dejSA9eMoMKPhVxVxAA&_nc_ss=79289&oh=00_AQQYe65iMKcA6Srw5wynb_m-vACvOKOEdn0RQVjBrNolEQ&oe=6AE77093",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "PE"
+      ]
+    },
+    {
+      "ad_id": "1403739244436218",
+      "product_name": "support stamina and heart health every day",
+      "product_key": "title:support stamina and heart health every day",
+      "category": "wellness",
+      "advertiser": "Blood Pressure Secrets",
+      "source_country": "PE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1403739244436218",
+      "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
+      "image_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.35426-6/818959855_2938983679834794_3318958071140306867_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JjpzHIcNJ8kQ7kNvwHJrqZK&_nc_oc=Adq7jbqdKkmL3fu2Jx9aMR1GNOCxA7Ss_i8kmfZYGQ-AXifYF0Vp5W9HfpWMKhiFTos&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=IB4dejSA9eMoMKPhVxVxAA&_nc_ss=79289&oh=00_AQTv5Uv8YblqPKUFc0ImwyF_voBTnJcW2oqhVi9hY-zRVQ&oe=6AE76851",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "PE"
+      ]
+    },
+    {
+      "ad_id": "1747642259648397",
+      "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+      "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+      "category": "garden",
+      "advertiser": "Alibaba.com",
+      "source_country": "PE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1747642259648397",
+      "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+      "image_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.35426-6/802899691_1126701146388281_3593966602333602842_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=orzcl0UzUBQQ7kNvwEbkwdY&_nc_oc=Adp1_ky8eSLoX9aApDRurbkb9_4UC2nMB9YC24AEV8SfbiQ2amsPUoU9PT6pa8AAD6A&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=IB4dejSA9eMoMKPhVxVxAA&_nc_ss=79289&oh=00_AQShNt_BRaBW3zcvkuu8XiLoZ8xsMpy0IOXwUm7-h71gdA&oe=6AE780CE",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "PE"
+      ]
+    },
+    {
+      "ad_id": "1249780890602109",
+      "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+      "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+      "category": "garden",
+      "advertiser": "Alibaba.com",
+      "source_country": "PE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1249780890602109",
+      "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+      "image_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.35426-6/614309871_1566784517690769_6383357764301767982_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qG2shlJKrCQQ7kNvwGmrajW&_nc_oc=AdpQ9OME7x_ISOhYVq5JZYV6BqEmsf6a1QihGOat5Z-j810e_x0pF8M2QNQjEMzatw4&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=IB4dejSA9eMoMKPhVxVxAA&_nc_ss=79289&oh=00_AQTN9O-VsNcyb10mKsWtt8GWOfvFQYrCluwO0IWWw1f95A&oe=6AE76B57",
+      "video_url": null,
+      "first_seen": "2026-10-28T08:26:25.534297+00:00",
+      "last_seen": "2026-10-28T08:26:25.534297+00:00",
+      "active_checked_at": "2026-10-28T08:26:25.534297+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "PE"
+      ]
+    },
     {
       "ad_id": "1485069156741240",
       "product_name": "womens power hooks",
