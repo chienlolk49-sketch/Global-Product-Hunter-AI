@@ -283,7 +283,7 @@ def main():
     save(STORE / "top50.json", {"updated_at": NOW.isoformat(), "minimum_active_ads": MIN_ACTIVE_ADS,
                                 "active_window_hours": ACTIVE_WINDOW_HOURS, "categories": rankings})
     save(STORE / "status.json", status)
-    print(json.dumps({k: status[k] for k in ("state", "new_ads", "total_unique_ads", "searches_succeeded")}, ensure_ascii=False))
+    print(json.dumps({k: status[k] for k in ("state", "new_ads", "unique_active_ads_observed_last_48h", "qualifying_products", "searches_succeeded")}, ensure_ascii=False))
     # Failure state is also persisted for diagnosis.
     return 0 if successes else 2
 
