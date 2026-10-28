@@ -52,16 +52,17 @@ PET_RE = re.compile(r"\b(pets?|dogs?|cats?|puppy|puppies|kittens?|pet food|pet a
 BULKY_RE = re.compile(r"\b(sofa|couch|mattress|refrigerator|washing machine|wardrobe|full.?size bed|dining table)\b", re.I)
 CATEGORIES = {
     "beauty": ("serum", "shampoo", "hair", "skincare", "skin care", "makeup", "beauty", "facial", "dầu gội", "tóc"),
-    "health": ("massage", "pain relief", "health", "orthopedic", "posture"),
+    "wellness": ("massage", "pain relief", "health", "orthopedic", "posture"),
     "home": ("cleaning", "household", "storage", "vacuum", "laundry"),
     "kitchen": ("kitchen", "cooking", "vegetable cutter", "cookware"),
     "electronics": ("charger", "earbuds", "bluetooth", "phone", "smartwatch", "electronics"),
     "fashion": ("bag", "dress", "wallet", "jewelry", "bracelet", "shoe", "fashion"),
     "baby": ("baby", "toddler", "maternity", "infant"),
     "sport": ("fitness", "yoga", "gym", "workout", "sport"),
-    "auto": ("car", "automotive", "motorcycle", "vehicle"),
+    "vehicle": ("car", "automotive", "motorcycle", "vehicle"),
     "travel": ("travel", "luggage", "camping", "backpack"),
     "garden": ("garden", "gardening", "plant", "tool"),
+    "toys": ("toy", "puzzle", "craft", "game", "lego"),
     "office": ("desk", "office", "stationery", "notebook"),
     "food": ("coffee", "snack", "tea", "food", "drinks"),
 }
