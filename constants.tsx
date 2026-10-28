@@ -14,6 +14,7 @@ export const NICHES: NicheData[] = [
 export const NAV_ITEMS = [
   { id: 'dashboard', label: 'Dashboard', icon: 'space_dashboard' },
   { id: 'daily-hunt', label: 'Daily Hunt', icon: 'travel_explore' },
+  { id: 'cloud-hunter', label: 'Cloud Hunter', icon: 'manage_search' },
   { id: 'analysis', label: 'Market Analysis', icon: 'analytics' },
   { id: 'watchlist', label: 'Watchlist', icon: 'bookmarks' },
   { id: 'compare', label: 'Compare', icon: 'compare_arrows' },
