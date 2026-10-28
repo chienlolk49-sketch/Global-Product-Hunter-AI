@@ -67,7 +67,7 @@ CATEGORIES = {
     "office": ("desk", "office", "stationery", "notebook"),
     "food": ("coffee", "snack", "tea", "food", "drinks"),
 }
-MAX_STORED_ADS = 12000
+MAX_STORED_ADS = 40000  # 50 x 14 niches x 21 distinct IDs = 14,700 minimum
 WINDOW_DAYS = 35
 ACTIVE_WINDOW_HOURS = 48
 MIN_ACTIVE_ADS = 21  # strictly more than 20 distinct active-query ad IDs
@@ -77,6 +77,9 @@ MAX_QUERIES_PER_RUN = 12
 SCAN_BUDGET_SECONDS = 440
 TARGET_PER_CATEGORY = 50
 PLACEHOLDER_RE = re.compile(r"(\{\{|\}\}|product\.name|^shop now$|^buy now$|^learn more$)", re.I)
+# Marketing benefit claims are not a concrete product identity.
+PRODUCT_TYPE_RE = re.compile(r"\b(serum|shampoo|cream|lotion|massager|massage device|cushion|brace|support belt|organizer|storage box|vacuum|cleaner|cutter|blender|coffee maker|charger|headphones|earbuds|smartwatch|watch|phone case|bag|backpack|wallet|shoe|sneaker|jewelry|necklace|bracelet|carrier|stroller|toy|puzzle|game|band|mat|car mount|car holder|scooter mount|luggage|packing cubes|tool|watering can|stationery|notebook|desk|coffee|tea|snack|cards|tracking card|tracking cards)\b",re.I)
+TRACKER_RE = re.compile(r"(?:^|\.)(?:track|trk|click|go|affiliate|redirect)\.",re.I)
 
 def classify_name(name):
     """Assign a niche only from product-name evidence, never the query alone."""
@@ -142,12 +145,18 @@ def product_identity(ad):
     title_tokens = [x for x in identity(name).split() if len(x)>=3 and x not in GENERIC_TERMS]
     if category == "other":
         return "unverified:"+aid,label,"other"
+    # Require concrete product type plus an item-specific purchase landing page.
+    # Do not count ad slogans or tracking homepages as proven product matches.
+    if not PRODUCT_TYPE_RE.search(label):
+        return "unverified:"+aid,label,"other"
+    if not slug or not link or (urlsplit(link).hostname and TRACKER_RE.search(urlsplit(link).hostname or "")):
+        return "unverified:"+aid,label,"other"
     if slug and len(set(tokens))>=3:
         key="sku:"+" ".join(tokens)
     elif slug and len(set(tokens))>=2:
         key="url:"+host+":"+" ".join(tokens)
     elif not slug and len(set(title_tokens))>=5:
-        key="title:"+identity(name)
+        key="unverified:"+aid
     else:
         key="unverified:"+aid
     return key,label[:140],category
@@ -157,14 +166,33 @@ def main():
     old = load(STORE / "ads.json", {"ads": []}).get("ads", [])
     by_id = {str(a["ad_id"]): a for a in old if isinstance(a, dict) and a.get("ad_id")}
     progress=load(STORE / "scan_progress.json", {"cursor":0,"total_queries_attempted":0})
+    # A single logical campaign survives many worker jobs and has no deadline.
+    # Each GitHub job must still checkpoint within the host runtime limit.
+    campaign_started_at=progress.get("campaign_started_at") or NOW.isoformat()
     cursor=max(0,int(progress.get("cursor",0)))
     started=time.monotonic()
     attempted = []
     successes = 0
     new_count = 0
-    # Cover all countries over many runs; only 4 bounded searches per run.
+    # Keep researching incomplete categories across jobs; never mistake job completion for campaign completion.
     from fb_ads_scraper.scraper import AdLibraryScraper
     from fb_ads_scraper.parser import parse_ad
+    pending_groups=defaultdict(list)
+    for existing_ad in by_id.values():
+        if existing_ad.get("is_active_observed") is not True:
+            continue
+        try:
+            check_time=datetime.fromisoformat(str(existing_ad.get("active_checked_at","")).replace("Z","+00:00")).astimezone(UTC)
+        except (ValueError,TypeError,OverflowError):
+            continue
+        if not (NOW-timedelta(hours=ACTIVE_WINDOW_HOURS) <= check_time <= NOW):
+            continue
+        pkey,pname,pcategory=product_identity(existing_ad)
+        if pcategory!="other" and not pkey.startswith("unverified:"):
+            pending_groups[(pcategory,pkey,pname)].append(existing_ad.get("ad_id"))
+    pending_candidates=sorted(
+        ((len(set(ids)),cat,name) for (cat,key,name),ids in pending_groups.items() if 4<=len(set(ids))<MIN_ACTIVE_ADS),
+        key=lambda row:-row[0])
     for offset in range(MAX_QUERIES_PER_RUN):
         if time.monotonic()-started > SCAN_BUDGET_SECONDS:
             break
@@ -175,6 +203,11 @@ def main():
         rotation=cursor//len(category_order)
         term=terms[rotation % len(terms)]
         country=COUNTRIES[(rotation*7 + cat_index*13) % len(COUNTRIES)]
+        if pending_candidates and offset % 4 == 3:
+            number,term_category,label=pending_candidates[(cursor//4)%min(15,len(pending_candidates))]
+            focused=re.sub(r"\s+"," ",label).strip()
+            if len(focused)>=10:
+                term=focused[:90]
         cursor+=1
         assert country not in EXCLUDED_COUNTRIES
         url = ("https://www.facebook.com/ads/library/?active_status=active&ad_type=all"
@@ -297,10 +330,17 @@ def main():
         "category_qualified_counts":{k:len(v) for k,v in rankings.items() if k!="other"},
         "unfinished_categories":{k:TARGET_PER_CATEGORY-len(v) for k,v in rankings.items() if k!="other" and len(v)<TARGET_PER_CATEGORY},
         "total_queries_attempted_to_date":int(progress.get("total_queries_attempted",0))+len(attempted),
+        "campaign_started_at":campaign_started_at,
+        "campaign_state":"complete" if all(len(v)>=TARGET_PER_CATEGORY for k,v in rankings.items() if k!="other") else "collecting",
+        "campaign_has_time_limit":False,
+        "per_job_time_limit_seconds":SCAN_BUDGET_SECONDS,
+        "target_per_category":TARGET_PER_CATEGORY,
+        "candidates_near_threshold":len(pending_candidates),
         "limitations":"Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
     }
     save(STORE / "scan_progress.json",{
         "cursor":cursor,"total_queries_attempted":status["total_queries_attempted_to_date"],
+        "campaign_started_at":campaign_started_at,"campaign_state":status["campaign_state"],
         "last_run_at":NOW.isoformat(),"unfinished_categories":status["unfinished_categories"]})
     save(STORE / "ads.json", {"updated_at": NOW.isoformat(), "ads": recent})
     save(STORE / "top50.json", {"updated_at": NOW.isoformat(), "minimum_active_ads": MIN_ACTIVE_ADS,
