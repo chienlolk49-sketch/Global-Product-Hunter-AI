@@ -1,37 +1,37 @@
 {
-  "timestamp_utc": "2026-10-28T21:02:05.171271+00:00",
+  "timestamp_utc": "2026-10-28T21:41:21.655595+00:00",
   "attempts": [
     {
-      "country": "IE",
-      "keyword": "hair serum",
-      "category": "beauty",
+      "country": "PE",
+      "keyword": "cleaning tool",
+      "category": "home",
       "found": 30
     },
     {
-      "country": "MA",
-      "keyword": "skincare serum",
-      "category": "beauty",
+      "country": "PK",
+      "keyword": "home organizer",
+      "category": "home",
       "found": 30
     },
     {
-      "country": "TW",
-      "keyword": "hair care",
-      "category": "beauty",
+      "country": "HR",
+      "keyword": "storage solution",
+      "category": "home",
       "found": 30
     },
     {
-      "country": "LT",
-      "keyword": "shampoo",
-      "category": "beauty",
+      "country": "FR",
+      "keyword": "vacuum cleaner",
+      "category": "home",
       "found": 30
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
   "new_ads": 73,
-  "unique_active_ads_observed_last_48h": 1596,
+  "unique_active_ads_observed_last_48h": 1669,
   "qualifying_products": 2,
-  "groups_below_threshold_or_unverified": 1318,
+  "groups_below_threshold_or_unverified": 1374,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "ok",
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
