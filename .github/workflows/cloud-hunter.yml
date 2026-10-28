@@ -11,8 +11,6 @@ on:
       - ".github/workflows/cloud-hunter.yml"
       - "cloud_hunter/scan.py"
       - "cloud_hunter/test_scan_v14.py"
-      - "cloud_hunter/deep_v15.py"
-      - "cloud_hunter/test_deep_v15.py"
 
 permissions:
   contents: write
@@ -35,7 +33,7 @@ jobs:
         with:
           python-version: "3.12"
       - name: Verify deep-scan grouping and category logic
-        run: python -m unittest cloud_hunter/test_scan_v14.py cloud_hunter/test_deep_v15.py
+        run: python -m unittest cloud_hunter/test_scan_v14.py
       - name: Install upstream scraper
         run: |
           git clone --depth 1 https://github.com/SaldanhaC3/sonda-imperial.git /tmp/sonda-imperial
@@ -46,7 +44,7 @@ jobs:
         continue-on-error: true
         env:
           PYTHONPATH: /tmp/sonda-imperial
-        run: python cloud_hunter/deep_v15.py
+        run: python cloud_hunter/scan.py
       - name: Save real results and diagnostic status
         if: always()
         run: |
