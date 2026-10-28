@@ -1,0 +1,35 @@
+{
+  "timestamp_utc": "2026-10-27T10:38:22.391948+00:00",
+  "attempts": [
+    {
+      "country": "CA",
+      "keyword": "fitness accessory",
+      "category": "sport",
+      "found": 15
+    },
+    {
+      "country": "CA",
+      "keyword": "car accessories",
+      "category": "auto",
+      "found": 15
+    },
+    {
+      "country": "CA",
+      "keyword": "travel organizer",
+      "category": "travel",
+      "found": 15
+    },
+    {
+      "country": "CA",
+      "keyword": "garden tools",
+      "category": "garden",
+      "found": 15
+    }
+  ],
+  "searches_succeeded": 4,
+  "searches_attempted": 4,
+  "new_ads": 1,
+  "total_unique_ads": 59,
+  "state": "ok",
+  "limitations": "A bounded keyword sample, NOT all Meta ads or verified product sales/views"
+}
