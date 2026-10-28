@@ -1,0 +1,684 @@
+{
+  "updated_at": "2026-10-28T08:30:46.484746+00:00",
+  "notice": "Candidates are separate from qualified Top 50; not proof of 21 active ads.",
+  "count": 51,
+  "candidates": [
+    {
+      "name": "arista smartwatch",
+      "category": "electronics",
+      "observed_ad_ids": 34,
+      "missing_to_21": 0,
+      "product_url": "https://violeva.com/products/arista-smartwatch",
+      "sample_ad_links": [
+        "https://www.facebook.com/ads/library/?id=477461392033133",
+        "https://www.facebook.com/ads/library/?id=1322212682119715",
+        "https://www.facebook.com/ads/library/?id=949431153339362",
+        "https://www.facebook.com/ads/library/?id=398109923350773",
+        "https://www.facebook.com/ads/library/?id=3995752530754949"
+      ],
+      "verification": "RESEARCH ONLY: URL-level match, not fully verified product identity"
+    },
+    {
+      "name": "standing makeup bag portable large capacity",
+      "category": "beauty",
+      "observed_ad_ids": 16,
+      "missing_to_21": 5,
+      "product_url": "https://doresty.store/products/standing-makeup-bag-portable-large-capacity",
+      "sample_ad_links": [
+        "https://www.facebook.com/ads/library/?id=1140982527844588",
+        "https://www.facebook.com/ads/library/?id=1227960612728390",
+        "https://www.facebook.com/ads/library/?id=2651266715258894",
+        "https://www.facebook.com/ads/library/?id=1539796003919986",
+        "https://www.facebook.com/ads/library/?id=2957107811146131"
+      ],
+      "verification": "RESEARCH ONLY: URL-level match, not fully verified product identity"
+    },
+    {
+      "name": "spotminders tracking cards",
+      "category": "other",
+      "observed_ad_ids": 10,
+      "missing_to_21": 11,
+      "product_url": "https://www.spotminders.com/products/spotminders-tracking-cards",
+      "sample_ad_links": [
+        "https://www.facebook.com/ads/library/?id=1742144113762534",
+        "https://www.facebook.com/ads/library/?id=891207544061371",
+        "https://www.facebook.com/ads/library/?id=1377794840991632",
+        "https://www.facebook.com/ads/library/?id=1051041913996228",
+        "https://www.facebook.com/ads/library/?id=1659630415116524"
+      ],
+      "verification": "RESEARCH ONLY: URL-level match, not fully verified product identity"
+    },
+    {
+      "name": "2025 new multifunctional men women s smartwatch",
+      "category": "electronics",
+      "observed_ad_ids": 10,
+      "missing_to_21": 11,
+      "product_url": "https://m.stellaya.com/products/2025-new-multifunctional-men-women-s-smartwatch",
+      "sample_ad_links": [
+        "https://www.facebook.com/ads/library/?id=1122080550293441",
+        "https://www.facebook.com/ads/library/?id=1816566676194085",
+        "https://www.facebook.com/ads/library/?id=2020330275276089",
+        "https://www.facebook.com/ads/library/?id=1641676484253055",
+        "https://www.facebook.com/ads/library/?id=1742178456878238"
+      ],
+      "verification": "RESEARCH ONLY: URL-level match, not fully verified product identity"
+    },
+    {
+      "name": "hoto autocare plus air duster vacuum",
+      "category": "home",
+      "observed_ad_ids": 9,
+      "missing_to_21": 12,
+      "product_url": "https://hototools.com/products/hoto-autocare-plus-air-duster-vacuum",
+      "sample_ad_links": [
+        "https://www.facebook.com/ads/library/?id=1668065390955486",
+        "https://www.facebook.com/ads/library/?id=1519111026927837",
+        "https://www.facebook.com/ads/library/?id=2827565804284376",
+        "https://www.facebook.com/ads/library/?id=2921944894817491",
+        "https://www.facebook.com/ads/library/?id=1530882798786783"
+      ],
+      "verification": "RESEARCH ONLY: URL-level match, not fully verified product identity"
+    },
+    {
+      "name": "pinauto coussin de siege auto personnalise 1",
+      "category": "other",
+      "observed_ad_ids": 9,
+      "missing_to_21": 12,
+      "product_url": "https://fr.pinauto-store.com/products/pinauto-coussin-de-siege-auto-personnalise-1",
+      "sample_ad_links": [
+        "https://www.facebook.com/ads/library/?id=4534307760187849",
+        "https://www.facebook.com/ads/library/?id=1176334737988867",
+        "https://www.facebook.com/ads/library/?id=1623424545414056",
+        "https://www.facebook.com/ads/library/?id=2449386952222202",
+        "https://www.facebook.com/ads/library/?id=1315230617365220"
+      ],
+      "verification": "RESEARCH ONLY: URL-level match, not fully verified product identity"
+    },
+    {
+      "name": "dumpling bag",
+      "category": "fashion",
+      "observed_ad_ids": 8,
+      "missing_to_21": 13,
+      "product_url": "https://www.olend.net/products/dumpling-bag",
+      "sample_ad_links": [
+        "https://www.facebook.com/ads/library/?id=1335946344564021",
+        "https://www.facebook.com/ads/library/?id=1014588737989961",
+        "https://www.facebook.com/ads/library/?id=1023023520486895",
+        "https://www.facebook.com/ads/library/?id=848154471368059",
+        "https://www.facebook.com/ads/library/?id=996829656218088"
+      ],
+      "verification": "RESEARCH ONLY: URL-level match, not fully verified product identity"
+    },
+    {
+      "name": "b0cp9yb3q4",
+      "category": "other",
+      "observed_ad_ids": 8,
+      "missing_to_21": 13,
+      "product_url": "https://www.amazon.com/STANLEY-Flowstate-3-Position-Compatible-Insulated/dp/B0CP9YB3Q4/ref=zg_bs_c_kitchen_d_sccl_2/144-3431580-0132561?pd_rd_w=hWLWj&content-id=amzn1.sym.fef9af56-6177-46e9-8710-a5293a68dd39&pf_rd_p=fef9af56-6177-46e9-8710-a5293a68dd39&pf_rd_r=0GEQ2CKKN9CDWRJVQ30G&pd_rd_wg=Bqiku&pd_rd_r=81674b8c-b755-4c7d-b058-0a65d7b22eb7&pd_rd_i=B0CP9YB3Q4&th=1",
+      "sample_ad_links": [
+        "https://www.facebook.com/ads/library/?id=1055216573879764",
+        "https://www.facebook.com/ads/library/?id=1068950025580214",
+        "https://www.facebook.com/ads/library/?id=1527698441998554",
+        "https://www.facebook.com/ads/library/?id=1577353914116320",
+        "https://www.facebook.com/ads/library/?id=1407943457887459"
+      ],
+      "verification": "RESEARCH ONLY: URL-level match, not fully verified product identity"
+    },
+    {
+      "name": "folded bag",
+      "category": "fashion",
+      "observed_ad_ids": 7,
+      "missing_to_21": 14,
+      "product_url": "https://www.olend.net/products/folded-bag",
+      "sample_ad_links": [
+        "https://www.facebook.com/ads/library/?id=1198058058916537",
+        "https://www.facebook.com/ads/library/?id=2696447404055991",
+        "https://www.facebook.com/ads/library/?id=1674485614253690",
+        "https://www.facebook.com/ads/library/?id=1039045388672829",
+        "https://www.facebook.com/ads/library/?id=2124318074877345"
+      ],
+      "verification": "RESEARCH ONLY: URL-level match, not fully verified product identity"
+    },
+    {
+      "name": "go tone pro",
+      "category": "other",
+      "observed_ad_ids": 7,
+      "missing_to_21": 14,
+      "product_url": "https://rayofi.com/products/go-tone-pro",
+      "sample_ad_links": [
+        "https://www.facebook.com/ads/library/?id=29078138735158521",
+        "https://www.facebook.com/ads/library/?id=896010086829535",
+        "https://www.facebook.com/ads/library/?id=2107250620165767",
+        "https://www.facebook.com/ads/library/?id=918668741182607",
+        "https://www.facebook.com/ads/library/?id=1799160604625013"
+      ],
+      "verification": "RESEARCH ONLY: URL-level match, not fully verified product identity"
+    },
+    {
+      "name": "cloudstrider",
+      "category": "other",
+      "observed_ad_ids": 6,
+      "missing_to_21": 15,
+      "product_url": "https://get.vitalwalk.store/products/cloudstrider",
+      "sample_ad_links": [
+        "https://www.facebook.com/ads/library/?id=1409001141082156",
+        "https://www.facebook.com/ads/library/?id=2207322010221276",
+        "https://www.facebook.com/ads/library/?id=1459429339620418",
+        "https://www.facebook.com/ads/library/?id=918701581279437",
+        "https://www.facebook.com/ads/library/?id=1084019947329640"
+      ],
+      "verification": "RESEARCH ONLY: URL-level match, not fully verified product identity"
+    },
+    {
+      "name": "luxury foldable trunk organizer",
+      "category": "other",
+      "observed_ad_ids": 6,
+      "missing_to_21": 15,
+      "product_url": "https://pinauto-store.com/products/luxury-foldable-trunk-organizer",
+      "sample_ad_links": [
+        "https://www.facebook.com/ads/library/?id=2773652896175093",
+        "https://www.facebook.com/ads/library/?id=1337115138001734",
+        "https://www.facebook.com/ads/library/?id=687501654395172",
+        "https://www.facebook.com/ads/library/?id=2303793336770019",
+        "https://www.facebook.com/ads/library/?id=832015223107028"
+      ],
+      "verification": "RESEARCH ONLY: URL-level match, not fully verified product identity"
+    },
+    {
+      "name": "groundingwell bedsheet",
+      "category": "other",
+      "observed_ad_ids": 5,
+      "missing_to_21": 16,
+      "product_url": "https://www.groundingwell.com/products/groundingwell-bedsheet",
+      "sample_ad_links": [
+        "https://www.facebook.com/ads/library/?id=1842200860531578",
+        "https://www.facebook.com/ads/library/?id=1023139514112318",
+        "https://www.facebook.com/ads/library/?id=1388077491045454",
+        "https://www.facebook.com/ads/library/?id=1776849996780904",
+        "https://www.facebook.com/ads/library/?id=4456691424606023"
+      ],
+      "verification": "RESEARCH ONLY: URL-level match, not fully verified product identity"
+    },
+    {
+      "name": "the ultimate family christmas bundle",
+      "category": "other",
+      "observed_ad_ids": 5,
+      "missing_to_21": 16,
+      "product_url": "https://www.spotminders.com/products/the-ultimate-family-christmas-bundle",
+      "sample_ad_links": [
+        "https://www.facebook.com/ads/library/?id=1377474167045517",
+        "https://www.facebook.com/ads/library/?id=2902183753468742",
+        "https://www.facebook.com/ads/library/?id=1396252155707808",
+        "https://www.facebook.com/ads/library/?id=2197058924200513",
+        "https://www.facebook.com/ads/library/?id=1015484224612841"
+      ],
+      "verification": "RESEARCH ONLY: URL-level match, not fully verified product identity"
+    },
+    {
+      "name": "saly trio bundle",
+      "category": "other",
+      "observed_ad_ids": 5,
+      "missing_to_21": 16,
+      "product_url": "https://maison-minimalist.com/products/saly-trio-bundle",
+      "sample_ad_links": [
+        "https://www.facebook.com/ads/library/?id=1115155537584707",
+        "https://www.facebook.com/ads/library/?id=777620155417185",
+        "https://www.facebook.com/ads/library/?id=1304367335075804",
+        "https://www.facebook.com/ads/library/?id=1567410478349260",
+        "https://www.facebook.com/ads/library/?id=945337854547245"
+      ],
+      "verification": "RESEARCH ONLY: URL-level match, not fully verified product identity"
+    },
+    {
+      "name": "mini necklace style neck massager 4 modes 9 intensity levels 3 heat settings smart dual pulse pendant design",
+      "category": "other",
+      "observed_ad_ids": 5,
+      "missing_to_21": 16,
+      "product_url": "https://noomoriey.com/products/mini-necklace-style-neck-massager-4-modes-9-intensity-levels-3-heat-settings-smart-dual-pulse-pendant-design?utm_source=FB&utm_medium=ads&utm_campaign=NC0279-%7B%7Bcampaign.name%7D%7D",
+      "sample_ad_links": [
+        "https://www.facebook.com/ads/library/?id=1371083715189441",
+        "https://www.facebook.com/ads/library/?id=1768002287783392",
+        "https://www.facebook.com/ads/library/?id=2738165099910863",
+        "https://www.facebook.com/ads/library/?id=1104087945685343",
+        "https://www.facebook.com/ads/library/?id=2503740373457626"
+      ],
+      "verification": "RESEARCH ONLY: URL-level match, not fully verified product identity"
+    },
+    {
+      "name": "navy blue tote bag",
+      "category": "fashion",
+      "observed_ad_ids": 4,
+      "missing_to_21": 17,
+      "product_url": "https://totelabel.com/products/navy-blue-tote-bag?tw_source={{site_source_name}}&tw_adid={{ad.id}}",
+      "sample_ad_links": [
+        "https://www.facebook.com/ads/library/?id=1773596880679063",
+        "https://www.facebook.com/ads/library/?id=1017734730951212",
+        "https://www.facebook.com/ads/library/?id=1739993090586139",
+        "https://www.facebook.com/ads/library/?id=1026725943129581"
+      ],
+      "verification": "RESEARCH ONLY: URL-level match, not fully verified product identity"
+    },
+    {
+      "name": "siv khaki green copy",
+      "category": "other",
+      "observed_ad_ids": 4,
+      "missing_to_21": 17,
+      "product_url": "https://totelabel.com/products/siv-khaki-green-copy",
+      "sample_ad_links": [
+        "https://www.facebook.com/ads/library/?id=1315956016640781",
+        "https://www.facebook.com/ads/library/?id=1488920273029813",
+        "https://www.facebook.com/ads/library/?id=1105952951789948",
+        "https://www.facebook.com/ads/library/?id=1637252764488657"
+      ],
+      "verification": "RESEARCH ONLY: URL-level match, not fully verified product identity"
+    },
+    {
+      "name": "yingfit wireless neckband headphones 42h battery led power display anc noise cancelling type c fast charge for",
+      "category": "other",
+      "observed_ad_ids": 4,
+      "missing_to_21": 17,
+      "product_url": "https://www.quotationy.com/products/yingfit-wireless-neckband-headphones-42h-battery-led-power-display-anc-noise-cancelling-type-c-fast-charge-for-gym-running",
+      "sample_ad_links": [
+        "https://www.facebook.com/ads/library/?id=29283357821289522",
+        "https://www.facebook.com/ads/library/?id=2592592491188217",
+        "https://www.facebook.com/ads/library/?id=1796915318119356",
+        "https://www.facebook.com/ads/library/?id=2600347463721065"
+      ],
+      "verification": "RESEARCH ONLY: URL-level match, not fully verified product identity"
+    },
+    {
+      "name": "brooklyn bag",
+      "category": "fashion",
+      "observed_ad_ids": 3,
+      "missing_to_21": 18,
+      "product_url": "https://www.olend.net/products/brooklyn-bag?variant=55077046387023",
+      "sample_ad_links": [
+        "https://www.facebook.com/ads/library/?id=2482990925488517",
+        "https://www.facebook.com/ads/library/?id=2107122896531251",
+        "https://www.facebook.com/ads/library/?id=2734249323617474"
+      ],
+      "verification": "RESEARCH ONLY: URL-level match, not fully verified product identity"
+    },
+    {
+      "name": "auto clamping wireless car charger for galaxy z fold series",
+      "category": "electronics",
+      "observed_ad_ids": 3,
+      "missing_to_21": 18,
+      "product_url": "https://westgoodies.com/collections/accessories/products/auto-clamping-wireless-car-charger-for-galaxy-z-fold-series",
+      "sample_ad_links": [
+        "https://www.facebook.com/ads/library/?id=1416719632732880",
+        "https://www.facebook.com/ads/library/?id=801996132503285",
+        "https://www.facebook.com/ads/library/?id=2981335375395546"
+      ],
+      "verification": "RESEARCH ONLY: URL-level match, not fully verified product identity"
+    },
+    {
+      "name": "korean silk collagen ampoule",
+      "category": "other",
+      "observed_ad_ids": 3,
+      "missing_to_21": 18,
+      "product_url": "https://koreanskintherapy.com/products/korean-silk-collagen-ampoule",
+      "sample_ad_links": [
+        "https://www.facebook.com/ads/library/?id=2984558515080943",
+        "https://www.facebook.com/ads/library/?id=974317891787732",
+        "https://www.facebook.com/ads/library/?id=25274654112194513"
+      ],
+      "verification": "RESEARCH ONLY: URL-level match, not fully verified product identity"
+    },
+    {
+      "name": "peony flower diffuser",
+      "category": "other",
+      "observed_ad_ids": 3,
+      "missing_to_21": 18,
+      "product_url": "https://www.revive-eo.com/product/peony-flower-diffuser/",
+      "sample_ad_links": [
+        "https://www.facebook.com/ads/library/?id=1344162751242387",
+        "https://www.facebook.com/ads/library/?id=1601534834709697",
+        "https://www.facebook.com/ads/library/?id=1769377090935122"
+      ],
+      "verification": "RESEARCH ONLY: URL-level match, not fully verified product identity"
+    },
+    {
+      "name": "crossbody l2eather bag",
+      "category": "fashion",
+      "observed_ad_ids": 3,
+      "missing_to_21": 18,
+      "product_url": "https://www.enjoyaitlife.com/products/crossbody-l2eather-bag",
+      "sample_ad_links": [
+        "https://www.facebook.com/ads/library/?id=1225177822918071",
+        "https://www.facebook.com/ads/library/?id=1241004131290109",
+        "https://www.facebook.com/ads/library/?id=3392195890945813"
+      ],
+      "verification": "RESEARCH ONLY: URL-level match, not fully verified product identity"
+    },
+    {
+      "name": "hoto autocare air duster vacuum",
+      "category": "home",
+      "observed_ad_ids": 3,
+      "missing_to_21": 18,
+      "product_url": "https://hototools.com/products/hoto-autocare-air-duster-vacuum",
+      "sample_ad_links": [
+        "https://www.facebook.com/ads/library/?id=982103248110284",
+        "https://www.facebook.com/ads/library/?id=955608813909253",
+        "https://www.facebook.com/ads/library/?id=991601360046782"
+      ],
+      "verification": "RESEARCH ONLY: URL-level match, not fully verified product identity"
+    },
+    {
+      "name": "pomegranate",
+      "category": "other",
+      "observed_ad_ids": 3,
+      "missing_to_21": 18,
+      "product_url": "https://auniva.co/products/pomegranate",
+      "sample_ad_links": [
+        "https://www.facebook.com/ads/library/?id=962237393049502",
+        "https://www.facebook.com/ads/library/?id=3475727599262793",
+        "https://www.facebook.com/ads/library/?id=1096956563201598"
+      ],
+      "verification": "RESEARCH ONLY: URL-level match, not fully verified product identity"
+    },
+    {
+      "name": "mecha milanese loop band for apple watch",
+      "category": "other",
+      "observed_ad_ids": 3,
+      "missing_to_21": 18,
+      "product_url": "https://vipzoon.com/products/mecha-milanese-loop-band-for-apple-watch",
+      "sample_ad_links": [
+        "https://www.facebook.com/ads/library/?id=2906204793111664",
+        "https://www.facebook.com/ads/library/?id=2711041402648168",
+        "https://www.facebook.com/ads/library/?id=2139268010318258"
+      ],
+      "verification": "RESEARCH ONLY: URL-level match, not fully verified product identity"
+    },
+    {
+      "name": "smile today xl crossbody new 1",
+      "category": "other",
+      "observed_ad_ids": 3,
+      "missing_to_21": 18,
+      "product_url": "https://hoodiesforheroes.shop/products/smile-today-xl-crossbody-new-1",
+      "sample_ad_links": [
+        "https://www.facebook.com/ads/library/?id=1023148676974339",
+        "https://www.facebook.com/ads/library/?id=980721468294745",
+        "https://www.facebook.com/ads/library/?id=1071815745279394"
+      ],
+      "verification": "RESEARCH ONLY: URL-level match, not fully verified product identity"
+    },
+    {
+      "name": "joytutus bluetooth 5 car sun visor speakerphone hands free wireless car kit with hd sound mic for clear calls ",
+      "category": "electronics",
+      "observed_ad_ids": 3,
+      "missing_to_21": 18,
+      "product_url": "https://www.quotationy.com/products/joytutus-bluetooth-5-car-sun-visor-speakerphone-hands-free-wireless-car-kit-with-hd-sound-mic-for-clear-calls-gps-music",
+      "sample_ad_links": [
+        "https://www.facebook.com/ads/library/?id=1103319015673981",
+        "https://www.facebook.com/ads/library/?id=2661066644345009",
+        "https://www.facebook.com/ads/library/?id=2898277937217715"
+      ],
+      "verification": "RESEARCH ONLY: URL-level match, not fully verified product identity"
+    },
+    {
+      "name": "personalized pain relief lumbar support cushion",
+      "category": "wellness",
+      "observed_ad_ids": 3,
+      "missing_to_21": 18,
+      "product_url": "https://lakany.com/products/personalized-pain-relief-lumbar-support-cushion",
+      "sample_ad_links": [
+        "https://www.facebook.com/ads/library/?id=868002382229622",
+        "https://www.facebook.com/ads/library/?id=861616269685227",
+        "https://www.facebook.com/ads/library/?id=1492331258727218"
+      ],
+      "verification": "RESEARCH ONLY: URL-level match, not fully verified product identity"
+    },
+    {
+      "name": "rose box necklace",
+      "category": "other",
+      "observed_ad_ids": 2,
+      "missing_to_21": 19,
+      "product_url": "https://swaveo.com/products/rose-box-necklace",
+      "sample_ad_links": [
+        "https://www.facebook.com/ads/library/?id=1010625854984679",
+        "https://www.facebook.com/ads/library/?id=1343920674394594"
+      ],
+      "verification": "RESEARCH ONLY: URL-level match, not fully verified product identity"
+    },
+    {
+      "name": "stem circuit puzzle board",
+      "category": "toys",
+      "observed_ad_ids": 2,
+      "missing_to_21": 19,
+      "product_url": "https://www.thelittlelearnerstoys.com/products/stem-circuit-puzzle-board",
+      "sample_ad_links": [
+        "https://www.facebook.com/ads/library/?id=1738568250598946",
+        "https://www.facebook.com/ads/library/?id=1955351788464382"
+      ],
+      "verification": "RESEARCH ONLY: URL-level match, not fully verified product identity"
+    },
+    {
+      "name": "teaser puzzles",
+      "category": "other",
+      "observed_ad_ids": 2,
+      "missing_to_21": 19,
+      "product_url": "https://www.asusualif.com/products/teaser-puzzles",
+      "sample_ad_links": [
+        "https://www.facebook.com/ads/library/?id=4188721981444589",
+        "https://www.facebook.com/ads/library/?id=1096054132235164"
+      ],
+      "verification": "RESEARCH ONLY: URL-level match, not fully verified product identity"
+    },
+    {
+      "name": "grass fed beef sticks the original protein bar",
+      "category": "other",
+      "observed_ad_ids": 2,
+      "missing_to_21": 19,
+      "product_url": "https://apenutrition.co.uk/products/grass-fed-beef-sticks-the-original-protein-bar",
+      "sample_ad_links": [
+        "https://www.facebook.com/ads/library/?id=1413654090597856",
+        "https://www.facebook.com/ads/library/?id=952509144410743"
+      ],
+      "verification": "RESEARCH ONLY: URL-level match, not fully verified product identity"
+    },
+    {
+      "name": "novahair color shampoo",
+      "category": "beauty",
+      "observed_ad_ids": 2,
+      "missing_to_21": 19,
+      "product_url": "https://shopnovahair.com/products/novahair-color-shampoo",
+      "sample_ad_links": [
+        "https://www.facebook.com/ads/library/?id=1553190709207094",
+        "https://www.facebook.com/ads/library/?id=2896750297188898"
+      ],
+      "verification": "RESEARCH ONLY: URL-level match, not fully verified product identity"
+    },
+    {
+      "name": "forever knot bracelet",
+      "category": "fashion",
+      "observed_ad_ids": 2,
+      "missing_to_21": 19,
+      "product_url": "https://kloudyjewelry.com/products/forever-knot-bracelet",
+      "sample_ad_links": [
+        "https://www.facebook.com/ads/library/?id=1242083461324619",
+        "https://www.facebook.com/ads/library/?id=1586297215927265"
+      ],
+      "verification": "RESEARCH ONLY: URL-level match, not fully verified product identity"
+    },
+    {
+      "name": "derby horse desk organizer",
+      "category": "office",
+      "observed_ad_ids": 2,
+      "missing_to_21": 19,
+      "product_url": "https://maisonandfitch.com/products/derby-horse-desk-organizer",
+      "sample_ad_links": [
+        "https://www.facebook.com/ads/library/?id=1124542376988530",
+        "https://www.facebook.com/ads/library/?id=1150108390874203"
+      ],
+      "verification": "RESEARCH ONLY: URL-level match, not fully verified product identity"
+    },
+    {
+      "name": "nba hoodie desk organizer pen pencil and utensil holder fan gift 7",
+      "category": "office",
+      "observed_ad_ids": 2,
+      "missing_to_21": 19,
+      "product_url": "https://bestchristmasgifts.com/products/nba-hoodie-desk-organizer-pen-pencil-and-utensil-holder-fan-gift-7?utm_source=Facebook&utm_medium=%7B%7Badset.id%7D%7D",
+      "sample_ad_links": [
+        "https://www.facebook.com/ads/library/?id=3336556023182982",
+        "https://www.facebook.com/ads/library/?id=975144421724976"
+      ],
+      "verification": "RESEARCH ONLY: URL-level match, not fully verified product identity"
+    },
+    {
+      "name": "skincare set 10 global",
+      "category": "beauty",
+      "observed_ad_ids": 2,
+      "missing_to_21": 19,
+      "product_url": "https://nida.co/products/skincare-set-10-global",
+      "sample_ad_links": [
+        "https://www.facebook.com/ads/library/?id=1592470639332443",
+        "https://www.facebook.com/ads/library/?id=1074294452092796"
+      ],
+      "verification": "RESEARCH ONLY: URL-level match, not fully verified product identity"
+    },
+    {
+      "name": "motorcycle scooter mount kit all iphone devices",
+      "category": "vehicle",
+      "observed_ad_ids": 2,
+      "missing_to_21": 19,
+      "product_url": "https://www.quadlockcase.net/collections/shop-motorcycle/products/motorcycle-scooter-mount-kit-all-iphone-devices",
+      "sample_ad_links": [
+        "https://www.facebook.com/ads/library/?id=2190908978476905",
+        "https://www.facebook.com/ads/library/?id=2074416226500995"
+      ],
+      "verification": "RESEARCH ONLY: URL-level match, not fully verified product identity"
+    },
+    {
+      "name": "vintage inspired luxury refillable lighter 2",
+      "category": "other",
+      "observed_ad_ids": 2,
+      "missing_to_21": 19,
+      "product_url": "https://www.voryneli.com/products/vintage-inspired-luxury-refillable-lighter-2?utm_campaign=%7B%7Bcampaign.name%7D%7D",
+      "sample_ad_links": [
+        "https://www.facebook.com/ads/library/?id=1879744589819121",
+        "https://www.facebook.com/ads/library/?id=2196133787964458"
+      ],
+      "verification": "RESEARCH ONLY: URL-level match, not fully verified product identity"
+    },
+    {
+      "name": "wearable hlth band",
+      "category": "other",
+      "observed_ad_ids": 2,
+      "missing_to_21": 19,
+      "product_url": "https://hlthtrack.com/products/wearable-hlth-band",
+      "sample_ad_links": [
+        "https://www.facebook.com/ads/library/?id=1396512242594583",
+        "https://www.facebook.com/ads/library/?id=1998473290813213"
+      ],
+      "verification": "RESEARCH ONLY: URL-level match, not fully verified product identity"
+    },
+    {
+      "name": "the street style collection monogram wallet iphone case with crossbody strap",
+      "category": "fashion",
+      "observed_ad_ids": 2,
+      "missing_to_21": 19,
+      "product_url": "https://casefully.co/products/the-street-style-collection-monogram-wallet-iphone-case-with-crossbody-strap",
+      "sample_ad_links": [
+        "https://www.facebook.com/ads/library/?id=849153588254684",
+        "https://www.facebook.com/ads/library/?id=2557309621442710"
+      ],
+      "verification": "RESEARCH ONLY: URL-level match, not fully verified product identity"
+    },
+    {
+      "name": "i will succeed because i am insane t shirt 2",
+      "category": "other",
+      "observed_ad_ids": 2,
+      "missing_to_21": 19,
+      "product_url": "https://www.shawncraft.com/products/i-will-succeed-because-i-am-insane-t-shirt-2?campaign_id={{campaign.id}}&adset_id={{adset.id}}&ad_id={{ad.id}}",
+      "sample_ad_links": [
+        "https://www.facebook.com/ads/library/?id=1774423397313369",
+        "https://www.facebook.com/ads/library/?id=1348077004204287"
+      ],
+      "verification": "RESEARCH ONLY: URL-level match, not fully verified product identity"
+    },
+    {
+      "name": "hot mess highland cow t shirt",
+      "category": "other",
+      "observed_ad_ids": 2,
+      "missing_to_21": 19,
+      "product_url": "https://www.shawncraft.com/products/hot-mess-highland-cow-t-shirt?campaign_id={{campaign.id}}&adset_id={{adset.id}}&ad_id={{ad.id}}",
+      "sample_ad_links": [
+        "https://www.facebook.com/ads/library/?id=2351680172236786",
+        "https://www.facebook.com/ads/library/?id=1593434952189497"
+      ],
+      "verification": "RESEARCH ONLY: URL-level match, not fully verified product identity"
+    },
+    {
+      "name": "smile today xl crossbody",
+      "category": "other",
+      "observed_ad_ids": 2,
+      "missing_to_21": 19,
+      "product_url": "https://hoodiesforheroes.shop/products/smile-today-xl-crossbody",
+      "sample_ad_links": [
+        "https://www.facebook.com/ads/library/?id=1235262958442178",
+        "https://www.facebook.com/ads/library/?id=853988583714528"
+      ],
+      "verification": "RESEARCH ONLY: URL-level match, not fully verified product identity"
+    },
+    {
+      "name": "brown tote bag stitched",
+      "category": "fashion",
+      "observed_ad_ids": 2,
+      "missing_to_21": 19,
+      "product_url": "https://totelabel.com/products/brown-tote-bag-stitched",
+      "sample_ad_links": [
+        "https://www.facebook.com/ads/library/?id=3051045241767823",
+        "https://www.facebook.com/ads/library/?id=1484626856685320"
+      ],
+      "verification": "RESEARCH ONLY: URL-level match, not fully verified product identity"
+    },
+    {
+      "name": "motorcycle scooter mount kit all iphone devices",
+      "category": "vehicle",
+      "observed_ad_ids": 2,
+      "missing_to_21": 19,
+      "product_url": "https://www.quadlockcase.net/products/motorcycle-scooter-mount-kit-all-iphone-devices",
+      "sample_ad_links": [
+        "https://www.facebook.com/ads/library/?id=2560252771089495",
+        "https://www.facebook.com/ads/library/?id=2642696419521290"
+      ],
+      "verification": "RESEARCH ONLY: URL-level match, not fully verified product identity"
+    },
+    {
+      "name": "avery cashmere gloves",
+      "category": "other",
+      "observed_ad_ids": 2,
+      "missing_to_21": 19,
+      "product_url": "https://www.markandhouston.com/products/avery-cashmere-gloves",
+      "sample_ad_links": [
+        "https://www.facebook.com/ads/library/?id=1862030191829018",
+        "https://www.facebook.com/ads/library/?id=1707020133705966"
+      ],
+      "verification": "RESEARCH ONLY: URL-level match, not fully verified product identity"
+    },
+    {
+      "name": "marshall major iv wireless headphones replica",
+      "category": "other",
+      "observed_ad_ids": 2,
+      "missing_to_21": 19,
+      "product_url": "https://easybuyora.shop/products/marshall-major-iv-wireless-headphones-replica",
+      "sample_ad_links": [
+        "https://www.facebook.com/ads/library/?id=1066658712907102",
+        "https://www.facebook.com/ads/library/?id=1412925500899765"
+      ],
+      "verification": "RESEARCH ONLY: URL-level match, not fully verified product identity"
+    },
+    {
+      "name": "rolling extra large 3 layer makeup train case with adjustable divider black",
+      "category": "beauty",
+      "observed_ad_ids": 2,
+      "missing_to_21": 19,
+      "product_url": "https://relavelbags.com/products/rolling-extra-large-3-layer-makeup-train-case-with-adjustable-divider-black",
+      "sample_ad_links": [
+        "https://www.facebook.com/ads/library/?id=944484021282920",
+        "https://www.facebook.com/ads/library/?id=2484410788693298"
+      ],
+      "verification": "RESEARCH ONLY: URL-level match, not fully verified product identity"
+    }
+  ]
+}

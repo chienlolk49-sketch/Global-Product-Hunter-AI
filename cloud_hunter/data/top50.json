@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T08:19:24.321821+00:00",
+  "updated_at": "2026-10-28T08:30:46.484746+00:00",
   "minimum_active_ads": 21,
   "active_window_hours": 48,
   "categories": {
@@ -7,7 +7,668 @@
     "wellness": [],
     "home": [],
     "kitchen": [],
-    "electronics": [],
+    "electronics": [
+      {
+        "name": "arista smartwatch",
+        "group_key": "item:violeva.com:arista smartwatch",
+        "ad_count": 34,
+        "active_ads_observed": 34,
+        "advertiser_count": 1,
+        "countries": [
+          "NZ"
+        ],
+        "last_active_observation": "2026-10-28T08:30:46.484746+00:00",
+        "ads": [
+          {
+            "ad_id": "477461392033133",
+            "product_name": "arista smartwatch",
+            "product_key": "item:violeva.com:arista smartwatch",
+            "category": "electronics",
+            "advertiser": "Violeva",
+            "source_country": "NZ",
+            "ad_url": "https://www.facebook.com/ads/library/?id=477461392033133",
+            "landing_url": "https://violeva.com/products/arista-smartwatch",
+            "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/469938616_1111123077137894_4031927827241089512_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HY8v-VczcbIQ7kNvwHFE1ww&_nc_oc=AdqW1blrQilXmU7Il4T48GU9bqqVab8IhGn7e4kC7_f1--p4uk06ftBCe3cp87fFxmI&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ne4DTfhHqyPS1nlUm81HVw&_nc_ss=79289&oh=00_AQSmt0-cSiLIhoc79Cw7qW404S3-hk3ClVZ_IsdUaGxW4w&oe=6AE7690D",
+            "video_url": null,
+            "first_seen": "2026-10-28T08:04:03.849060+00:00",
+            "last_seen": "2026-10-28T08:30:46.484746+00:00",
+            "active_checked_at": "2026-10-28T08:30:46.484746+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "NZ"
+            ]
+          },
+          {
+            "ad_id": "1322212682119715",
+            "product_name": "arista smartwatch",
+            "product_key": "item:violeva.com:arista smartwatch",
+            "category": "electronics",
+            "advertiser": "Violeva",
+            "source_country": "NZ",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1322212682119715",
+            "landing_url": "https://violeva.com/products/arista-smartwatch",
+            "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/469630503_1548904242493235_1450877326290432599_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fzAEBykqmjgQ7kNvwFLzimJ&_nc_oc=Adq6kKJqZ4hrEoKQ2BqNIOTwDnAEl9ofLkQVM6BJE0ujvk2bylfsJe-5jvn11H7xu4g&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ne4DTfhHqyPS1nlUm81HVw&_nc_ss=79289&oh=00_AQRUbusHkI-lwM4aoLer7CQCnOMCkvSuT810uRaRVp2q_Q&oe=6AE77219",
+            "video_url": null,
+            "first_seen": "2026-10-28T08:04:03.849060+00:00",
+            "last_seen": "2026-10-28T08:30:46.484746+00:00",
+            "active_checked_at": "2026-10-28T08:30:46.484746+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "NZ"
+            ]
+          },
+          {
+            "ad_id": "949431153339362",
+            "product_name": "arista smartwatch",
+            "product_key": "item:violeva.com:arista smartwatch",
+            "category": "electronics",
+            "advertiser": "Violeva",
+            "source_country": "NZ",
+            "ad_url": "https://www.facebook.com/ads/library/?id=949431153339362",
+            "landing_url": "https://violeva.com/products/arista-smartwatch",
+            "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/469938616_1111123077137894_4031927827241089512_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HY8v-VczcbIQ7kNvwHFE1ww&_nc_oc=AdqW1blrQilXmU7Il4T48GU9bqqVab8IhGn7e4kC7_f1--p4uk06ftBCe3cp87fFxmI&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ne4DTfhHqyPS1nlUm81HVw&_nc_ss=79289&oh=00_AQSmt0-cSiLIhoc79Cw7qW404S3-hk3ClVZ_IsdUaGxW4w&oe=6AE7690D",
+            "video_url": null,
+            "first_seen": "2026-10-28T08:04:03.849060+00:00",
+            "last_seen": "2026-10-28T08:30:46.484746+00:00",
+            "active_checked_at": "2026-10-28T08:30:46.484746+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "NZ"
+            ]
+          },
+          {
+            "ad_id": "398109923350773",
+            "product_name": "arista smartwatch",
+            "product_key": "item:violeva.com:arista smartwatch",
+            "category": "electronics",
+            "advertiser": "Violeva",
+            "source_country": "NZ",
+            "ad_url": "https://www.facebook.com/ads/library/?id=398109923350773",
+            "landing_url": "https://violeva.com/products/arista-smartwatch",
+            "image_url": null,
+            "video_url": "https://video-sjc3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQO_PNu5ipWSKPq8hY2uxW0pWq5ztjaGhabFP2lxWNPxBUlVWMwE9c7cowCuwOQ3ga3cCg4R0Z0S6zoJNiWgRKw.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-sjc3-1.xx.fbcdn.net&_nc_ohc=7HnH3MMEH7gQ7kNvwEJqwx9&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjo5MDIxNzQyODkzNjgyMDUsImFzc2V0X2FnZV9kYXlzIjoyNDcsInZpX3VzZWNhc2VfaWQiOjEwNjgwLCJkdXJhdGlvbl9zIjozNywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=ne4DTfhHqyPS1nlUm81HVw&_nc_ss=79289&_nc_zt=28&oh=00_AQRCFL4Ly0vGkxhfNVpWVOMD6UYJ-GjFaJvQxKQRygkNIA&oe=6AE78C70",
+            "first_seen": "2026-10-28T08:04:03.849060+00:00",
+            "last_seen": "2026-10-28T08:30:46.484746+00:00",
+            "active_checked_at": "2026-10-28T08:30:46.484746+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "NZ"
+            ]
+          },
+          {
+            "ad_id": "3995752530754949",
+            "product_name": "arista smartwatch",
+            "product_key": "item:violeva.com:arista smartwatch",
+            "category": "electronics",
+            "advertiser": "Violeva",
+            "source_country": "NZ",
+            "ad_url": "https://www.facebook.com/ads/library/?id=3995752530754949",
+            "landing_url": "https://violeva.com/products/arista-smartwatch",
+            "image_url": null,
+            "video_url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQOp2Po6QLTpnxse83QCm4ByTITrFbY6XqDUieGaGiLEwCvGPJor0lbxEa1AMKG--rEaSFozRU9pGEPXI0YObk4.mp4?_nc_cat=103&_nc_sid=ef5aa3&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=T4RZs6u6db4Q7kNvwGWAM9V&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjoxNDE3MTUwMjUzNzc2NjUyLCJhc3NldF9hZ2VfZGF5cyI6MjEyLCJ2aV91c2VjYXNlX2lkIjoxMDY4MCwiZHVyYXRpb25fcyI6NTEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=QhhdKV2ZoZg1OFHsCyHbAw&_nc_ss=79289&_nc_zt=28&oh=00_AQR9rMC-NQdmVJ08XESP3eI0LfnbhHpAJh9QXP-1_0qoOw&oe=6AE76C0B",
+            "first_seen": "2026-10-28T08:30:46.484746+00:00",
+            "last_seen": "2026-10-28T08:30:46.484746+00:00",
+            "active_checked_at": "2026-10-28T08:30:46.484746+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "NZ"
+            ]
+          },
+          {
+            "ad_id": "1559849671318682",
+            "product_name": "arista smartwatch",
+            "product_key": "item:violeva.com:arista smartwatch",
+            "category": "electronics",
+            "advertiser": "Violeva",
+            "source_country": "NZ",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1559849671318682",
+            "landing_url": "https://violeva.com/products/arista-smartwatch",
+            "image_url": null,
+            "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMi09033PE2Zras05FYL_oCkK_UwURv063YhPhnhV82E1Zqi_Hw8g1sfal4AY2YRjQV3AlhNzMj7CtuekECuYtK.mp4?_nc_cat=109&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=gIn5snlYt6wQ7kNvwEUGSdR&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjo5NTQ3NTEwNDcwMjYzMjAsImFzc2V0X2FnZV9kYXlzIjoyMTcsInZpX3VzZWNhc2VfaWQiOjEwNjgwLCJkdXJhdGlvbl9zIjo1NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=QhhdKV2ZoZg1OFHsCyHbAw&_nc_ss=79289&_nc_zt=28&oh=00_AQRN-h5ihkluLeozQGUUIC4WxrSl--lictAK1SEAurmKKQ&oe=6AE7772E",
+            "first_seen": "2026-10-28T08:30:46.484746+00:00",
+            "last_seen": "2026-10-28T08:30:46.484746+00:00",
+            "active_checked_at": "2026-10-28T08:30:46.484746+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "NZ"
+            ]
+          },
+          {
+            "ad_id": "1598886017968336",
+            "product_name": "arista smartwatch",
+            "product_key": "item:violeva.com:arista smartwatch",
+            "category": "electronics",
+            "advertiser": "Violeva",
+            "source_country": "NZ",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1598886017968336",
+            "landing_url": "https://violeva.com/products/arista-smartwatch",
+            "image_url": null,
+            "video_url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMQijD5Q0msKDFXttJd40bExc-8_1VbYYpg317NO1VN2NoAaYJ3MWd9gkZV3dNAVnTBdBBOP96xSfBicuXz7Uh6s_e3oinWc8d8NKwWIIO3QA.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=eDRnlytOMmkQ7kNvwFksawE&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjg0MTYwOTU4NDkzOTY5OCwiYXNzZXRfYWdlX2RheXMiOjM0MywidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjUxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=d380fbacf12febb6&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DOTRGNjFDRUJDMDJDNjg5QTIyQzgzREJGRkVCMUFBMl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzY2NDE2MDU5MDJFNzhDNTBDQjEyODQxMkZFQjdBOUI0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbkysyFkNz-AhUCKAJDMywXQEmMzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=QhhdKV2ZoZg1OFHsCyHbAw&_nc_ss=79289&_nc_zt=28&oh=00_AQT5I3JEM5MYh_8U7D0WoGA_mwhFoApdoOIgXC9d5eM8qg&oe=6AE7844B",
+            "first_seen": "2026-10-28T08:30:46.484746+00:00",
+            "last_seen": "2026-10-28T08:30:46.484746+00:00",
+            "active_checked_at": "2026-10-28T08:30:46.484746+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "NZ"
+            ]
+          },
+          {
+            "ad_id": "1116527713217338",
+            "product_name": "arista smartwatch",
+            "product_key": "item:violeva.com:arista smartwatch",
+            "category": "electronics",
+            "advertiser": "Violeva",
+            "source_country": "NZ",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1116527713217338",
+            "landing_url": "https://violeva.com/products/arista-smartwatch",
+            "image_url": null,
+            "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQO6gXmiOWZM5lQwx2TifUkyRt_VV9ohjbsNGOzj5EPBL9M-kTl2d2e1ZqScmgogqYoMae7gsDuC4ORl9dBEmZY.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=mRABxukfen0Q7kNvwHf90jc&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjoyMTI5ODE3NzMxMTUyNTAxLCJhc3NldF9hZ2VfZGF5cyI6MjAwLCJ2aV91c2VjYXNlX2lkIjoxMDY4MCwiZHVyYXRpb25fcyI6NTIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=QhhdKV2ZoZg1OFHsCyHbAw&_nc_ss=79289&_nc_zt=28&oh=00_AQT-Tf4feAHZrTmStNolRTCkBVzeUlnhA4t6aXVpNbdaAQ&oe=6AE79CF4",
+            "first_seen": "2026-10-28T08:30:46.484746+00:00",
+            "last_seen": "2026-10-28T08:30:46.484746+00:00",
+            "active_checked_at": "2026-10-28T08:30:46.484746+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "NZ"
+            ]
+          },
+          {
+            "ad_id": "746134734528531",
+            "product_name": "arista smartwatch",
+            "product_key": "item:violeva.com:arista smartwatch",
+            "category": "electronics",
+            "advertiser": "Violeva",
+            "source_country": "NZ",
+            "ad_url": "https://www.facebook.com/ads/library/?id=746134734528531",
+            "landing_url": "https://violeva.com/products/arista-smartwatch",
+            "image_url": null,
+            "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPkazsBQlgvJucX5AFzHxabUCgIJ6jXAvZxmCciSkdTtajoQW-4l5q6emcwhUi2hK2g_PrlS6JQN3qjP_1fZraFehizmYRN3KAj-FHVWeJyDQ.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=kxGk7PCHXAgQ7kNvwH6zCqN&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjU0NDMzMTMxNDYyNTQ3NSwiYXNzZXRfYWdlX2RheXMiOjc1NSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjUyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=df227b1692855768&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DQjQzMzA3MUQ4NzE0NkUxRkUyMkFCREQxMzA2QkI5RF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg1ZmJfcGVybWFuZW50LzE5NjE5NjE4MjQyODE1NDRfNzk1ODM3NDUwOTc1ODM0ODY2Ny5tcDQVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmhu-vqqDE9wEVAigCQzMsF0BKDMzMzMzNGBlkYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwEQB1AGW2ngEA&_nc_gid=QhhdKV2ZoZg1OFHsCyHbAw&_nc_ss=79289&_nc_zt=28&oh=00_AQRFkAB88Hfa9zbrTwmw6CVSCaNl7YWrgIpVlq7yV7CGuA&oe=6AE78ABA",
+            "first_seen": "2026-10-28T08:30:46.484746+00:00",
+            "last_seen": "2026-10-28T08:30:46.484746+00:00",
+            "active_checked_at": "2026-10-28T08:30:46.484746+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "NZ"
+            ]
+          },
+          {
+            "ad_id": "2776386289218354",
+            "product_name": "arista smartwatch",
+            "product_key": "item:violeva.com:arista smartwatch",
+            "category": "electronics",
+            "advertiser": "Violeva",
+            "source_country": "NZ",
+            "ad_url": "https://www.facebook.com/ads/library/?id=2776386289218354",
+            "landing_url": "https://violeva.com/products/arista-smartwatch",
+            "image_url": null,
+            "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMnAinH_b_oUOQa-_FrUIsPFJm6zD-4YssLdPw8yMbLiWvnQb-YiWg5NIKRCfho146PiquvU1eVxopQ9T3572Q.mp4?_nc_cat=107&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=lgsOg8KBn7MQ7kNvwECmZjl&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjoxNDU0OTQwMjY2MTEzMzMyLCJhc3NldF9hZ2VfZGF5cyI6MTk4LCJ2aV91c2VjYXNlX2lkIjoxMDY4MCwiZHVyYXRpb25fcyI6NDUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=QhhdKV2ZoZg1OFHsCyHbAw&_nc_ss=79289&_nc_zt=28&oh=00_AQQX-iJ3T7CHQxbZdwU7zbxKZ8GL4WSaZkia__lcaOIOoQ&oe=6AE782E7",
+            "first_seen": "2026-10-28T08:30:46.484746+00:00",
+            "last_seen": "2026-10-28T08:30:46.484746+00:00",
+            "active_checked_at": "2026-10-28T08:30:46.484746+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "NZ"
+            ]
+          },
+          {
+            "ad_id": "1656484325295769",
+            "product_name": "arista smartwatch",
+            "product_key": "item:violeva.com:arista smartwatch",
+            "category": "electronics",
+            "advertiser": "Violeva",
+            "source_country": "NZ",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1656484325295769",
+            "landing_url": "https://violeva.com/products/arista-smartwatch",
+            "image_url": null,
+            "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m560/AQPBw7AG1ZTin5NDOvvoX3POdZRRROWLYj_wONwIQJo8_ZrANwbMIgQ-jX_Hgpqi06CwHk93P-RPOva2QK1DEhd5AprFtI53w7k.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=iY93rgPlx5YQ7kNvwGK3FIi&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjo5ODA2NzM0OTc2NzU5OTIsImFzc2V0X2FnZV9kYXlzIjoxNzUsInZpX3VzZWNhc2VfaWQiOjEwNjgwLCJkdXJhdGlvbl9zIjo0NCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=QhhdKV2ZoZg1OFHsCyHbAw&_nc_ss=79289&_nc_zt=28&oh=00_AQT7dNY8vSOnJw1cwDkAl6NMdj598bR0CDI4mKtUmHMlEw&oe=6AE38013",
+            "first_seen": "2026-10-28T08:30:46.484746+00:00",
+            "last_seen": "2026-10-28T08:30:46.484746+00:00",
+            "active_checked_at": "2026-10-28T08:30:46.484746+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "NZ"
+            ]
+          },
+          {
+            "ad_id": "1171222661290001",
+            "product_name": "arista smartwatch",
+            "product_key": "item:violeva.com:arista smartwatch",
+            "category": "electronics",
+            "advertiser": "Violeva",
+            "source_country": "NZ",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1171222661290001",
+            "landing_url": "https://violeva.com/products/arista-smartwatch",
+            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/473071180_1669847486927848_7972162025855318444_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZnQLcWIzCLgQ7kNvwHQGUzy&_nc_oc=AdrytIAJwFJ_qYX_LSKoILo_vZsgq3n34IMOCkPjtcJceK3gxej15e_1w5gcyivFiwQ&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=QhhdKV2ZoZg1OFHsCyHbAw&_nc_ss=79289&oh=00_AQTUnu1Iky7IaVzKxFTPsYclTYJ0IUsc295MQ6dOXICYHA&oe=6AE77D2F",
+            "video_url": null,
+            "first_seen": "2026-10-28T08:30:46.484746+00:00",
+            "last_seen": "2026-10-28T08:30:46.484746+00:00",
+            "active_checked_at": "2026-10-28T08:30:46.484746+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "NZ"
+            ]
+          },
+          {
+            "ad_id": "1295453082046616",
+            "product_name": "arista smartwatch",
+            "product_key": "item:violeva.com:arista smartwatch",
+            "category": "electronics",
+            "advertiser": "Violeva",
+            "source_country": "NZ",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1295453082046616",
+            "landing_url": "https://violeva.com/products/arista-smartwatch",
+            "image_url": null,
+            "video_url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPdzGcFlwqKAsTWft0X4QbtO5RvAxipXg5V4FyhZuIg5zXBF6WDyeEJ2rbRW7hW47iAhJ-wLLL0JDaEvXm9Amb3sbWavNVe1RzRcLc-FzG8Bw.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=mCvM3vo6GL8Q7kNvwGNY_lP&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwNTMzNzY5NzAzMzIzMjEsImFzc2V0X2FnZV9kYXlzIjo0MjIsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo0NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=2ad34414a66d14fa&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9ENTQ1M0FGREUwQjQzNUU4ODAyQkQxOTYxODE2NkVBNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0FGNDA2NUM0NTU2NzMyQUFGMjM3MzQ2QjcyQkZGRjk5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbC4oyCzoLfAxUCKAJDMywXQEa3bItDlYEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=QhhdKV2ZoZg1OFHsCyHbAw&_nc_ss=79289&_nc_zt=28&oh=00_AQREPWeB0u8Ih2epVd_LaoAhjC3jJTPwcv2KwOwIoOoQYQ&oe=6AE79CC7",
+            "first_seen": "2026-10-28T08:30:46.484746+00:00",
+            "last_seen": "2026-10-28T08:30:46.484746+00:00",
+            "active_checked_at": "2026-10-28T08:30:46.484746+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "NZ"
+            ]
+          },
+          {
+            "ad_id": "740917345427226",
+            "product_name": "arista smartwatch",
+            "product_key": "item:violeva.com:arista smartwatch",
+            "category": "electronics",
+            "advertiser": "Violeva",
+            "source_country": "NZ",
+            "ad_url": "https://www.facebook.com/ads/library/?id=740917345427226",
+            "landing_url": "https://violeva.com/products/arista-smartwatch",
+            "image_url": null,
+            "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMgvzez4QHVZs5HVqYW0D3HEt2cWypD7xV4z6Zom7h9ZbEa35kmPF1aI-UlPFqvGb3me6FmaMTRPlgCvhwMuRwG5c59EMjmxhODG_yCgJpCaw.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=2_BQILW656AQ7kNvwFm-AG_&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzNjIxNzg0MjUyNjQyNTUsImFzc2V0X2FnZV9kYXlzIjo0MjIsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoyNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=e5629d6257596790&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yQjQxQzJCNjQ2ODVDQjI1ODIzNDA0NjM0OUVGOTE4OV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQ1NDI5MDNFQTZDRDEzRURGQ0VFRkFDRDYyNjk1RkJBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb-4cSSnLnrBBUCKAJDMywXQDh3S8an754YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=QhhdKV2ZoZg1OFHsCyHbAw&_nc_ss=79289&_nc_zt=28&_nc_enc=UV9HV1TcRfGAPVX_WtkhjPks91OHupvYzOlcgRqvuH28pjzzQJmlYo6c5teXjh8GG8Fiou5CBRH3_x0db7tzNKAtCyJzOpnd77_I0NF0jcZbBki3xgLqZ1I04Qc&oh=00_AQTgRFyDdB5Fq1cfy-8AY21tgOVWd-vDvLkmno-6obdp2w&oe=6AE77CB8",
+            "first_seen": "2026-10-28T08:30:46.484746+00:00",
+            "last_seen": "2026-10-28T08:30:46.484746+00:00",
+            "active_checked_at": "2026-10-28T08:30:46.484746+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "NZ"
+            ]
+          },
+          {
+            "ad_id": "550935917780427",
+            "product_name": "arista smartwatch",
+            "product_key": "item:violeva.com:arista smartwatch",
+            "category": "electronics",
+            "advertiser": "Violeva",
+            "source_country": "NZ",
+            "ad_url": "https://www.facebook.com/ads/library/?id=550935917780427",
+            "landing_url": "https://violeva.com/products/arista-smartwatch",
+            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/469875019_1903131606845867_2551387420544080510_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bjDzys3KhgkQ7kNvwGddh8q&_nc_oc=AdqTx1GDj40DB4His52llqg3SFFK6wrWuceVGfk2-2QAul5Lw_VCngE1Bo8qnQKUx-k&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=QhhdKV2ZoZg1OFHsCyHbAw&_nc_ss=79289&oh=00_AQQeIOTo7VJgz2cgtGq9yrmO-thGgKA_cFT9pIq_OO2x9A&oe=6AE76E6C",
+            "video_url": null,
+            "first_seen": "2026-10-28T08:30:46.484746+00:00",
+            "last_seen": "2026-10-28T08:30:46.484746+00:00",
+            "active_checked_at": "2026-10-28T08:30:46.484746+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "NZ"
+            ]
+          },
+          {
+            "ad_id": "613995207787168",
+            "product_name": "arista smartwatch",
+            "product_key": "item:violeva.com:arista smartwatch",
+            "category": "electronics",
+            "advertiser": "Violeva",
+            "source_country": "NZ",
+            "ad_url": "https://www.facebook.com/ads/library/?id=613995207787168",
+            "landing_url": "https://violeva.com/products/arista-smartwatch",
+            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/469875019_1903131606845867_2551387420544080510_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bjDzys3KhgkQ7kNvwGddh8q&_nc_oc=AdqTx1GDj40DB4His52llqg3SFFK6wrWuceVGfk2-2QAul5Lw_VCngE1Bo8qnQKUx-k&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=QhhdKV2ZoZg1OFHsCyHbAw&_nc_ss=79289&oh=00_AQQeIOTo7VJgz2cgtGq9yrmO-thGgKA_cFT9pIq_OO2x9A&oe=6AE76E6C",
+            "video_url": null,
+            "first_seen": "2026-10-28T08:30:46.484746+00:00",
+            "last_seen": "2026-10-28T08:30:46.484746+00:00",
+            "active_checked_at": "2026-10-28T08:30:46.484746+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "NZ"
+            ]
+          },
+          {
+            "ad_id": "1100653991931324",
+            "product_name": "arista smartwatch",
+            "product_key": "item:violeva.com:arista smartwatch",
+            "category": "electronics",
+            "advertiser": "Violeva",
+            "source_country": "NZ",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1100653991931324",
+            "landing_url": "https://violeva.com/products/arista-smartwatch",
+            "image_url": null,
+            "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOsQyYkerTCRF-0AXv0-vTkncp28Cid51nB8z8ZplcGn-EnciHhvR1SZihJ05ASrJkKEjOndLDa6uu9f8VF7-g.mp4?_nc_cat=100&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=_Jw313ViKnoQ7kNvwEuGlqp&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjoxNDUyNjEzMzEzMzI3MDM0LCJhc3NldF9hZ2VfZGF5cyI6MjExLCJ2aV91c2VjYXNlX2lkIjoxMDY4MCwiZHVyYXRpb25fcyI6NDYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=QhhdKV2ZoZg1OFHsCyHbAw&_nc_ss=79289&_nc_zt=28&oh=00_AQT1WQ6B7X1-p5DG5Jtyxhgo-fVt4B2Czq3wOHwrzIDQqw&oe=6AE76E36",
+            "first_seen": "2026-10-28T08:30:46.484746+00:00",
+            "last_seen": "2026-10-28T08:30:46.484746+00:00",
+            "active_checked_at": "2026-10-28T08:30:46.484746+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "NZ"
+            ]
+          },
+          {
+            "ad_id": "639259571787072",
+            "product_name": "arista smartwatch",
+            "product_key": "item:violeva.com:arista smartwatch",
+            "category": "electronics",
+            "advertiser": "Violeva",
+            "source_country": "NZ",
+            "ad_url": "https://www.facebook.com/ads/library/?id=639259571787072",
+            "landing_url": "https://violeva.com/products/arista-smartwatch",
+            "image_url": null,
+            "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m560/AQOGiczfxW6P1KLLNmRwW7gQQzzI52T1pMsjklJzAWHpZgfvudBSP7VxAyPXDRKPWAkJOAyUTAJhgh3dKzA7u8jBpaD0ZFYvNkA.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=Zp3qblMyvyQQ7kNvwEAHKLP&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjoxNzUxMjEzODkyOTA3MTc0LCJhc3NldF9hZ2VfZGF5cyI6MTg5LCJ2aV91c2VjYXNlX2lkIjoxMDY4MCwiZHVyYXRpb25fcyI6NDQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=QhhdKV2ZoZg1OFHsCyHbAw&_nc_ss=79289&_nc_zt=28&oh=00_AQQHYST5XLSFirZcRjlc4YmhF_McXb5SIpySXjvXcimJ8w&oe=6AE394AB",
+            "first_seen": "2026-10-28T08:30:46.484746+00:00",
+            "last_seen": "2026-10-28T08:30:46.484746+00:00",
+            "active_checked_at": "2026-10-28T08:30:46.484746+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "NZ"
+            ]
+          },
+          {
+            "ad_id": "1778976262990759",
+            "product_name": "arista smartwatch",
+            "product_key": "item:violeva.com:arista smartwatch",
+            "category": "electronics",
+            "advertiser": "Violeva",
+            "source_country": "NZ",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1778976262990759",
+            "landing_url": "https://violeva.com/products/arista-smartwatch",
+            "image_url": null,
+            "video_url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOCePzUC_I-9n3zwGxgRqr30evqdJhHU3_gsAcu0EZPO-hLh204MDg2R8h-0H24metQ214i6qYD7q5PMJLKuC-BV8voQ9-3uiV8KUor18eifg.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=RclhQo-9oNsQ7kNvwHPjc_N&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIwNjg0Mjc3NDAyMzEwMzIsImFzc2V0X2FnZV9kYXlzIjo0NDAsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozOSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=ade5191e7da8a65&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82MTRDNEQxODU3RUM5MDlFNDc0RkUwMEVBQTIwNjA5MF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0U1NDE3OUZDMjE0ODY3RDM5Mzc3M0IzMzhENzZEQkJGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbw1ZnLq86sBxUCKAJDMywXQEPzMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=QhhdKV2ZoZg1OFHsCyHbAw&_nc_ss=79289&_nc_zt=28&oh=00_AQQFRCQaR6JElp9I1ahTxdyWGHKdARpjwaep3yD25_ZdiA&oe=6AE770B7",
+            "first_seen": "2026-10-28T08:30:46.484746+00:00",
+            "last_seen": "2026-10-28T08:30:46.484746+00:00",
+            "active_checked_at": "2026-10-28T08:30:46.484746+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "NZ"
+            ]
+          },
+          {
+            "ad_id": "637425718762485",
+            "product_name": "arista smartwatch",
+            "product_key": "item:violeva.com:arista smartwatch",
+            "category": "electronics",
+            "advertiser": "Violeva",
+            "source_country": "NZ",
+            "ad_url": "https://www.facebook.com/ads/library/?id=637425718762485",
+            "landing_url": "https://violeva.com/products/arista-smartwatch",
+            "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/477121192_1631905057466428_1147081937132178060_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oAQTUDVVocYQ7kNvwGwB5Fx&_nc_oc=Adrj6rloTEnwnwpi-938nUxPl9ILvljaNiQTskU_Fu-km0GDwH0gwbYvXgfPs9Pfl68&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=QhhdKV2ZoZg1OFHsCyHbAw&_nc_ss=79289&oh=00_AQSYYd4-aDs2OOeRtHAg3RGVAJqzLAd5szew5-aHmr3PZQ&oe=6AE79498",
+            "video_url": null,
+            "first_seen": "2026-10-28T08:30:46.484746+00:00",
+            "last_seen": "2026-10-28T08:30:46.484746+00:00",
+            "active_checked_at": "2026-10-28T08:30:46.484746+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "NZ"
+            ]
+          },
+          {
+            "ad_id": "1009754404299608",
+            "product_name": "arista smartwatch",
+            "product_key": "item:violeva.com:arista smartwatch",
+            "category": "electronics",
+            "advertiser": "Violeva",
+            "source_country": "NZ",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1009754404299608",
+            "landing_url": "https://violeva.com/products/arista-smartwatch",
+            "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/473013155_638132608666511_6355574482007774966_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TBMCptEA8SoQ7kNvwGpslD9&_nc_oc=Adrv9UarDyYLkiwqiwz3-L2cDC9fqN3vIpEmbtQUFF5QWyX73VX1mg8WeRQ0lsGKpp4&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=QhhdKV2ZoZg1OFHsCyHbAw&_nc_ss=79289&oh=00_AQT9caZSv48I5GaglqDH9PKWPntDrDCAp7cdSqnsjQBeHA&oe=6AE77C0E",
+            "video_url": null,
+            "first_seen": "2026-10-28T08:30:46.484746+00:00",
+            "last_seen": "2026-10-28T08:30:46.484746+00:00",
+            "active_checked_at": "2026-10-28T08:30:46.484746+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "NZ"
+            ]
+          },
+          {
+            "ad_id": "1607968099811623",
+            "product_name": "arista smartwatch",
+            "product_key": "item:violeva.com:arista smartwatch",
+            "category": "electronics",
+            "advertiser": "Violeva",
+            "source_country": "NZ",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1607968099811623",
+            "landing_url": "https://violeva.com/products/arista-smartwatch",
+            "image_url": null,
+            "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m560/AQPhrtCfnboG0JpZnn-7PXR-o_TIWrikQOdr1VzN9JRMbxrgOWCgnStfzchQcxk92JY_i3_GQcNMdW_IL_gqaxyXAhPyRYxCWdA.mp4?_nc_cat=107&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=vJLcUhkSggwQ7kNvwFthWko&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjoyMTc5MzEzNjg2MTg4MTI2LCJhc3NldF9hZ2VfZGF5cyI6MTkzLCJ2aV91c2VjYXNlX2lkIjoxMDY4MCwiZHVyYXRpb25fcyI6NDYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=QhhdKV2ZoZg1OFHsCyHbAw&_nc_ss=79289&_nc_zt=28&oh=00_AQQV5I8-d06J5docu1sOjLh8qQULuzRFdjbQ-LFb8jJWLw&oe=6AE3760F",
+            "first_seen": "2026-10-28T08:30:46.484746+00:00",
+            "last_seen": "2026-10-28T08:30:46.484746+00:00",
+            "active_checked_at": "2026-10-28T08:30:46.484746+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "NZ"
+            ]
+          },
+          {
+            "ad_id": "490313480290296",
+            "product_name": "arista smartwatch",
+            "product_key": "item:violeva.com:arista smartwatch",
+            "category": "electronics",
+            "advertiser": "Violeva",
+            "source_country": "NZ",
+            "ad_url": "https://www.facebook.com/ads/library/?id=490313480290296",
+            "landing_url": "https://violeva.com/products/arista-smartwatch",
+            "image_url": null,
+            "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOnVc2n6F2YgOSFUmulXTkORUzpsYxDNt8JXSwZouXpHdGYb56EibXRazID62VT_abkEl96bqGCUCNxkAz5-Ck.mp4?_nc_cat=107&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=c4rcyVAR1Y4Q7kNvwEkAiGB&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjo4MjI1MTAxNTA0MTM0NjUsImFzc2V0X2FnZV9kYXlzIjozMzcsInZpX3VzZWNhc2VfaWQiOjEwNjgwLCJkdXJhdGlvbl9zIjozOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=QhhdKV2ZoZg1OFHsCyHbAw&_nc_ss=79289&_nc_zt=28&oh=00_AQSxx8M8IpvsFRGTRYPduj-odyrtRf6ELUhGMebvm_m2gA&oe=6AE79993",
+            "first_seen": "2026-10-28T08:30:46.484746+00:00",
+            "last_seen": "2026-10-28T08:30:46.484746+00:00",
+            "active_checked_at": "2026-10-28T08:30:46.484746+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "NZ"
+            ]
+          },
+          {
+            "ad_id": "1309604260521386",
+            "product_name": "arista smartwatch",
+            "product_key": "item:violeva.com:arista smartwatch",
+            "category": "electronics",
+            "advertiser": "Violeva",
+            "source_country": "NZ",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1309604260521386",
+            "landing_url": "https://violeva.com/products/arista-smartwatch",
+            "image_url": null,
+            "video_url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOPzA2JrHntTvxoD-3vKSNW6k1yqyE4mlfpZ_cLqBnnPVPRMMoXvSp1YUxZGSvLaF_dPg9tKrTCDzKF-N3MTTRoQeb99ttAWWOZp05JpPOf8A.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=oYCWiwHNiTwQ7kNvwE98WL3&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3NjgyNjgxNDM3ODIxMTMsImFzc2V0X2FnZV9kYXlzIjo0MTMsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo1MSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=c56c55251455b22e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xQzQ0Q0I3RTVGQTE2QkE0QkE1NzU3NTVENzVBNjFBQ19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0MyNEQ2QkIyQzBFN0IwOTI2MTBEMjk3OERGQzMzRTlFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbCo5-p4I6kBhUCKAJDMywXQEmVP3ztkWgYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=QhhdKV2ZoZg1OFHsCyHbAw&_nc_ss=79289&_nc_zt=28&oh=00_AQQDWB4eeTtPjTBnH88jdlE2rLwRLbXkHDb8qPbN2lOsug&oe=6AE79614",
+            "first_seen": "2026-10-28T08:30:46.484746+00:00",
+            "last_seen": "2026-10-28T08:30:46.484746+00:00",
+            "active_checked_at": "2026-10-28T08:30:46.484746+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "NZ"
+            ]
+          },
+          {
+            "ad_id": "1323940809242648",
+            "product_name": "arista smartwatch",
+            "product_key": "item:violeva.com:arista smartwatch",
+            "category": "electronics",
+            "advertiser": "Violeva",
+            "source_country": "NZ",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1323940809242648",
+            "landing_url": "https://violeva.com/products/arista-smartwatch",
+            "image_url": null,
+            "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMqW7a5kounBT5RA1JdIqy8PQO_ODlWXuRkkb-cKUEOAwCR-KTrjaVqt-T2LLz3KsTR2r5IohQAOm3GkT1pcXhRnbu61z1txI2GzqQ3GdTGmw.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=RGe-zoVlDMQQ7kNvwFHoQpV&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0MDk1MjUzMTY4MDg0MzgsImFzc2V0X2FnZV9kYXlzIjo0MTMsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo1MSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=1902f37ce0054b41&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yMzQ0QTVDMDM0MEEzNTIxMURCQjJBRDEyQjkxRTRCMl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0ZDNEY1MkI4MDA2MzE0NUFGQzQ1Q0ZDQzA1NjYwNUIwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbsu_v8lf2ABRUCKAJDMywXQEmVP3ztkWgYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=QhhdKV2ZoZg1OFHsCyHbAw&_nc_ss=79289&_nc_zt=28&oh=00_AQR2F1YOG3Q9i3nwc1f16iW0oVLwzkAHdvvewmJF1YPQ8A&oe=6AE79A24",
+            "first_seen": "2026-10-28T08:30:46.484746+00:00",
+            "last_seen": "2026-10-28T08:30:46.484746+00:00",
+            "active_checked_at": "2026-10-28T08:30:46.484746+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "NZ"
+            ]
+          },
+          {
+            "ad_id": "1178403433619149",
+            "product_name": "arista smartwatch",
+            "product_key": "item:violeva.com:arista smartwatch",
+            "category": "electronics",
+            "advertiser": "Violeva",
+            "source_country": "NZ",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1178403433619149",
+            "landing_url": "https://violeva.com/products/arista-smartwatch",
+            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/473040159_1663785704236750_595608156340664505_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_640fDUi5gAQ7kNvwEudUzQ&_nc_oc=AdpuEnN1pah5vCNRHPpevQpX8RRPr2tENyqRw08B45qlZsnmqeN709_XpXWedFroJ78&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=QhhdKV2ZoZg1OFHsCyHbAw&_nc_ss=79289&oh=00_AQSjklU6jLB1CxkvRBl0Ksh762YXQESPeYnE9uOEyWtEMQ&oe=6AE79313",
+            "video_url": null,
+            "first_seen": "2026-10-28T08:30:46.484746+00:00",
+            "last_seen": "2026-10-28T08:30:46.484746+00:00",
+            "active_checked_at": "2026-10-28T08:30:46.484746+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "NZ"
+            ]
+          },
+          {
+            "ad_id": "526076840411707",
+            "product_name": "arista smartwatch",
+            "product_key": "item:violeva.com:arista smartwatch",
+            "category": "electronics",
+            "advertiser": "Violeva",
+            "source_country": "NZ",
+            "ad_url": "https://www.facebook.com/ads/library/?id=526076840411707",
+            "landing_url": "https://violeva.com/products/arista-smartwatch",
+            "image_url": null,
+            "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPgnAFq2vVV1RiniLQwf6DBQkW0Ymy0afiOn70miX3fpB26Jmj1EUiQr1XkTEfzj7_oD1Oxqh5aaS6M8Ra_Gjw.mp4?_nc_cat=106&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=ocWwQ-9jk3QQ7kNvwEogixB&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjoxNDczNDAwMzg3NzEzOTczLCJhc3NldF9hZ2VfZGF5cyI6MjYyLCJ2aV91c2VjYXNlX2lkIjoxMDY4MCwiZHVyYXRpb25fcyI6MjQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=QhhdKV2ZoZg1OFHsCyHbAw&_nc_ss=79289&_nc_zt=28&oh=00_AQTqvlzDoyu1PLpdmFc3IV-ijtlcXbb6HcR09cigd2k1wQ&oe=6AE77DA0",
+            "first_seen": "2026-10-28T08:30:46.484746+00:00",
+            "last_seen": "2026-10-28T08:30:46.484746+00:00",
+            "active_checked_at": "2026-10-28T08:30:46.484746+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "NZ"
+            ]
+          },
+          {
+            "ad_id": "624901763437821",
+            "product_name": "arista smartwatch",
+            "product_key": "item:violeva.com:arista smartwatch",
+            "category": "electronics",
+            "advertiser": "Violeva",
+            "source_country": "NZ",
+            "ad_url": "https://www.facebook.com/ads/library/?id=624901763437821",
+            "landing_url": "https://violeva.com/products/arista-smartwatch",
+            "image_url": null,
+            "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNkc4Ls8uYYs9qKQc_jrQ8YQDsBDXXH83B8c5_wSnGOot5uh69QTEP7orppIx18dzltIayYzqkw1I04PUi3yhla.mp4?_nc_cat=107&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=b7bhQvTyh50Q7kNvwGy0bzJ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjoxNDk1Njc3MTExODg4MDU1LCJhc3NldF9hZ2VfZGF5cyI6MjQyLCJ2aV91c2VjYXNlX2lkIjoxMDY4MCwiZHVyYXRpb25fcyI6MjUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=QhhdKV2ZoZg1OFHsCyHbAw&_nc_ss=79289&_nc_zt=28&oh=00_AQTP6qW66lOv1Jqi26y-q3MAehhS43brbE2y6cD4kKZU1Q&oe=6AE78FB4",
+            "first_seen": "2026-10-28T08:30:46.484746+00:00",
+            "last_seen": "2026-10-28T08:30:46.484746+00:00",
+            "active_checked_at": "2026-10-28T08:30:46.484746+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "NZ"
+            ]
+          },
+          {
+            "ad_id": "2978977185587614",
+            "product_name": "arista smartwatch",
+            "product_key": "item:violeva.com:arista smartwatch",
+            "category": "electronics",
+            "advertiser": "Violeva",
+            "source_country": "NZ",
+            "ad_url": "https://www.facebook.com/ads/library/?id=2978977185587614",
+            "landing_url": "https://violeva.com/products/arista-smartwatch",
+            "image_url": null,
+            "video_url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQM2MtEkAy9qucDzRDk8v8cdqa6l1CsCxKIl11gl5Mc0K1pkII7Gd4v_CncUnXozKinsYfRXs-r6wCgRVf9dA8s.mp4?_nc_cat=103&_nc_sid=ef5aa3&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=G8MQCz32-N4Q7kNvwFqoU-X&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjoxMTk4OTIwNDY4ODI3OTA2LCJhc3NldF9hZ2VfZGF5cyI6MzQ4LCJ2aV91c2VjYXNlX2lkIjoxMDY4MCwiZHVyYXRpb25fcyI6MTcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=QhhdKV2ZoZg1OFHsCyHbAw&_nc_ss=79289&_nc_zt=28&oh=00_AQQu-YD76of3ASgOW0ZgclXlineQnzO76Rc6jW-jbuPMkQ&oe=6AE79B7B",
+            "first_seen": "2026-10-28T08:30:46.484746+00:00",
+            "last_seen": "2026-10-28T08:30:46.484746+00:00",
+            "active_checked_at": "2026-10-28T08:30:46.484746+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "NZ"
+            ]
+          },
+          {
+            "ad_id": "617320180791660",
+            "product_name": "arista smartwatch",
+            "product_key": "item:violeva.com:arista smartwatch",
+            "category": "electronics",
+            "advertiser": "Violeva",
+            "source_country": "NZ",
+            "ad_url": "https://www.facebook.com/ads/library/?id=617320180791660",
+            "landing_url": "https://violeva.com/products/arista-smartwatch",
+            "image_url": null,
+            "video_url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQNFMPD4zZ-WC_F2tsQMc7jRBSrmR-NRiLg9DpNTapMvGR5N08ZdjRXf7wiLpD_JIYmGclYf9SSwi-t498i4-ZBE.mp4?_nc_cat=103&_nc_sid=ef5aa3&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=EK-1_mXZTKIQ7kNvwHOZbLT&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjo4MDk5Njc1MTUyNDUxNTEsImFzc2V0X2FnZV9kYXlzIjozNDYsInZpX3VzZWNhc2VfaWQiOjEwNjgwLCJkdXJhdGlvbl9zIjo1NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=QhhdKV2ZoZg1OFHsCyHbAw&_nc_ss=79289&_nc_zt=28&oh=00_AQSZyPFcYD2J2ntU3vlVTkPFKu1JDs6Zgt-GFwWCCfTnPA&oe=6AE79C78",
+            "first_seen": "2026-10-28T08:30:46.484746+00:00",
+            "last_seen": "2026-10-28T08:30:46.484746+00:00",
+            "active_checked_at": "2026-10-28T08:30:46.484746+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "NZ"
+            ]
+          },
+          {
+            "ad_id": "10079594528724173",
+            "product_name": "arista smartwatch",
+            "product_key": "item:violeva.com:arista smartwatch",
+            "category": "electronics",
+            "advertiser": "Violeva",
+            "source_country": "NZ",
+            "ad_url": "https://www.facebook.com/ads/library/?id=10079594528724173",
+            "landing_url": "https://violeva.com/products/arista-smartwatch",
+            "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/477715451_1137207127870570_8680164053486808113_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=u5bCSSYAmSoQ7kNvwFpBz6i&_nc_oc=Adqz5zBmwUD14U8u9-il1MTh2cBfOZtluNPgPT0mVAFFGrsd2whiOZ0t7n_wmvYU4as&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=pW-1Mjkn7jzU-YCeXwurbQ&_nc_ss=79289&oh=00_AQTTW73_v-VBhGdnlASW1f5XeGgeLlvpxe5tduD6zN90LA&oe=6AE79D47",
+            "video_url": null,
+            "first_seen": "2026-10-28T08:30:46.484746+00:00",
+            "last_seen": "2026-10-28T08:30:46.484746+00:00",
+            "active_checked_at": "2026-10-28T08:30:46.484746+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "NZ"
+            ]
+          },
+          {
+            "ad_id": "1761793361062681",
+            "product_name": "arista smartwatch",
+            "product_key": "item:violeva.com:arista smartwatch",
+            "category": "electronics",
+            "advertiser": "Violeva",
+            "source_country": "NZ",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1761793361062681",
+            "landing_url": "https://violeva.com/products/arista-smartwatch",
+            "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/477795669_9394353063918209_5019425194891390987_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AJ6-xt81OYMQ7kNvwFmDyql&_nc_oc=AdpFM_jI4w7ZbJymzLks-HziLH6LJLMi61qgp82sPOqyfzQsWT9HJ6mIG0yX79AzZB4&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=pW-1Mjkn7jzU-YCeXwurbQ&_nc_ss=79289&oh=00_AQROw1tD_2_ae2DgrAc6vU7463qitX5c-JpWliDJ6cVQ9w&oe=6AE77AD0",
+            "video_url": null,
+            "first_seen": "2026-10-28T08:30:46.484746+00:00",
+            "last_seen": "2026-10-28T08:30:46.484746+00:00",
+            "active_checked_at": "2026-10-28T08:30:46.484746+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "NZ"
+            ]
+          },
+          {
+            "ad_id": "1120366353084018",
+            "product_name": "arista smartwatch",
+            "product_key": "item:violeva.com:arista smartwatch",
+            "category": "electronics",
+            "advertiser": "Violeva",
+            "source_country": "NZ",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1120366353084018",
+            "landing_url": "https://violeva.com/products/arista-smartwatch",
+            "image_url": null,
+            "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNVBe70lklwtkAO5HIdjA8Zff9EVsqRQ3T9VnSe3G7HQXMxS6xFIIIvQq6L4Z4sfh5rPoMUQtICOPcQUWpwxCw.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=sOVMfdbER3EQ7kNvwEsRQgn&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjoxNDI3OTQyMDY5MzMxNDQ4LCJhc3NldF9hZ2VfZGF5cyI6MzI0LCJ2aV91c2VjYXNlX2lkIjoxMDY4MCwiZHVyYXRpb25fcyI6NTUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=pW-1Mjkn7jzU-YCeXwurbQ&_nc_ss=79289&_nc_zt=28&oh=00_AQSyMe_iAHNK8oAmjxxacbiPxF3b0Vyp6iKOVILcGMunxg&oe=6AE78578",
+            "first_seen": "2026-10-28T08:30:46.484746+00:00",
+            "last_seen": "2026-10-28T08:30:46.484746+00:00",
+            "active_checked_at": "2026-10-28T08:30:46.484746+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "NZ"
+            ]
+          },
+          {
+            "ad_id": "1224157483061679",
+            "product_name": "arista smartwatch",
+            "product_key": "item:violeva.com:arista smartwatch",
+            "category": "electronics",
+            "advertiser": "Violeva",
+            "source_country": "NZ",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1224157483061679",
+            "landing_url": "https://violeva.com/products/arista-smartwatch",
+            "image_url": null,
+            "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMv89boMGlsiVudrSg1WjX2a48gtHG7nlwPrKLoKrkhTSCpgNRs7DNhxW5U2ggkKvQGMX9nvgVYk-PGRr3OxSB524gazxb5SJjiOE5iDEO-TA.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=BHOY9QlGisEQ7kNvwELs8vi&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzMzY1MzE2MjgwMzQ1NDYsImFzc2V0X2FnZV9kYXlzIjo0MjIsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo0NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=b9ecdc165e438e7f&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yQzQ2NTMzQjhDMEQzNTE1NzE5MTNBOEFGOENGRkQ5RF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0FDNDA3RDlEMEJBNzhDMDFBODQ2NjgzQTEzRkE4OTk4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbkp9zOsOTfBBUCKAJDMywXQEbu2RaHKwIYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=pW-1Mjkn7jzU-YCeXwurbQ&_nc_ss=79289&_nc_zt=28&oh=00_AQTQFQaYhaQVmKgKoeyyU9EYCXMzU31HBzpIzhdwWVIoyw&oe=6AE7951C",
+            "first_seen": "2026-10-28T08:30:46.484746+00:00",
+            "last_seen": "2026-10-28T08:30:46.484746+00:00",
+            "active_checked_at": "2026-10-28T08:30:46.484746+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "NZ"
+            ]
+          }
+        ],
+        "verification": "Approximate product identity, never ad-set count or verified sales"
+      }
+    ],
     "fashion": [],
     "baby": [],
     "sport": [],

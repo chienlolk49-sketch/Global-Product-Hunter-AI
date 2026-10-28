@@ -1,85 +1,85 @@
 {
-  "timestamp_utc": "2026-10-28T08:19:24.321821+00:00",
+  "timestamp_utc": "2026-10-28T08:30:46.484746+00:00",
   "attempts": [
     {
-      "country": "CO",
-      "keyword": "desk organizer",
-      "category": "office",
+      "country": "ES",
+      "keyword": "plant accessories",
+      "category": "garden",
       "found": 30
     },
     {
-      "country": "IN",
-      "keyword": "coffee",
+      "country": "HU",
+      "keyword": "educational toy",
+      "category": "toys",
+      "found": 30
+    },
+    {
+      "country": "CN",
+      "keyword": "folded bag",
+      "category": "fashion",
+      "found": 30
+    },
+    {
+      "country": "HK",
+      "keyword": "healthy snacks",
       "category": "food",
       "found": 30
     },
     {
-      "country": "AU",
-      "keyword": "skincare serum",
+      "country": "BE",
+      "keyword": "hair care",
       "category": "beauty",
       "found": 30
     },
     {
-      "country": "FI",
-      "keyword": "standing makeup bag portable large capacity",
-      "category": "beauty",
-      "found": 17
+      "country": "AT",
+      "keyword": "Ölend",
+      "category": "fashion",
+      "found": 30
     },
     {
-      "country": "PE",
-      "keyword": "home organizer",
+      "country": "SA",
+      "keyword": "storage solution",
       "category": "home",
       "found": 30
     },
     {
-      "country": "LK",
-      "keyword": "vegetable cutter",
+      "country": "UA",
+      "keyword": "cooking accessory",
       "category": "kitchen",
-      "found": 30
+      "found": 14
     },
     {
-      "country": "LV",
-      "keyword": "wireless charger",
+      "country": "NZ",
+      "keyword": "Violeva",
       "category": "electronics",
       "found": 30
     },
     {
-      "country": "KR",
+      "country": "CH",
+      "keyword": "jewelry",
+      "category": "fashion",
+      "found": 30
+    },
+    {
+      "country": "MX",
+      "keyword": "baby care",
+      "category": "baby",
+      "found": 30
+    },
+    {
+      "country": "NZ",
       "keyword": "arista smartwatch",
       "category": "electronics",
-      "found": 0
-    },
-    {
-      "country": "CZ",
-      "keyword": "maternity accessory",
-      "category": "baby",
-      "found": 0
-    },
-    {
-      "country": "NG",
-      "keyword": "yoga equipment",
-      "category": "sport",
-      "found": 28
-    },
-    {
-      "country": "SG",
-      "keyword": "car cleaning",
-      "category": "vehicle",
       "found": 30
-    },
-    {
-      "country": "UY",
-      "keyword": "navy blue tote bag",
-      "category": "fashion",
-      "found": 1
     }
   ],
   "searches_succeeded": 12,
   "searches_attempted": 12,
-  "new_ads": 190,
-  "unique_active_ads_observed_last_48h": 952,
-  "qualifying_products": 0,
-  "groups_below_threshold_or_unverified": 891,
+  "new_ads": 228,
+  "unique_active_ads_observed_last_48h": 1180,
+  "qualifying_products": 1,
+  "groups_below_threshold_or_unverified": 1078,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "progress_incomplete",
   "goal_completed": false,
@@ -88,7 +88,7 @@
     "wellness": 0,
     "home": 0,
     "kitchen": 0,
-    "electronics": 0,
+    "electronics": 1,
     "fashion": 0,
     "baby": 0,
     "sport": 0,
@@ -104,7 +104,7 @@
     "wellness": 50,
     "home": 50,
     "kitchen": 50,
-    "electronics": 50,
+    "electronics": 49,
     "fashion": 50,
     "baby": 50,
     "sport": 50,
@@ -115,12 +115,14 @@
     "office": 50,
     "food": 50
   },
-  "total_queries_attempted_to_date": 24,
+  "total_queries_attempted_to_date": 36,
   "campaign_started_at": "2026-10-28T08:19:24.321821+00:00",
   "campaign_state": "collecting",
   "campaign_has_time_limit": false,
   "per_job_time_limit_seconds": 440,
   "target_per_category": 50,
-  "candidates_near_threshold": 6,
+  "candidates_near_threshold": 27,
+  "collection_limit_warning": "180 is a configured ceiling, not confirmed pagination. Source parser may deliver only ~30 per query.",
+  "focused_queries_this_run": 4,
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
 }
