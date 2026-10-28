@@ -1,5 +1,5 @@
 {
-  "timestamp_utc": "2026-10-28T03:26:23.785886+00:00",
+  "timestamp_utc": "2026-10-28T03:27:59.073815+00:00",
   "attempts": [
     {
       "country": "FR",
@@ -28,7 +28,7 @@
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 96,
+  "new_ads": 0,
   "unique_active_ads_observed_last_48h": 96,
   "qualifying_products": 0,
   "groups_below_threshold_or_unverified": 86,
