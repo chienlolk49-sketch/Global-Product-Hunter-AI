@@ -1,91 +1,91 @@
 {
-  "timestamp_utc": "2026-10-28T08:04:03.849060+00:00",
+  "timestamp_utc": "2026-10-28T08:08:46.529605+00:00",
   "attempts": [
     {
-      "country": "US",
-      "keyword": "hair serum",
+      "country": "CO",
+      "keyword": "desk organizer",
+      "category": "office",
+      "found": 30
+    },
+    {
+      "country": "IN",
+      "keyword": "coffee",
+      "category": "food",
+      "found": 30
+    },
+    {
+      "country": "AU",
+      "keyword": "skincare serum",
       "category": "beauty",
-      "found": 0
+      "found": 30
     },
     {
-      "country": "NL",
-      "keyword": "neck massager",
-      "category": "wellness",
-      "found": 29
+      "country": "FI",
+      "keyword": "standing makeup bag portable large capacity",
+      "category": "beauty",
+      "found": 17
     },
     {
-      "country": "GR",
-      "keyword": "cleaning tool",
+      "country": "PE",
+      "keyword": "home organizer",
       "category": "home",
       "found": 30
     },
     {
-      "country": "AE",
-      "keyword": "kitchen gadget",
+      "country": "LK",
+      "keyword": "vegetable cutter",
       "category": "kitchen",
       "found": 30
     },
     {
-      "country": "KZ",
-      "keyword": "phone accessory",
+      "country": "LV",
+      "keyword": "wireless charger",
+      "category": "electronics",
+      "found": 30
+    },
+    {
+      "country": "KR",
+      "keyword": "arista smartwatch",
       "category": "electronics",
       "found": 0
     },
     {
-      "country": "DE",
-      "keyword": "crossbody bag",
-      "category": "fashion",
-      "found": 0
-    },
-    {
-      "country": "AT",
-      "keyword": "baby care",
+      "country": "CZ",
+      "keyword": "maternity accessory",
       "category": "baby",
       "found": 0
     },
     {
-      "country": "NZ",
-      "keyword": "fitness accessory",
+      "country": "NG",
+      "keyword": "yoga equipment",
       "category": "sport",
-      "found": 30
+      "found": 28
     },
     {
-      "country": "TR",
-      "keyword": "car accessories",
+      "country": "SG",
+      "keyword": "car cleaning",
       "category": "vehicle",
       "found": 30
     },
     {
-      "country": "BG",
-      "keyword": "travel organizer",
-      "category": "travel",
-      "found": 30
-    },
-    {
-      "country": "BR",
-      "keyword": "garden tool",
-      "category": "garden",
-      "found": 30
-    },
-    {
-      "country": "SE",
-      "keyword": "puzzle game",
-      "category": "toys",
-      "found": 30
+      "country": "UY",
+      "keyword": "navy blue tote bag",
+      "category": "fashion",
+      "found": 0
     }
   ],
   "searches_succeeded": 12,
   "searches_attempted": 12,
-  "new_ads": 155,
-  "unique_active_ads_observed_last_48h": 762,
-  "qualifying_products": 1,
-  "groups_below_threshold_or_unverified": 639,
+  "new_ads": 186,
+  "unique_active_ads_observed_last_48h": 948,
+  "qualifying_products": 0,
+  "groups_below_threshold_or_unverified": 886,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "progress_incomplete",
   "goal_completed": false,
   "category_qualified_counts": {
     "beauty": 0,
-    "wellness": 1,
+    "wellness": 0,
     "home": 0,
     "kitchen": 0,
     "electronics": 0,
@@ -101,7 +101,7 @@
   },
   "unfinished_categories": {
     "beauty": 50,
-    "wellness": 49,
+    "wellness": 50,
     "home": 50,
     "kitchen": 50,
     "electronics": 50,
@@ -115,6 +115,12 @@
     "office": 50,
     "food": 50
   },
-  "total_queries_attempted_to_date": 12,
+  "total_queries_attempted_to_date": 24,
+  "campaign_started_at": "2026-10-28T08:08:46.529605+00:00",
+  "campaign_state": "collecting",
+  "campaign_has_time_limit": false,
+  "per_job_time_limit_seconds": 440,
+  "target_per_category": 50,
+  "candidates_near_threshold": 6,
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
 }
