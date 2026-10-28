@@ -1,0 +1,21 @@
+{
+  "cursor": 12,
+  "total_queries_attempted": 12,
+  "last_run_at": "2026-10-28T07:59:16.590800+00:00",
+  "unfinished_categories": {
+    "beauty": 50,
+    "wellness": 49,
+    "home": 50,
+    "kitchen": 50,
+    "electronics": 50,
+    "fashion": 50,
+    "baby": 50,
+    "sport": 50,
+    "vehicle": 50,
+    "travel": 50,
+    "garden": 50,
+    "toys": 50,
+    "office": 50,
+    "food": 50
+  }
+}

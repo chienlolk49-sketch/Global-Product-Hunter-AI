@@ -1,38 +1,120 @@
 {
-  "timestamp_utc": "2026-10-28T07:37:24.907350+00:00",
+  "timestamp_utc": "2026-10-28T07:59:16.590800+00:00",
   "attempts": [
     {
-      "country": "BG",
-      "keyword": "baby care",
-      "category": "baby",
-      "found": 0
-    },
-    {
-      "country": "DE",
-      "keyword": "maternity accessory",
-      "category": "baby",
-      "found": 0
+      "country": "US",
+      "keyword": "hair serum",
+      "category": "beauty",
+      "found": 30
     },
     {
       "country": "NL",
-      "keyword": "fitness accessory",
-      "category": "sport",
+      "keyword": "neck massager",
+      "category": "wellness",
       "found": 29
     },
     {
-      "country": "HU",
-      "keyword": "yoga equipment",
+      "country": "GR",
+      "keyword": "cleaning tool",
+      "category": "home",
+      "found": 30
+    },
+    {
+      "country": "AE",
+      "keyword": "kitchen gadget",
+      "category": "kitchen",
+      "found": 30
+    },
+    {
+      "country": "KZ",
+      "keyword": "phone accessory",
+      "category": "electronics",
+      "found": 29
+    },
+    {
+      "country": "DE",
+      "keyword": "crossbody bag",
+      "category": "fashion",
+      "found": 30
+    },
+    {
+      "country": "AT",
+      "keyword": "baby care",
+      "category": "baby",
+      "found": 30
+    },
+    {
+      "country": "NZ",
+      "keyword": "fitness accessory",
       "category": "sport",
-      "found": 0
+      "found": 30
+    },
+    {
+      "country": "TR",
+      "keyword": "car accessories",
+      "category": "vehicle",
+      "found": 30
+    },
+    {
+      "country": "BG",
+      "keyword": "travel organizer",
+      "category": "travel",
+      "found": 30
+    },
+    {
+      "country": "BR",
+      "keyword": "garden tool",
+      "category": "garden",
+      "found": 30
+    },
+    {
+      "country": "SE",
+      "keyword": "puzzle game",
+      "category": "toys",
+      "found": 30
     }
   ],
-  "searches_succeeded": 4,
-  "searches_attempted": 4,
-  "new_ads": 29,
-  "unique_active_ads_observed_last_48h": 607,
-  "qualifying_products": 0,
-  "groups_below_threshold_or_unverified": 537,
+  "searches_succeeded": 12,
+  "searches_attempted": 12,
+  "new_ads": 234,
+  "unique_active_ads_observed_last_48h": 841,
+  "qualifying_products": 1,
+  "groups_below_threshold_or_unverified": 713,
   "threshold_min_unique_active_ad_ids": 21,
-  "state": "ok",
+  "state": "progress_incomplete",
+  "goal_completed": false,
+  "category_qualified_counts": {
+    "beauty": 0,
+    "wellness": 1,
+    "home": 0,
+    "kitchen": 0,
+    "electronics": 0,
+    "fashion": 0,
+    "baby": 0,
+    "sport": 0,
+    "vehicle": 0,
+    "travel": 0,
+    "garden": 0,
+    "toys": 0,
+    "office": 0,
+    "food": 0
+  },
+  "unfinished_categories": {
+    "beauty": 50,
+    "wellness": 49,
+    "home": 50,
+    "kitchen": 50,
+    "electronics": 50,
+    "fashion": 50,
+    "baby": 50,
+    "sport": 50,
+    "vehicle": 50,
+    "travel": 50,
+    "garden": 50,
+    "toys": 50,
+    "office": 50,
+    "food": 50
+  },
+  "total_queries_attempted_to_date": 12,
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
 }
