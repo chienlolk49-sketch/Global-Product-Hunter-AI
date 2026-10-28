@@ -1,12 +1,12 @@
-name: Cloud Hunter pilot (Meta public ads)
+name: Cloud Hunter V9 - Active ads >20
 on:
   workflow_dispatch:
   schedule:
     # Schedules run ONLY from the default branch, and can be delayed or dropped.
-    - cron: "17 0,6,12,18 * * *"
+    - cron: "7,22,37,52 * * * *"
   push:
     branches:
-      - feature/cloud-hunter-pilot
+      - feature/active-ads-v9
     paths:
       - ".github/workflows/cloud-hunter.yml"
       - "cloud_hunter/scan.py"
@@ -21,7 +21,7 @@ concurrency:
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 14
     steps:
       - name: Checkout the branch (including stored datasets)
         uses: actions/checkout@v4
