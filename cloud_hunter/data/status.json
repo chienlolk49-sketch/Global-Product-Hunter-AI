@@ -1,37 +1,37 @@
 {
-  "timestamp_utc": "2026-10-28T07:19:56.496027+00:00",
+  "timestamp_utc": "2026-10-28T07:37:24.907350+00:00",
   "attempts": [
     {
-      "country": "CN",
-      "keyword": "crossbody bag",
-      "category": "fashion",
-      "found": 30
+      "country": "BG",
+      "keyword": "baby care",
+      "category": "baby",
+      "found": 0
     },
     {
-      "country": "CR",
-      "keyword": "comfortable shoes",
-      "category": "fashion",
-      "found": 30
+      "country": "DE",
+      "keyword": "maternity accessory",
+      "category": "baby",
+      "found": 0
     },
     {
-      "country": "IT",
-      "keyword": "jewelry",
-      "category": "fashion",
-      "found": 30
+      "country": "NL",
+      "keyword": "fitness accessory",
+      "category": "sport",
+      "found": 29
     },
     {
-      "country": "PL",
-      "keyword": "casual clothing",
-      "category": "fashion",
-      "found": 30
+      "country": "HU",
+      "keyword": "yoga equipment",
+      "category": "sport",
+      "found": 0
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 86,
-  "unique_active_ads_observed_last_48h": 578,
+  "new_ads": 29,
+  "unique_active_ads_observed_last_48h": 607,
   "qualifying_products": 0,
-  "groups_below_threshold_or_unverified": 508,
+  "groups_below_threshold_or_unverified": 537,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "ok",
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"

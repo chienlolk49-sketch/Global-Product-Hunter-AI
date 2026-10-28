@@ -1,6 +1,557 @@
 {
-  "updated_at": "2026-10-28T07:19:56.496027+00:00",
+  "updated_at": "2026-10-28T07:37:24.907350+00:00",
   "ads": [
+    {
+      "ad_id": "1485069156741240",
+      "product_name": "womens power hooks",
+      "product_key": "unverified:1485069156741240",
+      "category": "other",
+      "advertiser": "Fit-Tech",
+      "source_country": "NL",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1485069156741240",
+      "landing_url": "https://www.fit-tech.shop/collections/frontpage/products/womens-power-hooks?variant=45475453894815",
+      "image_url": null,
+      "video_url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOurrgDcfhQOv48-UvgGzs-2yoBzkuRI1tfL9xOWpSTWBmpWWmRtSF2yEQwiaKY2ld4qL_7FRhElhIko8Z1SulWzJEU0PpHorrbx909WqiGyQ.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=OVmkDQl-LXEQ7kNvwEq_dAi&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI1MzA1NTI4MTM5NjEwOTUsImFzc2V0X2FnZV9kYXlzIjo0ODIsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo0MiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=3000fe1010dc117&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83OTQ0NUQzN0NGMTVBMkZBQkU4NzkwRTRGQThFMkQ4Ml9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0U0NDMzQ0YzMERCREMwMkY4OTdFMENEMzA4QTI0RDg2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaO_v3Yx-H-CBUCKAJDMywXQEU3bItDlYEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=o7k9yihRvn18M0J1y2Vmtw&_nc_ss=79289&_nc_zt=28&oh=00_AQSeRiQ1BJDCYaBM9VP-7V7KucrQdm2VSJInjGxmLYcFhA&oe=6AE776BA",
+      "first_seen": "2026-10-28T07:37:24.907350+00:00",
+      "last_seen": "2026-10-28T07:37:24.907350+00:00",
+      "active_checked_at": "2026-10-28T07:37:24.907350+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "NL"
+      ]
+    },
+    {
+      "ad_id": "398108972895408",
+      "product_name": "unidentified product",
+      "product_key": "unverified:398108972895408",
+      "category": "other",
+      "advertiser": "Rogue Fitness Europe",
+      "source_country": "NL",
+      "ad_url": "https://www.facebook.com/ads/library/?id=398108972895408",
+      "landing_url": "https://www.roguefitness.com/eu/rogue-monster-bands-eu",
+      "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/425353172_911686740959205_3588647306326277407_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QbOokAzS_nAQ7kNvwFUe9Zm&_nc_oc=AdqGuVYFYlmnp44WSMO-pLBhkAfPOr_PyyqHEE0KAUunlHNMH4DUYukgk0KtYUrlMqc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=o7k9yihRvn18M0J1y2Vmtw&_nc_ss=79289&oh=00_AQTCPIYY1aWXsm2-LIPaYoRCICi1dfqDtKnr7WnPZi8bIQ&oe=6AE7769F",
+      "video_url": null,
+      "first_seen": "2026-10-28T07:37:24.907350+00:00",
+      "last_seen": "2026-10-28T07:37:24.907350+00:00",
+      "active_checked_at": "2026-10-28T07:37:24.907350+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "NL"
+      ]
+    },
+    {
+      "ad_id": "223973884132492",
+      "product_name": "unidentified product",
+      "product_key": "unverified:223973884132492",
+      "category": "other",
+      "advertiser": "Rogue Fitness Europe",
+      "source_country": "NL",
+      "ad_url": "https://www.facebook.com/ads/library/?id=223973884132492",
+      "landing_url": "https://www.roguefitness.com/eu/rogue-monster-bands-eu",
+      "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/425359356_407250861719616_7358287499608647560_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RqwHkXaT70kQ7kNvwECdxcz&_nc_oc=AdodviLF1BPYK0LhL-60MgvwGJmlg2oAoUCDMYX_1pgTDwKsipgOl9YgNoDJEbi0DSE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=o7k9yihRvn18M0J1y2Vmtw&_nc_ss=79289&oh=00_AQQTchTtxYrzsmCQvnt0QUcM0V_2afI8V5oVEprvnN73VA&oe=6AE7661B",
+      "video_url": null,
+      "first_seen": "2026-10-28T07:37:24.907350+00:00",
+      "last_seen": "2026-10-28T07:37:24.907350+00:00",
+      "active_checked_at": "2026-10-28T07:37:24.907350+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "NL"
+      ]
+    },
+    {
+      "ad_id": "1769092467800411",
+      "product_name": "source sports entertainment on alibaba com alibaba com-world s leading b2b marketplace",
+      "product_key": "title:source sports entertainment on alibaba com alibaba com-world s leading b2b marketplace",
+      "category": "sport",
+      "advertiser": "Alibaba.com",
+      "source_country": "NL",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1769092467800411",
+      "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+      "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/538338955_686598417738612_1399163976736661755_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Kkl05XqN3BEQ7kNvwGsBRgL&_nc_oc=AdowY_6MPftU-M9j7lkod1zea3axPAkJnovoYSTXfrSkNLghQAMJChuavHKeUNkdTtQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=o7k9yihRvn18M0J1y2Vmtw&_nc_ss=79289&oh=00_AQQWR9TLFmRoxkw9b_Ujwg2huiQDI8GZb7PStORBo6xuYA&oe=6AE77887",
+      "video_url": null,
+      "first_seen": "2026-10-28T07:37:24.907350+00:00",
+      "last_seen": "2026-10-28T07:37:24.907350+00:00",
+      "active_checked_at": "2026-10-28T07:37:24.907350+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "NL"
+      ]
+    },
+    {
+      "ad_id": "1331584419125625",
+      "product_name": "the grips worn by the best in fitness",
+      "product_key": "unverified:1331584419125625",
+      "category": "sport",
+      "advertiser": "Frog Grips",
+      "source_country": "NL",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1331584419125625",
+      "landing_url": "http://www.froggrips.com/",
+      "image_url": null,
+      "video_url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQM4rjLItIARXnH33OV-f1IGrcV_wLWFa4vy0DKP2dH0r-jGqNeCKwzmB_iL_IQM7uEm4wPL67gn7mviA5AjOdGIPa4Sj3dpQnujriY2P4mztw.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=kGPGYOJtjNIQ7kNvwEHE9OO&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk4NTI5MjUzNDI3Nzg5NSwiYXNzZXRfYWdlX2RheXMiOjEyNywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjQwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=47045aa3a62d0d57&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81NzRBMkY2MEE2MjJDOUZDQ0FDOUU5Q0M4MkU3N0JCOF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzE5NDBDMjVCMTREOTEyOEYxQTMwM0FDNUM5MkNCQzk1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaOnIu4yYfAAxUCKAJDMywXQERd0vGp--cYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=o7k9yihRvn18M0J1y2Vmtw&_nc_ss=79289&_nc_zt=28&oh=00_AQTVhHOJ2mgfDAHdkcF9tMztkoGUqGwzXuWaESZ3M_y5RQ&oe=6AE767CA",
+      "first_seen": "2026-10-28T07:37:24.907350+00:00",
+      "last_seen": "2026-10-28T07:37:24.907350+00:00",
+      "active_checked_at": "2026-10-28T07:37:24.907350+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "NL"
+      ]
+    },
+    {
+      "ad_id": "925548183588578",
+      "product_name": "optimize your equipment",
+      "product_key": "unverified:925548183588578",
+      "category": "other",
+      "advertiser": "Uclips",
+      "source_country": "NL",
+      "ad_url": "https://www.facebook.com/ads/library/?id=925548183588578",
+      "landing_url": "https://uclips.co/products/uclips?variant=44564020396266",
+      "image_url": null,
+      "video_url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNEoVoXoS_v1QrZwJZK5Uu91m2dZgEUdjt8D-_KQ4O0KE5Ai0DcjTWmF1Zv9DqWfejtTQpxP8FqwPsZirFmEU6sbDNXVRfFwVLHz-i77bf-6A.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=Hk5-XMFi3U0Q7kNvwHf8pjo&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk1MjA4MDIyOTY3NjI2NiwiYXNzZXRfYWdlX2RheXMiOjcxMywidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjMzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=1955c99f4ec0df2b&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CMzRCMTkxN0M3QTAyNzc5QkRDNDY3NjA1MTBFNUFCMl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg0ZmJfcGVybWFuZW50LzU0OTY3NDg1NDQ4MTcyMl81ODM3MTIyODc5NzA3MDU3OTIwLm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbU05m-rvqwAxUCKAJDMywXQED7peNT988YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=o7k9yihRvn18M0J1y2Vmtw&_nc_ss=79289&_nc_zt=28&oh=00_AQSGpGLW-0X6-87GsnVE1u8RAPhXAz8YH9TirrIzM3Xtzw&oe=6AE77D41",
+      "first_seen": "2026-10-28T07:37:24.907350+00:00",
+      "last_seen": "2026-10-28T07:37:24.907350+00:00",
+      "active_checked_at": "2026-10-28T07:37:24.907350+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "NL"
+      ]
+    },
+    {
+      "ad_id": "1426674181932436",
+      "product_name": "unidentified product",
+      "product_key": "unverified:1426674181932436",
+      "category": "other",
+      "advertiser": "Rogue Fitness Europe",
+      "source_country": "NL",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1426674181932436",
+      "landing_url": "https://www.roguefitness.com/eu/rogue-monster-bands-eu",
+      "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/522141029_991427459627739_4206559057112403030_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=c1PYlQ-i7rgQ7kNvwEUAZMe&_nc_oc=AdqS3qqmEb74jnjIdo0-Jls6eJN7ACvjkgxo7P7hADaFnDQ09NqwNWR3T_DIu-JDB2E&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=o7k9yihRvn18M0J1y2Vmtw&_nc_ss=79289&oh=00_AQShQ7OB38NFXnSxWJ7yQwm6xMcSWzXQOnOI-Q1mx2367Q&oe=6AE790DE",
+      "video_url": null,
+      "first_seen": "2026-10-28T07:37:24.907350+00:00",
+      "last_seen": "2026-10-28T07:37:24.907350+00:00",
+      "active_checked_at": "2026-10-28T07:37:24.907350+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "NL"
+      ]
+    },
+    {
+      "ad_id": "1344162751242387",
+      "product_name": "peony flower diffuser",
+      "product_key": "unverified:1344162751242387",
+      "category": "other",
+      "advertiser": "Healthy Fitness & Living",
+      "source_country": "NL",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1344162751242387",
+      "landing_url": "https://www.revive-eo.com/product/peony-flower-diffuser/",
+      "image_url": null,
+      "video_url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNOy4FW42Kga-zF_PwqMBvqpucf_QsIBmuGxKRBlp8FNzrqbrMSbrePPv4-Lzfd-nPWtBF2ZN0lP9odiv9soJ1UDT8WLfYINusgT1up8FW-Lg.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=wfkQQg7Wj8YQ7kNvwHK4VGi&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjkyNjQzMzQzOTc5NzkxMSwiYXNzZXRfYWdlX2RheXMiOjI0NSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjEzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=215d0f32135b737d&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82RjQwQkUxOEQ4QjcwNzIxMTc0RUM3REFEM0M0N0VBQV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzEzNDk2ODU3QUVENkZDNTg2M0RGRDkzQzFGQjNGRUJDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACauyrKBw6WlAxUCKAJDMywXQCrul41P3zsYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=o7k9yihRvn18M0J1y2Vmtw&_nc_ss=79289&_nc_zt=28&oh=00_AQRcA5dc4rHnDCi7TNOD-eGdJ2jZrOPwSCYsBjg-V0674w&oe=6AE75E18",
+      "first_seen": "2026-10-28T07:37:24.907350+00:00",
+      "last_seen": "2026-10-28T07:37:24.907350+00:00",
+      "active_checked_at": "2026-10-28T07:37:24.907350+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "NL"
+      ]
+    },
+    {
+      "ad_id": "1601534834709697",
+      "product_name": "peony flower diffuser",
+      "product_key": "unverified:1601534834709697",
+      "category": "other",
+      "advertiser": "Healthy Fitness & Living",
+      "source_country": "NL",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1601534834709697",
+      "landing_url": "https://www.revive-eo.com/product/peony-flower-diffuser/",
+      "image_url": null,
+      "video_url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNOy4FW42Kga-zF_PwqMBvqpucf_QsIBmuGxKRBlp8FNzrqbrMSbrePPv4-Lzfd-nPWtBF2ZN0lP9odiv9soJ1UDT8WLfYINusgT1up8FW-Lg.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=wfkQQg7Wj8YQ7kNvwHK4VGi&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjkyNjQzMzQzOTc5NzkxMSwiYXNzZXRfYWdlX2RheXMiOjI0NSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjEzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=215d0f32135b737d&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82RjQwQkUxOEQ4QjcwNzIxMTc0RUM3REFEM0M0N0VBQV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzEzNDk2ODU3QUVENkZDNTg2M0RGRDkzQzFGQjNGRUJDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACauyrKBw6WlAxUCKAJDMywXQCrul41P3zsYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=o7k9yihRvn18M0J1y2Vmtw&_nc_ss=79289&_nc_zt=28&oh=00_AQRcA5dc4rHnDCi7TNOD-eGdJ2jZrOPwSCYsBjg-V0674w&oe=6AE75E18",
+      "first_seen": "2026-10-28T07:37:24.907350+00:00",
+      "last_seen": "2026-10-28T07:37:24.907350+00:00",
+      "active_checked_at": "2026-10-28T07:37:24.907350+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "NL"
+      ]
+    },
+    {
+      "ad_id": "1998473290813213",
+      "product_name": "wearable hlth band",
+      "product_key": "unverified:1998473290813213",
+      "category": "other",
+      "advertiser": "HLTH",
+      "source_country": "NL",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1998473290813213",
+      "landing_url": "https://hlthtrack.com/products/wearable-hlth-band",
+      "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/814740968_1058788193440734_5556307033572622477_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eOZjpB15eTsQ7kNvwEEKlLO&_nc_oc=AdoEGRO6V6qfcZeh5L9nVt7K3s0ep74PCjId0W2e4xwbzL2ilhiepDrKUqcg3sGCpMs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=o7k9yihRvn18M0J1y2Vmtw&_nc_ss=79289&oh=00_AQRzEDUfEiBaAEQyvRL3LU4__Erk7NR3fBjEKcuhVgApPg&oe=6AE7677D",
+      "video_url": null,
+      "first_seen": "2026-10-28T07:37:24.907350+00:00",
+      "last_seen": "2026-10-28T07:37:24.907350+00:00",
+      "active_checked_at": "2026-10-28T07:37:24.907350+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "NL"
+      ]
+    },
+    {
+      "ad_id": "864537753262146",
+      "product_name": "8 pm est tonight 500 spots serious people only",
+      "product_key": "unverified:864537753262146",
+      "category": "other",
+      "advertiser": "Brook Hiddink",
+      "source_country": "NL",
+      "ad_url": "https://www.facebook.com/ads/library/?id=864537753262146",
+      "landing_url": "https://go.highticket.io/w/main/pre-workshop-meta",
+      "image_url": null,
+      "video_url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNF9fpLab_L3t6tGcS-alsjEABEgyiuWZ7PlwY6_BNcmiyjTs8KmIpF6t7fv8psjUhtOjhrdWUbbkfXxtVDe4JZp3Yr1kJYkY_lVogGDG90nA.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=_qDszd6WpQsQ7kNvwFU5U72&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTI4MC5kYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxMzkzMDg3NTIyODgyNDc2LCJhc3NldF9hZ2VfZGF5cyI6MTAwLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MTcxOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=b69d97dca1a0918d&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85RTQxQkI0QjgxNkFGNzUwQzM0RkRBMTRGRjU4QzRCOF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzVBNEE3NDY3NzNDM0Y0RTRCQTIxNURDNEQ2NkMyQzlGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbYjorvrsD5BBUCKAJDMywXQJrYzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=o7k9yihRvn18M0J1y2Vmtw&_nc_ss=79289&_nc_zt=28&oh=00_AQQRtzjTWy0-fNZxf0s4PqH_-y0ZYcOTbH7tQfGrPxOSxw&oe=6AE76185",
+      "first_seen": "2026-10-28T07:37:24.907350+00:00",
+      "last_seen": "2026-10-28T07:37:24.907350+00:00",
+      "active_checked_at": "2026-10-28T07:37:24.907350+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "NL"
+      ]
+    },
+    {
+      "ad_id": "1620117616144370",
+      "product_name": "5 000 off win your money back one button left",
+      "product_key": "unverified:1620117616144370",
+      "category": "other",
+      "advertiser": "Brook Hiddink",
+      "source_country": "NL",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1620117616144370",
+      "landing_url": "https://1orderaway.com/now",
+      "image_url": null,
+      "video_url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNF9fpLab_L3t6tGcS-alsjEABEgyiuWZ7PlwY6_BNcmiyjTs8KmIpF6t7fv8psjUhtOjhrdWUbbkfXxtVDe4JZp3Yr1kJYkY_lVogGDG90nA.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=_qDszd6WpQsQ7kNvwFU5U72&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTI4MC5kYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxMzkzMDg3NTIyODgyNDc2LCJhc3NldF9hZ2VfZGF5cyI6MTAwLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MTcxOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=b69d97dca1a0918d&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85RTQxQkI0QjgxNkFGNzUwQzM0RkRBMTRGRjU4QzRCOF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzVBNEE3NDY3NzNDM0Y0RTRCQTIxNURDNEQ2NkMyQzlGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbYjorvrsD5BBUCKAJDMywXQJrYzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=o7k9yihRvn18M0J1y2Vmtw&_nc_ss=79289&_nc_zt=28&oh=00_AQQRtzjTWy0-fNZxf0s4PqH_-y0ZYcOTbH7tQfGrPxOSxw&oe=6AE76185",
+      "first_seen": "2026-10-28T07:37:24.907350+00:00",
+      "last_seen": "2026-10-28T07:37:24.907350+00:00",
+      "active_checked_at": "2026-10-28T07:37:24.907350+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "NL"
+      ]
+    },
+    {
+      "ad_id": "1475945874381550",
+      "product_name": "multifunctional pedal resistance band elastic pull rope for abdominal exercise home workout yoga and pilates f",
+      "product_key": "sku:multifunctional pedal resistance band elastic pull rope for abdominal exercise home workout yoga and pilates",
+      "category": "sport",
+      "advertiser": "Ahlwoprime.com",
+      "source_country": "NL",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1475945874381550",
+      "landing_url": "https://ahlwoprime.com/products/multifunctional-pedal-resistance-band-elastic-pull-rope-for-abdominal-exercise-home-workout-yoga-and-pilates-fitness-for-men-and-women",
+      "image_url": null,
+      "video_url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPYWtA6_oRf-Xj9oPXVAfnrooYuiGOVMicF3La2UUFL8R8rANMf7QyP41R6lIuf9rASdIwpRRZpG3D7m-8J4qlFrxtEtFuhRI1P1vEFIN8Q0g.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=MX1lYHUd8B0Q7kNvwHdi4YC&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2NTQzMjQzMjYzNzE5NDksImFzc2V0X2FnZV9kYXlzIjoxMiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjMzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=9684edf7d950e766&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9EMEVENTcxNUZBODM0QzNDQTgyMUEwMUZCMzAyMkU5QV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0E3RTY1NTQ1NjMyQTQ2RTI5MjMyMkIxNUYwRThCNzgyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbayYjdrKbwBRUCKAJDMywXQECIcrAgxJwYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=o7k9yihRvn18M0J1y2Vmtw&_nc_ss=79289&_nc_zt=28&oh=00_AQSVVyiy9_Oz_XsL4RgMbKhONbprC9ymYDo2TH7-OMNQSA&oe=6AE75D82",
+      "first_seen": "2026-10-28T07:37:24.907350+00:00",
+      "last_seen": "2026-10-28T07:37:24.907350+00:00",
+      "active_checked_at": "2026-10-28T07:37:24.907350+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "NL"
+      ]
+    },
+    {
+      "ad_id": "29078138735158521",
+      "product_name": "go tone pro",
+      "product_key": "unverified:29078138735158521",
+      "category": "other",
+      "advertiser": "Rayofi",
+      "source_country": "NL",
+      "ad_url": "https://www.facebook.com/ads/library/?id=29078138735158521",
+      "landing_url": "https://rayofi.com/products/go-tone-pro",
+      "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/859683151_2947269765625703_1484715286605778395_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pGthEHnscRcQ7kNvwFYH46N&_nc_oc=AdoNijBEceyWE3apQ54MTE4fXNTHSkE4kR2ASi7srRl2VEnSERTsP6-Z5kp99cVI3WE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=o7k9yihRvn18M0J1y2Vmtw&_nc_ss=79289&oh=00_AQR-PGtDGMUsQELKjlVCBVnv_LGOzjl-gRIFWNTHWh_4-Q&oe=6AE76B2D",
+      "video_url": null,
+      "first_seen": "2026-10-28T07:37:24.907350+00:00",
+      "last_seen": "2026-10-28T07:37:24.907350+00:00",
+      "active_checked_at": "2026-10-28T07:37:24.907350+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "NL"
+      ]
+    },
+    {
+      "ad_id": "1388348463456638",
+      "product_name": "onyx pilates meet brown now",
+      "product_key": "unverified:1388348463456638",
+      "category": "other",
+      "advertiser": "Onyx UK",
+      "source_country": "NL",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1388348463456638",
+      "landing_url": "https://www.onyx-fitness.com/collections/pilates-ball",
+      "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/807727405_1085775507150004_6013373910235893763_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1aYM9BumMe4Q7kNvwGobX1Q&_nc_oc=AdqalAo9ai9_wN3mg4YZ6hUVAm-zPfI8xk9zMRi_ynT0VOTAvzHRWvT9ZYSHDZXnJKk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=o7k9yihRvn18M0J1y2Vmtw&_nc_ss=79289&oh=00_AQRaoAbGvFKfgy_KCG3s_72SH0mHOB32Oe7aejozuKu6XQ&oe=6AE78BB2",
+      "video_url": null,
+      "first_seen": "2026-10-28T07:37:24.907350+00:00",
+      "last_seen": "2026-10-28T07:37:24.907350+00:00",
+      "active_checked_at": "2026-10-28T07:37:24.907350+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "NL"
+      ]
+    },
+    {
+      "ad_id": "2906204793111664",
+      "product_name": "mecha milanese loop band for apple watch",
+      "product_key": "unverified:2906204793111664",
+      "category": "other",
+      "advertiser": "Vipzoon",
+      "source_country": "NL",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2906204793111664",
+      "landing_url": "https://vipzoon.com/products/mecha-milanese-loop-band-for-apple-watch",
+      "image_url": null,
+      "video_url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNp2Ylg_Yhi22IuSO4htOBr5eU6o1fj603gQjpQMSMZ1UmBtclGIvrZCnvfhsYXDu7FYCRCw6yPqd4rZLfsqfr6CygXJDthO5D_Z1fikNAf8g.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=0PuJk8xAGtcQ7kNvwGaTd2u&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0MTkzODE4MzMwNTgwMTAsImFzc2V0X2FnZV9kYXlzIjo3LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MTQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=3521fe830fc80e86&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85QUNERURDODRENDM0M0ZEOEE3Nzk5NDcwM0MzOTgzNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzUyNkMyMkIzMzUxNTRBQUVBQ0NEMkZEQkE3RUI3RUJGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa0m67f8rqFBRUCKAJDMywXQC0Q5WBBiTcYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=o7k9yihRvn18M0J1y2Vmtw&_nc_ss=79289&_nc_zt=28&oh=00_AQT7bENaaznTPbAPjlRhHvx_VhNvkx64T-VpTjKYeHCqTA&oe=6AE75F8D",
+      "first_seen": "2026-10-28T07:37:24.907350+00:00",
+      "last_seen": "2026-10-28T07:37:24.907350+00:00",
+      "active_checked_at": "2026-10-28T07:37:24.907350+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "NL"
+      ]
+    },
+    {
+      "ad_id": "2711041402648168",
+      "product_name": "mecha milanese loop band for apple watch",
+      "product_key": "unverified:2711041402648168",
+      "category": "other",
+      "advertiser": "Vipzoon",
+      "source_country": "NL",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2711041402648168",
+      "landing_url": "https://vipzoon.com/products/mecha-milanese-loop-band-for-apple-watch",
+      "image_url": null,
+      "video_url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNp2Ylg_Yhi22IuSO4htOBr5eU6o1fj603gQjpQMSMZ1UmBtclGIvrZCnvfhsYXDu7FYCRCw6yPqd4rZLfsqfr6CygXJDthO5D_Z1fikNAf8g.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=0PuJk8xAGtcQ7kNvwGaTd2u&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0MTkzODE4MzMwNTgwMTAsImFzc2V0X2FnZV9kYXlzIjo3LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MTQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=3521fe830fc80e86&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85QUNERURDODRENDM0M0ZEOEE3Nzk5NDcwM0MzOTgzNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzUyNkMyMkIzMzUxNTRBQUVBQ0NEMkZEQkE3RUI3RUJGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa0m67f8rqFBRUCKAJDMywXQC0Q5WBBiTcYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=o7k9yihRvn18M0J1y2Vmtw&_nc_ss=79289&_nc_zt=28&oh=00_AQT7bENaaznTPbAPjlRhHvx_VhNvkx64T-VpTjKYeHCqTA&oe=6AE75F8D",
+      "first_seen": "2026-10-28T07:37:24.907350+00:00",
+      "last_seen": "2026-10-28T07:37:24.907350+00:00",
+      "active_checked_at": "2026-10-28T07:37:24.907350+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "NL"
+      ]
+    },
+    {
+      "ad_id": "2139268010318258",
+      "product_name": "mecha milanese loop band for apple watch",
+      "product_key": "unverified:2139268010318258",
+      "category": "other",
+      "advertiser": "Vipzoon",
+      "source_country": "NL",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2139268010318258",
+      "landing_url": "https://vipzoon.com/products/mecha-milanese-loop-band-for-apple-watch",
+      "image_url": null,
+      "video_url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNp2Ylg_Yhi22IuSO4htOBr5eU6o1fj603gQjpQMSMZ1UmBtclGIvrZCnvfhsYXDu7FYCRCw6yPqd4rZLfsqfr6CygXJDthO5D_Z1fikNAf8g.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=0PuJk8xAGtcQ7kNvwGaTd2u&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0MTkzODE4MzMwNTgwMTAsImFzc2V0X2FnZV9kYXlzIjo3LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MTQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=3521fe830fc80e86&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85QUNERURDODRENDM0M0ZEOEE3Nzk5NDcwM0MzOTgzNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzUyNkMyMkIzMzUxNTRBQUVBQ0NEMkZEQkE3RUI3RUJGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa0m67f8rqFBRUCKAJDMywXQC0Q5WBBiTcYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=o7k9yihRvn18M0J1y2Vmtw&_nc_ss=79289&_nc_zt=28&oh=00_AQT7bENaaznTPbAPjlRhHvx_VhNvkx64T-VpTjKYeHCqTA&oe=6AE75F8D",
+      "first_seen": "2026-10-28T07:37:24.907350+00:00",
+      "last_seen": "2026-10-28T07:37:24.907350+00:00",
+      "active_checked_at": "2026-10-28T07:37:24.907350+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "NL"
+      ]
+    },
+    {
+      "ad_id": "1606299294177528",
+      "product_name": "onyx pilates meet brown now",
+      "product_key": "unverified:1606299294177528",
+      "category": "other",
+      "advertiser": "Onyx UK",
+      "source_country": "NL",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1606299294177528",
+      "landing_url": "https://www.onyx-fitness.com/collections/yoga-blocks",
+      "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/809477310_1385556690431413_550740221323132296_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tZJqf-7cN_wQ7kNvwEyG9W8&_nc_oc=AdrHUVtI3UKIYNXqoJiK1BTkLjP7JqQUQfDiQ_P8L6Xc2Y57kfQiPqc4BlpS0kDPYw8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=o7k9yihRvn18M0J1y2Vmtw&_nc_ss=79289&oh=00_AQSJHJoTu6n9D90p3RgaPSeesFJa8mpH-1qN_1MS08tyww&oe=6AE76C4B",
+      "video_url": null,
+      "first_seen": "2026-10-28T07:37:24.907350+00:00",
+      "last_seen": "2026-10-28T07:37:24.907350+00:00",
+      "active_checked_at": "2026-10-28T07:37:24.907350+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "NL"
+      ]
+    },
+    {
+      "ad_id": "2306324566879303",
+      "product_name": "what the students who make it did next",
+      "product_key": "unverified:2306324566879303",
+      "category": "other",
+      "advertiser": "Brook Hiddink",
+      "source_country": "NL",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2306324566879303",
+      "landing_url": "https://go.highticket.io/w/wa/partner-program",
+      "image_url": null,
+      "video_url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNF9fpLab_L3t6tGcS-alsjEABEgyiuWZ7PlwY6_BNcmiyjTs8KmIpF6t7fv8psjUhtOjhrdWUbbkfXxtVDe4JZp3Yr1kJYkY_lVogGDG90nA.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=_qDszd6WpQsQ7kNvwFU5U72&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTI4MC5kYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxMzkzMDg3NTIyODgyNDc2LCJhc3NldF9hZ2VfZGF5cyI6MTAwLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MTcxOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=b69d97dca1a0918d&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85RTQxQkI0QjgxNkFGNzUwQzM0RkRBMTRGRjU4QzRCOF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzVBNEE3NDY3NzNDM0Y0RTRCQTIxNURDNEQ2NkMyQzlGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbYjorvrsD5BBUCKAJDMywXQJrYzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=o7k9yihRvn18M0J1y2Vmtw&_nc_ss=79289&_nc_zt=28&oh=00_AQQRtzjTWy0-fNZxf0s4PqH_-y0ZYcOTbH7tQfGrPxOSxw&oe=6AE76185",
+      "first_seen": "2026-10-28T07:37:24.907350+00:00",
+      "last_seen": "2026-10-28T07:37:24.907350+00:00",
+      "active_checked_at": "2026-10-28T07:37:24.907350+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "NL"
+      ]
+    },
+    {
+      "ad_id": "896010086829535",
+      "product_name": "go tone pro",
+      "product_key": "unverified:896010086829535",
+      "category": "other",
+      "advertiser": "Rayofi",
+      "source_country": "NL",
+      "ad_url": "https://www.facebook.com/ads/library/?id=896010086829535",
+      "landing_url": "https://rayofi.com/products/go-tone-pro",
+      "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/861573097_2200561580841822_2430329701139766254_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Ir7uWeDnl7YQ7kNvwFAP8Z4&_nc_oc=Adoa045no4kSDXyXuMQwAnSYsW-XOJVaeXEdzILXeB0gAvI3xgQ7Q5n5-BNBUMQvK-I&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=o7k9yihRvn18M0J1y2Vmtw&_nc_ss=79289&oh=00_AQSZxcc8vV1KD6_9obKAqw_4SmpK-n2I5IxQAn7oPam13A&oe=6AE766B1",
+      "video_url": null,
+      "first_seen": "2026-10-28T07:37:24.907350+00:00",
+      "last_seen": "2026-10-28T07:37:24.907350+00:00",
+      "active_checked_at": "2026-10-28T07:37:24.907350+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "NL"
+      ]
+    },
+    {
+      "ad_id": "2107250620165767",
+      "product_name": "go tone pro",
+      "product_key": "unverified:2107250620165767",
+      "category": "other",
+      "advertiser": "Rayofi",
+      "source_country": "NL",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2107250620165767",
+      "landing_url": "https://rayofi.com/products/go-tone-pro",
+      "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/861364472_1805967860669127_1449932123022808390_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yH3Bwg0Z2aYQ7kNvwFlCwre&_nc_oc=AdoMiocFHPapuDqZnawE9SPUFmENZuZCNtaw8tL6StBKJUL4j35yyFtLx9vEFsB3q7Y&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=o7k9yihRvn18M0J1y2Vmtw&_nc_ss=79289&oh=00_AQTziqSj8kxScBLS1xSYC7bojHhD5Ia09_2iyLxzMgMiYg&oe=6AE78B7C",
+      "video_url": null,
+      "first_seen": "2026-10-28T07:37:24.907350+00:00",
+      "last_seen": "2026-10-28T07:37:24.907350+00:00",
+      "active_checked_at": "2026-10-28T07:37:24.907350+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "NL"
+      ]
+    },
+    {
+      "ad_id": "28344129041887138",
+      "product_name": "unidentified product",
+      "product_key": "unverified:28344129041887138",
+      "category": "other",
+      "advertiser": "Nantong Jinba Sports & Fitness Co., Ltd.",
+      "source_country": "NL",
+      "ad_url": "https://www.facebook.com/ads/library/?id=28344129041887138",
+      "landing_url": "http://fb.me/",
+      "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/760093282_2514871722315351_823796614824249743_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PjeMrsZadgcQ7kNvwEO3BYA&_nc_oc=Ado6ozi0r61dEKJlucdZ8yc8v0T2gjmIAGethgDfKwCSiioA5t7jBjQYBcZgwKMwVV8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=o7k9yihRvn18M0J1y2Vmtw&_nc_ss=79289&oh=00_AQS6cKbb5cGiWoOkMjpvIJ6nRFvVNTkN6L8dVd61KhPb6Q&oe=6AE78EC1",
+      "video_url": null,
+      "first_seen": "2026-10-28T07:37:24.907350+00:00",
+      "last_seen": "2026-10-28T07:37:24.907350+00:00",
+      "active_checked_at": "2026-10-28T07:37:24.907350+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "NL"
+      ]
+    },
+    {
+      "ad_id": "1826446302100559",
+      "product_name": "unidentified product",
+      "product_key": "unverified:1826446302100559",
+      "category": "other",
+      "advertiser": "Nantong Jinba Sports & Fitness Co., Ltd.",
+      "source_country": "NL",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1826446302100559",
+      "landing_url": "http://fb.me/",
+      "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/760093282_2514871722315351_823796614824249743_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PjeMrsZadgcQ7kNvwEO3BYA&_nc_oc=Ado6ozi0r61dEKJlucdZ8yc8v0T2gjmIAGethgDfKwCSiioA5t7jBjQYBcZgwKMwVV8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=o7k9yihRvn18M0J1y2Vmtw&_nc_ss=79289&oh=00_AQS6cKbb5cGiWoOkMjpvIJ6nRFvVNTkN6L8dVd61KhPb6Q&oe=6AE78EC1",
+      "video_url": null,
+      "first_seen": "2026-10-28T07:37:24.907350+00:00",
+      "last_seen": "2026-10-28T07:37:24.907350+00:00",
+      "active_checked_at": "2026-10-28T07:37:24.907350+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "NL"
+      ]
+    },
+    {
+      "ad_id": "2204145253499530",
+      "product_name": "outdoor sports silicone band for apple watch",
+      "product_key": "sku:outdoor sports silicone band for apple watch",
+      "category": "sport",
+      "advertiser": "Vipzoon",
+      "source_country": "NL",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2204145253499530",
+      "landing_url": "https://vipzoon.com/products/outdoor-sports-silicone-band-for-apple-watch",
+      "image_url": null,
+      "video_url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNq_k9QVD4OylYWT-LfsziYNXWnCDaJ2F0a44IwBLouJf-bD5Cxg9imY1WrVv3EKbdiYorIWIS0y1jV9T422PCCqS7uzRcO706AR3Icur-Mdw.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=PXI02sjGcbEQ7kNvwEZuysA&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE4Mzg1MTY1MzY1NTI2NTEsImFzc2V0X2FnZV9kYXlzIjo2NDYsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxMiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=5d30485c54bc93d9&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80ODQ2MTZFNjJBQTVBQUUyREU0RjA1Q0Y1QzkxRDQ5Rl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dFNmxIeHpMS08zdFRnZ0NBTWFkbTJZMzRYcGFidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaWs5nR34fEBhUCKAJDMywXQCiqfvnbItEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=o7k9yihRvn18M0J1y2Vmtw&_nc_ss=79289&_nc_zt=28&oh=00_AQTyA0JrPTKhz28RchEHzZuDZrIYZhfO35P2hLyHCwuoHg&oe=6AE78AC2",
+      "first_seen": "2026-10-28T07:37:24.907350+00:00",
+      "last_seen": "2026-10-28T07:37:24.907350+00:00",
+      "active_checked_at": "2026-10-28T07:37:24.907350+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "NL"
+      ]
+    },
+    {
+      "ad_id": "918668741182607",
+      "product_name": "go tone pro",
+      "product_key": "unverified:918668741182607",
+      "category": "other",
+      "advertiser": "Rayofi",
+      "source_country": "NL",
+      "ad_url": "https://www.facebook.com/ads/library/?id=918668741182607",
+      "landing_url": "https://rayofi.com/products/go-tone-pro",
+      "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/865587638_4540556559528542_1804381526281548566_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iv3WWwtNj7AQ7kNvwETKdEq&_nc_oc=Adp5O4rn2TV3ho8rS87pg6baEXVgslHpdKkAjjAsYhGO2XwBTw2pzNzJOE1dlm0_RyI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=o7k9yihRvn18M0J1y2Vmtw&_nc_ss=79289&oh=00_AQQzfJyOtuCmDAa4AQkbnBFtls9IfskTeon9XCk9Q24jig&oe=6AE7682D",
+      "video_url": null,
+      "first_seen": "2026-10-28T07:37:24.907350+00:00",
+      "last_seen": "2026-10-28T07:37:24.907350+00:00",
+      "active_checked_at": "2026-10-28T07:37:24.907350+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "NL"
+      ]
+    },
+    {
+      "ad_id": "1799160604625013",
+      "product_name": "go tone pro",
+      "product_key": "unverified:1799160604625013",
+      "category": "other",
+      "advertiser": "Rayofi",
+      "source_country": "NL",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1799160604625013",
+      "landing_url": "https://rayofi.com/products/go-tone-pro",
+      "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/861548408_1698411372001504_2519353397521529765_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Xg5SlXhP7fUQ7kNvwGh0WBh&_nc_oc=Adp8Fi7c5uIhTx6X9xoShEjqPDIquRer780oUypaTy9uY1DUk6saPpGmuUQEHYiwGAU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=o7k9yihRvn18M0J1y2Vmtw&_nc_ss=79289&oh=00_AQSpqKghsqWaRHoLjhd0nKw_kgj-hBbwnsUgYs23i72-lQ&oe=6AE7668A",
+      "video_url": null,
+      "first_seen": "2026-10-28T07:37:24.907350+00:00",
+      "last_seen": "2026-10-28T07:37:24.907350+00:00",
+      "active_checked_at": "2026-10-28T07:37:24.907350+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "NL"
+      ]
+    },
+    {
+      "ad_id": "979684878544066",
+      "product_name": "go tone pro",
+      "product_key": "unverified:979684878544066",
+      "category": "other",
+      "advertiser": "Rayofi",
+      "source_country": "NL",
+      "ad_url": "https://www.facebook.com/ads/library/?id=979684878544066",
+      "landing_url": "https://rayofi.com/products/go-tone-pro",
+      "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/861385194_1121446617539205_532040947606233102_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lvC6Q7uazPsQ7kNvwHvbenY&_nc_oc=AdrrCSgSRsTz0ZEVMi9NcJ5EZYVM_TKzGwXLm4U4CGUh2IMGYCyMFEqYdbFdeROpTxU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=o7k9yihRvn18M0J1y2Vmtw&_nc_ss=79289&oh=00_AQRqtXzRpSiwnWcOpHn4n5f9vnKT2NRVX0j8HX10sL9PKg&oe=6AE77688",
+      "video_url": null,
+      "first_seen": "2026-10-28T07:37:24.907350+00:00",
+      "last_seen": "2026-10-28T07:37:24.907350+00:00",
+      "active_checked_at": "2026-10-28T07:37:24.907350+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "NL"
+      ]
+    },
+    {
+      "ad_id": "2167936687406980",
+      "product_name": "go tone pro",
+      "product_key": "unverified:2167936687406980",
+      "category": "other",
+      "advertiser": "Rayofi",
+      "source_country": "NL",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2167936687406980",
+      "landing_url": "https://rayofi.com/products/go-tone-pro",
+      "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/865119565_1093087676956939_1802037077741832602_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=m-pAR3qMGNkQ7kNvwH4BODB&_nc_oc=AdotZKKBkBW0QBoBSjfDmMW8nNBLzmjRhSHSKrk8UO_zWPp3sdkDRnIi-8TOfx3bsZs&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=o7k9yihRvn18M0J1y2Vmtw&_nc_ss=79289&oh=00_AQRsBefxOk48fnFAq0QvxKvcFmCaiYtE3m-PZ-aLEicRlg&oe=6AE75ED4",
+      "video_url": null,
+      "first_seen": "2026-10-28T07:37:24.907350+00:00",
+      "last_seen": "2026-10-28T07:37:24.907350+00:00",
+      "active_checked_at": "2026-10-28T07:37:24.907350+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "NL"
+      ]
+    },
     {
       "ad_id": "1225177822918071",
       "product_name": "crossbody l2eather bag",
