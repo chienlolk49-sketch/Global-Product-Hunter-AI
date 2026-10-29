@@ -1,37 +1,37 @@
 {
-  "timestamp_utc": "2026-10-29T21:06:20.540484+00:00",
+  "timestamp_utc": "2026-10-29T21:47:02.830711+00:00",
   "attempts": [
     {
-      "country": "US",
-      "keyword": "hair serum",
-      "category": "beauty",
+      "country": "KR",
+      "keyword": "kitchen gadget",
+      "category": "kitchen",
       "found": 30
     },
     {
-      "country": "ES",
-      "keyword": "skincare serum",
-      "category": "beauty",
+      "country": "FI",
+      "keyword": "vegetable cutter",
+      "category": "kitchen",
       "found": 30
     },
     {
-      "country": "CZ",
-      "keyword": "hair care",
-      "category": "beauty",
-      "found": 30
+      "country": "AR",
+      "keyword": "cooking accessory",
+      "category": "kitchen",
+      "found": 7
     },
     {
-      "country": "PE",
-      "keyword": "shampoo",
-      "category": "beauty",
+      "country": "IL",
+      "keyword": "coffee maker",
+      "category": "kitchen",
       "found": 30
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 65,
-  "unique_active_ads_observed_last_48h": 2605,
+  "new_ads": 7,
+  "unique_active_ads_observed_last_48h": 2612,
   "qualifying_products": 4,
-  "groups_below_threshold_or_unverified": 2224,
+  "groups_below_threshold_or_unverified": 2227,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "ok",
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
