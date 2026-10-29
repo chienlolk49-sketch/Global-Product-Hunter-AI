@@ -1,37 +1,37 @@
 {
-  "timestamp_utc": "2026-10-29T17:50:08.383830+00:00",
+  "timestamp_utc": "2026-10-29T18:28:09.550475+00:00",
   "attempts": [
     {
-      "country": "HU",
-      "keyword": "duong toc",
+      "country": "CO",
+      "keyword": "makeup tools",
       "category": "beauty",
+      "found": 28
+    },
+    {
+      "country": "TR",
+      "keyword": "neck massager",
+      "category": "wellness",
       "found": 30
     },
     {
-      "country": "NG",
-      "keyword": "dung cu nha bep",
-      "category": "kitchen",
+      "country": "KZ",
+      "keyword": "posture support",
+      "category": "wellness",
       "found": 30
     },
     {
-      "country": "LK",
-      "keyword": "organizador hogar",
-      "category": "home",
-      "found": 0
-    },
-    {
-      "country": "SI",
-      "keyword": "cuidado cabello",
-      "category": "beauty",
+      "country": "US",
+      "keyword": "massage device",
+      "category": "wellness",
       "found": 30
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 20,
-  "unique_active_ads_observed_last_48h": 2446,
-  "qualifying_products": 3,
-  "groups_below_threshold_or_unverified": 2075,
+  "new_ads": 62,
+  "unique_active_ads_observed_last_48h": 2508,
+  "qualifying_products": 4,
+  "groups_below_threshold_or_unverified": 2132,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "ok",
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"

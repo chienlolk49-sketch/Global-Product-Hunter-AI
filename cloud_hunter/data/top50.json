@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T17:50:08.383830+00:00",
+  "updated_at": "2026-10-29T18:28:09.550475+00:00",
   "minimum_active_ads": 21,
   "active_window_hours": 48,
   "categories": {
@@ -909,6 +909,435 @@
             "is_active_observed": true,
             "source_countries": [
               "PE"
+            ]
+          }
+        ],
+        "verification": "Approximate product identity, never ad-set count or verified sales"
+      },
+      {
+        "name": "source health care on alibaba com alibaba com-world s leading b2b marketplace",
+        "group_key": "title:source health care on alibaba com alibaba com-world s leading b2b marketplace",
+        "ad_count": 21,
+        "active_ads_observed": 21,
+        "advertiser_count": 1,
+        "countries": [
+          "BE",
+          "HK",
+          "IE",
+          "SK",
+          "TR",
+          "VN"
+        ],
+        "last_active_observation": "2026-10-29T18:28:09.550475+00:00",
+        "ads": [
+          {
+            "ad_id": "2036871433846026",
+            "product_name": "source health care on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source health care on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "wellness",
+            "advertiser": "Alibaba.com",
+            "source_country": "BE",
+            "ad_url": "https://www.facebook.com/ads/library/?id=2036871433846026",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign&cid=100002908",
+            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/370268703_1009199960531138_4771752704840418550_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wwX6ioMDZYQQ7kNvwHWOCyW&_nc_oc=Adq0TnGEbo91D9sasXyP9atdwclvwtAH1l_jSeQyRkvtg82ONSputf954I7WOaaf8Lo&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=Beck3R_aU5WXPaK1_d_6Jg&_nc_ss=79289&oh=00_AQRF9Mbja5jEBOpp7DHUtaeRUeeAUi3iuK7Qbo5i2Shyew&oe=6AE73301",
+            "video_url": null,
+            "first_seen": "2026-10-28T03:25:05.832855+00:00",
+            "last_seen": "2026-10-29T18:28:09.550475+00:00",
+            "active_checked_at": "2026-10-29T18:28:09.550475+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "BE",
+              "HK",
+              "SK",
+              "TR",
+              "VN"
+            ]
+          },
+          {
+            "ad_id": "938806749151374",
+            "product_name": "source health care on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source health care on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "wellness",
+            "advertiser": "Alibaba.com",
+            "source_country": "BE",
+            "ad_url": "https://www.facebook.com/ads/library/?id=938806749151374",
+            "landing_url": "https://m.alibaba.com/lp/brand-nv-mobile.html?src=cpm_fb&sub_channel=dpa&link_type=campaign&biz=brandwall_linghang&campaign_type=brandwall_linghang&company_id=292031184&field=BRAND_AD&comp_id=292031184",
+            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/701960504_807206832269903_6350515492139843571_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=S1YPBkLJNN4Q7kNvwHqqAUZ&_nc_oc=AdqMXV74IOLYt4zBx1zVtEjuE3A8Zw-mfLZPaoog7iH5P37YuKAlD_J9KFPcey81fQs&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=Beck3R_aU5WXPaK1_d_6Jg&_nc_ss=79289&oh=00_AQQxchzDMKwg0Y6u6zxAN8PrioyVDJSQXfpwRVt3jxeM8g&oe=6AE74CF4",
+            "video_url": null,
+            "first_seen": "2026-10-28T03:25:05.832855+00:00",
+            "last_seen": "2026-10-29T18:28:09.550475+00:00",
+            "active_checked_at": "2026-10-29T18:28:09.550475+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "BE",
+              "HK",
+              "SK",
+              "TR",
+              "VN"
+            ]
+          },
+          {
+            "ad_id": "1778686456731745",
+            "product_name": "source health care on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source health care on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "wellness",
+            "advertiser": "Alibaba.com",
+            "source_country": "TR",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1778686456731745",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/862860786_1083009201434071_7004770307325868459_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_qeuEWg6VSwQ7kNvwG32WRi&_nc_oc=Ado8Ydp7qzoAPhSIGhvAFAml0Y9BKh9JLJvJYrRvk4A0C1M9JDyCPDxXpf6IXumjE2c&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=sOnVD4M7UYdfhWSnOluilw&_nc_ss=79289&oh=00_AQSpUyd6AlRETgkoKhtQzvW5VIwU2Ds5Fw4JtFknGUFauw&oe=6AE979BF",
+            "video_url": null,
+            "first_seen": "2026-10-29T18:28:09.550475+00:00",
+            "last_seen": "2026-10-29T18:28:09.550475+00:00",
+            "active_checked_at": "2026-10-29T18:28:09.550475+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "TR"
+            ]
+          },
+          {
+            "ad_id": "2020579255455648",
+            "product_name": "source health care on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source health care on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "wellness",
+            "advertiser": "Alibaba.com",
+            "source_country": "TR",
+            "ad_url": "https://www.facebook.com/ads/library/?id=2020579255455648",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/867599598_1641070414186223_5341231761725981939_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kb94QumWgCEQ7kNvwFdDmsd&_nc_oc=Adq6Quk2cb6TDnXCo10OjaxuI_OcjgmE2yRNUSsAfqfgHZnTPlnMQnoXbnptnNQQTkc&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=sOnVD4M7UYdfhWSnOluilw&_nc_ss=79289&oh=00_AQQL67D8waw6g3QedR7TNUVvoDKenUUeza2YpVt6yGGBUQ&oe=6AE9779F",
+            "video_url": null,
+            "first_seen": "2026-10-29T18:28:09.550475+00:00",
+            "last_seen": "2026-10-29T18:28:09.550475+00:00",
+            "active_checked_at": "2026-10-29T18:28:09.550475+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "TR"
+            ]
+          },
+          {
+            "ad_id": "1606170430718446",
+            "product_name": "source health care on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source health care on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "wellness",
+            "advertiser": "Alibaba.com",
+            "source_country": "SK",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1606170430718446",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/538903915_24514827641462548_326087652618012054_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=C_d2p9o_jX8Q7kNvwH_AG-T&_nc_oc=AdpvrCIbti1zFpUjyzihcIWf5xy9RzDF0vPDfosx4mO1CAWi2EZXYXIEMOWGMYP3tuY&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=4LZnF6ZmQ_5ChMm9H0n-pg&_nc_ss=79289&oh=00_AQRkgHW2V2e3LIujyKIUwrMmlZvsR1Sz0nA3aUEvpD0HPQ&oe=6AE78600",
+            "video_url": null,
+            "first_seen": "2026-10-28T09:23:30.438122+00:00",
+            "last_seen": "2026-10-28T18:24:50.657322+00:00",
+            "active_checked_at": "2026-10-28T18:24:50.657322+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "SK",
+              "VN"
+            ]
+          },
+          {
+            "ad_id": "28784999007854447",
+            "product_name": "source health care on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source health care on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "wellness",
+            "advertiser": "Alibaba.com",
+            "source_country": "SK",
+            "ad_url": "https://www.facebook.com/ads/library/?id=28784999007854447",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/545777229_1404975797261364_9134208871565880934_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hjQfn39xmS8Q7kNvwG_vGdT&_nc_oc=Adqv2t0kSKlbIBgQdGBb2NaAroQ94OoeO6urPPajxt2uhC5FFTFtbnJLQpQm4aAme7c&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=4LZnF6ZmQ_5ChMm9H0n-pg&_nc_ss=79289&oh=00_AQTCkUlk2eROhSZpMHnaH6HSoVkjgnPE93FAwf6yx8jbCg&oe=6AE79CF6",
+            "video_url": null,
+            "first_seen": "2026-10-28T09:23:30.438122+00:00",
+            "last_seen": "2026-10-28T18:24:50.657322+00:00",
+            "active_checked_at": "2026-10-28T18:24:50.657322+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "SK",
+              "VN"
+            ]
+          },
+          {
+            "ad_id": "1510991250509953",
+            "product_name": "source health care on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source health care on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "wellness",
+            "advertiser": "Alibaba.com",
+            "source_country": "SK",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1510991250509953",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/732675444_1294738962435149_7588894186375451648_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0y-SZv4I32QQ7kNvwG21Yu_&_nc_oc=AdqPtSnuXY3HD8mTprtjWCEtpXF_RyZSL3ywrRQCxxPHMCSxQ5CVLVbFb6GYW74x0fU&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=4LZnF6ZmQ_5ChMm9H0n-pg&_nc_ss=79289&oh=00_AQRhp1fLurtZ44ORGZlyV0PIPsEavMU5iFCjokeA0Tq0HQ&oe=6AE7AC9A",
+            "video_url": null,
+            "first_seen": "2026-10-28T09:23:30.438122+00:00",
+            "last_seen": "2026-10-28T18:24:50.657322+00:00",
+            "active_checked_at": "2026-10-28T18:24:50.657322+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "SK",
+              "VN"
+            ]
+          },
+          {
+            "ad_id": "1184139903610078",
+            "product_name": "source health care on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source health care on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "wellness",
+            "advertiser": "Alibaba.com",
+            "source_country": "IE",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1184139903610078",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/540536416_2623036644746872_4589337464321121937_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PUDXAfb_5joQ7kNvwHCu_rv&_nc_oc=AdpKo4_OzD2yOgn4vQ8CbzN4mIYw3rmFbRKfC0STTK0vz612CjL9P3BWz3zWInCVjhg&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=4nHTDDd_NbAHA2sgr404qw&_nc_ss=79289&oh=00_AQRj9qYSErIrNqPmlgIXPveoNQZurriEOpfwdrThbap6FA&oe=6AE81563",
+            "video_url": null,
+            "first_seen": "2026-10-28T18:24:50.657322+00:00",
+            "last_seen": "2026-10-28T18:24:50.657322+00:00",
+            "active_checked_at": "2026-10-28T18:24:50.657322+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "IE"
+            ]
+          },
+          {
+            "ad_id": "785213170879650",
+            "product_name": "source health care on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source health care on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "wellness",
+            "advertiser": "Alibaba.com",
+            "source_country": "SK",
+            "ad_url": "https://www.facebook.com/ads/library/?id=785213170879650",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/645588669_1462925798843760_8845804455437488758_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Lb_LzQR0u8UQ7kNvwGXdMNr&_nc_oc=AdrONhMyULvrnOoXdoicsJG-R0Ej-s4Vbk2Cirr7D0neA7-fsEwisON2Z6H-vRb7IpU&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=4LZnF6ZmQ_5ChMm9H0n-pg&_nc_ss=79289&oh=00_AQRFmETZOAkHwokrjdv4MhCI2gNPIyTQ4FfPCoACCRT3fQ&oe=6AE7A9FC",
+            "video_url": null,
+            "first_seen": "2026-10-28T09:23:30.438122+00:00",
+            "last_seen": "2026-10-28T09:23:30.438122+00:00",
+            "active_checked_at": "2026-10-28T09:23:30.438122+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "SK"
+            ]
+          },
+          {
+            "ad_id": "1300310242222435",
+            "product_name": "source health care on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source health care on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "wellness",
+            "advertiser": "Alibaba.com",
+            "source_country": "SK",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1300310242222435",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/717249163_1461457135662849_1294507330250434181_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=e1R8C0LV-wcQ7kNvwEIrL65&_nc_oc=AdpQdtJQs1jzm9V5j1lYnGHZlUJhv3gi9aW1GA3RwTJcVQi2PmuIpzm0Nv5P5NJFYHY&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=4LZnF6ZmQ_5ChMm9H0n-pg&_nc_ss=79289&oh=00_AQQdg1eJxlV9jwr1tFaMXZ-V15sk7NEdezUu6a6w3KKt3A&oe=6AE7990B",
+            "video_url": null,
+            "first_seen": "2026-10-28T09:23:30.438122+00:00",
+            "last_seen": "2026-10-28T09:23:30.438122+00:00",
+            "active_checked_at": "2026-10-28T09:23:30.438122+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "SK"
+            ]
+          },
+          {
+            "ad_id": "2442566086265232",
+            "product_name": "source health care on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source health care on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "wellness",
+            "advertiser": "Alibaba.com",
+            "source_country": "SK",
+            "ad_url": "https://www.facebook.com/ads/library/?id=2442566086265232",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/641429171_1585044429441339_1138007961471600759_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=y78xAI0F3tsQ7kNvwHlTEYf&_nc_oc=AdqFyjm1E1K0TemXCBtNBQsJLCvIMi-gWhBOJXNktVufDnAeR1FsbI-5QDd54U41WDg&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=4LZnF6ZmQ_5ChMm9H0n-pg&_nc_ss=79289&oh=00_AQSSFpohcAppJ1PKImE25B9DI4zP5zc3xL_eS_-iJz0GKg&oe=6AE79B7F",
+            "video_url": null,
+            "first_seen": "2026-10-28T09:23:30.438122+00:00",
+            "last_seen": "2026-10-28T09:23:30.438122+00:00",
+            "active_checked_at": "2026-10-28T09:23:30.438122+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "SK"
+            ]
+          },
+          {
+            "ad_id": "831599389511486",
+            "product_name": "source health care on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source health care on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "wellness",
+            "advertiser": "Alibaba.com",
+            "source_country": "SK",
+            "ad_url": "https://www.facebook.com/ads/library/?id=831599389511486",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/540896783_2354850944972051_484246346999401860_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8ahALjAlHMYQ7kNvwGMs5Zs&_nc_oc=AdqgLUiTxr5nU9CI580bT2CnGrGwqoJRSLSX1pqKIQSt35cne_jlyDVp5p6X3vLRjj0&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=4LZnF6ZmQ_5ChMm9H0n-pg&_nc_ss=79289&oh=00_AQTHf_Cmc_6YOms5R0Ci8sO22yrWGqCq3pcsZ6a0hVpFCw&oe=6AE7760C",
+            "video_url": null,
+            "first_seen": "2026-10-28T09:23:30.438122+00:00",
+            "last_seen": "2026-10-28T09:23:30.438122+00:00",
+            "active_checked_at": "2026-10-28T09:23:30.438122+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "SK"
+            ]
+          },
+          {
+            "ad_id": "25566699403008879",
+            "product_name": "source health care on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source health care on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "wellness",
+            "advertiser": "Alibaba.com",
+            "source_country": "SK",
+            "ad_url": "https://www.facebook.com/ads/library/?id=25566699403008879",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/625363085_1227955775975809_883936525115244222_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=opLL4JF9FqYQ7kNvwHSHwuH&_nc_oc=AdozgHLuIiiBdF_-RTYBtyh8jAxgzRasi1LbzZfGDcbQFTVequx6E9FtsH7HGfGNUn8&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=4LZnF6ZmQ_5ChMm9H0n-pg&_nc_ss=79289&oh=00_AQRyr5-TfwmIIyp7n6cz7yOQUn9nzOLr7E8zgXxQz-yjgw&oe=6AE783F7",
+            "video_url": null,
+            "first_seen": "2026-10-28T09:23:30.438122+00:00",
+            "last_seen": "2026-10-28T09:23:30.438122+00:00",
+            "active_checked_at": "2026-10-28T09:23:30.438122+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "SK"
+            ]
+          },
+          {
+            "ad_id": "1606477990844532",
+            "product_name": "source health care on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source health care on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "wellness",
+            "advertiser": "Alibaba.com",
+            "source_country": "SK",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1606477990844532",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/769051871_985738747852112_288848617770504097_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vzspB-5EnV8Q7kNvwFWc3Be&_nc_oc=Adr0sKPIBwJyBYNHHQSkYwuuNhlI8gI83N89j9TJG96LLsZmsDULIJ9cweS3EqHRlo8&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=4LZnF6ZmQ_5ChMm9H0n-pg&_nc_ss=79289&oh=00_AQTwWBl8PKlF5eWpb3h4y2Re171ZFwlhinuBFGhwVxyhag&oe=6AE79E4F",
+            "video_url": null,
+            "first_seen": "2026-10-28T09:23:30.438122+00:00",
+            "last_seen": "2026-10-28T09:23:30.438122+00:00",
+            "active_checked_at": "2026-10-28T09:23:30.438122+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "SK"
+            ]
+          },
+          {
+            "ad_id": "1487910629240578",
+            "product_name": "source health care on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source health care on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "wellness",
+            "advertiser": "Alibaba.com",
+            "source_country": "SK",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1487910629240578",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/616404286_1225286606223048_6081073423317146164_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4JqGVajzWkcQ7kNvwH-FBAK&_nc_oc=AdrjzFWuDkzzk4oZqHehrBcbZk71TYnh-1gUdR85vXQXE9BSEv62YWXgpbHr8MAumXk&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=4LZnF6ZmQ_5ChMm9H0n-pg&_nc_ss=79289&oh=00_AQQsEXinZqvhlnFyB1i2dYv8yx2b-Dr4dhXc7licAMlW6Q&oe=6AE79210",
+            "video_url": null,
+            "first_seen": "2026-10-28T09:23:30.438122+00:00",
+            "last_seen": "2026-10-28T09:23:30.438122+00:00",
+            "active_checked_at": "2026-10-28T09:23:30.438122+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "SK"
+            ]
+          },
+          {
+            "ad_id": "1578603493252442",
+            "product_name": "source health care on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source health care on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "wellness",
+            "advertiser": "Alibaba.com",
+            "source_country": "SK",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1578603493252442",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/571785052_1326442829279472_3542837732947464484_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LDvrzjIsgOMQ7kNvwHayDb3&_nc_oc=AdqBNg3g1IhLSQ5coJWd4gGpMwIF6jMumoHCjfSQKtSCJ1NyZmepc1vx4q9BRPJ79uA&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=4LZnF6ZmQ_5ChMm9H0n-pg&_nc_ss=79289&oh=00_AQSGpMJIxJ1-ipmTv8YO7gIbn9ga3XVyIEwy_FV4dqDADw&oe=6AE7A5F0",
+            "video_url": null,
+            "first_seen": "2026-10-28T09:23:30.438122+00:00",
+            "last_seen": "2026-10-28T09:23:30.438122+00:00",
+            "active_checked_at": "2026-10-28T09:23:30.438122+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "SK"
+            ]
+          },
+          {
+            "ad_id": "949155767942450",
+            "product_name": "source health care on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source health care on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "wellness",
+            "advertiser": "Alibaba.com",
+            "source_country": "SK",
+            "ad_url": "https://www.facebook.com/ads/library/?id=949155767942450",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/689009086_1654751599089645_8704568038789097370_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4Dxqps1kcsEQ7kNvwEesoeb&_nc_oc=AdqSdAICZnzocwb001bVHObBPe6P38mZrlBhtj77cdCuwcPd8YxkOv5EhktDdh-v3S8&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=4LZnF6ZmQ_5ChMm9H0n-pg&_nc_ss=79289&oh=00_AQR50TgORwtZj3eVAggQukOqXNuXKZM43AjC61vj9zzlIw&oe=6AE7ABD2",
+            "video_url": null,
+            "first_seen": "2026-10-28T09:23:30.438122+00:00",
+            "last_seen": "2026-10-28T09:23:30.438122+00:00",
+            "active_checked_at": "2026-10-28T09:23:30.438122+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "SK"
+            ]
+          },
+          {
+            "ad_id": "1423248812473876",
+            "product_name": "source health care on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source health care on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "wellness",
+            "advertiser": "Alibaba.com",
+            "source_country": "SK",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1423248812473876",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/837858432_1795984267962792_1466291381521091310_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MBAPDkANza4Q7kNvwEZZnGy&_nc_oc=AdrQB0DQLkaZGDesz9VLI9Xdm1SeAYh4ZMk_ljYO76yJoQGcFrusEmz_lOolUuhOsoc&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=4LZnF6ZmQ_5ChMm9H0n-pg&_nc_ss=79289&oh=00_AQQ0m9O8ltqewW30N980-8py_roZnrFK1vpY3_WC0R3S5Q&oe=6AE78F45",
+            "video_url": null,
+            "first_seen": "2026-10-28T09:23:30.438122+00:00",
+            "last_seen": "2026-10-28T09:23:30.438122+00:00",
+            "active_checked_at": "2026-10-28T09:23:30.438122+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "SK"
+            ]
+          },
+          {
+            "ad_id": "2202835660460153",
+            "product_name": "source health care on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source health care on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "wellness",
+            "advertiser": "Alibaba.com",
+            "source_country": "SK",
+            "ad_url": "https://www.facebook.com/ads/library/?id=2202835660460153",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/641559058_2199945394083212_166169541370543731_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mvnsFgWEExgQ7kNvwFK_D4k&_nc_oc=AdoXggm6rnOVxZ6gjGqO62dz5EMsPx6DW06SSK7JwPyisv6Tbgr_wY4J95FfhUbmxqg&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=4LZnF6ZmQ_5ChMm9H0n-pg&_nc_ss=79289&oh=00_AQRff0-oZ-MUA5K7qarOU8LQqq67GeC_6FbKnfy39bmFsw&oe=6AE7A82C",
+            "video_url": null,
+            "first_seen": "2026-10-28T09:23:30.438122+00:00",
+            "last_seen": "2026-10-28T09:23:30.438122+00:00",
+            "active_checked_at": "2026-10-28T09:23:30.438122+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "SK"
+            ]
+          },
+          {
+            "ad_id": "1869007224488931",
+            "product_name": "source health care on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source health care on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "wellness",
+            "advertiser": "Alibaba.com",
+            "source_country": "SK",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1869007224488931",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/642859141_1611251033524648_6915801393638287743_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=e_FMnhjOC94Q7kNvwG1k0iy&_nc_oc=Adoz50pIdO84sjLUW8GmxHJvt2ak8tvYNG1NhuQcMWb3jJZ2hnnAjxjrIJmJTAq7a34&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=4LZnF6ZmQ_5ChMm9H0n-pg&_nc_ss=79289&oh=00_AQQfruhlC9-y2o1WDUTW1SabQd6h09C32d1vxo7qOQcBEw&oe=6AE794A2",
+            "video_url": null,
+            "first_seen": "2026-10-28T09:23:30.438122+00:00",
+            "last_seen": "2026-10-28T09:23:30.438122+00:00",
+            "active_checked_at": "2026-10-28T09:23:30.438122+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "SK"
+            ]
+          },
+          {
+            "ad_id": "2095434604572012",
+            "product_name": "source health care on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source health care on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "wellness",
+            "advertiser": "Alibaba.com",
+            "source_country": "SK",
+            "ad_url": "https://www.facebook.com/ads/library/?id=2095434604572012",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/615814914_780772084282441_8825393359596370628_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=psNtliZagdwQ7kNvwE-OQ-Y&_nc_oc=AdqIunfe61_08KaXpy1Q0n1408m3IDhrZ00Zdv63KO4UF9e_AtJK4MQQ2n3sDuGZRFA&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=4LZnF6ZmQ_5ChMm9H0n-pg&_nc_ss=79289&oh=00_AQRXUcpKGDxQMSUcHbjRHuXNSu5oToiSyX5xBiZqA2IN8w&oe=6AE7A30D",
+            "video_url": null,
+            "first_seen": "2026-10-28T09:23:30.438122+00:00",
+            "last_seen": "2026-10-28T09:23:30.438122+00:00",
+            "active_checked_at": "2026-10-28T09:23:30.438122+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "SK"
             ]
           }
         ],
