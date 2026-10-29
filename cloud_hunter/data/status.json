@@ -1,37 +1,37 @@
 {
-  "timestamp_utc": "2026-10-29T18:28:09.550475+00:00",
+  "timestamp_utc": "2026-10-29T19:28:57.087861+00:00",
   "attempts": [
     {
-      "country": "CO",
-      "keyword": "makeup tools",
-      "category": "beauty",
-      "found": 28
-    },
-    {
-      "country": "TR",
-      "keyword": "neck massager",
-      "category": "wellness",
+      "country": "IL",
+      "keyword": "crossbody bag",
+      "category": "fashion",
       "found": 30
     },
     {
-      "country": "KZ",
-      "keyword": "posture support",
-      "category": "wellness",
+      "country": "UA",
+      "keyword": "comfortable shoes",
+      "category": "fashion",
       "found": 30
     },
     {
-      "country": "US",
-      "keyword": "massage device",
-      "category": "wellness",
+      "country": "GB",
+      "keyword": "jewelry",
+      "category": "fashion",
+      "found": 30
+    },
+    {
+      "country": "PT",
+      "keyword": "casual clothing",
+      "category": "fashion",
       "found": 30
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 62,
-  "unique_active_ads_observed_last_48h": 2508,
+  "new_ads": 7,
+  "unique_active_ads_observed_last_48h": 2515,
   "qualifying_products": 4,
-  "groups_below_threshold_or_unverified": 2132,
+  "groups_below_threshold_or_unverified": 2139,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "ok",
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
