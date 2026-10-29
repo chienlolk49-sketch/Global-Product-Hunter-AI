@@ -1,37 +1,37 @@
 {
-  "timestamp_utc": "2026-10-29T21:47:02.830711+00:00",
+  "timestamp_utc": "2026-10-29T22:24:21.137783+00:00",
   "attempts": [
     {
-      "country": "KR",
-      "keyword": "kitchen gadget",
-      "category": "kitchen",
+      "country": "AT",
+      "keyword": "crossbody bag",
+      "category": "fashion",
       "found": 30
     },
     {
-      "country": "FI",
-      "keyword": "vegetable cutter",
-      "category": "kitchen",
+      "country": "GR",
+      "keyword": "comfortable shoes",
+      "category": "fashion",
       "found": 30
     },
     {
-      "country": "AR",
-      "keyword": "cooking accessory",
-      "category": "kitchen",
-      "found": 7
+      "country": "EG",
+      "keyword": "jewelry",
+      "category": "fashion",
+      "found": 30
     },
     {
-      "country": "IL",
-      "keyword": "coffee maker",
-      "category": "kitchen",
+      "country": "SG",
+      "keyword": "casual clothing",
+      "category": "fashion",
       "found": 30
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 7,
-  "unique_active_ads_observed_last_48h": 2612,
+  "new_ads": 5,
+  "unique_active_ads_observed_last_48h": 2617,
   "qualifying_products": 4,
-  "groups_below_threshold_or_unverified": 2227,
+  "groups_below_threshold_or_unverified": 2232,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "ok",
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
