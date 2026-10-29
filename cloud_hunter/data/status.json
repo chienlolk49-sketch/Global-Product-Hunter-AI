@@ -1,34 +1,34 @@
 {
-  "timestamp_utc": "2026-10-29T22:24:21.137783+00:00",
+  "timestamp_utc": "2026-10-29T23:13:37.684302+00:00",
   "attempts": [
     {
-      "country": "AT",
-      "keyword": "crossbody bag",
-      "category": "fashion",
+      "country": "HU",
+      "keyword": "travel organizer",
+      "category": "travel",
       "found": 30
     },
     {
-      "country": "GR",
-      "keyword": "comfortable shoes",
-      "category": "fashion",
-      "found": 30
+      "country": "NG",
+      "keyword": "luggage accessory",
+      "category": "travel",
+      "found": 2
     },
     {
-      "country": "EG",
-      "keyword": "jewelry",
-      "category": "fashion",
-      "found": 30
+      "country": "LK",
+      "keyword": "camping equipment",
+      "category": "travel",
+      "found": 26
     },
     {
-      "country": "SG",
-      "keyword": "casual clothing",
-      "category": "fashion",
+      "country": "SI",
+      "keyword": "puzzle game",
+      "category": "toys",
       "found": 30
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 5,
+  "new_ads": 0,
   "unique_active_ads_observed_last_48h": 2617,
   "qualifying_products": 4,
   "groups_below_threshold_or_unverified": 2232,
