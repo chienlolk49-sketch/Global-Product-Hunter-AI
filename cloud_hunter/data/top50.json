@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T06:03:10.622749+00:00",
+  "updated_at": "2026-10-30T06:55:45.896057+00:00",
   "minimum_active_ads": 21,
   "active_window_hours": 48,
   "categories": {
@@ -24,7 +24,7 @@
           "PE",
           "SA"
         ],
-        "last_active_observation": "2026-10-30T00:56:03.650262+00:00",
+        "last_active_observation": "2026-10-30T06:55:45.896057+00:00",
         "ads": [
           {
             "ad_id": "1602276251446062",
@@ -38,8 +38,8 @@
             "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/812373109_1782094293210275_6778046102892464908_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=OlZ05x-Hl30Q7kNvwEPN2vH&_nc_oc=Ado2vbCEkkXw0b1wJbN0LveW86XCF9G1HFlDGAXWArffF5s5BHBH8-dmiXzlhdDCQW0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=SUonsZ1myV_Qoecp6hHATQ&_nc_ss=79289&oh=00_AQQnTvpoMEnZGpyV3jEUOk5cjxPgvbdVAsXVB6aKHMwWBg&oe=6AE7DC00",
             "video_url": null,
             "first_seen": "2026-10-28T12:54:34.839090+00:00",
-            "last_seen": "2026-10-30T00:56:03.650262+00:00",
-            "active_checked_at": "2026-10-30T00:56:03.650262+00:00",
+            "last_seen": "2026-10-30T06:55:45.896057+00:00",
+            "active_checked_at": "2026-10-30T06:55:45.896057+00:00",
             "is_active_observed": true,
             "source_countries": [
               "AT",
@@ -61,8 +61,8 @@
             "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/811830930_1396049951947368_8727536700436820138_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=X5Ew8ddP2iAQ7kNvwF5isyo&_nc_oc=AdofRhHqykGPab0T8wshdtJVKJs9apYkA_St3OZlr-S_RGbi6wZ1sgoULcxUrBQIbeA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=SUonsZ1myV_Qoecp6hHATQ&_nc_ss=79289&oh=00_AQR6hfYYlBE8unn2OXwqoTzcopvouUL_YgkSYtagzteUZA&oe=6AE7C33E",
             "video_url": null,
             "first_seen": "2026-10-28T12:54:34.839090+00:00",
-            "last_seen": "2026-10-30T00:56:03.650262+00:00",
-            "active_checked_at": "2026-10-30T00:56:03.650262+00:00",
+            "last_seen": "2026-10-30T06:55:45.896057+00:00",
+            "active_checked_at": "2026-10-30T06:55:45.896057+00:00",
             "is_active_observed": true,
             "source_countries": [
               "AT",
@@ -84,8 +84,8 @@
             "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/794447814_4467112353602147_8601544679394713778_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-CPfEedx0skQ7kNvwEe_inw&_nc_oc=AdrkVY4bFx2apkxP7TcjPjr-19BCPyznwhWdrE6Na9Oqj-uhQc3duofPq4tnpzK6yU4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=SUonsZ1myV_Qoecp6hHATQ&_nc_ss=79289&oh=00_AQSbgabtREyz4h78R3hL91rDd3DerqmirDVpqajn1qw6FA&oe=6AE7BD72",
             "video_url": null,
             "first_seen": "2026-10-28T12:54:34.839090+00:00",
-            "last_seen": "2026-10-30T00:56:03.650262+00:00",
-            "active_checked_at": "2026-10-30T00:56:03.650262+00:00",
+            "last_seen": "2026-10-30T06:55:45.896057+00:00",
+            "active_checked_at": "2026-10-30T06:55:45.896057+00:00",
             "is_active_observed": true,
             "source_countries": [
               "AT",
@@ -107,8 +107,8 @@
             "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/778985133_1563691878628072_4075139560395152163_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=J1FJaLwlEh0Q7kNvwHvotls&_nc_oc=AdpqdchIBogSI8XB1iIFwKGW1S6aqthJo8r8DSo7ZDg7PnPmxFrahz9F7qDO_1P7xRI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=SUonsZ1myV_Qoecp6hHATQ&_nc_ss=79289&oh=00_AQTs0IK0nXj16zm5JXnyfS1DaHsH97fw3npOXfnVu8ZNVQ&oe=6AE7B634",
             "video_url": null,
             "first_seen": "2026-10-28T12:54:34.839090+00:00",
-            "last_seen": "2026-10-30T00:56:03.650262+00:00",
-            "active_checked_at": "2026-10-30T00:56:03.650262+00:00",
+            "last_seen": "2026-10-30T06:55:45.896057+00:00",
+            "active_checked_at": "2026-10-30T06:55:45.896057+00:00",
             "is_active_observed": true,
             "source_countries": [
               "AT",
@@ -130,8 +130,8 @@
             "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/812132910_1469679015023839_7251404266984292396_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=aHpQ30HAZFkQ7kNvwGtVmk1&_nc_oc=AdoNsO8cRIF67v4_blVLZC93m30iHO2p_F27Xhd3D5A9whylbUfIBDHcvE5rQoYYKwI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=SUonsZ1myV_Qoecp6hHATQ&_nc_ss=79289&oh=00_AQRbCOrp-hvnIiEtth3x1WLwFrin0fJ-6I7TGJhrBefW9A&oe=6AE7CC48",
             "video_url": null,
             "first_seen": "2026-10-28T12:54:34.839090+00:00",
-            "last_seen": "2026-10-30T00:56:03.650262+00:00",
-            "active_checked_at": "2026-10-30T00:56:03.650262+00:00",
+            "last_seen": "2026-10-30T06:55:45.896057+00:00",
+            "active_checked_at": "2026-10-30T06:55:45.896057+00:00",
             "is_active_observed": true,
             "source_countries": [
               "AT",
@@ -153,8 +153,8 @@
             "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/795777070_1635866701240819_5193122022771916519_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-CsZFHRtWOoQ7kNvwEBBStW&_nc_oc=AdpuiO8qalNR432vhtZP_NrCNwsZTbJzMXKK0AO5K2Vjq1ARd1PsvIxd2HePHU_xFsc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=SUonsZ1myV_Qoecp6hHATQ&_nc_ss=79289&oh=00_AQRZ73St-gayGNGDEEWEoUPCOXks581I3E9ztafDozZhBw&oe=6AE7CAF0",
             "video_url": null,
             "first_seen": "2026-10-28T12:54:34.839090+00:00",
-            "last_seen": "2026-10-30T00:56:03.650262+00:00",
-            "active_checked_at": "2026-10-30T00:56:03.650262+00:00",
+            "last_seen": "2026-10-30T06:55:45.896057+00:00",
+            "active_checked_at": "2026-10-30T06:55:45.896057+00:00",
             "is_active_observed": true,
             "source_countries": [
               "AT",
