@@ -1,37 +1,37 @@
 {
-  "timestamp_utc": "2026-10-30T08:01:12.778900+00:00",
+  "timestamp_utc": "2026-10-30T08:56:16.124517+00:00",
   "attempts": [
     {
-      "country": "JP",
-      "keyword": "travel organizer",
-      "category": "travel",
+      "country": "AT",
+      "keyword": "duong toc",
+      "category": "beauty",
       "found": 30
     },
     {
-      "country": "SE",
-      "keyword": "luggage accessory",
-      "category": "travel",
-      "found": 5
+      "country": "GR",
+      "keyword": "dung cu nha bep",
+      "category": "kitchen",
+      "found": 23
     },
     {
-      "country": "NZ",
-      "keyword": "camping equipment",
-      "category": "travel",
-      "found": 29
+      "country": "EG",
+      "keyword": "organizador hogar",
+      "category": "home",
+      "found": 1
     },
     {
-      "country": "AE",
-      "keyword": "puzzle game",
-      "category": "toys",
+      "country": "SG",
+      "keyword": "cuidado cabello",
+      "category": "beauty",
       "found": 30
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 32,
-  "unique_active_ads_observed_last_48h": 2622,
+  "new_ads": 19,
+  "unique_active_ads_observed_last_48h": 2590,
   "qualifying_products": 4,
-  "groups_below_threshold_or_unverified": 2254,
+  "groups_below_threshold_or_unverified": 2237,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "ok",
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
