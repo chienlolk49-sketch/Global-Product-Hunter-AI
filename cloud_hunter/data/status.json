@@ -1,37 +1,37 @@
 {
-  "timestamp_utc": "2026-10-30T18:15:37.015015+00:00",
+  "timestamp_utc": "2026-10-30T19:10:55.060512+00:00",
   "attempts": [
     {
-      "country": "FR",
-      "keyword": "makeup tools",
-      "category": "beauty",
+      "country": "PT",
+      "keyword": "phone accessory",
+      "category": "electronics",
       "found": 30
     },
     {
-      "country": "BE",
-      "keyword": "neck massager",
-      "category": "wellness",
-      "found": 28
-    },
-    {
-      "country": "RO",
-      "keyword": "posture support",
-      "category": "wellness",
+      "country": "SK",
+      "keyword": "wireless charger",
+      "category": "electronics",
       "found": 30
     },
     {
-      "country": "KE",
-      "keyword": "massage device",
-      "category": "wellness",
-      "found": 28
+      "country": "ZA",
+      "keyword": "smartwatch",
+      "category": "electronics",
+      "found": 30
+    },
+    {
+      "country": "BD",
+      "keyword": "bluetooth headphones",
+      "category": "electronics",
+      "found": 27
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 49,
-  "unique_active_ads_observed_last_48h": 2664,
+  "new_ads": 111,
+  "unique_active_ads_observed_last_48h": 2731,
   "qualifying_products": 2,
-  "groups_below_threshold_or_unverified": 2359,
+  "groups_below_threshold_or_unverified": 2406,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "ok",
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
