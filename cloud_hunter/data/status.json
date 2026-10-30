@@ -1,37 +1,37 @@
 {
-  "timestamp_utc": "2026-10-30T06:55:45.896057+00:00",
+  "timestamp_utc": "2026-10-30T08:01:12.778900+00:00",
   "attempts": [
     {
-      "country": "BG",
-      "keyword": "kitchen gadget",
-      "category": "kitchen",
-      "found": 28
-    },
-    {
-      "country": "DE",
-      "keyword": "vegetable cutter",
-      "category": "kitchen",
+      "country": "JP",
+      "keyword": "travel organizer",
+      "category": "travel",
       "found": 30
     },
     {
-      "country": "NL",
-      "keyword": "cooking accessory",
-      "category": "kitchen",
-      "found": 8
+      "country": "SE",
+      "keyword": "luggage accessory",
+      "category": "travel",
+      "found": 5
     },
     {
-      "country": "HU",
-      "keyword": "coffee maker",
-      "category": "kitchen",
+      "country": "NZ",
+      "keyword": "camping equipment",
+      "category": "travel",
+      "found": 29
+    },
+    {
+      "country": "AE",
+      "keyword": "puzzle game",
+      "category": "toys",
       "found": 30
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 5,
-  "unique_active_ads_observed_last_48h": 2618,
+  "new_ads": 32,
+  "unique_active_ads_observed_last_48h": 2622,
   "qualifying_products": 4,
-  "groups_below_threshold_or_unverified": 2247,
+  "groups_below_threshold_or_unverified": 2254,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "ok",
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
