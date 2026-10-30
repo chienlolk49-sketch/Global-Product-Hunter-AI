@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T14:57:10.500185+00:00",
+  "updated_at": "2026-10-30T15:52:09.044587+00:00",
   "minimum_active_ads": 21,
   "active_window_hours": 48,
   "categories": {
@@ -18,6 +18,7 @@
           "HU",
           "IE",
           "IL",
+          "JP",
           "KR",
           "LT",
           "NL",
@@ -25,7 +26,7 @@
           "PE",
           "SA"
         ],
-        "last_active_observation": "2026-10-30T12:58:35.837158+00:00",
+        "last_active_observation": "2026-10-30T15:52:09.044587+00:00",
         "ads": [
           {
             "ad_id": "1602276251446062",
@@ -39,13 +40,14 @@
             "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/812373109_1782094293210275_6778046102892464908_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=OlZ05x-Hl30Q7kNvwEPN2vH&_nc_oc=Ado2vbCEkkXw0b1wJbN0LveW86XCF9G1HFlDGAXWArffF5s5BHBH8-dmiXzlhdDCQW0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=SUonsZ1myV_Qoecp6hHATQ&_nc_ss=79289&oh=00_AQQnTvpoMEnZGpyV3jEUOk5cjxPgvbdVAsXVB6aKHMwWBg&oe=6AE7DC00",
             "video_url": null,
             "first_seen": "2026-10-28T12:54:34.839090+00:00",
-            "last_seen": "2026-10-30T12:58:35.837158+00:00",
-            "active_checked_at": "2026-10-30T12:58:35.837158+00:00",
+            "last_seen": "2026-10-30T15:52:09.044587+00:00",
+            "active_checked_at": "2026-10-30T15:52:09.044587+00:00",
             "is_active_observed": true,
             "source_countries": [
               "AT",
               "HU",
               "IL",
+              "JP",
               "LT",
               "PE"
             ]
@@ -62,13 +64,14 @@
             "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/811830930_1396049951947368_8727536700436820138_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=X5Ew8ddP2iAQ7kNvwF5isyo&_nc_oc=AdofRhHqykGPab0T8wshdtJVKJs9apYkA_St3OZlr-S_RGbi6wZ1sgoULcxUrBQIbeA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=SUonsZ1myV_Qoecp6hHATQ&_nc_ss=79289&oh=00_AQR6hfYYlBE8unn2OXwqoTzcopvouUL_YgkSYtagzteUZA&oe=6AE7C33E",
             "video_url": null,
             "first_seen": "2026-10-28T12:54:34.839090+00:00",
-            "last_seen": "2026-10-30T12:58:35.837158+00:00",
-            "active_checked_at": "2026-10-30T12:58:35.837158+00:00",
+            "last_seen": "2026-10-30T15:52:09.044587+00:00",
+            "active_checked_at": "2026-10-30T15:52:09.044587+00:00",
             "is_active_observed": true,
             "source_countries": [
               "AT",
               "HU",
               "IL",
+              "JP",
               "LT",
               "PE"
             ]
@@ -85,13 +88,14 @@
             "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/794447814_4467112353602147_8601544679394713778_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-CPfEedx0skQ7kNvwEe_inw&_nc_oc=AdrkVY4bFx2apkxP7TcjPjr-19BCPyznwhWdrE6Na9Oqj-uhQc3duofPq4tnpzK6yU4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=SUonsZ1myV_Qoecp6hHATQ&_nc_ss=79289&oh=00_AQSbgabtREyz4h78R3hL91rDd3DerqmirDVpqajn1qw6FA&oe=6AE7BD72",
             "video_url": null,
             "first_seen": "2026-10-28T12:54:34.839090+00:00",
-            "last_seen": "2026-10-30T12:58:35.837158+00:00",
-            "active_checked_at": "2026-10-30T12:58:35.837158+00:00",
+            "last_seen": "2026-10-30T15:52:09.044587+00:00",
+            "active_checked_at": "2026-10-30T15:52:09.044587+00:00",
             "is_active_observed": true,
             "source_countries": [
               "AT",
               "HU",
               "IL",
+              "JP",
               "LT",
               "PE"
             ]
@@ -108,13 +112,14 @@
             "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/778985133_1563691878628072_4075139560395152163_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=J1FJaLwlEh0Q7kNvwHvotls&_nc_oc=AdpqdchIBogSI8XB1iIFwKGW1S6aqthJo8r8DSo7ZDg7PnPmxFrahz9F7qDO_1P7xRI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=SUonsZ1myV_Qoecp6hHATQ&_nc_ss=79289&oh=00_AQTs0IK0nXj16zm5JXnyfS1DaHsH97fw3npOXfnVu8ZNVQ&oe=6AE7B634",
             "video_url": null,
             "first_seen": "2026-10-28T12:54:34.839090+00:00",
-            "last_seen": "2026-10-30T12:58:35.837158+00:00",
-            "active_checked_at": "2026-10-30T12:58:35.837158+00:00",
+            "last_seen": "2026-10-30T15:52:09.044587+00:00",
+            "active_checked_at": "2026-10-30T15:52:09.044587+00:00",
             "is_active_observed": true,
             "source_countries": [
               "AT",
               "HU",
               "IL",
+              "JP",
               "LT",
               "PE"
             ]
@@ -131,13 +136,14 @@
             "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/812132910_1469679015023839_7251404266984292396_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=aHpQ30HAZFkQ7kNvwGtVmk1&_nc_oc=AdoNsO8cRIF67v4_blVLZC93m30iHO2p_F27Xhd3D5A9whylbUfIBDHcvE5rQoYYKwI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=SUonsZ1myV_Qoecp6hHATQ&_nc_ss=79289&oh=00_AQRbCOrp-hvnIiEtth3x1WLwFrin0fJ-6I7TGJhrBefW9A&oe=6AE7CC48",
             "video_url": null,
             "first_seen": "2026-10-28T12:54:34.839090+00:00",
-            "last_seen": "2026-10-30T12:58:35.837158+00:00",
-            "active_checked_at": "2026-10-30T12:58:35.837158+00:00",
+            "last_seen": "2026-10-30T15:52:09.044587+00:00",
+            "active_checked_at": "2026-10-30T15:52:09.044587+00:00",
             "is_active_observed": true,
             "source_countries": [
               "AT",
               "HU",
               "IL",
+              "JP",
               "LT",
               "PE"
             ]
@@ -154,13 +160,14 @@
             "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/795777070_1635866701240819_5193122022771916519_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-CsZFHRtWOoQ7kNvwEBBStW&_nc_oc=AdpuiO8qalNR432vhtZP_NrCNwsZTbJzMXKK0AO5K2Vjq1ARd1PsvIxd2HePHU_xFsc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=SUonsZ1myV_Qoecp6hHATQ&_nc_ss=79289&oh=00_AQRZ73St-gayGNGDEEWEoUPCOXks581I3E9ztafDozZhBw&oe=6AE7CAF0",
             "video_url": null,
             "first_seen": "2026-10-28T12:54:34.839090+00:00",
-            "last_seen": "2026-10-30T12:58:35.837158+00:00",
-            "active_checked_at": "2026-10-30T12:58:35.837158+00:00",
+            "last_seen": "2026-10-30T15:52:09.044587+00:00",
+            "active_checked_at": "2026-10-30T15:52:09.044587+00:00",
             "is_active_observed": true,
             "source_countries": [
               "AT",
               "HU",
               "IL",
+              "JP",
               "LT",
               "PE"
             ]
@@ -1084,8 +1091,8 @@
       {
         "name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
         "group_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
-        "ad_count": 31,
-        "active_ads_observed": 31,
+        "ad_count": 33,
+        "active_ads_observed": 33,
         "advertiser_count": 1,
         "countries": [
           "AR",
@@ -1095,6 +1102,7 @@
           "ES",
           "FI",
           "HR",
+          "ID",
           "IE",
           "IL",
           "LK",
@@ -1104,7 +1112,7 @@
           "PE",
           "VN"
         ],
-        "last_active_observation": "2026-10-30T12:58:35.837158+00:00",
+        "last_active_observation": "2026-10-30T15:52:09.044587+00:00",
         "ads": [
           {
             "ad_id": "1152284220475222",
@@ -1118,11 +1126,12 @@
             "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/870581108_1507837847849678_7180213624762495556_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pZeA70eYKq4Q7kNvwFCziyH&_nc_oc=AdppfbpxyBr_t1h5sdR43-8djqU4aK-xAoTLsvmhpf43XB1Ktih1RX6gakaipPM4ONc&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=FM_c3NsGKfqC3MPyp9vhvA&_nc_ss=79289&oh=00_AQQ_WsK05yPOwT2ywUlTTsPP9tJzoUMeqjnD5AZLn3CXjg&oe=6AEA212C",
             "video_url": null,
             "first_seen": "2026-10-30T09:52:45.740033+00:00",
-            "last_seen": "2026-10-30T12:58:35.837158+00:00",
-            "active_checked_at": "2026-10-30T12:58:35.837158+00:00",
+            "last_seen": "2026-10-30T15:52:09.044587+00:00",
+            "active_checked_at": "2026-10-30T15:52:09.044587+00:00",
             "is_active_observed": true,
             "source_countries": [
               "ES",
+              "ID",
               "MA"
             ]
           },
@@ -1138,12 +1147,51 @@
             "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/861835283_2153445265558641_1610761181208529352_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MtYdtvNyVgkQ7kNvwGYeWlI&_nc_oc=AdrC9lFfV01CMJfW74AhJzyR-3Bmn4n-7FebkF3Cysin3AlxIOoZEbJBqWryHn0UCZY&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=FM_c3NsGKfqC3MPyp9vhvA&_nc_ss=79289&oh=00_AQR9M6AbdIPysXwhaUsNQ0NTpqk4HmyCxRAQSaqKF2l9Xg&oe=6AEA56C9",
             "video_url": null,
             "first_seen": "2026-10-30T09:52:45.740033+00:00",
-            "last_seen": "2026-10-30T12:58:35.837158+00:00",
-            "active_checked_at": "2026-10-30T12:58:35.837158+00:00",
+            "last_seen": "2026-10-30T15:52:09.044587+00:00",
+            "active_checked_at": "2026-10-30T15:52:09.044587+00:00",
             "is_active_observed": true,
             "source_countries": [
               "ES",
+              "ID",
               "MA"
+            ]
+          },
+          {
+            "ad_id": "1108687338746098",
+            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "garden",
+            "advertiser": "Alibaba.com",
+            "source_country": "ID",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1108687338746098",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.35426-6/866593163_953798184119918_325445065975825503_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_f_qzBsSMFMQ7kNvwEJsyga&_nc_oc=AdrpPhFDMktexKdoUuzT9ldiqkKd8vJRak4t87bFMjdV47pVW9WDzSd8cy8Fw2Ro-6g&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=81flji1EoLezhQhZFyhmaw&_nc_ss=79289&oh=00_AQRKszffJT279MOwupWYIXlz42Buvj-UhPDdgV3wFYOyYw&oe=6AEA8E23",
+            "video_url": null,
+            "first_seen": "2026-10-30T15:52:09.044587+00:00",
+            "last_seen": "2026-10-30T15:52:09.044587+00:00",
+            "active_checked_at": "2026-10-30T15:52:09.044587+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "ID"
+            ]
+          },
+          {
+            "ad_id": "29345920771764487",
+            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "garden",
+            "advertiser": "Alibaba.com",
+            "source_country": "ID",
+            "ad_url": "https://www.facebook.com/ads/library/?id=29345920771764487",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.35426-6/866592149_2701518420300361_5648482729061964672_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9q183v8DAEEQ7kNvwEWNpB7&_nc_oc=AdqLwYa1sq617twsNum57moOqpLvrcwY8Mz2wpFDKQ5wb4_i7uNXAaNAX4qW2w3BozU&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=81flji1EoLezhQhZFyhmaw&_nc_ss=79289&oh=00_AQTxsBAKTW_gXa858JfdDEgB3sk3knx2lf1j4AiGCTF6vg&oe=6AEA81D6",
+            "video_url": null,
+            "first_seen": "2026-10-30T15:52:09.044587+00:00",
+            "last_seen": "2026-10-30T15:52:09.044587+00:00",
+            "active_checked_at": "2026-10-30T15:52:09.044587+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "ID"
             ]
           },
           {
