@@ -1,37 +1,37 @@
 {
-  "timestamp_utc": "2026-10-30T05:10:57.643243+00:00",
+  "timestamp_utc": "2026-10-30T06:03:10.622749+00:00",
   "attempts": [
     {
-      "country": "PE",
-      "keyword": "travel organizer",
-      "category": "travel",
+      "country": "BD",
+      "keyword": "hair serum",
+      "category": "beauty",
       "found": 30
     },
     {
-      "country": "PK",
-      "keyword": "luggage accessory",
-      "category": "travel",
-      "found": 5
+      "country": "RS",
+      "keyword": "skincare serum",
+      "category": "beauty",
+      "found": 30
     },
     {
-      "country": "HR",
-      "keyword": "camping equipment",
-      "category": "travel",
-      "found": 29
+      "country": "BR",
+      "keyword": "hair care",
+      "category": "beauty",
+      "found": 30
     },
     {
-      "country": "FR",
-      "keyword": "puzzle game",
-      "category": "toys",
+      "country": "AT",
+      "keyword": "shampoo",
+      "category": "beauty",
       "found": 30
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 8,
-  "unique_active_ads_observed_last_48h": 2607,
+  "new_ads": 11,
+  "unique_active_ads_observed_last_48h": 2613,
   "qualifying_products": 4,
-  "groups_below_threshold_or_unverified": 2239,
+  "groups_below_threshold_or_unverified": 2243,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "ok",
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
