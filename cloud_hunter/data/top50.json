@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T08:56:16.124517+00:00",
+  "updated_at": "2026-10-30T09:52:45.740033+00:00",
   "minimum_active_ads": 21,
   "active_window_hours": 48,
   "categories": {
@@ -24,7 +24,7 @@
           "PE",
           "SA"
         ],
-        "last_active_observation": "2026-10-30T06:55:45.896057+00:00",
+        "last_active_observation": "2026-10-30T09:52:45.740033+00:00",
         "ads": [
           {
             "ad_id": "1602276251446062",
@@ -38,8 +38,8 @@
             "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/812373109_1782094293210275_6778046102892464908_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=OlZ05x-Hl30Q7kNvwEPN2vH&_nc_oc=Ado2vbCEkkXw0b1wJbN0LveW86XCF9G1HFlDGAXWArffF5s5BHBH8-dmiXzlhdDCQW0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=SUonsZ1myV_Qoecp6hHATQ&_nc_ss=79289&oh=00_AQQnTvpoMEnZGpyV3jEUOk5cjxPgvbdVAsXVB6aKHMwWBg&oe=6AE7DC00",
             "video_url": null,
             "first_seen": "2026-10-28T12:54:34.839090+00:00",
-            "last_seen": "2026-10-30T06:55:45.896057+00:00",
-            "active_checked_at": "2026-10-30T06:55:45.896057+00:00",
+            "last_seen": "2026-10-30T09:52:45.740033+00:00",
+            "active_checked_at": "2026-10-30T09:52:45.740033+00:00",
             "is_active_observed": true,
             "source_countries": [
               "AT",
@@ -61,8 +61,8 @@
             "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/811830930_1396049951947368_8727536700436820138_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=X5Ew8ddP2iAQ7kNvwF5isyo&_nc_oc=AdofRhHqykGPab0T8wshdtJVKJs9apYkA_St3OZlr-S_RGbi6wZ1sgoULcxUrBQIbeA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=SUonsZ1myV_Qoecp6hHATQ&_nc_ss=79289&oh=00_AQR6hfYYlBE8unn2OXwqoTzcopvouUL_YgkSYtagzteUZA&oe=6AE7C33E",
             "video_url": null,
             "first_seen": "2026-10-28T12:54:34.839090+00:00",
-            "last_seen": "2026-10-30T06:55:45.896057+00:00",
-            "active_checked_at": "2026-10-30T06:55:45.896057+00:00",
+            "last_seen": "2026-10-30T09:52:45.740033+00:00",
+            "active_checked_at": "2026-10-30T09:52:45.740033+00:00",
             "is_active_observed": true,
             "source_countries": [
               "AT",
@@ -84,8 +84,8 @@
             "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/794447814_4467112353602147_8601544679394713778_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-CPfEedx0skQ7kNvwEe_inw&_nc_oc=AdrkVY4bFx2apkxP7TcjPjr-19BCPyznwhWdrE6Na9Oqj-uhQc3duofPq4tnpzK6yU4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=SUonsZ1myV_Qoecp6hHATQ&_nc_ss=79289&oh=00_AQSbgabtREyz4h78R3hL91rDd3DerqmirDVpqajn1qw6FA&oe=6AE7BD72",
             "video_url": null,
             "first_seen": "2026-10-28T12:54:34.839090+00:00",
-            "last_seen": "2026-10-30T06:55:45.896057+00:00",
-            "active_checked_at": "2026-10-30T06:55:45.896057+00:00",
+            "last_seen": "2026-10-30T09:52:45.740033+00:00",
+            "active_checked_at": "2026-10-30T09:52:45.740033+00:00",
             "is_active_observed": true,
             "source_countries": [
               "AT",
@@ -107,8 +107,8 @@
             "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/778985133_1563691878628072_4075139560395152163_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=J1FJaLwlEh0Q7kNvwHvotls&_nc_oc=AdpqdchIBogSI8XB1iIFwKGW1S6aqthJo8r8DSo7ZDg7PnPmxFrahz9F7qDO_1P7xRI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=SUonsZ1myV_Qoecp6hHATQ&_nc_ss=79289&oh=00_AQTs0IK0nXj16zm5JXnyfS1DaHsH97fw3npOXfnVu8ZNVQ&oe=6AE7B634",
             "video_url": null,
             "first_seen": "2026-10-28T12:54:34.839090+00:00",
-            "last_seen": "2026-10-30T06:55:45.896057+00:00",
-            "active_checked_at": "2026-10-30T06:55:45.896057+00:00",
+            "last_seen": "2026-10-30T09:52:45.740033+00:00",
+            "active_checked_at": "2026-10-30T09:52:45.740033+00:00",
             "is_active_observed": true,
             "source_countries": [
               "AT",
@@ -130,8 +130,8 @@
             "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/812132910_1469679015023839_7251404266984292396_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=aHpQ30HAZFkQ7kNvwGtVmk1&_nc_oc=AdoNsO8cRIF67v4_blVLZC93m30iHO2p_F27Xhd3D5A9whylbUfIBDHcvE5rQoYYKwI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=SUonsZ1myV_Qoecp6hHATQ&_nc_ss=79289&oh=00_AQRbCOrp-hvnIiEtth3x1WLwFrin0fJ-6I7TGJhrBefW9A&oe=6AE7CC48",
             "video_url": null,
             "first_seen": "2026-10-28T12:54:34.839090+00:00",
-            "last_seen": "2026-10-30T06:55:45.896057+00:00",
-            "active_checked_at": "2026-10-30T06:55:45.896057+00:00",
+            "last_seen": "2026-10-30T09:52:45.740033+00:00",
+            "active_checked_at": "2026-10-30T09:52:45.740033+00:00",
             "is_active_observed": true,
             "source_countries": [
               "AT",
@@ -153,8 +153,8 @@
             "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/795777070_1635866701240819_5193122022771916519_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-CsZFHRtWOoQ7kNvwEBBStW&_nc_oc=AdpuiO8qalNR432vhtZP_NrCNwsZTbJzMXKK0AO5K2Vjq1ARd1PsvIxd2HePHU_xFsc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=SUonsZ1myV_Qoecp6hHATQ&_nc_ss=79289&oh=00_AQRZ73St-gayGNGDEEWEoUPCOXks581I3E9ztafDozZhBw&oe=6AE7CAF0",
             "video_url": null,
             "first_seen": "2026-10-28T12:54:34.839090+00:00",
-            "last_seen": "2026-10-30T06:55:45.896057+00:00",
-            "active_checked_at": "2026-10-30T06:55:45.896057+00:00",
+            "last_seen": "2026-10-30T09:52:45.740033+00:00",
+            "active_checked_at": "2026-10-30T09:52:45.740033+00:00",
             "is_active_observed": true,
             "source_countries": [
               "AT",
@@ -176,8 +176,8 @@
             "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/787406195_1402149615397582_5463985773329166344_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CG1SsU_p8HIQ7kNvwEhhWFj&_nc_oc=AdqG7DS9g95oc9WZZ09bCm6VnGadtxtu8ZkgKcVTlx6EdT3BkGDIeBMtbfJ92syJe0M&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=28forhw81S6XtyRP0KZBJA&_nc_ss=79289&oh=00_AQTdMPzDBsWmSEhFi2CmjfklBzXOxJ5uA5KYMI6K43sySQ&oe=6AE7DD1C",
             "video_url": null,
             "first_seen": "2026-10-28T15:53:14.052124+00:00",
-            "last_seen": "2026-10-29T21:47:02.830711+00:00",
-            "active_checked_at": "2026-10-29T21:47:02.830711+00:00",
+            "last_seen": "2026-10-30T09:52:45.740033+00:00",
+            "active_checked_at": "2026-10-30T09:52:45.740033+00:00",
             "is_active_observed": true,
             "source_countries": [
               "IE",
@@ -197,8 +197,8 @@
             "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/786928189_1060802603508481_3828372478266990237_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GadmRjqVWtkQ7kNvwFt40zN&_nc_oc=Adq__wG8WsAYDFYO2v6iK1dKELCiPylzqZzhq2CeILeJEoGqe-CS3sDMe3erHtWyBec&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=28forhw81S6XtyRP0KZBJA&_nc_ss=79289&oh=00_AQTUpBYzM-mBLnZ174p1jfEBKCmqLrhMOhMudEj_Nh-k2g&oe=6AE7DB20",
             "video_url": null,
             "first_seen": "2026-10-28T15:53:14.052124+00:00",
-            "last_seen": "2026-10-29T21:47:02.830711+00:00",
-            "active_checked_at": "2026-10-29T21:47:02.830711+00:00",
+            "last_seen": "2026-10-30T09:52:45.740033+00:00",
+            "active_checked_at": "2026-10-30T09:52:45.740033+00:00",
             "is_active_observed": true,
             "source_countries": [
               "IE",
@@ -218,8 +218,8 @@
             "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/821420200_1516102077212390_7874218292505720673_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kuhe728eRGoQ7kNvwH3e4rJ&_nc_oc=AdpSEBQjn6do8ztvOm6iCj97QBhbHzct0Pm8mej4qnoUTRFHISBjjK7vKx8dj-N6GrE&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=28forhw81S6XtyRP0KZBJA&_nc_ss=79289&oh=00_AQSucgfSwJwILDOk84vz1zF4u11IT9u3ZdBtZa_2pAGFww&oe=6AE7F7AB",
             "video_url": null,
             "first_seen": "2026-10-28T15:53:14.052124+00:00",
-            "last_seen": "2026-10-29T21:47:02.830711+00:00",
-            "active_checked_at": "2026-10-29T21:47:02.830711+00:00",
+            "last_seen": "2026-10-30T09:52:45.740033+00:00",
+            "active_checked_at": "2026-10-30T09:52:45.740033+00:00",
             "is_active_observed": true,
             "source_countries": [
               "IE",
@@ -239,8 +239,8 @@
             "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/780422333_1949275839095068_1576923080516773826_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZQ53cCWYVU8Q7kNvwG8JFZo&_nc_oc=AdqESbBn-2oYFeVJmUHuv8bOwW4cZta1pGknFIZJ1jxOLI5wdqmZObrUJNawOIdXLZA&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=28forhw81S6XtyRP0KZBJA&_nc_ss=79289&oh=00_AQQHLyzCyXOlpyNzE7JUAwzDhDz6wmSzOne0qvRG34toEg&oe=6AE7DA5C",
             "video_url": null,
             "first_seen": "2026-10-28T15:53:14.052124+00:00",
-            "last_seen": "2026-10-29T21:47:02.830711+00:00",
-            "active_checked_at": "2026-10-29T21:47:02.830711+00:00",
+            "last_seen": "2026-10-30T09:52:45.740033+00:00",
+            "active_checked_at": "2026-10-30T09:52:45.740033+00:00",
             "is_active_observed": true,
             "source_countries": [
               "IE",
@@ -260,8 +260,8 @@
             "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/800085437_3107746672912491_9079909128641911915_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=I37xixtuPZAQ7kNvwGDPvTw&_nc_oc=AdoV4GURLb0iTS9QkakaHbSExqdlbTvE1XlOzWrVcrvCOyJl9vyLG8MOH3oX5hWzEI4&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=28forhw81S6XtyRP0KZBJA&_nc_ss=79289&oh=00_AQSBCzCYv2BFQYv0RGCBg_2RXkpHzhOVLACIQyGQef1h0A&oe=6AE7F60C",
             "video_url": null,
             "first_seen": "2026-10-28T15:53:14.052124+00:00",
-            "last_seen": "2026-10-29T21:47:02.830711+00:00",
-            "active_checked_at": "2026-10-29T21:47:02.830711+00:00",
+            "last_seen": "2026-10-30T09:52:45.740033+00:00",
+            "active_checked_at": "2026-10-30T09:52:45.740033+00:00",
             "is_active_observed": true,
             "source_countries": [
               "IE",
@@ -281,8 +281,8 @@
             "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/819300754_1530283599113626_1659569745515960890_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7UMmLygNNz0Q7kNvwFPWNGq&_nc_oc=Adov6Bn-zPkrvZfTd12NtW2zRRPE3nhBpe9EcICLuJj83syRWE4jkfBIINKwRJJv5qg&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=28forhw81S6XtyRP0KZBJA&_nc_ss=79289&oh=00_AQRtv3UotcQLqrNvnhdIrhNf_OGre7HV-YMvLRtHO1AhWw&oe=6AE7F9BE",
             "video_url": null,
             "first_seen": "2026-10-28T15:53:14.052124+00:00",
-            "last_seen": "2026-10-29T21:47:02.830711+00:00",
-            "active_checked_at": "2026-10-29T21:47:02.830711+00:00",
+            "last_seen": "2026-10-30T09:52:45.740033+00:00",
+            "active_checked_at": "2026-10-30T09:52:45.740033+00:00",
             "is_active_observed": true,
             "source_countries": [
               "IE",
@@ -302,8 +302,8 @@
             "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/786939331_1031442179478023_496869313072601486_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uzzLTw3qbHgQ7kNvwF0Oq2Q&_nc_oc=AdoeBefpuudCZZrjYc2q6-EO1BsrnAjuJ6jRiV_4WzM6Sn-GV9fYwLAX3JhnQUPfpPg&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=RB9Jc6KJKiJ_Vb551a3hGQ&_nc_ss=79289&oh=00_AQRSb2pP-icZ2Jt4atE7hr5yS0img1d8iF7nM56wQwdrRQ&oe=6AE853F7",
             "video_url": null,
             "first_seen": "2026-10-29T00:54:17.408261+00:00",
-            "last_seen": "2026-10-29T21:47:02.830711+00:00",
-            "active_checked_at": "2026-10-29T21:47:02.830711+00:00",
+            "last_seen": "2026-10-30T09:52:45.740033+00:00",
+            "active_checked_at": "2026-10-30T09:52:45.740033+00:00",
             "is_active_observed": true,
             "source_countries": [
               "IE",
@@ -323,8 +323,8 @@
             "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/795529336_2340428509695319_4463706628185543830_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=E8xjrYTwsdAQ7kNvwEF1NRS&_nc_oc=AdpI173mDqb58yzC4hvAjZqF9kBgK-oSg6KEdNXBQgCMwr7bY0_08W0dY_cXUNvDlrY&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=RB9Jc6KJKiJ_Vb551a3hGQ&_nc_ss=79289&oh=00_AQQck7ln2oa7j6PzG6cPz8tLr5gtsFTPE78zRROnP5QN7g&oe=6AE8652F",
             "video_url": null,
             "first_seen": "2026-10-29T00:54:17.408261+00:00",
-            "last_seen": "2026-10-29T21:47:02.830711+00:00",
-            "active_checked_at": "2026-10-29T21:47:02.830711+00:00",
+            "last_seen": "2026-10-30T09:52:45.740033+00:00",
+            "active_checked_at": "2026-10-30T09:52:45.740033+00:00",
             "is_active_observed": true,
             "source_countries": [
               "IE",
@@ -344,8 +344,8 @@
             "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/795583348_1630884708750089_758203878879954335_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=N6EzHJAlCwgQ7kNvwFb9AEC&_nc_oc=AdqURGwAqjaXFzTuHns_tlJo0Hs1fOKqRbhZQQLXc_6KYPW5alf8277D2wL4M8Kl2Cs&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=RB9Jc6KJKiJ_Vb551a3hGQ&_nc_ss=79289&oh=00_AQR_E5fcw9V1ZueOHF7j-RCrqF_xizU1RR8OKyHmiqYWqQ&oe=6AE86E4D",
             "video_url": null,
             "first_seen": "2026-10-29T00:54:17.408261+00:00",
-            "last_seen": "2026-10-29T21:47:02.830711+00:00",
-            "active_checked_at": "2026-10-29T21:47:02.830711+00:00",
+            "last_seen": "2026-10-30T09:52:45.740033+00:00",
+            "active_checked_at": "2026-10-30T09:52:45.740033+00:00",
             "is_active_observed": true,
             "source_countries": [
               "IE",
@@ -365,8 +365,8 @@
             "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/809656483_1138140645375707_254433488580295893_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kZmYjs68bDEQ7kNvwGCr-Ch&_nc_oc=Adq_JlMtXD-hwRRTOdqeyDXfCEeh3H7JDygourPSh2EDl_VSuCHYOE-ratqp2435Kmk&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=28forhw81S6XtyRP0KZBJA&_nc_ss=79289&oh=00_AQTbxD8esmgtxrmgYqb_yXkNR5byK2sSIqt11CBBNceQig&oe=6AE7D28E",
             "video_url": null,
             "first_seen": "2026-10-28T15:53:14.052124+00:00",
-            "last_seen": "2026-10-29T21:47:02.830711+00:00",
-            "active_checked_at": "2026-10-29T21:47:02.830711+00:00",
+            "last_seen": "2026-10-30T09:52:45.740033+00:00",
+            "active_checked_at": "2026-10-30T09:52:45.740033+00:00",
             "is_active_observed": true,
             "source_countries": [
               "IE",
@@ -993,435 +993,6 @@
           }
         ],
         "verification": "Approximate product identity, never ad-set count or verified sales"
-      },
-      {
-        "name": "source health care on alibaba com alibaba com-world s leading b2b marketplace",
-        "group_key": "title:source health care on alibaba com alibaba com-world s leading b2b marketplace",
-        "ad_count": 21,
-        "active_ads_observed": 21,
-        "advertiser_count": 1,
-        "countries": [
-          "BE",
-          "HK",
-          "IE",
-          "SK",
-          "TR",
-          "VN"
-        ],
-        "last_active_observation": "2026-10-30T03:28:58.725978+00:00",
-        "ads": [
-          {
-            "ad_id": "2036871433846026",
-            "product_name": "source health care on alibaba com alibaba com-world s leading b2b marketplace",
-            "product_key": "title:source health care on alibaba com alibaba com-world s leading b2b marketplace",
-            "category": "wellness",
-            "advertiser": "Alibaba.com",
-            "source_country": "BE",
-            "ad_url": "https://www.facebook.com/ads/library/?id=2036871433846026",
-            "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign&cid=100002908",
-            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/370268703_1009199960531138_4771752704840418550_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wwX6ioMDZYQQ7kNvwHWOCyW&_nc_oc=Adq0TnGEbo91D9sasXyP9atdwclvwtAH1l_jSeQyRkvtg82ONSputf954I7WOaaf8Lo&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=Beck3R_aU5WXPaK1_d_6Jg&_nc_ss=79289&oh=00_AQRF9Mbja5jEBOpp7DHUtaeRUeeAUi3iuK7Qbo5i2Shyew&oe=6AE73301",
-            "video_url": null,
-            "first_seen": "2026-10-28T03:25:05.832855+00:00",
-            "last_seen": "2026-10-30T03:28:58.725978+00:00",
-            "active_checked_at": "2026-10-30T03:28:58.725978+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "BE",
-              "HK",
-              "SK",
-              "TR",
-              "VN"
-            ]
-          },
-          {
-            "ad_id": "938806749151374",
-            "product_name": "source health care on alibaba com alibaba com-world s leading b2b marketplace",
-            "product_key": "title:source health care on alibaba com alibaba com-world s leading b2b marketplace",
-            "category": "wellness",
-            "advertiser": "Alibaba.com",
-            "source_country": "BE",
-            "ad_url": "https://www.facebook.com/ads/library/?id=938806749151374",
-            "landing_url": "https://m.alibaba.com/lp/brand-nv-mobile.html?src=cpm_fb&sub_channel=dpa&link_type=campaign&biz=brandwall_linghang&campaign_type=brandwall_linghang&company_id=292031184&field=BRAND_AD&comp_id=292031184",
-            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/701960504_807206832269903_6350515492139843571_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=S1YPBkLJNN4Q7kNvwHqqAUZ&_nc_oc=AdqMXV74IOLYt4zBx1zVtEjuE3A8Zw-mfLZPaoog7iH5P37YuKAlD_J9KFPcey81fQs&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=Beck3R_aU5WXPaK1_d_6Jg&_nc_ss=79289&oh=00_AQQxchzDMKwg0Y6u6zxAN8PrioyVDJSQXfpwRVt3jxeM8g&oe=6AE74CF4",
-            "video_url": null,
-            "first_seen": "2026-10-28T03:25:05.832855+00:00",
-            "last_seen": "2026-10-30T03:28:58.725978+00:00",
-            "active_checked_at": "2026-10-30T03:28:58.725978+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "BE",
-              "HK",
-              "SK",
-              "TR",
-              "VN"
-            ]
-          },
-          {
-            "ad_id": "1778686456731745",
-            "product_name": "source health care on alibaba com alibaba com-world s leading b2b marketplace",
-            "product_key": "title:source health care on alibaba com alibaba com-world s leading b2b marketplace",
-            "category": "wellness",
-            "advertiser": "Alibaba.com",
-            "source_country": "TR",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1778686456731745",
-            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
-            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/862860786_1083009201434071_7004770307325868459_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_qeuEWg6VSwQ7kNvwG32WRi&_nc_oc=Ado8Ydp7qzoAPhSIGhvAFAml0Y9BKh9JLJvJYrRvk4A0C1M9JDyCPDxXpf6IXumjE2c&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=sOnVD4M7UYdfhWSnOluilw&_nc_ss=79289&oh=00_AQSpUyd6AlRETgkoKhtQzvW5VIwU2Ds5Fw4JtFknGUFauw&oe=6AE979BF",
-            "video_url": null,
-            "first_seen": "2026-10-29T18:28:09.550475+00:00",
-            "last_seen": "2026-10-29T18:28:09.550475+00:00",
-            "active_checked_at": "2026-10-29T18:28:09.550475+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "TR"
-            ]
-          },
-          {
-            "ad_id": "2020579255455648",
-            "product_name": "source health care on alibaba com alibaba com-world s leading b2b marketplace",
-            "product_key": "title:source health care on alibaba com alibaba com-world s leading b2b marketplace",
-            "category": "wellness",
-            "advertiser": "Alibaba.com",
-            "source_country": "TR",
-            "ad_url": "https://www.facebook.com/ads/library/?id=2020579255455648",
-            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
-            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/867599598_1641070414186223_5341231761725981939_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kb94QumWgCEQ7kNvwFdDmsd&_nc_oc=Adq6Quk2cb6TDnXCo10OjaxuI_OcjgmE2yRNUSsAfqfgHZnTPlnMQnoXbnptnNQQTkc&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=sOnVD4M7UYdfhWSnOluilw&_nc_ss=79289&oh=00_AQQL67D8waw6g3QedR7TNUVvoDKenUUeza2YpVt6yGGBUQ&oe=6AE9779F",
-            "video_url": null,
-            "first_seen": "2026-10-29T18:28:09.550475+00:00",
-            "last_seen": "2026-10-29T18:28:09.550475+00:00",
-            "active_checked_at": "2026-10-29T18:28:09.550475+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "TR"
-            ]
-          },
-          {
-            "ad_id": "1606170430718446",
-            "product_name": "source health care on alibaba com alibaba com-world s leading b2b marketplace",
-            "product_key": "title:source health care on alibaba com alibaba com-world s leading b2b marketplace",
-            "category": "wellness",
-            "advertiser": "Alibaba.com",
-            "source_country": "SK",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1606170430718446",
-            "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
-            "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/538903915_24514827641462548_326087652618012054_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=C_d2p9o_jX8Q7kNvwH_AG-T&_nc_oc=AdpvrCIbti1zFpUjyzihcIWf5xy9RzDF0vPDfosx4mO1CAWi2EZXYXIEMOWGMYP3tuY&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=4LZnF6ZmQ_5ChMm9H0n-pg&_nc_ss=79289&oh=00_AQRkgHW2V2e3LIujyKIUwrMmlZvsR1Sz0nA3aUEvpD0HPQ&oe=6AE78600",
-            "video_url": null,
-            "first_seen": "2026-10-28T09:23:30.438122+00:00",
-            "last_seen": "2026-10-28T18:24:50.657322+00:00",
-            "active_checked_at": "2026-10-28T18:24:50.657322+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "SK",
-              "VN"
-            ]
-          },
-          {
-            "ad_id": "28784999007854447",
-            "product_name": "source health care on alibaba com alibaba com-world s leading b2b marketplace",
-            "product_key": "title:source health care on alibaba com alibaba com-world s leading b2b marketplace",
-            "category": "wellness",
-            "advertiser": "Alibaba.com",
-            "source_country": "SK",
-            "ad_url": "https://www.facebook.com/ads/library/?id=28784999007854447",
-            "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
-            "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/545777229_1404975797261364_9134208871565880934_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hjQfn39xmS8Q7kNvwG_vGdT&_nc_oc=Adqv2t0kSKlbIBgQdGBb2NaAroQ94OoeO6urPPajxt2uhC5FFTFtbnJLQpQm4aAme7c&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=4LZnF6ZmQ_5ChMm9H0n-pg&_nc_ss=79289&oh=00_AQTCkUlk2eROhSZpMHnaH6HSoVkjgnPE93FAwf6yx8jbCg&oe=6AE79CF6",
-            "video_url": null,
-            "first_seen": "2026-10-28T09:23:30.438122+00:00",
-            "last_seen": "2026-10-28T18:24:50.657322+00:00",
-            "active_checked_at": "2026-10-28T18:24:50.657322+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "SK",
-              "VN"
-            ]
-          },
-          {
-            "ad_id": "1510991250509953",
-            "product_name": "source health care on alibaba com alibaba com-world s leading b2b marketplace",
-            "product_key": "title:source health care on alibaba com alibaba com-world s leading b2b marketplace",
-            "category": "wellness",
-            "advertiser": "Alibaba.com",
-            "source_country": "SK",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1510991250509953",
-            "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
-            "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/732675444_1294738962435149_7588894186375451648_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0y-SZv4I32QQ7kNvwG21Yu_&_nc_oc=AdqPtSnuXY3HD8mTprtjWCEtpXF_RyZSL3ywrRQCxxPHMCSxQ5CVLVbFb6GYW74x0fU&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=4LZnF6ZmQ_5ChMm9H0n-pg&_nc_ss=79289&oh=00_AQRhp1fLurtZ44ORGZlyV0PIPsEavMU5iFCjokeA0Tq0HQ&oe=6AE7AC9A",
-            "video_url": null,
-            "first_seen": "2026-10-28T09:23:30.438122+00:00",
-            "last_seen": "2026-10-28T18:24:50.657322+00:00",
-            "active_checked_at": "2026-10-28T18:24:50.657322+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "SK",
-              "VN"
-            ]
-          },
-          {
-            "ad_id": "1184139903610078",
-            "product_name": "source health care on alibaba com alibaba com-world s leading b2b marketplace",
-            "product_key": "title:source health care on alibaba com alibaba com-world s leading b2b marketplace",
-            "category": "wellness",
-            "advertiser": "Alibaba.com",
-            "source_country": "IE",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1184139903610078",
-            "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
-            "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/540536416_2623036644746872_4589337464321121937_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PUDXAfb_5joQ7kNvwHCu_rv&_nc_oc=AdpKo4_OzD2yOgn4vQ8CbzN4mIYw3rmFbRKfC0STTK0vz612CjL9P3BWz3zWInCVjhg&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=4nHTDDd_NbAHA2sgr404qw&_nc_ss=79289&oh=00_AQRj9qYSErIrNqPmlgIXPveoNQZurriEOpfwdrThbap6FA&oe=6AE81563",
-            "video_url": null,
-            "first_seen": "2026-10-28T18:24:50.657322+00:00",
-            "last_seen": "2026-10-28T18:24:50.657322+00:00",
-            "active_checked_at": "2026-10-28T18:24:50.657322+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "IE"
-            ]
-          },
-          {
-            "ad_id": "785213170879650",
-            "product_name": "source health care on alibaba com alibaba com-world s leading b2b marketplace",
-            "product_key": "title:source health care on alibaba com alibaba com-world s leading b2b marketplace",
-            "category": "wellness",
-            "advertiser": "Alibaba.com",
-            "source_country": "SK",
-            "ad_url": "https://www.facebook.com/ads/library/?id=785213170879650",
-            "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
-            "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/645588669_1462925798843760_8845804455437488758_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Lb_LzQR0u8UQ7kNvwGXdMNr&_nc_oc=AdrONhMyULvrnOoXdoicsJG-R0Ej-s4Vbk2Cirr7D0neA7-fsEwisON2Z6H-vRb7IpU&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=4LZnF6ZmQ_5ChMm9H0n-pg&_nc_ss=79289&oh=00_AQRFmETZOAkHwokrjdv4MhCI2gNPIyTQ4FfPCoACCRT3fQ&oe=6AE7A9FC",
-            "video_url": null,
-            "first_seen": "2026-10-28T09:23:30.438122+00:00",
-            "last_seen": "2026-10-28T09:23:30.438122+00:00",
-            "active_checked_at": "2026-10-28T09:23:30.438122+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "SK"
-            ]
-          },
-          {
-            "ad_id": "1300310242222435",
-            "product_name": "source health care on alibaba com alibaba com-world s leading b2b marketplace",
-            "product_key": "title:source health care on alibaba com alibaba com-world s leading b2b marketplace",
-            "category": "wellness",
-            "advertiser": "Alibaba.com",
-            "source_country": "SK",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1300310242222435",
-            "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
-            "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/717249163_1461457135662849_1294507330250434181_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=e1R8C0LV-wcQ7kNvwEIrL65&_nc_oc=AdpQdtJQs1jzm9V5j1lYnGHZlUJhv3gi9aW1GA3RwTJcVQi2PmuIpzm0Nv5P5NJFYHY&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=4LZnF6ZmQ_5ChMm9H0n-pg&_nc_ss=79289&oh=00_AQQdg1eJxlV9jwr1tFaMXZ-V15sk7NEdezUu6a6w3KKt3A&oe=6AE7990B",
-            "video_url": null,
-            "first_seen": "2026-10-28T09:23:30.438122+00:00",
-            "last_seen": "2026-10-28T09:23:30.438122+00:00",
-            "active_checked_at": "2026-10-28T09:23:30.438122+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "SK"
-            ]
-          },
-          {
-            "ad_id": "2442566086265232",
-            "product_name": "source health care on alibaba com alibaba com-world s leading b2b marketplace",
-            "product_key": "title:source health care on alibaba com alibaba com-world s leading b2b marketplace",
-            "category": "wellness",
-            "advertiser": "Alibaba.com",
-            "source_country": "SK",
-            "ad_url": "https://www.facebook.com/ads/library/?id=2442566086265232",
-            "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
-            "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/641429171_1585044429441339_1138007961471600759_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=y78xAI0F3tsQ7kNvwHlTEYf&_nc_oc=AdqFyjm1E1K0TemXCBtNBQsJLCvIMi-gWhBOJXNktVufDnAeR1FsbI-5QDd54U41WDg&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=4LZnF6ZmQ_5ChMm9H0n-pg&_nc_ss=79289&oh=00_AQSSFpohcAppJ1PKImE25B9DI4zP5zc3xL_eS_-iJz0GKg&oe=6AE79B7F",
-            "video_url": null,
-            "first_seen": "2026-10-28T09:23:30.438122+00:00",
-            "last_seen": "2026-10-28T09:23:30.438122+00:00",
-            "active_checked_at": "2026-10-28T09:23:30.438122+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "SK"
-            ]
-          },
-          {
-            "ad_id": "831599389511486",
-            "product_name": "source health care on alibaba com alibaba com-world s leading b2b marketplace",
-            "product_key": "title:source health care on alibaba com alibaba com-world s leading b2b marketplace",
-            "category": "wellness",
-            "advertiser": "Alibaba.com",
-            "source_country": "SK",
-            "ad_url": "https://www.facebook.com/ads/library/?id=831599389511486",
-            "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
-            "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/540896783_2354850944972051_484246346999401860_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8ahALjAlHMYQ7kNvwGMs5Zs&_nc_oc=AdqgLUiTxr5nU9CI580bT2CnGrGwqoJRSLSX1pqKIQSt35cne_jlyDVp5p6X3vLRjj0&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=4LZnF6ZmQ_5ChMm9H0n-pg&_nc_ss=79289&oh=00_AQTHf_Cmc_6YOms5R0Ci8sO22yrWGqCq3pcsZ6a0hVpFCw&oe=6AE7760C",
-            "video_url": null,
-            "first_seen": "2026-10-28T09:23:30.438122+00:00",
-            "last_seen": "2026-10-28T09:23:30.438122+00:00",
-            "active_checked_at": "2026-10-28T09:23:30.438122+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "SK"
-            ]
-          },
-          {
-            "ad_id": "25566699403008879",
-            "product_name": "source health care on alibaba com alibaba com-world s leading b2b marketplace",
-            "product_key": "title:source health care on alibaba com alibaba com-world s leading b2b marketplace",
-            "category": "wellness",
-            "advertiser": "Alibaba.com",
-            "source_country": "SK",
-            "ad_url": "https://www.facebook.com/ads/library/?id=25566699403008879",
-            "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
-            "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/625363085_1227955775975809_883936525115244222_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=opLL4JF9FqYQ7kNvwHSHwuH&_nc_oc=AdozgHLuIiiBdF_-RTYBtyh8jAxgzRasi1LbzZfGDcbQFTVequx6E9FtsH7HGfGNUn8&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=4LZnF6ZmQ_5ChMm9H0n-pg&_nc_ss=79289&oh=00_AQRyr5-TfwmIIyp7n6cz7yOQUn9nzOLr7E8zgXxQz-yjgw&oe=6AE783F7",
-            "video_url": null,
-            "first_seen": "2026-10-28T09:23:30.438122+00:00",
-            "last_seen": "2026-10-28T09:23:30.438122+00:00",
-            "active_checked_at": "2026-10-28T09:23:30.438122+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "SK"
-            ]
-          },
-          {
-            "ad_id": "1606477990844532",
-            "product_name": "source health care on alibaba com alibaba com-world s leading b2b marketplace",
-            "product_key": "title:source health care on alibaba com alibaba com-world s leading b2b marketplace",
-            "category": "wellness",
-            "advertiser": "Alibaba.com",
-            "source_country": "SK",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1606477990844532",
-            "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
-            "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/769051871_985738747852112_288848617770504097_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vzspB-5EnV8Q7kNvwFWc3Be&_nc_oc=Adr0sKPIBwJyBYNHHQSkYwuuNhlI8gI83N89j9TJG96LLsZmsDULIJ9cweS3EqHRlo8&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=4LZnF6ZmQ_5ChMm9H0n-pg&_nc_ss=79289&oh=00_AQTwWBl8PKlF5eWpb3h4y2Re171ZFwlhinuBFGhwVxyhag&oe=6AE79E4F",
-            "video_url": null,
-            "first_seen": "2026-10-28T09:23:30.438122+00:00",
-            "last_seen": "2026-10-28T09:23:30.438122+00:00",
-            "active_checked_at": "2026-10-28T09:23:30.438122+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "SK"
-            ]
-          },
-          {
-            "ad_id": "1487910629240578",
-            "product_name": "source health care on alibaba com alibaba com-world s leading b2b marketplace",
-            "product_key": "title:source health care on alibaba com alibaba com-world s leading b2b marketplace",
-            "category": "wellness",
-            "advertiser": "Alibaba.com",
-            "source_country": "SK",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1487910629240578",
-            "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
-            "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/616404286_1225286606223048_6081073423317146164_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4JqGVajzWkcQ7kNvwH-FBAK&_nc_oc=AdrjzFWuDkzzk4oZqHehrBcbZk71TYnh-1gUdR85vXQXE9BSEv62YWXgpbHr8MAumXk&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=4LZnF6ZmQ_5ChMm9H0n-pg&_nc_ss=79289&oh=00_AQQsEXinZqvhlnFyB1i2dYv8yx2b-Dr4dhXc7licAMlW6Q&oe=6AE79210",
-            "video_url": null,
-            "first_seen": "2026-10-28T09:23:30.438122+00:00",
-            "last_seen": "2026-10-28T09:23:30.438122+00:00",
-            "active_checked_at": "2026-10-28T09:23:30.438122+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "SK"
-            ]
-          },
-          {
-            "ad_id": "1578603493252442",
-            "product_name": "source health care on alibaba com alibaba com-world s leading b2b marketplace",
-            "product_key": "title:source health care on alibaba com alibaba com-world s leading b2b marketplace",
-            "category": "wellness",
-            "advertiser": "Alibaba.com",
-            "source_country": "SK",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1578603493252442",
-            "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
-            "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/571785052_1326442829279472_3542837732947464484_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LDvrzjIsgOMQ7kNvwHayDb3&_nc_oc=AdqBNg3g1IhLSQ5coJWd4gGpMwIF6jMumoHCjfSQKtSCJ1NyZmepc1vx4q9BRPJ79uA&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=4LZnF6ZmQ_5ChMm9H0n-pg&_nc_ss=79289&oh=00_AQSGpMJIxJ1-ipmTv8YO7gIbn9ga3XVyIEwy_FV4dqDADw&oe=6AE7A5F0",
-            "video_url": null,
-            "first_seen": "2026-10-28T09:23:30.438122+00:00",
-            "last_seen": "2026-10-28T09:23:30.438122+00:00",
-            "active_checked_at": "2026-10-28T09:23:30.438122+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "SK"
-            ]
-          },
-          {
-            "ad_id": "949155767942450",
-            "product_name": "source health care on alibaba com alibaba com-world s leading b2b marketplace",
-            "product_key": "title:source health care on alibaba com alibaba com-world s leading b2b marketplace",
-            "category": "wellness",
-            "advertiser": "Alibaba.com",
-            "source_country": "SK",
-            "ad_url": "https://www.facebook.com/ads/library/?id=949155767942450",
-            "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
-            "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/689009086_1654751599089645_8704568038789097370_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4Dxqps1kcsEQ7kNvwEesoeb&_nc_oc=AdqSdAICZnzocwb001bVHObBPe6P38mZrlBhtj77cdCuwcPd8YxkOv5EhktDdh-v3S8&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=4LZnF6ZmQ_5ChMm9H0n-pg&_nc_ss=79289&oh=00_AQR50TgORwtZj3eVAggQukOqXNuXKZM43AjC61vj9zzlIw&oe=6AE7ABD2",
-            "video_url": null,
-            "first_seen": "2026-10-28T09:23:30.438122+00:00",
-            "last_seen": "2026-10-28T09:23:30.438122+00:00",
-            "active_checked_at": "2026-10-28T09:23:30.438122+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "SK"
-            ]
-          },
-          {
-            "ad_id": "1423248812473876",
-            "product_name": "source health care on alibaba com alibaba com-world s leading b2b marketplace",
-            "product_key": "title:source health care on alibaba com alibaba com-world s leading b2b marketplace",
-            "category": "wellness",
-            "advertiser": "Alibaba.com",
-            "source_country": "SK",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1423248812473876",
-            "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
-            "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/837858432_1795984267962792_1466291381521091310_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MBAPDkANza4Q7kNvwEZZnGy&_nc_oc=AdrQB0DQLkaZGDesz9VLI9Xdm1SeAYh4ZMk_ljYO76yJoQGcFrusEmz_lOolUuhOsoc&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=4LZnF6ZmQ_5ChMm9H0n-pg&_nc_ss=79289&oh=00_AQQ0m9O8ltqewW30N980-8py_roZnrFK1vpY3_WC0R3S5Q&oe=6AE78F45",
-            "video_url": null,
-            "first_seen": "2026-10-28T09:23:30.438122+00:00",
-            "last_seen": "2026-10-28T09:23:30.438122+00:00",
-            "active_checked_at": "2026-10-28T09:23:30.438122+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "SK"
-            ]
-          },
-          {
-            "ad_id": "2202835660460153",
-            "product_name": "source health care on alibaba com alibaba com-world s leading b2b marketplace",
-            "product_key": "title:source health care on alibaba com alibaba com-world s leading b2b marketplace",
-            "category": "wellness",
-            "advertiser": "Alibaba.com",
-            "source_country": "SK",
-            "ad_url": "https://www.facebook.com/ads/library/?id=2202835660460153",
-            "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
-            "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/641559058_2199945394083212_166169541370543731_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mvnsFgWEExgQ7kNvwFK_D4k&_nc_oc=AdoXggm6rnOVxZ6gjGqO62dz5EMsPx6DW06SSK7JwPyisv6Tbgr_wY4J95FfhUbmxqg&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=4LZnF6ZmQ_5ChMm9H0n-pg&_nc_ss=79289&oh=00_AQRff0-oZ-MUA5K7qarOU8LQqq67GeC_6FbKnfy39bmFsw&oe=6AE7A82C",
-            "video_url": null,
-            "first_seen": "2026-10-28T09:23:30.438122+00:00",
-            "last_seen": "2026-10-28T09:23:30.438122+00:00",
-            "active_checked_at": "2026-10-28T09:23:30.438122+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "SK"
-            ]
-          },
-          {
-            "ad_id": "1869007224488931",
-            "product_name": "source health care on alibaba com alibaba com-world s leading b2b marketplace",
-            "product_key": "title:source health care on alibaba com alibaba com-world s leading b2b marketplace",
-            "category": "wellness",
-            "advertiser": "Alibaba.com",
-            "source_country": "SK",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1869007224488931",
-            "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
-            "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/642859141_1611251033524648_6915801393638287743_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=e_FMnhjOC94Q7kNvwG1k0iy&_nc_oc=Adoz50pIdO84sjLUW8GmxHJvt2ak8tvYNG1NhuQcMWb3jJZ2hnnAjxjrIJmJTAq7a34&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=4LZnF6ZmQ_5ChMm9H0n-pg&_nc_ss=79289&oh=00_AQQfruhlC9-y2o1WDUTW1SabQd6h09C32d1vxo7qOQcBEw&oe=6AE794A2",
-            "video_url": null,
-            "first_seen": "2026-10-28T09:23:30.438122+00:00",
-            "last_seen": "2026-10-28T09:23:30.438122+00:00",
-            "active_checked_at": "2026-10-28T09:23:30.438122+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "SK"
-            ]
-          },
-          {
-            "ad_id": "2095434604572012",
-            "product_name": "source health care on alibaba com alibaba com-world s leading b2b marketplace",
-            "product_key": "title:source health care on alibaba com alibaba com-world s leading b2b marketplace",
-            "category": "wellness",
-            "advertiser": "Alibaba.com",
-            "source_country": "SK",
-            "ad_url": "https://www.facebook.com/ads/library/?id=2095434604572012",
-            "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
-            "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/615814914_780772084282441_8825393359596370628_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=psNtliZagdwQ7kNvwE-OQ-Y&_nc_oc=AdqIunfe61_08KaXpy1Q0n1408m3IDhrZ00Zdv63KO4UF9e_AtJK4MQQ2n3sDuGZRFA&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=4LZnF6ZmQ_5ChMm9H0n-pg&_nc_ss=79289&oh=00_AQRXUcpKGDxQMSUcHbjRHuXNSu5oToiSyX5xBiZqA2IN8w&oe=6AE7A30D",
-            "video_url": null,
-            "first_seen": "2026-10-28T09:23:30.438122+00:00",
-            "last_seen": "2026-10-28T09:23:30.438122+00:00",
-            "active_checked_at": "2026-10-28T09:23:30.438122+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "SK"
-            ]
-          }
-        ],
-        "verification": "Approximate product identity, never ad-set count or verified sales"
       }
     ],
     "home": [],
@@ -1431,8 +1002,8 @@
       {
         "name": "source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
         "group_key": "title:source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
-        "ad_count": 25,
-        "active_ads_observed": 25,
+        "ad_count": 24,
+        "active_ads_observed": 24,
         "advertiser_count": 1,
         "countries": [
           "HU",
@@ -1909,25 +1480,6 @@
             "source_countries": [
               "HU"
             ]
-          },
-          {
-            "ad_id": "939118398489558",
-            "product_name": "source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
-            "product_key": "title:source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
-            "category": "fashion",
-            "advertiser": "Alibaba.com",
-            "source_country": "PT",
-            "ad_url": "https://www.facebook.com/ads/library/?id=939118398489558",
-            "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
-            "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/644463535_761343470068773_4689229005534782801_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=52WO3-ZzO2kQ7kNvwHhH0AN&_nc_oc=Ado8eWH1CqQmZd2InX-_cR3QOUsNVL7Ui-S2n2tp38ZlqhL0Pyb8QiCeYhINCTQloSY&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=1wEpj1dSWCTbgAIqcI3IUg&_nc_ss=79289&oh=00_AQRv_jsrwPpMmN2caWXgjOfa7yeb_V7jsTBXAXCRdxfs7w&oe=6AE79967",
-            "video_url": null,
-            "first_seen": "2026-10-28T09:23:30.438122+00:00",
-            "last_seen": "2026-10-28T09:23:30.438122+00:00",
-            "active_checked_at": "2026-10-28T09:23:30.438122+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "PT"
-            ]
           }
         ],
         "verification": "Approximate product identity, never ad-set count or verified sales"
@@ -1941,8 +1493,8 @@
       {
         "name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
         "group_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
-        "ad_count": 33,
-        "active_ads_observed": 33,
+        "ad_count": 36,
+        "active_ads_observed": 36,
         "advertiser_count": 1,
         "countries": [
           "AR",
@@ -1958,11 +1510,86 @@
           "MX",
           "NL",
           "PE",
-          "SK",
           "VN"
         ],
-        "last_active_observation": "2026-10-29T23:13:37.684302+00:00",
+        "last_active_observation": "2026-10-30T09:52:45.740033+00:00",
         "ads": [
+          {
+            "ad_id": "1858504612244138",
+            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "garden",
+            "advertiser": "Alibaba.com",
+            "source_country": "MA",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1858504612244138",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/874489620_1688246759543160_685754263777750831_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LJ8tV6PHuo0Q7kNvwFd4ziI&_nc_oc=Adrx2CmDvcio56WTGDnoXZSB9QyjPLT1ZAdQ8oVJA_cW4loZhZxSBAxBdJkEE37Os7s&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=FM_c3NsGKfqC3MPyp9vhvA&_nc_ss=79289&oh=00_AQSnvlboDqvpoHMAGXTOT0LZHKdZ15ZQyrKjZfIEiEePSw&oe=6AEA26BD",
+            "video_url": null,
+            "first_seen": "2026-10-30T09:52:45.740033+00:00",
+            "last_seen": "2026-10-30T09:52:45.740033+00:00",
+            "active_checked_at": "2026-10-30T09:52:45.740033+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "MA"
+            ]
+          },
+          {
+            "ad_id": "1152284220475222",
+            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "garden",
+            "advertiser": "Alibaba.com",
+            "source_country": "MA",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1152284220475222",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/870581108_1507837847849678_7180213624762495556_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pZeA70eYKq4Q7kNvwFCziyH&_nc_oc=AdppfbpxyBr_t1h5sdR43-8djqU4aK-xAoTLsvmhpf43XB1Ktih1RX6gakaipPM4ONc&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=FM_c3NsGKfqC3MPyp9vhvA&_nc_ss=79289&oh=00_AQQ_WsK05yPOwT2ywUlTTsPP9tJzoUMeqjnD5AZLn3CXjg&oe=6AEA212C",
+            "video_url": null,
+            "first_seen": "2026-10-30T09:52:45.740033+00:00",
+            "last_seen": "2026-10-30T09:52:45.740033+00:00",
+            "active_checked_at": "2026-10-30T09:52:45.740033+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "MA"
+            ]
+          },
+          {
+            "ad_id": "1378556460764688",
+            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "garden",
+            "advertiser": "Alibaba.com",
+            "source_country": "MA",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1378556460764688",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/867800002_1497819658831258_7050082683948111316_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xaPwPlPfGlMQ7kNvwFbcyKR&_nc_oc=AdqNe0Zsima3wbvOqWjhIQ2wL_ZlSFjugaJM4-eSvdfcsfd--qUZFRM5YhAbW5AEuLs&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=FM_c3NsGKfqC3MPyp9vhvA&_nc_ss=79289&oh=00_AQQ-ff40wl3jY3-Myy0HKABLbMCGD6JcsJSDfagPl5pbug&oe=6AEA309F",
+            "video_url": null,
+            "first_seen": "2026-10-30T09:52:45.740033+00:00",
+            "last_seen": "2026-10-30T09:52:45.740033+00:00",
+            "active_checked_at": "2026-10-30T09:52:45.740033+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "MA"
+            ]
+          },
+          {
+            "ad_id": "1131325575919167",
+            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "garden",
+            "advertiser": "Alibaba.com",
+            "source_country": "MA",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1131325575919167",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/861835283_2153445265558641_1610761181208529352_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MtYdtvNyVgkQ7kNvwGYeWlI&_nc_oc=AdrC9lFfV01CMJfW74AhJzyR-3Bmn4n-7FebkF3Cysin3AlxIOoZEbJBqWryHn0UCZY&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=FM_c3NsGKfqC3MPyp9vhvA&_nc_ss=79289&oh=00_AQR9M6AbdIPysXwhaUsNQ0NTpqk4HmyCxRAQSaqKF2l9Xg&oe=6AEA56C9",
+            "video_url": null,
+            "first_seen": "2026-10-30T09:52:45.740033+00:00",
+            "last_seen": "2026-10-30T09:52:45.740033+00:00",
+            "active_checked_at": "2026-10-30T09:52:45.740033+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "MA"
+            ]
+          },
           {
             "ad_id": "1048376874700960",
             "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
@@ -2584,25 +2211,6 @@
             "is_active_observed": true,
             "source_countries": [
               "NL"
-            ]
-          },
-          {
-            "ad_id": "1303747965041347",
-            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
-            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
-            "category": "garden",
-            "advertiser": "Alibaba.com",
-            "source_country": "SK",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1303747965041347",
-            "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
-            "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/802002768_939846875250014_5172853792109638227_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lYxfSA5dqagQ7kNvwFItdIO&_nc_oc=Ado_BNHxZlQsZqvr5kOrBaDdrMo_nVqCfns7eDmZE-nrr5RJYeMhTt478pyYq4DiVxI&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=4LZnF6ZmQ_5ChMm9H0n-pg&_nc_ss=79289&oh=00_AQQznBKxF0MOYP5tN12TKT7iPJ9DyqPblcc98iTYcGG2WQ&oe=6AE79EF1",
-            "video_url": null,
-            "first_seen": "2026-10-28T09:23:30.438122+00:00",
-            "last_seen": "2026-10-28T09:23:30.438122+00:00",
-            "active_checked_at": "2026-10-28T09:23:30.438122+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "SK"
             ]
           }
         ],
