@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T02:49:34.714759+00:00",
+  "updated_at": "2026-10-30T03:28:58.725978+00:00",
   "minimum_active_ads": 21,
   "active_window_hours": 48,
   "categories": {
@@ -1008,7 +1008,7 @@
           "TR",
           "VN"
         ],
-        "last_active_observation": "2026-10-29T18:28:09.550475+00:00",
+        "last_active_observation": "2026-10-30T03:28:58.725978+00:00",
         "ads": [
           {
             "ad_id": "2036871433846026",
@@ -1022,8 +1022,8 @@
             "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/370268703_1009199960531138_4771752704840418550_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wwX6ioMDZYQQ7kNvwHWOCyW&_nc_oc=Adq0TnGEbo91D9sasXyP9atdwclvwtAH1l_jSeQyRkvtg82ONSputf954I7WOaaf8Lo&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=Beck3R_aU5WXPaK1_d_6Jg&_nc_ss=79289&oh=00_AQRF9Mbja5jEBOpp7DHUtaeRUeeAUi3iuK7Qbo5i2Shyew&oe=6AE73301",
             "video_url": null,
             "first_seen": "2026-10-28T03:25:05.832855+00:00",
-            "last_seen": "2026-10-29T18:28:09.550475+00:00",
-            "active_checked_at": "2026-10-29T18:28:09.550475+00:00",
+            "last_seen": "2026-10-30T03:28:58.725978+00:00",
+            "active_checked_at": "2026-10-30T03:28:58.725978+00:00",
             "is_active_observed": true,
             "source_countries": [
               "BE",
@@ -1045,8 +1045,8 @@
             "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/701960504_807206832269903_6350515492139843571_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=S1YPBkLJNN4Q7kNvwHqqAUZ&_nc_oc=AdqMXV74IOLYt4zBx1zVtEjuE3A8Zw-mfLZPaoog7iH5P37YuKAlD_J9KFPcey81fQs&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=Beck3R_aU5WXPaK1_d_6Jg&_nc_ss=79289&oh=00_AQQxchzDMKwg0Y6u6zxAN8PrioyVDJSQXfpwRVt3jxeM8g&oe=6AE74CF4",
             "video_url": null,
             "first_seen": "2026-10-28T03:25:05.832855+00:00",
-            "last_seen": "2026-10-29T18:28:09.550475+00:00",
-            "active_checked_at": "2026-10-29T18:28:09.550475+00:00",
+            "last_seen": "2026-10-30T03:28:58.725978+00:00",
+            "active_checked_at": "2026-10-30T03:28:58.725978+00:00",
             "is_active_observed": true,
             "source_countries": [
               "BE",
