@@ -1,37 +1,37 @@
 {
-  "timestamp_utc": "2026-10-31T09:40:51.015951+00:00",
+  "timestamp_utc": "2026-10-31T10:21:35.412189+00:00",
   "attempts": [
     {
-      "country": "LT",
-      "keyword": "cleaning tool",
-      "category": "home",
+      "country": "JP",
+      "keyword": "crossbody bag",
+      "category": "fashion",
       "found": 30
     },
     {
-      "country": "CA",
-      "keyword": "home organizer",
-      "category": "home",
+      "country": "SE",
+      "keyword": "comfortable shoes",
+      "category": "fashion",
       "found": 30
     },
     {
-      "country": "DK",
-      "keyword": "storage solution",
-      "category": "home",
+      "country": "NZ",
+      "keyword": "jewelry",
+      "category": "fashion",
       "found": 30
     },
     {
-      "country": "CO",
-      "keyword": "vacuum cleaner",
-      "category": "home",
-      "found": 29
+      "country": "AE",
+      "keyword": "casual clothing",
+      "category": "fashion",
+      "found": 0
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 77,
-  "unique_active_ads_observed_last_48h": 2809,
+  "new_ads": 31,
+  "unique_active_ads_observed_last_48h": 2824,
   "qualifying_products": 2,
-  "groups_below_threshold_or_unverified": 2476,
+  "groups_below_threshold_or_unverified": 2491,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "ok",
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
