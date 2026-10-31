@@ -1,37 +1,37 @@
 {
-  "timestamp_utc": "2026-10-31T12:13:05.539702+00:00",
+  "timestamp_utc": "2026-10-31T13:14:14.742520+00:00",
   "attempts": [
     {
-      "country": "IE",
-      "keyword": "hair serum",
-      "category": "beauty",
+      "country": "AE",
+      "keyword": "phone accessory",
+      "category": "electronics",
       "found": 30
     },
     {
-      "country": "MA",
-      "keyword": "skincare serum",
-      "category": "beauty",
+      "country": "HK",
+      "keyword": "wireless charger",
+      "category": "electronics",
       "found": 30
     },
     {
-      "country": "TW",
-      "keyword": "hair care",
-      "category": "beauty",
+      "country": "UY",
+      "keyword": "smartwatch",
+      "category": "electronics",
       "found": 30
     },
     {
-      "country": "LT",
-      "keyword": "shampoo",
-      "category": "beauty",
-      "found": 30
+      "country": "KR",
+      "keyword": "bluetooth headphones",
+      "category": "electronics",
+      "found": 29
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 54,
-  "unique_active_ads_observed_last_48h": 2814,
+  "new_ads": 64,
+  "unique_active_ads_observed_last_48h": 2875,
   "qualifying_products": 1,
-  "groups_below_threshold_or_unverified": 2497,
+  "groups_below_threshold_or_unverified": 2541,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "ok",
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
