@@ -1,35 +1,35 @@
 {
-  "timestamp_utc": "2026-10-31T11:37:08.952254+00:00",
+  "timestamp_utc": "2026-10-31T12:13:05.539702+00:00",
   "attempts": [
     {
-      "country": "PL",
-      "keyword": "plant accessories",
-      "category": "garden",
+      "country": "IE",
+      "keyword": "hair serum",
+      "category": "beauty",
       "found": 30
     },
     {
-      "country": "CL",
-      "keyword": "coffee",
-      "category": "food",
+      "country": "MA",
+      "keyword": "skincare serum",
+      "category": "beauty",
       "found": 30
     },
     {
-      "country": "IN",
-      "keyword": "healthy snacks",
-      "category": "food",
-      "found": 28
+      "country": "TW",
+      "keyword": "hair care",
+      "category": "beauty",
+      "found": 30
     },
     {
-      "country": "BG",
-      "keyword": "tea",
-      "category": "food",
+      "country": "LT",
+      "keyword": "shampoo",
+      "category": "beauty",
       "found": 30
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 41,
-  "unique_active_ads_observed_last_48h": 2816,
+  "new_ads": 54,
+  "unique_active_ads_observed_last_48h": 2814,
   "qualifying_products": 1,
   "groups_below_threshold_or_unverified": 2497,
   "threshold_min_unique_active_ad_ids": 21,
