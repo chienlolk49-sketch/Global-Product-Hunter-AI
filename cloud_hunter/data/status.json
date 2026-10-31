@@ -1,37 +1,37 @@
 {
-  "timestamp_utc": "2026-10-31T05:04:47.790690+00:00",
+  "timestamp_utc": "2026-10-31T05:43:08.107820+00:00",
   "attempts": [
     {
-      "country": "JP",
-      "keyword": "travel organizer",
-      "category": "travel",
+      "country": "PT",
+      "keyword": "plant accessories",
+      "category": "garden",
+      "found": 24
+    },
+    {
+      "country": "SK",
+      "keyword": "coffee",
+      "category": "food",
       "found": 30
     },
     {
-      "country": "SE",
-      "keyword": "luggage accessory",
-      "category": "travel",
-      "found": 4
-    },
-    {
-      "country": "NZ",
-      "keyword": "camping equipment",
-      "category": "travel",
-      "found": 29
-    },
-    {
-      "country": "AE",
-      "keyword": "puzzle game",
-      "category": "toys",
+      "country": "ZA",
+      "keyword": "healthy snacks",
+      "category": "food",
       "found": 30
+    },
+    {
+      "country": "BD",
+      "keyword": "tea",
+      "category": "food",
+      "found": 27
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 2,
-  "unique_active_ads_observed_last_48h": 2756,
+  "new_ads": 44,
+  "unique_active_ads_observed_last_48h": 2754,
   "qualifying_products": 2,
-  "groups_below_threshold_or_unverified": 2439,
+  "groups_below_threshold_or_unverified": 2441,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "ok",
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
