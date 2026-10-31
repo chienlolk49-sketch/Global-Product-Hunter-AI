@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T06:25:03.247574+00:00",
+  "updated_at": "2026-10-31T07:30:48.600805+00:00",
   "minimum_active_ads": 21,
   "active_window_hours": 48,
   "categories": {
@@ -875,8 +875,8 @@
       {
         "name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
         "group_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
-        "ad_count": 30,
-        "active_ads_observed": 30,
+        "ad_count": 29,
+        "active_ads_observed": 29,
         "advertiser_count": 1,
         "countries": [
           "AR",
@@ -892,7 +892,6 @@
           "IL",
           "LK",
           "MA",
-          "MX",
           "NL",
           "PE",
           "RS"
@@ -1463,27 +1462,6 @@
             "is_active_observed": true,
             "source_countries": [
               "PE"
-            ]
-          },
-          {
-            "ad_id": "2670186283397936",
-            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
-            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
-            "category": "garden",
-            "advertiser": "Alibaba.com",
-            "source_country": "BG",
-            "ad_url": "https://www.facebook.com/ads/library/?id=2670186283397936",
-            "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
-            "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/536213621_1680734425946900_9057962885293888427_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-kjFzLGzyE0Q7kNvwHsgAIu&_nc_oc=AdqaMeRCWErQv_Mk2bpEVPiuZK12iCFB--KxhlNxT3n6UscixT3i6fJ2YwndudnHhM8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=k67r5lNLAoqDXeCpVsjHXg&_nc_ss=79289&oh=00_AQQULero6kg4FxoP-wNq_ElPqv86fUcY3wXxaiU8IaeVMQ&oe=6AE7B7C6",
-            "video_url": null,
-            "first_seen": "2026-10-28T12:54:34.839090+00:00",
-            "last_seen": "2026-10-29T06:55:21.028952+00:00",
-            "active_checked_at": "2026-10-29T06:55:21.028952+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "BG",
-              "DE",
-              "MX"
             ]
           }
         ],
