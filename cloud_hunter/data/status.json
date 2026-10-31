@@ -1,37 +1,37 @@
 {
-  "timestamp_utc": "2026-10-31T08:21:18.650398+00:00",
+  "timestamp_utc": "2026-10-31T09:02:37.524255+00:00",
   "attempts": [
     {
-      "country": "BD",
-      "keyword": "educational toy",
-      "category": "toys",
+      "country": "BG",
+      "keyword": "hair serum",
+      "category": "beauty",
       "found": 30
     },
     {
-      "country": "RS",
-      "keyword": "desk organizer",
-      "category": "office",
+      "country": "DE",
+      "keyword": "skincare serum",
+      "category": "beauty",
       "found": 30
     },
     {
-      "country": "BR",
-      "keyword": "office supplies",
-      "category": "office",
-      "found": 29
+      "country": "NL",
+      "keyword": "hair care",
+      "category": "beauty",
+      "found": 30
     },
     {
-      "country": "AT",
-      "keyword": "garden tool",
-      "category": "garden",
+      "country": "HU",
+      "keyword": "shampoo",
+      "category": "beauty",
       "found": 30
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 5,
-  "unique_active_ads_observed_last_48h": 2744,
+  "new_ads": 0,
+  "unique_active_ads_observed_last_48h": 2732,
   "qualifying_products": 2,
-  "groups_below_threshold_or_unverified": 2428,
+  "groups_below_threshold_or_unverified": 2418,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "ok",
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
