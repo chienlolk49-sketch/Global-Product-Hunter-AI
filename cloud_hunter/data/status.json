@@ -1,37 +1,37 @@
 {
-  "timestamp_utc": "2026-10-31T15:55:20.201839+00:00",
+  "timestamp_utc": "2026-10-31T16:38:44.630545+00:00",
   "attempts": [
     {
-      "country": "KR",
-      "keyword": "kitchen gadget",
-      "category": "kitchen",
+      "country": "NO",
+      "keyword": "baby care",
+      "category": "baby",
       "found": 30
     },
     {
-      "country": "FI",
-      "keyword": "vegetable cutter",
-      "category": "kitchen",
-      "found": 30
+      "country": "MX",
+      "keyword": "maternity accessory",
+      "category": "baby",
+      "found": 0
     },
     {
-      "country": "AR",
-      "keyword": "cooking accessory",
-      "category": "kitchen",
-      "found": 10
+      "country": "SA",
+      "keyword": "fitness accessory",
+      "category": "sport",
+      "found": 16
     },
     {
-      "country": "IL",
-      "keyword": "coffee maker",
-      "category": "kitchen",
-      "found": 30
+      "country": "CN",
+      "keyword": "yoga equipment",
+      "category": "sport",
+      "found": 29
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 6,
-  "unique_active_ads_observed_last_48h": 2879,
+  "new_ads": 26,
+  "unique_active_ads_observed_last_48h": 2905,
   "qualifying_products": 1,
-  "groups_below_threshold_or_unverified": 2543,
+  "groups_below_threshold_or_unverified": 2569,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "ok",
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
