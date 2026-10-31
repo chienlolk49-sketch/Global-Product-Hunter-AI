@@ -1,37 +1,37 @@
 {
-  "timestamp_utc": "2026-10-31T04:20:40.638341+00:00",
+  "timestamp_utc": "2026-10-31T05:04:47.790690+00:00",
   "attempts": [
     {
-      "country": "LT",
-      "keyword": "crossbody bag",
-      "category": "fashion",
+      "country": "JP",
+      "keyword": "travel organizer",
+      "category": "travel",
       "found": 30
     },
     {
-      "country": "CA",
-      "keyword": "comfortable shoes",
-      "category": "fashion",
-      "found": 30
+      "country": "SE",
+      "keyword": "luggage accessory",
+      "category": "travel",
+      "found": 4
     },
     {
-      "country": "DK",
-      "keyword": "jewelry",
-      "category": "fashion",
-      "found": 30
+      "country": "NZ",
+      "keyword": "camping equipment",
+      "category": "travel",
+      "found": 29
     },
     {
-      "country": "CO",
-      "keyword": "casual clothing",
-      "category": "fashion",
+      "country": "AE",
+      "keyword": "puzzle game",
+      "category": "toys",
       "found": 30
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 43,
-  "unique_active_ads_observed_last_48h": 2793,
+  "new_ads": 2,
+  "unique_active_ads_observed_last_48h": 2756,
   "qualifying_products": 2,
-  "groups_below_threshold_or_unverified": 2463,
+  "groups_below_threshold_or_unverified": 2439,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "ok",
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
