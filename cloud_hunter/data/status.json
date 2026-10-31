@@ -1,35 +1,35 @@
 {
-  "timestamp_utc": "2026-10-31T15:18:03.899542+00:00",
+  "timestamp_utc": "2026-10-31T15:55:20.201839+00:00",
   "attempts": [
     {
-      "country": "FR",
-      "keyword": "makeup tools",
-      "category": "beauty",
+      "country": "KR",
+      "keyword": "kitchen gadget",
+      "category": "kitchen",
       "found": 30
     },
     {
-      "country": "BE",
-      "keyword": "neck massager",
-      "category": "wellness",
-      "found": 28
-    },
-    {
-      "country": "RO",
-      "keyword": "posture support",
-      "category": "wellness",
+      "country": "FI",
+      "keyword": "vegetable cutter",
+      "category": "kitchen",
       "found": 30
     },
     {
-      "country": "KE",
-      "keyword": "massage device",
-      "category": "wellness",
-      "found": 28
+      "country": "AR",
+      "keyword": "cooking accessory",
+      "category": "kitchen",
+      "found": 10
+    },
+    {
+      "country": "IL",
+      "keyword": "coffee maker",
+      "category": "kitchen",
+      "found": 30
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 14,
-  "unique_active_ads_observed_last_48h": 2877,
+  "new_ads": 6,
+  "unique_active_ads_observed_last_48h": 2879,
   "qualifying_products": 1,
   "groups_below_threshold_or_unverified": 2543,
   "threshold_min_unique_active_ad_ids": 21,
