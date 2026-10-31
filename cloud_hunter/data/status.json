@@ -1,37 +1,37 @@
 {
-  "timestamp_utc": "2026-10-31T13:14:14.742520+00:00",
+  "timestamp_utc": "2026-10-31T13:59:13.105927+00:00",
   "attempts": [
     {
-      "country": "AE",
-      "keyword": "phone accessory",
-      "category": "electronics",
+      "country": "SG",
+      "keyword": "workout bands",
+      "category": "sport",
       "found": 30
     },
     {
-      "country": "HK",
-      "keyword": "wireless charger",
-      "category": "electronics",
+      "country": "LV",
+      "keyword": "car accessories",
+      "category": "vehicle",
       "found": 30
     },
     {
-      "country": "UY",
-      "keyword": "smartwatch",
-      "category": "electronics",
+      "country": "AU",
+      "keyword": "car cleaning",
+      "category": "vehicle",
       "found": 30
     },
     {
-      "country": "KR",
-      "keyword": "bluetooth headphones",
-      "category": "electronics",
-      "found": 29
+      "country": "NO",
+      "keyword": "motorcycle accessory",
+      "category": "vehicle",
+      "found": 30
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 64,
-  "unique_active_ads_observed_last_48h": 2875,
+  "new_ads": 42,
+  "unique_active_ads_observed_last_48h": 2917,
   "qualifying_products": 1,
-  "groups_below_threshold_or_unverified": 2541,
+  "groups_below_threshold_or_unverified": 2581,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "ok",
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
