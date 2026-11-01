@@ -1,37 +1,37 @@
 {
-  "timestamp_utc": "2026-11-01T17:36:33.006681+00:00",
+  "timestamp_utc": "2026-11-01T18:10:10.093458+00:00",
   "attempts": [
     {
-      "country": "FR",
-      "keyword": "plant accessories",
-      "category": "garden",
+      "country": "KR",
+      "keyword": "hair serum",
+      "category": "beauty",
+      "found": 29
+    },
+    {
+      "country": "FI",
+      "keyword": "skincare serum",
+      "category": "beauty",
       "found": 30
     },
     {
-      "country": "BE",
-      "keyword": "coffee",
-      "category": "food",
-      "found": 30
+      "country": "AR",
+      "keyword": "hair care",
+      "category": "beauty",
+      "found": 29
     },
     {
-      "country": "RO",
-      "keyword": "healthy snacks",
-      "category": "food",
-      "found": 30
-    },
-    {
-      "country": "KE",
-      "keyword": "tea",
-      "category": "food",
+      "country": "IL",
+      "keyword": "shampoo",
+      "category": "beauty",
       "found": 30
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 2,
-  "unique_active_ads_observed_last_48h": 2861,
+  "new_ads": 1,
+  "unique_active_ads_observed_last_48h": 2862,
   "qualifying_products": 1,
-  "groups_below_threshold_or_unverified": 2522,
+  "groups_below_threshold_or_unverified": 2523,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "ok",
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
