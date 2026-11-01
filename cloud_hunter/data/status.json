@@ -1,37 +1,37 @@
 {
-  "timestamp_utc": "2026-11-01T15:37:22.827283+00:00",
+  "timestamp_utc": "2026-11-01T16:14:36.112976+00:00",
   "attempts": [
     {
-      "country": "IL",
-      "keyword": "cleaning tool",
-      "category": "home",
+      "country": "SG",
+      "keyword": "phone accessory",
+      "category": "electronics",
       "found": 30
     },
     {
-      "country": "UA",
-      "keyword": "home organizer",
-      "category": "home",
+      "country": "LV",
+      "keyword": "wireless charger",
+      "category": "electronics",
       "found": 30
     },
     {
-      "country": "GB",
-      "keyword": "storage solution",
-      "category": "home",
+      "country": "AU",
+      "keyword": "smartwatch",
+      "category": "electronics",
       "found": 30
     },
     {
-      "country": "PT",
-      "keyword": "vacuum cleaner",
-      "category": "home",
-      "found": 30
+      "country": "NO",
+      "keyword": "bluetooth headphones",
+      "category": "electronics",
+      "found": 29
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 34,
-  "unique_active_ads_observed_last_48h": 2819,
+  "new_ads": 82,
+  "unique_active_ads_observed_last_48h": 2858,
   "qualifying_products": 1,
-  "groups_below_threshold_or_unverified": 2493,
+  "groups_below_threshold_or_unverified": 2520,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "ok",
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
