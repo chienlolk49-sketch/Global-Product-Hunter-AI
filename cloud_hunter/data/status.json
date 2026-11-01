@@ -1,37 +1,37 @@
 {
-  "timestamp_utc": "2026-11-01T19:06:47.041827+00:00",
+  "timestamp_utc": "2026-11-01T19:43:27.658315+00:00",
   "attempts": [
     {
-      "country": "PL",
-      "keyword": "phone accessory",
-      "category": "electronics",
+      "country": "IE",
+      "keyword": "baby care",
+      "category": "baby",
       "found": 30
     },
     {
-      "country": "CL",
-      "keyword": "wireless charger",
-      "category": "electronics",
-      "found": 30
+      "country": "MA",
+      "keyword": "maternity accessory",
+      "category": "baby",
+      "found": 0
     },
     {
-      "country": "IN",
-      "keyword": "smartwatch",
-      "category": "electronics",
-      "found": 28
+      "country": "TW",
+      "keyword": "fitness accessory",
+      "category": "sport",
+      "found": 2
     },
     {
-      "country": "BG",
-      "keyword": "bluetooth headphones",
-      "category": "electronics",
+      "country": "LT",
+      "keyword": "yoga equipment",
+      "category": "sport",
       "found": 30
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 52,
-  "unique_active_ads_observed_last_48h": 2904,
+  "new_ads": 2,
+  "unique_active_ads_observed_last_48h": 2858,
   "qualifying_products": 1,
-  "groups_below_threshold_or_unverified": 2562,
+  "groups_below_threshold_or_unverified": 2528,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "ok",
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
