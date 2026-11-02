@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T09:03:12.969857+00:00",
+  "updated_at": "2026-11-02T10:06:29.099841+00:00",
   "minimum_active_ads": 21,
   "active_window_hours": 48,
   "categories": {
@@ -8,8 +8,8 @@
       {
         "name": "support stamina and heart health every day",
         "group_key": "title:support stamina and heart health every day",
-        "ad_count": 62,
-        "active_ads_observed": 62,
+        "ad_count": 61,
+        "active_ads_observed": 61,
         "advertiser_count": 8,
         "countries": [
           "AT",
@@ -1377,25 +1377,6 @@
             "is_active_observed": true,
             "source_countries": [
               "JP"
-            ]
-          },
-          {
-            "ad_id": "1988954458481940",
-            "product_name": "support stamina and heart health every day",
-            "product_key": "title:support stamina and heart health every day",
-            "category": "wellness",
-            "advertiser": "Rosabella",
-            "source_country": "CO",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1988954458481940",
-            "landing_url": "https://track.tryrosabella.com/cdc16426-3e48-40a7-9fad-21098084f6cf",
-            "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/812030255_1727194919415286_173920378969220644_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fnIA0VcqRf8Q7kNvwFj2FUy&_nc_oc=Adpo51J0Hi_nokWcad-WBch24DpdoC7xiRsKuLZCM-MFGmojVKOsBSqmRiAzM9xSFTw&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=x6u5W1FQ0j3-CIC_DwP1lA&_nc_ss=79289&oh=00_AQRwXnn16JuzmPwC6anpMHb46_mlw4TkIso9x6GuVz-kJw&oe=6AEB8B22",
-            "video_url": null,
-            "first_seen": "2026-10-31T09:40:51.015951+00:00",
-            "last_seen": "2026-10-31T09:40:51.015951+00:00",
-            "active_checked_at": "2026-10-31T09:40:51.015951+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "CO"
             ]
           }
         ],
