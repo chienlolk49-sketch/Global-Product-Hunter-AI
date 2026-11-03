@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T15:09:21.616941+00:00",
+  "updated_at": "2026-11-03T16:14:57.291970+00:00",
   "minimum_active_ads": 21,
   "active_window_hours": 48,
   "categories": {
@@ -475,8 +475,8 @@
       {
         "name": "support stamina and heart health every day",
         "group_key": "title:support stamina and heart health every day",
-        "ad_count": 48,
-        "active_ads_observed": 48,
+        "ad_count": 47,
+        "active_ads_observed": 47,
         "advertiser_count": 8,
         "countries": [
           "AT",
@@ -1568,26 +1568,6 @@
             "is_active_observed": true,
             "source_countries": [
               "PE"
-            ]
-          },
-          {
-            "ad_id": "1431110692287206",
-            "product_name": "support stamina and heart health every day",
-            "product_key": "title:support stamina and heart health every day",
-            "category": "wellness",
-            "advertiser": "The Health Haven",
-            "source_country": "CO",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1431110692287206",
-            "landing_url": "https://track.tryrosabella.com/cdc16426-3e48-40a7-9fad-21098084f6cf",
-            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/825286515_1624150636031417_8182125956953862128_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GatLW7rrSgsQ7kNvwFXK1xH&_nc_oc=Adr6E48ExSFHwjrV9JQJLFrOcD3aX6XHF44KWtTCjvQgjDeVfi6RgB4fI6fxCsNgb10&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=x6u5W1FQ0j3-CIC_DwP1lA&_nc_ss=79289&oh=00_AQQ7HVd5KvygOsoG_4cL6Y2twFryaj-hXgTeM1aZZgsfLQ&oe=6AEB9228",
-            "video_url": null,
-            "first_seen": "2026-10-31T09:40:51.015951+00:00",
-            "last_seen": "2026-11-01T15:37:22.827283+00:00",
-            "active_checked_at": "2026-11-01T15:37:22.827283+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "CO",
-              "PT"
             ]
           }
         ],
