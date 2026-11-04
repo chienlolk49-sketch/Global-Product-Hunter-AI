@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T11:14:54.474317+00:00",
+  "updated_at": "2026-11-04T12:08:31.345632+00:00",
   "minimum_active_ads": 21,
   "active_window_hours": 48,
   "categories": {
@@ -7,8 +7,8 @@
       {
         "name": "lóvi offers expert skincare guidance backed by medical professionals",
         "group_key": "title:lóvi offers expert skincare guidance backed by medical professionals",
-        "ad_count": 21,
-        "active_ads_observed": 21,
+        "ad_count": 23,
+        "active_ads_observed": 23,
         "advertiser_count": 1,
         "countries": [
           "DE",
@@ -18,32 +18,8 @@
           "MX",
           "RS"
         ],
-        "last_active_observation": "2026-11-03T18:06:36.255145+00:00",
+        "last_active_observation": "2026-11-04T12:08:31.345632+00:00",
         "ads": [
-          {
-            "ad_id": "2056015141793249",
-            "product_name": "lóvi offers expert skincare guidance backed by medical professionals",
-            "product_key": "title:lóvi offers expert skincare guidance backed by medical professionals",
-            "category": "beauty",
-            "advertiser": "Kim Ji Soo 김지수 - Korean Skincare Expert",
-            "source_country": "RS",
-            "ad_url": "https://www.facebook.com/ads/library/?id=2056015141793249",
-            "landing_url": "https://interview.lovi.care/",
-            "image_url": null,
-            "video_url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQO62P-Rsnuf1TxWfqSgpkupKXWicpC3tz664cPSXclYvMMfyjszaw08j1dqtbFjZB9w9HNm8-R_BylS2RHCQkRq8rUfOxdkH2v9mM3PLLLc3A.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=mGr_FVNQNzcQ7kNvwFoXlAc&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIyMjA4MTAxNTIwODkwODQsImFzc2V0X2FnZV9kYXlzIjoxNzAsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo1NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=7221d5005aaa729c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DQjQ3MUI0NEQ2QkM2RUVEQUIyQUMyNkEwNUY3NDNCMF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzZENEY2RkJBRkVDRkEwOTREOUZFNkE4RUQxMTU5Q0FFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb419SDlfTxBxUCKAJDMywXQEz7peNT988YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=MxSuTiMHuK4688jM4XPzfg&_nc_ss=79289&_nc_zt=28&oh=00_AQRdHSFiELdy-an13zUwgKk6hMUpKXTHbDuL53ZJttkmTw&oe=6AE7BF22",
-            "first_seen": "2026-10-28T12:02:10.752601+00:00",
-            "last_seen": "2026-11-03T18:06:36.255145+00:00",
-            "active_checked_at": "2026-11-03T18:06:36.255145+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "DE",
-              "ES",
-              "FI",
-              "MA",
-              "MX",
-              "RS"
-            ]
-          },
           {
             "ad_id": "1010274434802837",
             "product_name": "lóvi offers expert skincare guidance backed by medical professionals",
@@ -55,6 +31,377 @@
             "landing_url": "https://interview.lovi.care/",
             "image_url": null,
             "video_url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOpvXtvpmalWQtzYoxyXxhMiuBMLbmLV0z-ix5gb-T5ZramXUEcq6DUiQd_vwKVH7_rKnE1vWzR0MR-DqFC1A6wn6VdvxrH9EKPDy8D3nRIAQ.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=5g7kd-AYNkIQ7kNvwFWHEaj&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzMTkxMDYxOTYyNjcxNzYsImFzc2V0X2FnZV9kYXlzIjo0MDMsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=f94bab3194a19943&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DODRFQzMzM0ZEQjNDNDA5NEM0RUU5OUREOTRBRDhBRF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzdCNEY4OUUzRjM2MzBENUI1NkZCQTlDNDIxQUFGRDg0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbQgv-Di-7XBBUCKAJDMywXQD7dsi0OVgQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=MxSuTiMHuK4688jM4XPzfg&_nc_ss=79289&_nc_zt=28&oh=00_AQTz98fGMBUZH6H21Nbms04h-SR0_CUmxrhYd5vlrpoxLQ&oe=6AE7C3CE",
+            "first_seen": "2026-10-28T12:02:10.752601+00:00",
+            "last_seen": "2026-11-04T12:08:31.345632+00:00",
+            "active_checked_at": "2026-11-04T12:08:31.345632+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "DE",
+              "ES",
+              "FI",
+              "MA",
+              "MX",
+              "RS"
+            ]
+          },
+          {
+            "ad_id": "913265408469641",
+            "product_name": "lóvi offers expert skincare guidance backed by medical professionals",
+            "product_key": "title:lóvi offers expert skincare guidance backed by medical professionals",
+            "category": "beauty",
+            "advertiser": "Kim Ji Soo 김지수 - Korean Skincare Expert",
+            "source_country": "RS",
+            "ad_url": "https://www.facebook.com/ads/library/?id=913265408469641",
+            "landing_url": "https://interview.lovi.care/",
+            "image_url": null,
+            "video_url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQO06nrtpNBGwCXyyuvCiVx7jtgdqINQLcD3cOEJ4-y4TR9GuRQJ1PiLkvQECx7Hj_WWSZdRCAoiRX-j-KSdHLwpR85Xn1_AlwfqnwxOHZ3whw.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=v8EbIpYoo6EQ7kNvwHM6g7l&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzMjg5ODM2MTU3MzE5OTMsImFzc2V0X2FnZV9kYXlzIjoyMjQsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo3MiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=c30a3f031eb739e8&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84MzRDNUI2MERFMDcwODE5OTg2QTVFMTgzMTNEQUQ4RV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0JENEQxNjREOTM5QzRDQkNEMzZGQ0JBN0JGMjIyNTg2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACay5J_Fg63cBBUCKAJDMywXQFIgAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=MxSuTiMHuK4688jM4XPzfg&_nc_ss=79289&_nc_zt=28&oh=00_AQTv2MLjEpfXxZDLvH8-voSHeYxx1f_OVoB0b51IJPHgnA&oe=6AE7BA16",
+            "first_seen": "2026-10-28T12:02:10.752601+00:00",
+            "last_seen": "2026-11-04T12:08:31.345632+00:00",
+            "active_checked_at": "2026-11-04T12:08:31.345632+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "DE",
+              "ES",
+              "FI",
+              "MA",
+              "MX",
+              "RS"
+            ]
+          },
+          {
+            "ad_id": "1375811134695887",
+            "product_name": "lóvi offers expert skincare guidance backed by medical professionals",
+            "product_key": "title:lóvi offers expert skincare guidance backed by medical professionals",
+            "category": "beauty",
+            "advertiser": "Kim Ji Soo 김지수 - Korean Skincare Expert",
+            "source_country": "RS",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1375811134695887",
+            "landing_url": "https://interview.lovi.care/",
+            "image_url": null,
+            "video_url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNEkbh9CIsZLixn5BCctpLYy6Sm3GX5is7o8ceyK7TcCJTaHeJZTagGUlDpVdpLMhCAyY-1V9Wz13FOiW0I-Q8-XBH-HupcTOocZLm9NqoeHw.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=5Xuop_gKcPQQ7kNvwFtQ2Un&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjkwODYyMzE5ODM2NDg3MSwiYXNzZXRfYWdlX2RheXMiOjI3NCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjUxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=5e51ab543a4cfda8&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84QjQ1Qjg5OEQ0RTI0NEM0MUEwMjdBNUVCQzZCNjZBOF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0ZFNEI3MkU3QkFCMTExMUI4N0U3QjFBMUQzNDExMUIxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaOk8mv6pidAxUCKAJDMywXQEnmZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=MxSuTiMHuK4688jM4XPzfg&_nc_ss=79289&_nc_zt=28&oh=00_AQSD983DDslsHrcOL6y3ZbYUHF7nPkQh3micMc94ZlZu4g&oe=6AE7AAFB",
+            "first_seen": "2026-10-28T12:02:10.752601+00:00",
+            "last_seen": "2026-11-04T12:08:31.345632+00:00",
+            "active_checked_at": "2026-11-04T12:08:31.345632+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "DE",
+              "ES",
+              "FI",
+              "MA",
+              "MX",
+              "RS"
+            ]
+          },
+          {
+            "ad_id": "1019534910794376",
+            "product_name": "lóvi offers expert skincare guidance backed by medical professionals",
+            "product_key": "title:lóvi offers expert skincare guidance backed by medical professionals",
+            "category": "beauty",
+            "advertiser": "Kim Ji Soo 김지수 - Korean Skincare Expert",
+            "source_country": "RS",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1019534910794376",
+            "landing_url": "https://interview.lovi.care/",
+            "image_url": null,
+            "video_url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMpAJ8vf_6iyz1TDA9iLpSFDHkBkt8porZ_CWoag9EOvy-rA8g9-7f-V0HhSebrxrvFMJGlUncX-GQDqWW1CTAViUL1FqdlraqTdI6Cp3pZog.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=M5WnaV2QSRUQ7kNvwGLr6fR&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIyNzI1Njc4MTMxNTQzMjMsImFzc2V0X2FnZV9kYXlzIjozMDEsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo0NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=ef8d01d0f5fda37&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84QTQ1NjdFMkUwMUMxRjFBRkE4NTM0REUwREVBOTQ4MV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0UwNDgwNjYxMDcxMTg4MTQyOUJFNjhBMTY2QjdEMUFGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACammNnT7biJCBUCKAJDMywXQEcZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=MxSuTiMHuK4688jM4XPzfg&_nc_ss=79289&_nc_zt=28&oh=00_AQRnCgN0wQDxwMBvfssVK-0OC_pNOWQ6SuhvYn95J_b8VQ&oe=6AE7CA77",
+            "first_seen": "2026-10-28T12:02:10.752601+00:00",
+            "last_seen": "2026-11-04T12:08:31.345632+00:00",
+            "active_checked_at": "2026-11-04T12:08:31.345632+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "DE",
+              "ES",
+              "FI",
+              "MA",
+              "MX",
+              "RS"
+            ]
+          },
+          {
+            "ad_id": "1480760883734839",
+            "product_name": "lóvi offers expert skincare guidance backed by medical professionals",
+            "product_key": "title:lóvi offers expert skincare guidance backed by medical professionals",
+            "category": "beauty",
+            "advertiser": "Kim Ji Soo 김지수 - Korean Skincare Expert",
+            "source_country": "RS",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1480760883734839",
+            "landing_url": "https://interview.lovi.care/",
+            "image_url": null,
+            "video_url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMKJSIwHuOIvAuy9G3jNXZ-aF_jSnXFY6CNf8IjkxIXCvLkrEOeEmmQbL3jPiM_uZLM2rC9QJ-TLezgKKka6Cw-Ugky1ukgqj2DiVmpxDdwOg.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=33am8FWJ2msQ7kNvwGTapWY&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjYwNjQ2MzM5NTU0OTExNiwiYXNzZXRfYWdlX2RheXMiOjU5OSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjMxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=84bde1fb15f99559&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82ODQ4OTA1MThBRTkwNTZDQ0Q3MjdFQjI2MzY2OTlCNl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dNZk0weHhqWUM3d3F6Z0NBRlhQQVlrdXNNa3JidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb4vpa06OSTAhUCKAJDMywXQD8AAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=MxSuTiMHuK4688jM4XPzfg&_nc_ss=79289&_nc_zt=28&oh=00_AQRBQ5SStvcGecPM1W1WKTs2oCXGsiGHBsjYS0GAzdJucA&oe=6AE7A770",
+            "first_seen": "2026-10-28T12:02:10.752601+00:00",
+            "last_seen": "2026-11-04T12:08:31.345632+00:00",
+            "active_checked_at": "2026-11-04T12:08:31.345632+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "DE",
+              "ES",
+              "FI",
+              "MA",
+              "MX",
+              "RS"
+            ]
+          },
+          {
+            "ad_id": "2822149038142660",
+            "product_name": "lóvi offers expert skincare guidance backed by medical professionals",
+            "product_key": "title:lóvi offers expert skincare guidance backed by medical professionals",
+            "category": "beauty",
+            "advertiser": "Kim Ji Soo 김지수 - Korean Skincare Expert",
+            "source_country": "RS",
+            "ad_url": "https://www.facebook.com/ads/library/?id=2822149038142660",
+            "landing_url": "https://interview.lovi.care/",
+            "image_url": null,
+            "video_url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPWBkHtHEcNiAl7EHwGfb_Fx4IG4uaS1MJxAgiH9qeKWyVthMem3IvCYHZcm-UwWxpG7Vkmy_xCS_3S8oHWRuVIbnbE_RnmvJSLS97ybPBmmw.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=WbhqPlCA_w4Q7kNvwHxXfT4&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI3MDUwMzY5ODMxMjc5NzcxLCJhc3NldF9hZ2VfZGF5cyI6MTgyLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NDgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=e91ed70f4e6c7dc5&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BNjQ1ODQyMzFBQkNFNUIyRDQ3RDAzMDVDQUEyMTY4Ql9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzk4NDBEMjI4MEJFNjJFNjJDMTdGNzM2NTFDMUU2OEIxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa28rDN4IqNYBUCKAJDMywXQEgzMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=MxSuTiMHuK4688jM4XPzfg&_nc_ss=79289&_nc_zt=28&oh=00_AQTcEzyqolErsy5nxorni-E_LRQTSY4qBcW3sLFNRu7VuQ&oe=6AE7CB9F",
+            "first_seen": "2026-10-28T12:02:10.752601+00:00",
+            "last_seen": "2026-11-04T12:08:31.345632+00:00",
+            "active_checked_at": "2026-11-04T12:08:31.345632+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "FI",
+              "MA",
+              "MX",
+              "RS"
+            ]
+          },
+          {
+            "ad_id": "2798665013840837",
+            "product_name": "lóvi offers expert skincare guidance backed by medical professionals",
+            "product_key": "title:lóvi offers expert skincare guidance backed by medical professionals",
+            "category": "beauty",
+            "advertiser": "Kim Ji Soo 김지수 - Korean Skincare Expert",
+            "source_country": "MX",
+            "ad_url": "https://www.facebook.com/ads/library/?id=2798665013840837",
+            "landing_url": "https://interview.lovi.care/",
+            "image_url": null,
+            "video_url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMDSopTJk0yowSPYZOD0ROrqh7ChbMXoR99CRllyRr8X22UDKJ4_7AAm7vXeiSefBJg18mJoj4T80V-WwvEp44JXHXBmZGHiUAJ9dGEGZPxFA.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=SQx-DbZKeM0Q7kNvwEWc6rJ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1OTg1OTQ0NjEyMDE3MDMsImFzc2V0X2FnZV9kYXlzIjoxNzUsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo1NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=224468abf4a799ac&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82MjRCRUFFQ0RGM0M1N0U3QUY0RkVBRTI3NTExOTNCQl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzgxNDM0NDYwMzBDRDk1OEQyOEZBOEJBQjdBQjE5QkE1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbO1P_vuPrWBRUCKAJDMywXQExIcrAgxJwYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=eVViJS2b9XAxtLGtL8vApw&_nc_ss=79289&_nc_zt=28&oh=00_AQQpDhGwQH8n6Cie4mXYQjrCAPX2PTjvHz_3Ti9cooQelw&oe=6AEED521",
+            "first_seen": "2026-11-02T21:04:37.973724+00:00",
+            "last_seen": "2026-11-04T12:08:31.345632+00:00",
+            "active_checked_at": "2026-11-04T12:08:31.345632+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "MX",
+              "RS"
+            ]
+          },
+          {
+            "ad_id": "1011725854562283",
+            "product_name": "lóvi offers expert skincare guidance backed by medical professionals",
+            "product_key": "title:lóvi offers expert skincare guidance backed by medical professionals",
+            "category": "beauty",
+            "advertiser": "Kim Ji Soo 김지수 - Korean Skincare Expert",
+            "source_country": "RS",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1011725854562283",
+            "landing_url": "https://interview.lovi.care/",
+            "image_url": null,
+            "video_url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMzPppRzQKDXrOZeEaf5NP2TzvYQWJcF44tUz9jN1dhnFJA9_6UVMwme9xEnTf3ja3VInOVpi2KgtlqGBRJliZTE4LaQ2y2zLM4okfmTPJ1QQ.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=Hn1JRnOYLhQQ7kNvwH0Yeox&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk4MDMwMTc1NzkzMzY3MSwiYXNzZXRfYWdlX2RheXMiOjE3NiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjcwLCJ3YXRjaF90aW1lX3MiOjI5Nzg2NDUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=9595e9d2b353fbd&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85RDQ3QkY3NDIxNkUyRjJBMUI1NzI1QUYwMjNCNzdBNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzk5NDhDRjQxREE4OTRBRTYyNjkyQUM5QThERkRDMDgwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbOoe-gieW9AxUCKAJDMywXQFG1T987ZFoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=pcyeJOy207fSmYA7tfqjCQ&_nc_ss=79289&_nc_zt=28&oh=00_AQQyDH_jr5Nb-u0L76YHxgRYNXfkQH1RxzSUSh2RiJ8U8g&oe=6AEFB1C9",
+            "first_seen": "2026-11-03T15:09:21.616941+00:00",
+            "last_seen": "2026-11-04T12:08:31.345632+00:00",
+            "active_checked_at": "2026-11-04T12:08:31.345632+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "RS"
+            ]
+          },
+          {
+            "ad_id": "4517692398486288",
+            "product_name": "lóvi offers expert skincare guidance backed by medical professionals",
+            "product_key": "title:lóvi offers expert skincare guidance backed by medical professionals",
+            "category": "beauty",
+            "advertiser": "Kim Ji Soo 김지수 - Korean Skincare Expert",
+            "source_country": "RS",
+            "ad_url": "https://www.facebook.com/ads/library/?id=4517692398486288",
+            "landing_url": "https://interview.lovi.care/",
+            "image_url": null,
+            "video_url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNrEkO1XYvrUG24m92TkNTkPK7dXqqv2mWUWD8Pb-Gp-PmUlJNClYGK-RJJxOdP6vVxSurj17J9L9Uw_CAlcTpoxZNJhwW1xT1-1pFdsA99wg.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=7QXaf1V7yZ4Q7kNvwEp6ied&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwNjU5MjUwNTUwODc0MjUsImFzc2V0X2FnZV9kYXlzIjo0ODMsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozNSwid2F0Y2hfdGltZV9zIjo3Njk1MjMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=a16a84820c3ebbb7&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82ODQ4M0FEQkJCNUUwMDE5RjNEMkUyRkZDNEY1QTk5Ml9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzYzNEE5M0VCODU3MTQ1Qjg3RDg2MTM2N0Q0QkQyRTk0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaCjaDEgN3kAxUCKAJDMywXQEG7peNT988YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=pcyeJOy207fSmYA7tfqjCQ&_nc_ss=79289&_nc_zt=28&oh=00_AQTJSpN35pgIBwMAClZCGFlxxE3kvXkI4Hw9gWHi_Zt64g&oe=6AEFD1DC",
+            "first_seen": "2026-11-03T15:09:21.616941+00:00",
+            "last_seen": "2026-11-04T12:08:31.345632+00:00",
+            "active_checked_at": "2026-11-04T12:08:31.345632+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "RS"
+            ]
+          },
+          {
+            "ad_id": "1600491531643749",
+            "product_name": "lóvi offers expert skincare guidance backed by medical professionals",
+            "product_key": "title:lóvi offers expert skincare guidance backed by medical professionals",
+            "category": "beauty",
+            "advertiser": "Kim Ji Soo 김지수 - Korean Skincare Expert",
+            "source_country": "RS",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1600491531643749",
+            "landing_url": "https://interview.lovi.care/",
+            "image_url": null,
+            "video_url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOwuYns7dRczDmbXHBf2VWUFgy9jxYNmJBz3R4h0qYH-padcOQv7U-mvUgQ88ynQW2vh2S0XroqNTQlVQ6j6W2_Uu0WDGuCBDkC-XGaHzNzvA.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=oFS0opx1nrAQ7kNvwGNpp-G&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjYwMjM1NDM4MjgwNzIxNCwiYXNzZXRfYWdlX2RheXMiOjU4MCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjMyLCJ3YXRjaF90aW1lX3MiOjU0MjY0NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=d645655e00b1f465&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83MjQ4M0E4M0UyRUExQUFBNEZEQjlGQzM2RDYyNzg5OF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg0ZmJfcGVybWFuZW50LzE2MzcxOTk1MTM1NzI1NDJfMzIxMjA1NzU3NzYzMjA0MzMwLm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbcgqHw0fWRAhUCKAJDMywXQEBmZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=pcyeJOy207fSmYA7tfqjCQ&_nc_ss=79289&_nc_zt=28&oh=00_AQS27n3BnUUQgWB64gQq3V5eVkchD_RYSzjRX1lvHzw2Sg&oe=6AEFBA0F",
+            "first_seen": "2026-11-03T15:09:21.616941+00:00",
+            "last_seen": "2026-11-04T12:08:31.345632+00:00",
+            "active_checked_at": "2026-11-04T12:08:31.345632+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "RS"
+            ]
+          },
+          {
+            "ad_id": "1759788175195521",
+            "product_name": "lóvi offers expert skincare guidance backed by medical professionals",
+            "product_key": "title:lóvi offers expert skincare guidance backed by medical professionals",
+            "category": "beauty",
+            "advertiser": "Kim Ji Soo 김지수 - Korean Skincare Expert",
+            "source_country": "RS",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1759788175195521",
+            "landing_url": "https://interview.lovi.care/",
+            "image_url": null,
+            "video_url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQO2W9423HdxccE4gdBx-v8ETzuptJYpEu5J9YJSrzz-QWw0H4Y7S10Xe2DB2A1Q-3c2dc5Kj1VQQX_w9MX2_qPIr6TTuBcJHGTOefyIXwP_7g.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=KJ1TzkRwNjsQ7kNvwGaokvM&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk2NTc1OTE5NDA5NjkwNjgsImFzc2V0X2FnZV9kYXlzIjo1ODAsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozMSwid2F0Y2hfdGltZV9zIjoxNTUxMzIyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=74345f8911ec5b3e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wRjREMjgxRTI1OEM1QTFENzU4REY5MkRDNkNBOTk5Ml9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dJZURGeDJpWDdGaWRzb0ZBTjhORm0tSWlFVm9idjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbYybeQ6-GnIhUCKAJDMywXQD_3S8an754YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=pcyeJOy207fSmYA7tfqjCQ&_nc_ss=79289&_nc_zt=28&oh=00_AQRL6Tr_qvfPMh9HXi8l-CZYUtZIu61d0S_Y7IkmtHA1fA&oe=6AEFE079",
+            "first_seen": "2026-11-03T15:09:21.616941+00:00",
+            "last_seen": "2026-11-04T12:08:31.345632+00:00",
+            "active_checked_at": "2026-11-04T12:08:31.345632+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "RS"
+            ]
+          },
+          {
+            "ad_id": "2427437814407750",
+            "product_name": "lóvi offers expert skincare guidance backed by medical professionals",
+            "product_key": "title:lóvi offers expert skincare guidance backed by medical professionals",
+            "category": "beauty",
+            "advertiser": "Kim Ji Soo 김지수 - Korean Skincare Expert",
+            "source_country": "RS",
+            "ad_url": "https://www.facebook.com/ads/library/?id=2427437814407750",
+            "landing_url": "https://interview.lovi.care/",
+            "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/741757255_1347322150107321_5729872384493701366_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uXehBNBie7YQ7kNvwEfVuLz&_nc_oc=AdrHf5EIaSemWKmX2ziSr0Nz4hCXkjGl4cQK0ZCO2wKF_ZGa4OzNjpIDxaMKlPewZ_U&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=pcyeJOy207fSmYA7tfqjCQ&_nc_ss=79289&oh=00_AQQpxyP_rV5f557QXfz1gvZVg9RdWdBi5uSBKY2SvWM7Tg&oe=6AEFE73D",
+            "video_url": null,
+            "first_seen": "2026-11-03T15:09:21.616941+00:00",
+            "last_seen": "2026-11-04T12:08:31.345632+00:00",
+            "active_checked_at": "2026-11-04T12:08:31.345632+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "RS"
+            ]
+          },
+          {
+            "ad_id": "1562371325389631",
+            "product_name": "lóvi offers expert skincare guidance backed by medical professionals",
+            "product_key": "title:lóvi offers expert skincare guidance backed by medical professionals",
+            "category": "beauty",
+            "advertiser": "Kim Ji Soo 김지수 - Korean Skincare Expert",
+            "source_country": "RS",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1562371325389631",
+            "landing_url": "https://interview.lovi.care/",
+            "image_url": null,
+            "video_url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNi2oQQtOkOyzUfOGqN6MDI-TMNehysf0wlzyrdek6343_rq1Q-4yebXTFqIJfls8NB_MgiHd4Gyi4SEvxpssByMMwM9EQU6I3gHYv_C-iyHg.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=IW9BRzTEpJMQ7kNvwHcZ5av&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEyMTA3NzY3OTQzNzQzMDcsImFzc2V0X2FnZV9kYXlzIjoyNDksInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjozOSwid2F0Y2hfdGltZV9zIjo2MDkwNTgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=5f54e249eaaff55c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82NDQ1RTJFNzg4MEJDRkY2MDdFNzFCQzcyMDA3N0JCOF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0M5NEY3OThCQkQzRUM2QkFEQTQwMEJCMDdBNDExOTk5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbGgtmLvsymBBUCKAJDMywXQEOd0vGp--cYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=pcyeJOy207fSmYA7tfqjCQ&_nc_ss=79289&_nc_zt=28&oh=00_AQQ8V7-ySz0QYjJzstG1Qm_8N1YnlZnZuCLqmbF8HAhBwg&oe=6AEFBB41",
+            "first_seen": "2026-11-03T15:09:21.616941+00:00",
+            "last_seen": "2026-11-04T12:08:31.345632+00:00",
+            "active_checked_at": "2026-11-04T12:08:31.345632+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "RS"
+            ]
+          },
+          {
+            "ad_id": "974887092248967",
+            "product_name": "lóvi offers expert skincare guidance backed by medical professionals",
+            "product_key": "title:lóvi offers expert skincare guidance backed by medical professionals",
+            "category": "beauty",
+            "advertiser": "Kim Ji Soo 김지수 - Korean Skincare Expert",
+            "source_country": "RS",
+            "ad_url": "https://www.facebook.com/ads/library/?id=974887092248967",
+            "landing_url": "https://interview.lovi.care/",
+            "image_url": null,
+            "video_url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMDV1V2kCqNRXrlYUh2gYgjAnLk1Q-vj_JJ0c-XPGcQKsPnOJ70ZcL0rvUCjG65QASoJ6SDxqK0HzrElbOOnQzwixytEYuxM7cSmQHdJKwFQQ.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=h-aV1XOPlOYQ7kNvwFDnpVm&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0NzA5NjcyMzc2OTY0NzksImFzc2V0X2FnZV9kYXlzIjoyNjAsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo1Mywid2F0Y2hfdGltZV9zIjoyNDYzMDQ2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=21103a3ff2787786&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CQzQzNUI1NjdDQTFDQkI3OUE1NTNEMjI0NkFDQ0M5Q19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzUyNDQ4Qzg4MjI0NzBGODFGRjA0M0IwN0YyRTkyREEwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa-7-76x_WcBRUCKAJDMywXQEqiDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=pcyeJOy207fSmYA7tfqjCQ&_nc_ss=79289&_nc_zt=28&oh=00_AQRx3HpHElMr6CgAKAzFb2KXx6CgoeIM5ht7BDJdAkhhhQ&oe=6AEFAFAC",
+            "first_seen": "2026-11-03T15:09:21.616941+00:00",
+            "last_seen": "2026-11-04T12:08:31.345632+00:00",
+            "active_checked_at": "2026-11-04T12:08:31.345632+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "RS"
+            ]
+          },
+          {
+            "ad_id": "2245041663002219",
+            "product_name": "lóvi offers expert skincare guidance backed by medical professionals",
+            "product_key": "title:lóvi offers expert skincare guidance backed by medical professionals",
+            "category": "beauty",
+            "advertiser": "Kim Ji Soo 김지수 - Korean Skincare Expert",
+            "source_country": "RS",
+            "ad_url": "https://www.facebook.com/ads/library/?id=2245041663002219",
+            "landing_url": "https://interview.lovi.care/",
+            "image_url": null,
+            "video_url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMEyGF5-MaHn1kQ_ll1zmo-p-Cn-xnRtYhtbQmzWyUmoG42qAVVzPTm9bne96Ha4gO-XifjIdCPPZLi6u8hk41kWMMv41wmcFdxvEhu-CYeHA.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=FaWjdkooWWMQ7kNvwErgiXc&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwMDY1OTQ4MjgzODkzNTcsImFzc2V0X2FnZV9kYXlzIjoxNzMsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjozOSwid2F0Y2hfdGltZV9zIjoyMjMzMDM4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=a0a339d8b590b04d&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BQTRFMzdFRUQyN0FGQkNFMTY5ODVGQjQ0N0UwOTJBNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzMxNERCQzU4OEFCRkExQkJDOUU1QjM2MjE5NzlBNjgzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbar-7yw9_JAxUCKAJDMywXQEOqn752yLQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=pcyeJOy207fSmYA7tfqjCQ&_nc_ss=79289&_nc_zt=28&oh=00_AQTcEbwAdSpNofTLOzJ8ksqbRlMrmlYks9uy9p1LARS40g&oe=6AEFD8E5",
+            "first_seen": "2026-11-03T15:09:21.616941+00:00",
+            "last_seen": "2026-11-04T12:08:31.345632+00:00",
+            "active_checked_at": "2026-11-04T12:08:31.345632+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "RS"
+            ]
+          },
+          {
+            "ad_id": "1538912227980383",
+            "product_name": "lóvi offers expert skincare guidance backed by medical professionals",
+            "product_key": "title:lóvi offers expert skincare guidance backed by medical professionals",
+            "category": "beauty",
+            "advertiser": "Kim Ji Soo 김지수 - Korean Skincare Expert",
+            "source_country": "RS",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1538912227980383",
+            "landing_url": "https://interview.lovi.care/",
+            "image_url": null,
+            "video_url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMFXwQoLTcEnlz7rXN9rWu5_c6f6Lw51UcEWrWPE-Z_vz9ZpwqVHxW2hAgvtrtMgquQuWh48NAfe1fsEoUjeORy93G7cZDyp-GBlLrehewb6g.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=26PkgJoULucQ7kNvwHJuzpi&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0OTA0NDEzMTU5MzYzNTgsImFzc2V0X2FnZV9kYXlzIjoyMDksInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjozOSwid2F0Y2hfdGltZV9zIjo4MTE1NzQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=7b5492a3c5191447&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83QzRGNjEyRTUwODNCMjZEN0RFQjQxNUUyQjkzRkE4Nl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0EzNEJDRjI1OEE1MzY1NEE5N0JBN0VCNTIyRjcxNzgzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbMoY-TjeOlBRUCKAJDMywXQEP3bItDlYEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=pcyeJOy207fSmYA7tfqjCQ&_nc_ss=79289&_nc_zt=28&oh=00_AQR4hqRnGrxHHVg0MxXbksdn4vXZ-wYmtGNyOcLVl4p_Qw&oe=6AEFCE35",
+            "first_seen": "2026-11-03T15:09:21.616941+00:00",
+            "last_seen": "2026-11-04T12:08:31.345632+00:00",
+            "active_checked_at": "2026-11-04T12:08:31.345632+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "RS"
+            ]
+          },
+          {
+            "ad_id": "2236899677061938",
+            "product_name": "lóvi offers expert skincare guidance backed by medical professionals",
+            "product_key": "title:lóvi offers expert skincare guidance backed by medical professionals",
+            "category": "beauty",
+            "advertiser": "Kim Ji Soo 김지수 - Korean Skincare Expert",
+            "source_country": "RS",
+            "ad_url": "https://www.facebook.com/ads/library/?id=2236899677061938",
+            "landing_url": "https://interview.lovi.care/",
+            "image_url": null,
+            "video_url": "https://video-lga3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNYHVYhdeQnUptUgPtpLiHNzt9JYbKmJv2sId3fqVeI2VeC-RdP3-_4gIFqpVtfrXgYJu8Z4izYZm2N-yCxq0G_b8vlT5JbyjnGmnahKyrV4g.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-lga3-2.xx.fbcdn.net&_nc_ohc=ViRF7MrN3IwQ7kNvwH-_kBl&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwMzY3MzcxMjIxMTk5ODQsImFzc2V0X2FnZV9kYXlzIjoxODAsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo1OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=c7d91bdcbf3a1b46&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zNzQ1NTNGRURGNUQzNTdEN0IzOTdFMjgyNTJERTE4Ql9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzJDNDREMzhBRUNGOTk2RTI1NDEzMEEzNEFFQkYyRUE2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbgxJ2-hbrXAxUCKAJDMywXQE2iDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=t8pj2LixMCvtbka5xsc6mg&_nc_ss=79289&_nc_zt=28&oh=00_AQQqMqZROzpGaEQKSHjdrAnhzMJQSdP7TFfGOuyiracSXg&oe=6AF109F5",
+            "first_seen": "2026-11-04T12:08:31.345632+00:00",
+            "last_seen": "2026-11-04T12:08:31.345632+00:00",
+            "active_checked_at": "2026-11-04T12:08:31.345632+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "RS"
+            ]
+          },
+          {
+            "ad_id": "2250726069102172",
+            "product_name": "lóvi offers expert skincare guidance backed by medical professionals",
+            "product_key": "title:lóvi offers expert skincare guidance backed by medical professionals",
+            "category": "beauty",
+            "advertiser": "Kim Ji Soo 김지수 - Korean Skincare Expert",
+            "source_country": "RS",
+            "ad_url": "https://www.facebook.com/ads/library/?id=2250726069102172",
+            "landing_url": "https://interview.lovi.care/",
+            "image_url": null,
+            "video_url": "https://video-lga3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMBARkvU2RakqOdXy6kgFws8Wgp--ru_CPwRE0nDfH-aq3UifD7bOmbhwAKrv0CNccmykzf5SSQr2lTDHe3M4bCWkFyJEyrIRKIHRgK8p1llg.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-lga3-1.xx.fbcdn.net&_nc_ohc=C-nzyj6DB_kQ7kNvwH6jUhF&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1OTU4NjcwMjE5MDgzODEsImFzc2V0X2FnZV9kYXlzIjoxNzYsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo2MSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=8336011829998345&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wMDRBRDMzRTREMTUxQ0QzQ0UzRTNFNDQ4MTJEOTI4MF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzE5NDRGNzk5NjZFRUQ2QjQ4OEI4NDQ0N0RGMUIzQTg3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa65pjv19vVBRUCKAJDMywXQE6AAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=t8pj2LixMCvtbka5xsc6mg&_nc_ss=79289&_nc_zt=28&oh=00_AQS_BQq8Rr_K3AaTdUGHed7qgqhRFl9v-VbPlaC8IyNzvQ&oe=6AF0E9B7",
+            "first_seen": "2026-11-04T12:08:31.345632+00:00",
+            "last_seen": "2026-11-04T12:08:31.345632+00:00",
+            "active_checked_at": "2026-11-04T12:08:31.345632+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "RS"
+            ]
+          },
+          {
+            "ad_id": "2056015141793249",
+            "product_name": "lóvi offers expert skincare guidance backed by medical professionals",
+            "product_key": "title:lóvi offers expert skincare guidance backed by medical professionals",
+            "category": "beauty",
+            "advertiser": "Kim Ji Soo 김지수 - Korean Skincare Expert",
+            "source_country": "RS",
+            "ad_url": "https://www.facebook.com/ads/library/?id=2056015141793249",
+            "landing_url": "https://interview.lovi.care/",
+            "image_url": null,
+            "video_url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQO62P-Rsnuf1TxWfqSgpkupKXWicpC3tz664cPSXclYvMMfyjszaw08j1dqtbFjZB9w9HNm8-R_BylS2RHCQkRq8rUfOxdkH2v9mM3PLLLc3A.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=mGr_FVNQNzcQ7kNvwFoXlAc&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIyMjA4MTAxNTIwODkwODQsImFzc2V0X2FnZV9kYXlzIjoxNzAsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo1NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=7221d5005aaa729c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DQjQ3MUI0NEQ2QkM2RUVEQUIyQUMyNkEwNUY3NDNCMF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzZENEY2RkJBRkVDRkEwOTREOUZFNkE4RUQxMTU5Q0FFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb419SDlfTxBxUCKAJDMywXQEz7peNT988YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=MxSuTiMHuK4688jM4XPzfg&_nc_ss=79289&_nc_zt=28&oh=00_AQRdHSFiELdy-an13zUwgKk6hMUpKXTHbDuL53ZJttkmTw&oe=6AE7BF22",
             "first_seen": "2026-10-28T12:02:10.752601+00:00",
             "last_seen": "2026-11-03T18:06:36.255145+00:00",
             "active_checked_at": "2026-11-03T18:06:36.255145+00:00",
@@ -117,102 +464,6 @@
             ]
           },
           {
-            "ad_id": "913265408469641",
-            "product_name": "lóvi offers expert skincare guidance backed by medical professionals",
-            "product_key": "title:lóvi offers expert skincare guidance backed by medical professionals",
-            "category": "beauty",
-            "advertiser": "Kim Ji Soo 김지수 - Korean Skincare Expert",
-            "source_country": "RS",
-            "ad_url": "https://www.facebook.com/ads/library/?id=913265408469641",
-            "landing_url": "https://interview.lovi.care/",
-            "image_url": null,
-            "video_url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQO06nrtpNBGwCXyyuvCiVx7jtgdqINQLcD3cOEJ4-y4TR9GuRQJ1PiLkvQECx7Hj_WWSZdRCAoiRX-j-KSdHLwpR85Xn1_AlwfqnwxOHZ3whw.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=v8EbIpYoo6EQ7kNvwHM6g7l&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzMjg5ODM2MTU3MzE5OTMsImFzc2V0X2FnZV9kYXlzIjoyMjQsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo3MiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=c30a3f031eb739e8&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84MzRDNUI2MERFMDcwODE5OTg2QTVFMTgzMTNEQUQ4RV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0JENEQxNjREOTM5QzRDQkNEMzZGQ0JBN0JGMjIyNTg2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACay5J_Fg63cBBUCKAJDMywXQFIgAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=MxSuTiMHuK4688jM4XPzfg&_nc_ss=79289&_nc_zt=28&oh=00_AQTv2MLjEpfXxZDLvH8-voSHeYxx1f_OVoB0b51IJPHgnA&oe=6AE7BA16",
-            "first_seen": "2026-10-28T12:02:10.752601+00:00",
-            "last_seen": "2026-11-03T18:06:36.255145+00:00",
-            "active_checked_at": "2026-11-03T18:06:36.255145+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "DE",
-              "ES",
-              "FI",
-              "MA",
-              "MX",
-              "RS"
-            ]
-          },
-          {
-            "ad_id": "1375811134695887",
-            "product_name": "lóvi offers expert skincare guidance backed by medical professionals",
-            "product_key": "title:lóvi offers expert skincare guidance backed by medical professionals",
-            "category": "beauty",
-            "advertiser": "Kim Ji Soo 김지수 - Korean Skincare Expert",
-            "source_country": "RS",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1375811134695887",
-            "landing_url": "https://interview.lovi.care/",
-            "image_url": null,
-            "video_url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNEkbh9CIsZLixn5BCctpLYy6Sm3GX5is7o8ceyK7TcCJTaHeJZTagGUlDpVdpLMhCAyY-1V9Wz13FOiW0I-Q8-XBH-HupcTOocZLm9NqoeHw.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=5Xuop_gKcPQQ7kNvwFtQ2Un&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjkwODYyMzE5ODM2NDg3MSwiYXNzZXRfYWdlX2RheXMiOjI3NCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjUxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=5e51ab543a4cfda8&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84QjQ1Qjg5OEQ0RTI0NEM0MUEwMjdBNUVCQzZCNjZBOF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0ZFNEI3MkU3QkFCMTExMUI4N0U3QjFBMUQzNDExMUIxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaOk8mv6pidAxUCKAJDMywXQEnmZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=MxSuTiMHuK4688jM4XPzfg&_nc_ss=79289&_nc_zt=28&oh=00_AQSD983DDslsHrcOL6y3ZbYUHF7nPkQh3micMc94ZlZu4g&oe=6AE7AAFB",
-            "first_seen": "2026-10-28T12:02:10.752601+00:00",
-            "last_seen": "2026-11-03T18:06:36.255145+00:00",
-            "active_checked_at": "2026-11-03T18:06:36.255145+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "DE",
-              "ES",
-              "FI",
-              "MA",
-              "MX",
-              "RS"
-            ]
-          },
-          {
-            "ad_id": "1019534910794376",
-            "product_name": "lóvi offers expert skincare guidance backed by medical professionals",
-            "product_key": "title:lóvi offers expert skincare guidance backed by medical professionals",
-            "category": "beauty",
-            "advertiser": "Kim Ji Soo 김지수 - Korean Skincare Expert",
-            "source_country": "RS",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1019534910794376",
-            "landing_url": "https://interview.lovi.care/",
-            "image_url": null,
-            "video_url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMpAJ8vf_6iyz1TDA9iLpSFDHkBkt8porZ_CWoag9EOvy-rA8g9-7f-V0HhSebrxrvFMJGlUncX-GQDqWW1CTAViUL1FqdlraqTdI6Cp3pZog.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=M5WnaV2QSRUQ7kNvwGLr6fR&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIyNzI1Njc4MTMxNTQzMjMsImFzc2V0X2FnZV9kYXlzIjozMDEsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo0NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=ef8d01d0f5fda37&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84QTQ1NjdFMkUwMUMxRjFBRkE4NTM0REUwREVBOTQ4MV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0UwNDgwNjYxMDcxMTg4MTQyOUJFNjhBMTY2QjdEMUFGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACammNnT7biJCBUCKAJDMywXQEcZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=MxSuTiMHuK4688jM4XPzfg&_nc_ss=79289&_nc_zt=28&oh=00_AQRnCgN0wQDxwMBvfssVK-0OC_pNOWQ6SuhvYn95J_b8VQ&oe=6AE7CA77",
-            "first_seen": "2026-10-28T12:02:10.752601+00:00",
-            "last_seen": "2026-11-03T18:06:36.255145+00:00",
-            "active_checked_at": "2026-11-03T18:06:36.255145+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "DE",
-              "ES",
-              "FI",
-              "MA",
-              "MX",
-              "RS"
-            ]
-          },
-          {
-            "ad_id": "1480760883734839",
-            "product_name": "lóvi offers expert skincare guidance backed by medical professionals",
-            "product_key": "title:lóvi offers expert skincare guidance backed by medical professionals",
-            "category": "beauty",
-            "advertiser": "Kim Ji Soo 김지수 - Korean Skincare Expert",
-            "source_country": "RS",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1480760883734839",
-            "landing_url": "https://interview.lovi.care/",
-            "image_url": null,
-            "video_url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMKJSIwHuOIvAuy9G3jNXZ-aF_jSnXFY6CNf8IjkxIXCvLkrEOeEmmQbL3jPiM_uZLM2rC9QJ-TLezgKKka6Cw-Ugky1ukgqj2DiVmpxDdwOg.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=33am8FWJ2msQ7kNvwGTapWY&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjYwNjQ2MzM5NTU0OTExNiwiYXNzZXRfYWdlX2RheXMiOjU5OSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjMxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=84bde1fb15f99559&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82ODQ4OTA1MThBRTkwNTZDQ0Q3MjdFQjI2MzY2OTlCNl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dNZk0weHhqWUM3d3F6Z0NBRlhQQVlrdXNNa3JidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb4vpa06OSTAhUCKAJDMywXQD8AAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=MxSuTiMHuK4688jM4XPzfg&_nc_ss=79289&_nc_zt=28&oh=00_AQRBQ5SStvcGecPM1W1WKTs2oCXGsiGHBsjYS0GAzdJucA&oe=6AE7A770",
-            "first_seen": "2026-10-28T12:02:10.752601+00:00",
-            "last_seen": "2026-11-03T18:06:36.255145+00:00",
-            "active_checked_at": "2026-11-03T18:06:36.255145+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "DE",
-              "ES",
-              "FI",
-              "MA",
-              "MX",
-              "RS"
-            ]
-          },
-          {
             "ad_id": "2187150268747492",
             "product_name": "lóvi offers expert skincare guidance backed by medical professionals",
             "product_key": "title:lóvi offers expert skincare guidance backed by medical professionals",
@@ -236,124 +487,6 @@
             ]
           },
           {
-            "ad_id": "2822149038142660",
-            "product_name": "lóvi offers expert skincare guidance backed by medical professionals",
-            "product_key": "title:lóvi offers expert skincare guidance backed by medical professionals",
-            "category": "beauty",
-            "advertiser": "Kim Ji Soo 김지수 - Korean Skincare Expert",
-            "source_country": "RS",
-            "ad_url": "https://www.facebook.com/ads/library/?id=2822149038142660",
-            "landing_url": "https://interview.lovi.care/",
-            "image_url": null,
-            "video_url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPWBkHtHEcNiAl7EHwGfb_Fx4IG4uaS1MJxAgiH9qeKWyVthMem3IvCYHZcm-UwWxpG7Vkmy_xCS_3S8oHWRuVIbnbE_RnmvJSLS97ybPBmmw.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=WbhqPlCA_w4Q7kNvwHxXfT4&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI3MDUwMzY5ODMxMjc5NzcxLCJhc3NldF9hZ2VfZGF5cyI6MTgyLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NDgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=e91ed70f4e6c7dc5&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BNjQ1ODQyMzFBQkNFNUIyRDQ3RDAzMDVDQUEyMTY4Ql9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzk4NDBEMjI4MEJFNjJFNjJDMTdGNzM2NTFDMUU2OEIxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa28rDN4IqNYBUCKAJDMywXQEgzMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=MxSuTiMHuK4688jM4XPzfg&_nc_ss=79289&_nc_zt=28&oh=00_AQTcEzyqolErsy5nxorni-E_LRQTSY4qBcW3sLFNRu7VuQ&oe=6AE7CB9F",
-            "first_seen": "2026-10-28T12:02:10.752601+00:00",
-            "last_seen": "2026-11-03T18:06:36.255145+00:00",
-            "active_checked_at": "2026-11-03T18:06:36.255145+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "FI",
-              "MA",
-              "MX",
-              "RS"
-            ]
-          },
-          {
-            "ad_id": "2798665013840837",
-            "product_name": "lóvi offers expert skincare guidance backed by medical professionals",
-            "product_key": "title:lóvi offers expert skincare guidance backed by medical professionals",
-            "category": "beauty",
-            "advertiser": "Kim Ji Soo 김지수 - Korean Skincare Expert",
-            "source_country": "MX",
-            "ad_url": "https://www.facebook.com/ads/library/?id=2798665013840837",
-            "landing_url": "https://interview.lovi.care/",
-            "image_url": null,
-            "video_url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMDSopTJk0yowSPYZOD0ROrqh7ChbMXoR99CRllyRr8X22UDKJ4_7AAm7vXeiSefBJg18mJoj4T80V-WwvEp44JXHXBmZGHiUAJ9dGEGZPxFA.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=SQx-DbZKeM0Q7kNvwEWc6rJ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1OTg1OTQ0NjEyMDE3MDMsImFzc2V0X2FnZV9kYXlzIjoxNzUsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo1NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=224468abf4a799ac&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82MjRCRUFFQ0RGM0M1N0U3QUY0RkVBRTI3NTExOTNCQl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzgxNDM0NDYwMzBDRDk1OEQyOEZBOEJBQjdBQjE5QkE1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbO1P_vuPrWBRUCKAJDMywXQExIcrAgxJwYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=eVViJS2b9XAxtLGtL8vApw&_nc_ss=79289&_nc_zt=28&oh=00_AQQpDhGwQH8n6Cie4mXYQjrCAPX2PTjvHz_3Ti9cooQelw&oe=6AEED521",
-            "first_seen": "2026-11-02T21:04:37.973724+00:00",
-            "last_seen": "2026-11-03T15:09:21.616941+00:00",
-            "active_checked_at": "2026-11-03T15:09:21.616941+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "MX",
-              "RS"
-            ]
-          },
-          {
-            "ad_id": "1011725854562283",
-            "product_name": "lóvi offers expert skincare guidance backed by medical professionals",
-            "product_key": "title:lóvi offers expert skincare guidance backed by medical professionals",
-            "category": "beauty",
-            "advertiser": "Kim Ji Soo 김지수 - Korean Skincare Expert",
-            "source_country": "RS",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1011725854562283",
-            "landing_url": "https://interview.lovi.care/",
-            "image_url": null,
-            "video_url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMzPppRzQKDXrOZeEaf5NP2TzvYQWJcF44tUz9jN1dhnFJA9_6UVMwme9xEnTf3ja3VInOVpi2KgtlqGBRJliZTE4LaQ2y2zLM4okfmTPJ1QQ.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=Hn1JRnOYLhQQ7kNvwH0Yeox&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk4MDMwMTc1NzkzMzY3MSwiYXNzZXRfYWdlX2RheXMiOjE3NiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjcwLCJ3YXRjaF90aW1lX3MiOjI5Nzg2NDUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=9595e9d2b353fbd&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85RDQ3QkY3NDIxNkUyRjJBMUI1NzI1QUYwMjNCNzdBNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzk5NDhDRjQxREE4OTRBRTYyNjkyQUM5QThERkRDMDgwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbOoe-gieW9AxUCKAJDMywXQFG1T987ZFoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=pcyeJOy207fSmYA7tfqjCQ&_nc_ss=79289&_nc_zt=28&oh=00_AQQyDH_jr5Nb-u0L76YHxgRYNXfkQH1RxzSUSh2RiJ8U8g&oe=6AEFB1C9",
-            "first_seen": "2026-11-03T15:09:21.616941+00:00",
-            "last_seen": "2026-11-03T15:09:21.616941+00:00",
-            "active_checked_at": "2026-11-03T15:09:21.616941+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "RS"
-            ]
-          },
-          {
-            "ad_id": "4517692398486288",
-            "product_name": "lóvi offers expert skincare guidance backed by medical professionals",
-            "product_key": "title:lóvi offers expert skincare guidance backed by medical professionals",
-            "category": "beauty",
-            "advertiser": "Kim Ji Soo 김지수 - Korean Skincare Expert",
-            "source_country": "RS",
-            "ad_url": "https://www.facebook.com/ads/library/?id=4517692398486288",
-            "landing_url": "https://interview.lovi.care/",
-            "image_url": null,
-            "video_url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNrEkO1XYvrUG24m92TkNTkPK7dXqqv2mWUWD8Pb-Gp-PmUlJNClYGK-RJJxOdP6vVxSurj17J9L9Uw_CAlcTpoxZNJhwW1xT1-1pFdsA99wg.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=7QXaf1V7yZ4Q7kNvwEp6ied&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwNjU5MjUwNTUwODc0MjUsImFzc2V0X2FnZV9kYXlzIjo0ODMsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozNSwid2F0Y2hfdGltZV9zIjo3Njk1MjMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=a16a84820c3ebbb7&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82ODQ4M0FEQkJCNUUwMDE5RjNEMkUyRkZDNEY1QTk5Ml9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzYzNEE5M0VCODU3MTQ1Qjg3RDg2MTM2N0Q0QkQyRTk0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaCjaDEgN3kAxUCKAJDMywXQEG7peNT988YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=pcyeJOy207fSmYA7tfqjCQ&_nc_ss=79289&_nc_zt=28&oh=00_AQTJSpN35pgIBwMAClZCGFlxxE3kvXkI4Hw9gWHi_Zt64g&oe=6AEFD1DC",
-            "first_seen": "2026-11-03T15:09:21.616941+00:00",
-            "last_seen": "2026-11-03T15:09:21.616941+00:00",
-            "active_checked_at": "2026-11-03T15:09:21.616941+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "RS"
-            ]
-          },
-          {
-            "ad_id": "1600491531643749",
-            "product_name": "lóvi offers expert skincare guidance backed by medical professionals",
-            "product_key": "title:lóvi offers expert skincare guidance backed by medical professionals",
-            "category": "beauty",
-            "advertiser": "Kim Ji Soo 김지수 - Korean Skincare Expert",
-            "source_country": "RS",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1600491531643749",
-            "landing_url": "https://interview.lovi.care/",
-            "image_url": null,
-            "video_url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOwuYns7dRczDmbXHBf2VWUFgy9jxYNmJBz3R4h0qYH-padcOQv7U-mvUgQ88ynQW2vh2S0XroqNTQlVQ6j6W2_Uu0WDGuCBDkC-XGaHzNzvA.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=oFS0opx1nrAQ7kNvwGNpp-G&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjYwMjM1NDM4MjgwNzIxNCwiYXNzZXRfYWdlX2RheXMiOjU4MCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjMyLCJ3YXRjaF90aW1lX3MiOjU0MjY0NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=d645655e00b1f465&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83MjQ4M0E4M0UyRUExQUFBNEZEQjlGQzM2RDYyNzg5OF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg0ZmJfcGVybWFuZW50LzE2MzcxOTk1MTM1NzI1NDJfMzIxMjA1NzU3NzYzMjA0MzMwLm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbcgqHw0fWRAhUCKAJDMywXQEBmZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=pcyeJOy207fSmYA7tfqjCQ&_nc_ss=79289&_nc_zt=28&oh=00_AQS27n3BnUUQgWB64gQq3V5eVkchD_RYSzjRX1lvHzw2Sg&oe=6AEFBA0F",
-            "first_seen": "2026-11-03T15:09:21.616941+00:00",
-            "last_seen": "2026-11-03T15:09:21.616941+00:00",
-            "active_checked_at": "2026-11-03T15:09:21.616941+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "RS"
-            ]
-          },
-          {
-            "ad_id": "1759788175195521",
-            "product_name": "lóvi offers expert skincare guidance backed by medical professionals",
-            "product_key": "title:lóvi offers expert skincare guidance backed by medical professionals",
-            "category": "beauty",
-            "advertiser": "Kim Ji Soo 김지수 - Korean Skincare Expert",
-            "source_country": "RS",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1759788175195521",
-            "landing_url": "https://interview.lovi.care/",
-            "image_url": null,
-            "video_url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQO2W9423HdxccE4gdBx-v8ETzuptJYpEu5J9YJSrzz-QWw0H4Y7S10Xe2DB2A1Q-3c2dc5Kj1VQQX_w9MX2_qPIr6TTuBcJHGTOefyIXwP_7g.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=KJ1TzkRwNjsQ7kNvwGaokvM&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk2NTc1OTE5NDA5NjkwNjgsImFzc2V0X2FnZV9kYXlzIjo1ODAsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozMSwid2F0Y2hfdGltZV9zIjoxNTUxMzIyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=74345f8911ec5b3e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wRjREMjgxRTI1OEM1QTFENzU4REY5MkRDNkNBOTk5Ml9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dJZURGeDJpWDdGaWRzb0ZBTjhORm0tSWlFVm9idjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbYybeQ6-GnIhUCKAJDMywXQD_3S8an754YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=pcyeJOy207fSmYA7tfqjCQ&_nc_ss=79289&_nc_zt=28&oh=00_AQRL6Tr_qvfPMh9HXi8l-CZYUtZIu61d0S_Y7IkmtHA1fA&oe=6AEFE079",
-            "first_seen": "2026-11-03T15:09:21.616941+00:00",
-            "last_seen": "2026-11-03T15:09:21.616941+00:00",
-            "active_checked_at": "2026-11-03T15:09:21.616941+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "RS"
-            ]
-          },
-          {
             "ad_id": "1305193461728835",
             "product_name": "lóvi offers expert skincare guidance backed by medical professionals",
             "product_key": "title:lóvi offers expert skincare guidance backed by medical professionals",
@@ -364,101 +497,6 @@
             "landing_url": "https://interview.lovi.care/",
             "image_url": null,
             "video_url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOYwCtcJ3URzW3fuQy3US2TBcrFXjCHRW-zHumgwgxwK5VhME9xOdb6vdOxgT_QHmzYAhg0lKG1sLOkiZBHs_rdjZYYDU_7WnPEdfaZlHo6pw.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=YkE1damIEsQQ7kNvwHnUbZp&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIzNjA1NDU2ODc4MDI2NTYsImFzc2V0X2FnZV9kYXlzIjoxNzUsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjozNiwid2F0Y2hfdGltZV9zIjoxNTkyMjI2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=8a02534e0296f19a&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80QjRERTFGODBCNUJBQzQxQzJCQjFBRjcwOURFQzA5Ml9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzEzNEJEMkQ5N0Y0MTU2NUVENzMwQzNCOUI0RkVGRDlBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbAzJTz67mxCBUCKAJDMywXQEJAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=pcyeJOy207fSmYA7tfqjCQ&_nc_ss=79289&_nc_zt=28&oh=00_AQQPjXyHEGR7L14UM873dbMCbBWiZnmOF-Krn5J3B7xMJA&oe=6AEFC83D",
-            "first_seen": "2026-11-03T15:09:21.616941+00:00",
-            "last_seen": "2026-11-03T15:09:21.616941+00:00",
-            "active_checked_at": "2026-11-03T15:09:21.616941+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "RS"
-            ]
-          },
-          {
-            "ad_id": "2427437814407750",
-            "product_name": "lóvi offers expert skincare guidance backed by medical professionals",
-            "product_key": "title:lóvi offers expert skincare guidance backed by medical professionals",
-            "category": "beauty",
-            "advertiser": "Kim Ji Soo 김지수 - Korean Skincare Expert",
-            "source_country": "RS",
-            "ad_url": "https://www.facebook.com/ads/library/?id=2427437814407750",
-            "landing_url": "https://interview.lovi.care/",
-            "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/741757255_1347322150107321_5729872384493701366_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uXehBNBie7YQ7kNvwEfVuLz&_nc_oc=AdrHf5EIaSemWKmX2ziSr0Nz4hCXkjGl4cQK0ZCO2wKF_ZGa4OzNjpIDxaMKlPewZ_U&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=pcyeJOy207fSmYA7tfqjCQ&_nc_ss=79289&oh=00_AQQpxyP_rV5f557QXfz1gvZVg9RdWdBi5uSBKY2SvWM7Tg&oe=6AEFE73D",
-            "video_url": null,
-            "first_seen": "2026-11-03T15:09:21.616941+00:00",
-            "last_seen": "2026-11-03T15:09:21.616941+00:00",
-            "active_checked_at": "2026-11-03T15:09:21.616941+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "RS"
-            ]
-          },
-          {
-            "ad_id": "1562371325389631",
-            "product_name": "lóvi offers expert skincare guidance backed by medical professionals",
-            "product_key": "title:lóvi offers expert skincare guidance backed by medical professionals",
-            "category": "beauty",
-            "advertiser": "Kim Ji Soo 김지수 - Korean Skincare Expert",
-            "source_country": "RS",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1562371325389631",
-            "landing_url": "https://interview.lovi.care/",
-            "image_url": null,
-            "video_url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNi2oQQtOkOyzUfOGqN6MDI-TMNehysf0wlzyrdek6343_rq1Q-4yebXTFqIJfls8NB_MgiHd4Gyi4SEvxpssByMMwM9EQU6I3gHYv_C-iyHg.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=IW9BRzTEpJMQ7kNvwHcZ5av&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEyMTA3NzY3OTQzNzQzMDcsImFzc2V0X2FnZV9kYXlzIjoyNDksInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjozOSwid2F0Y2hfdGltZV9zIjo2MDkwNTgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=5f54e249eaaff55c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82NDQ1RTJFNzg4MEJDRkY2MDdFNzFCQzcyMDA3N0JCOF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0M5NEY3OThCQkQzRUM2QkFEQTQwMEJCMDdBNDExOTk5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbGgtmLvsymBBUCKAJDMywXQEOd0vGp--cYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=pcyeJOy207fSmYA7tfqjCQ&_nc_ss=79289&_nc_zt=28&oh=00_AQQ8V7-ySz0QYjJzstG1Qm_8N1YnlZnZuCLqmbF8HAhBwg&oe=6AEFBB41",
-            "first_seen": "2026-11-03T15:09:21.616941+00:00",
-            "last_seen": "2026-11-03T15:09:21.616941+00:00",
-            "active_checked_at": "2026-11-03T15:09:21.616941+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "RS"
-            ]
-          },
-          {
-            "ad_id": "974887092248967",
-            "product_name": "lóvi offers expert skincare guidance backed by medical professionals",
-            "product_key": "title:lóvi offers expert skincare guidance backed by medical professionals",
-            "category": "beauty",
-            "advertiser": "Kim Ji Soo 김지수 - Korean Skincare Expert",
-            "source_country": "RS",
-            "ad_url": "https://www.facebook.com/ads/library/?id=974887092248967",
-            "landing_url": "https://interview.lovi.care/",
-            "image_url": null,
-            "video_url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMDV1V2kCqNRXrlYUh2gYgjAnLk1Q-vj_JJ0c-XPGcQKsPnOJ70ZcL0rvUCjG65QASoJ6SDxqK0HzrElbOOnQzwixytEYuxM7cSmQHdJKwFQQ.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=h-aV1XOPlOYQ7kNvwFDnpVm&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0NzA5NjcyMzc2OTY0NzksImFzc2V0X2FnZV9kYXlzIjoyNjAsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo1Mywid2F0Y2hfdGltZV9zIjoyNDYzMDQ2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=21103a3ff2787786&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CQzQzNUI1NjdDQTFDQkI3OUE1NTNEMjI0NkFDQ0M5Q19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzUyNDQ4Qzg4MjI0NzBGODFGRjA0M0IwN0YyRTkyREEwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa-7-76x_WcBRUCKAJDMywXQEqiDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=pcyeJOy207fSmYA7tfqjCQ&_nc_ss=79289&_nc_zt=28&oh=00_AQRx3HpHElMr6CgAKAzFb2KXx6CgoeIM5ht7BDJdAkhhhQ&oe=6AEFAFAC",
-            "first_seen": "2026-11-03T15:09:21.616941+00:00",
-            "last_seen": "2026-11-03T15:09:21.616941+00:00",
-            "active_checked_at": "2026-11-03T15:09:21.616941+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "RS"
-            ]
-          },
-          {
-            "ad_id": "2245041663002219",
-            "product_name": "lóvi offers expert skincare guidance backed by medical professionals",
-            "product_key": "title:lóvi offers expert skincare guidance backed by medical professionals",
-            "category": "beauty",
-            "advertiser": "Kim Ji Soo 김지수 - Korean Skincare Expert",
-            "source_country": "RS",
-            "ad_url": "https://www.facebook.com/ads/library/?id=2245041663002219",
-            "landing_url": "https://interview.lovi.care/",
-            "image_url": null,
-            "video_url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMEyGF5-MaHn1kQ_ll1zmo-p-Cn-xnRtYhtbQmzWyUmoG42qAVVzPTm9bne96Ha4gO-XifjIdCPPZLi6u8hk41kWMMv41wmcFdxvEhu-CYeHA.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=FaWjdkooWWMQ7kNvwErgiXc&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwMDY1OTQ4MjgzODkzNTcsImFzc2V0X2FnZV9kYXlzIjoxNzMsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjozOSwid2F0Y2hfdGltZV9zIjoyMjMzMDM4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=a0a339d8b590b04d&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BQTRFMzdFRUQyN0FGQkNFMTY5ODVGQjQ0N0UwOTJBNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzMxNERCQzU4OEFCRkExQkJDOUU1QjM2MjE5NzlBNjgzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbar-7yw9_JAxUCKAJDMywXQEOqn752yLQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=pcyeJOy207fSmYA7tfqjCQ&_nc_ss=79289&_nc_zt=28&oh=00_AQTcEbwAdSpNofTLOzJ8ksqbRlMrmlYks9uy9p1LARS40g&oe=6AEFD8E5",
-            "first_seen": "2026-11-03T15:09:21.616941+00:00",
-            "last_seen": "2026-11-03T15:09:21.616941+00:00",
-            "active_checked_at": "2026-11-03T15:09:21.616941+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "RS"
-            ]
-          },
-          {
-            "ad_id": "1538912227980383",
-            "product_name": "lóvi offers expert skincare guidance backed by medical professionals",
-            "product_key": "title:lóvi offers expert skincare guidance backed by medical professionals",
-            "category": "beauty",
-            "advertiser": "Kim Ji Soo 김지수 - Korean Skincare Expert",
-            "source_country": "RS",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1538912227980383",
-            "landing_url": "https://interview.lovi.care/",
-            "image_url": null,
-            "video_url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMFXwQoLTcEnlz7rXN9rWu5_c6f6Lw51UcEWrWPE-Z_vz9ZpwqVHxW2hAgvtrtMgquQuWh48NAfe1fsEoUjeORy93G7cZDyp-GBlLrehewb6g.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=26PkgJoULucQ7kNvwHJuzpi&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0OTA0NDEzMTU5MzYzNTgsImFzc2V0X2FnZV9kYXlzIjoyMDksInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjozOSwid2F0Y2hfdGltZV9zIjo4MTE1NzQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=7b5492a3c5191447&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83QzRGNjEyRTUwODNCMjZEN0RFQjQxNUUyQjkzRkE4Nl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0EzNEJDRjI1OEE1MzY1NEE5N0JBN0VCNTIyRjcxNzgzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbMoY-TjeOlBRUCKAJDMywXQEP3bItDlYEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=pcyeJOy207fSmYA7tfqjCQ&_nc_ss=79289&_nc_zt=28&oh=00_AQR4hqRnGrxHHVg0MxXbksdn4vXZ-wYmtGNyOcLVl4p_Qw&oe=6AEFCE35",
             "first_seen": "2026-11-03T15:09:21.616941+00:00",
             "last_seen": "2026-11-03T15:09:21.616941+00:00",
             "active_checked_at": "2026-11-03T15:09:21.616941+00:00",
