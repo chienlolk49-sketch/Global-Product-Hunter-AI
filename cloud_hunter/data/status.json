@@ -1,37 +1,37 @@
 {
-  "timestamp_utc": "2026-11-03T23:44:35.716892+00:00",
+  "timestamp_utc": "2026-11-04T00:24:17.569641+00:00",
   "attempts": [
     {
-      "country": "PL",
-      "keyword": "plant accessories",
-      "category": "garden",
+      "country": "CO",
+      "keyword": "makeup tools",
+      "category": "beauty",
+      "found": 28
+    },
+    {
+      "country": "TR",
+      "keyword": "neck massager",
+      "category": "wellness",
       "found": 30
     },
     {
-      "country": "CL",
-      "keyword": "coffee",
-      "category": "food",
+      "country": "KZ",
+      "keyword": "posture support",
+      "category": "wellness",
       "found": 30
     },
     {
-      "country": "IN",
-      "keyword": "healthy snacks",
-      "category": "food",
-      "found": 29
-    },
-    {
-      "country": "BG",
-      "keyword": "tea",
-      "category": "food",
+      "country": "US",
+      "keyword": "massage device",
+      "category": "wellness",
       "found": 30
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 19,
-  "unique_active_ads_observed_last_48h": 2616,
+  "new_ads": 52,
+  "unique_active_ads_observed_last_48h": 2664,
   "qualifying_products": 2,
-  "groups_below_threshold_or_unverified": 2276,
+  "groups_below_threshold_or_unverified": 2319,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "ok",
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
