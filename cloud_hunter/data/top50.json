@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T02:15:17.537752+00:00",
+  "updated_at": "2026-11-05T03:11:06.601935+00:00",
   "minimum_active_ads": 21,
   "active_window_hours": 48,
   "categories": {
@@ -14,11 +14,12 @@
           "DE",
           "ES",
           "FI",
+          "ID",
           "MA",
           "MX",
           "RS"
         ],
-        "last_active_observation": "2026-11-05T00:03:08.540446+00:00",
+        "last_active_observation": "2026-11-05T03:11:06.601935+00:00",
         "ads": [
           {
             "ad_id": "1010274434802837",
@@ -32,13 +33,14 @@
             "image_url": null,
             "video_url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOpvXtvpmalWQtzYoxyXxhMiuBMLbmLV0z-ix5gb-T5ZramXUEcq6DUiQd_vwKVH7_rKnE1vWzR0MR-DqFC1A6wn6VdvxrH9EKPDy8D3nRIAQ.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=5g7kd-AYNkIQ7kNvwFWHEaj&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzMTkxMDYxOTYyNjcxNzYsImFzc2V0X2FnZV9kYXlzIjo0MDMsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=f94bab3194a19943&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DODRFQzMzM0ZEQjNDNDA5NEM0RUU5OUREOTRBRDhBRF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzdCNEY4OUUzRjM2MzBENUI1NkZCQTlDNDIxQUFGRDg0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbQgv-Di-7XBBUCKAJDMywXQD7dsi0OVgQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=MxSuTiMHuK4688jM4XPzfg&_nc_ss=79289&_nc_zt=28&oh=00_AQTz98fGMBUZH6H21Nbms04h-SR0_CUmxrhYd5vlrpoxLQ&oe=6AE7C3CE",
             "first_seen": "2026-10-28T12:02:10.752601+00:00",
-            "last_seen": "2026-11-05T00:03:08.540446+00:00",
-            "active_checked_at": "2026-11-05T00:03:08.540446+00:00",
+            "last_seen": "2026-11-05T03:11:06.601935+00:00",
+            "active_checked_at": "2026-11-05T03:11:06.601935+00:00",
             "is_active_observed": true,
             "source_countries": [
               "DE",
               "ES",
               "FI",
+              "ID",
               "MA",
               "MX",
               "RS"
@@ -536,8 +538,33 @@
           "SA",
           "SI"
         ],
-        "last_active_observation": "2026-11-05T02:15:17.537752+00:00",
+        "last_active_observation": "2026-11-05T03:11:06.601935+00:00",
         "ads": [
+          {
+            "ad_id": "1866683000975667",
+            "product_name": "support stamina and heart health every day",
+            "product_key": "title:support stamina and heart health every day",
+            "category": "wellness",
+            "advertiser": "Essential Health Finds",
+            "source_country": "HU",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1866683000975667",
+            "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
+            "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/778985133_1563691878628072_4075139560395152163_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=J1FJaLwlEh0Q7kNvwHvotls&_nc_oc=AdpqdchIBogSI8XB1iIFwKGW1S6aqthJo8r8DSo7ZDg7PnPmxFrahz9F7qDO_1P7xRI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=SUonsZ1myV_Qoecp6hHATQ&_nc_ss=79289&oh=00_AQTs0IK0nXj16zm5JXnyfS1DaHsH97fw3npOXfnVu8ZNVQ&oe=6AE7B634",
+            "video_url": null,
+            "first_seen": "2026-10-28T12:54:34.839090+00:00",
+            "last_seen": "2026-11-05T03:11:06.601935+00:00",
+            "active_checked_at": "2026-11-05T03:11:06.601935+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "AT",
+              "EE",
+              "HU",
+              "IL",
+              "JP",
+              "LT",
+              "PE"
+            ]
+          },
           {
             "ad_id": "1077131378619957",
             "product_name": "support stamina and heart health every day",
@@ -1460,30 +1487,6 @@
             "ad_url": "https://www.facebook.com/ads/library/?id=1563698788367552",
             "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
             "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/794447814_4467112353602147_8601544679394713778_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-CPfEedx0skQ7kNvwEe_inw&_nc_oc=AdrkVY4bFx2apkxP7TcjPjr-19BCPyznwhWdrE6Na9Oqj-uhQc3duofPq4tnpzK6yU4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=SUonsZ1myV_Qoecp6hHATQ&_nc_ss=79289&oh=00_AQSbgabtREyz4h78R3hL91rDd3DerqmirDVpqajn1qw6FA&oe=6AE7BD72",
-            "video_url": null,
-            "first_seen": "2026-10-28T12:54:34.839090+00:00",
-            "last_seen": "2026-11-03T18:56:22.562255+00:00",
-            "active_checked_at": "2026-11-03T18:56:22.562255+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "AT",
-              "HU",
-              "IL",
-              "JP",
-              "LT",
-              "PE"
-            ]
-          },
-          {
-            "ad_id": "1866683000975667",
-            "product_name": "support stamina and heart health every day",
-            "product_key": "title:support stamina and heart health every day",
-            "category": "wellness",
-            "advertiser": "Essential Health Finds",
-            "source_country": "HU",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1866683000975667",
-            "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
-            "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/778985133_1563691878628072_4075139560395152163_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=J1FJaLwlEh0Q7kNvwHvotls&_nc_oc=AdpqdchIBogSI8XB1iIFwKGW1S6aqthJo8r8DSo7ZDg7PnPmxFrahz9F7qDO_1P7xRI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=SUonsZ1myV_Qoecp6hHATQ&_nc_ss=79289&oh=00_AQTs0IK0nXj16zm5JXnyfS1DaHsH97fw3npOXfnVu8ZNVQ&oe=6AE7B634",
             "video_url": null,
             "first_seen": "2026-10-28T12:54:34.839090+00:00",
             "last_seen": "2026-11-03T18:56:22.562255+00:00",
