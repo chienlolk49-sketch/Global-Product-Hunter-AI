@@ -1,6 +1,1325 @@
 {
-  "updated_at": "2026-11-06T15:07:27.123063+00:00",
+  "updated_at": "2026-11-06T15:54:49.240561+00:00",
   "ads": [
+    {
+      "ad_id": "27086586400970202",
+      "product_name": "muse best reels maker",
+      "product_key": "unverified:27086586400970202",
+      "category": "other",
+      "advertiser": "Muse App",
+      "source_country": "HU",
+      "ad_url": "https://www.facebook.com/ads/library/?id=27086586400970202",
+      "landing_url": "http://itunes.apple.com/app/id1638320348",
+      "image_url": null,
+      "video_url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMVY5oW3uMBlSoihshn3IHc48DE3UU_LYZQw1ltgdXLwvVC0S6u59WGngaG2I756LJc4Fnw_94kkbmGV-9h3C6AyFQOl9FS7O4ru3GRVybApw.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=xlFVZQeZVAcQ7kNvwHTqMoA&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI0NTM5NzMwNDE3MzY0MTcsImFzc2V0X2FnZV9kYXlzIjoxNDIsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozMiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=978ce9754d04c95c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82RDRFNUVBRUY3NDEzN0RDRUU4NTIxMEIyMTdERkQ5Nl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzlGNDdCRDMzRTVEODFFMzUzMzFFNEQxMkRERTJGQkE1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbCq4f3g_jbCBUCKAJDMywXQEAAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=SUonsZ1myV_Qoecp6hHATQ&_nc_ss=79289&_nc_zt=28&oh=00_AQRJpE_NEtRKKKx4lytjRbDdoS9pfBzUnduBpWkE8uQgyw&oe=6AE7B68A",
+      "first_seen": "2026-10-28T12:54:34.839090+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "AT",
+        "BE",
+        "CN",
+        "HK",
+        "HU",
+        "IL",
+        "JP",
+        "LT",
+        "SK",
+        "TR",
+        "VN"
+      ]
+    },
+    {
+      "ad_id": "1440028007970319",
+      "product_name": "muse best reels maker",
+      "product_key": "unverified:1440028007970319",
+      "category": "other",
+      "advertiser": "Muse App",
+      "source_country": "HU",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1440028007970319",
+      "landing_url": "http://itunes.apple.com/app/id1638320348",
+      "image_url": null,
+      "video_url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNX8G23iGQtF8jxIkbkSGG7m7L_eHdLHEAKF2hzbi8EI27U-vZxwK-Rrqzrks890ubiULp2OGCr2lf7dEBIz6I4Vkx0pB9nLASkFr-Ym1kH6g.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=WVctheCSHikQ7kNvwEyB1OK&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwMDczNzM1MDIxODEyNTYsImFzc2V0X2FnZV9kYXlzIjoxMDMsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozMSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=bcb9f35cf6b226ca&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CRDQ5MzVBODhDMDdGRTA2NzI0OTg1M0FDQTZGMzU4OF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0MzNEQ0NTBBRUUwRTM1RjhGNUEzQzY5MjM0OTdDNEJEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaQvoe87YzKAxUCKAJDMywXQD_3S8an754YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=SUonsZ1myV_Qoecp6hHATQ&_nc_ss=79289&_nc_zt=28&oh=00_AQQIbCJ8vOS-zj3U1Ux-4f59yJZL8EarpeYaKapvZ-FJWA&oe=6AE7C843",
+      "first_seen": "2026-10-28T12:54:34.839090+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "AT",
+        "BE",
+        "CN",
+        "HK",
+        "HU",
+        "IL",
+        "JP",
+        "LT",
+        "SK",
+        "TR",
+        "VN"
+      ]
+    },
+    {
+      "ad_id": "1866683000975667",
+      "product_name": "support stamina and heart health every day",
+      "product_key": "title:support stamina and heart health every day",
+      "category": "wellness",
+      "advertiser": "Essential Health Finds",
+      "source_country": "HU",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1866683000975667",
+      "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
+      "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/778985133_1563691878628072_4075139560395152163_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=J1FJaLwlEh0Q7kNvwHvotls&_nc_oc=AdpqdchIBogSI8XB1iIFwKGW1S6aqthJo8r8DSo7ZDg7PnPmxFrahz9F7qDO_1P7xRI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=SUonsZ1myV_Qoecp6hHATQ&_nc_ss=79289&oh=00_AQTs0IK0nXj16zm5JXnyfS1DaHsH97fw3npOXfnVu8ZNVQ&oe=6AE7B634",
+      "video_url": null,
+      "first_seen": "2026-10-28T12:54:34.839090+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "AT",
+        "EE",
+        "HU",
+        "IL",
+        "JP",
+        "LT",
+        "PE"
+      ]
+    },
+    {
+      "ad_id": "4456691424606023",
+      "product_name": "groundingwell bedsheet",
+      "product_key": "unverified:4456691424606023",
+      "category": "other",
+      "advertiser": "The Blood Pressure Report",
+      "source_country": "KE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=4456691424606023",
+      "landing_url": "https://www.groundingwell.com/products/groundingwell-bedsheet",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/786563134_1405148185096224_1216521126552264727_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=T9hZ018EmCMQ7kNvwE8ddnZ&_nc_oc=Adpzb7Z27_-7h1lAcWp2f9vZRQd6qvjtnj2_gKKSFn7Rxqv7kDn9FUYe-xOd3Y5ACVc&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=ujoYFY6IrqV3j1FrFTze6w&_nc_ss=79289&oh=00_AQRynBkZamTolatTprl47Npp9K9x0yYdOndu-cved-ELFg&oe=6AF3DEB5",
+      "video_url": null,
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "KE"
+      ]
+    },
+    {
+      "ad_id": "874576375365386",
+      "product_name": "kes 1 999 only 16-in-1 veggies slicer and cutter",
+      "product_key": "unverified:874576375365386",
+      "category": "other",
+      "advertiser": "Vintage Shoppe",
+      "source_country": "KE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=874576375365386",
+      "landing_url": "https://vintageshoppe.co.ke/16-in-1-vegetable-slicer/",
+      "image_url": null,
+      "video_url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNG-m7uGKQIQqVVPOIAf4gBS6Ud_6oMOHnpJJkGHnjs48_QIq1CbXV2yyhlNUVxOVpoBDFLjuiNf2hpUQHCG3VInQlOfm19lv9eKklpIQCcxA.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=OL3nV5iYZuEQ7kNvwGVyya4&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE4MTYxOTczODY0NDk1MTgsImFzc2V0X2FnZV9kYXlzIjozMDEsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxNSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=630714be05b1923d&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yRjREQUJGRkMxQTM1OUQxOUEwNTFFRjA3QzU0RERBNl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzBDNEUzQTlCRkEzREIwQUY0MkVDMTlBNDFGMzE4REIwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbcyf2AzfS5BhUCKAJDMywXQC7MzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=ujoYFY6IrqV3j1FrFTze6w&_nc_ss=79289&_nc_zt=28&oh=00_AQQRRurJk2WuSMemKxrQG2NaUJChYKj0NPFeFhnZzL-Www&oe=6AF3C0D8",
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "KE"
+      ]
+    },
+    {
+      "ad_id": "2401617233701775",
+      "product_name": "upgrade your home organise better live better",
+      "product_key": "unverified:2401617233701775",
+      "category": "other",
+      "advertiser": "Lemak Households",
+      "source_country": "KE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2401617233701775",
+      "landing_url": "https://lemakhouseholds.co.ke/",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/825328611_28839754785641327_2700501843883295964_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gwaGPKDmQSwQ7kNvwEuFxBu&_nc_oc=AdqVe-zkcVKi2Vnrj4hMDXuFde6r9McsZPz6j9lBlxJOMFn1SVuKCVaiEBT9yj8r0ag&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=ujoYFY6IrqV3j1FrFTze6w&_nc_ss=79289&oh=00_AQSsdYIbgA8hQkBNveHi8VBCm_WbMuUqawyLJr_Cg0S-qQ&oe=6AF3C95E",
+      "video_url": null,
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "KE"
+      ]
+    },
+    {
+      "ad_id": "1756775782672577",
+      "product_name": "this week s special offer 49 off egg shell opener buy 2 get 2 free",
+      "product_key": "unverified:1756775782672577",
+      "category": "other",
+      "advertiser": "Knowninto6",
+      "source_country": "KE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1756775782672577",
+      "landing_url": "https://www.knowninto.com/products/this-week-s-special-offer-49-off---egg-shell-opener-buy-2-get-2-free",
+      "image_url": null,
+      "video_url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQO1loHJJZkndB_dLIc-NgdWspbEq-g3CfUj40yevb2X67aW8Jj7D92trw7KKZxrJ92MAxq5X72MKm1U1ZOJix22xD6N_9fHu70Qd2ItdiamKQ.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=SVK8z6J43CoQ7kNvwEx_vLO&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTQwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwMzY0NzQ0MDIzMzEwOTMsImFzc2V0X2FnZV9kYXlzIjo5NCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjQwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=1e810b60539ea76e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FRTQ5QkU3RjQ1MjZCOEQzMzkxNUE4NzAzOTZEN0ZCMl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzVDNDdFNTUxNkExN0EwRjM2RTcxOEUwOTFCRTdBMEE3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaq546J4KrXAxUCKAJDMywXQERZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=ujoYFY6IrqV3j1FrFTze6w&_nc_ss=79289&_nc_zt=28&oh=00_AQTGB323gQDbiOc9eDXf1LWgRoLsoFvF3XujuWYFW5sqJQ&oe=6AF3D380",
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "KE"
+      ]
+    },
+    {
+      "ad_id": "2065333864188088",
+      "product_name": "easy sushi maker mold beginner-friendly kitchen gadget",
+      "product_key": "title:easy sushi maker mold beginner-friendly kitchen gadget",
+      "category": "kitchen",
+      "advertiser": "Hailoyearn.LY33",
+      "source_country": "KE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2065333864188088",
+      "landing_url": "https://www.zenblux.com/funnel/news-sushi-maker-mold-m-25",
+      "image_url": null,
+      "video_url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNVh7txhr-VcpB1DOCAvqruPeLlqlvXOjFR1jdqucVK-atxAiQBpUnxIDPmKIhGZm4nQ_4vkPEcHc0k6J_smTWomdeLLMA-d1zCX04HLJxAvg.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=LRYemzGVG5YQ7kNvwHf7LCI&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2NjQ3MDc1MDUxNjc1MTAsImFzc2V0X2FnZV9kYXlzIjoxOCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjI5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=a21b677ad516d236&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84Q0E1NzNBOUZDRkE0RTk4OTJEQkZFQzg2NEYwRTcwM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzlGNDRBODZBRTRGNzQ2OTVBNUNGRUJEQjgyNEVENzA0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACas8oC43YL1BRUCKAJDMywXQD0iDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=ujoYFY6IrqV3j1FrFTze6w&_nc_ss=79289&_nc_zt=28&oh=00_AQS_MyyWXpGoaEoQoWf19uVUsB9rcqdnneVc5o00ueQOkQ&oe=6AF3C571",
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "KE"
+      ]
+    },
+    {
+      "ad_id": "1041541872236558",
+      "product_name": "easy sushi maker mold beginner-friendly kitchen gadget",
+      "product_key": "title:easy sushi maker mold beginner-friendly kitchen gadget",
+      "category": "kitchen",
+      "advertiser": "Hailoyearn.LY33",
+      "source_country": "KE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1041541872236558",
+      "landing_url": "https://www.zenblux.com/funnel/news-sushi-maker-mold-m-25",
+      "image_url": null,
+      "video_url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNVh7txhr-VcpB1DOCAvqruPeLlqlvXOjFR1jdqucVK-atxAiQBpUnxIDPmKIhGZm4nQ_4vkPEcHc0k6J_smTWomdeLLMA-d1zCX04HLJxAvg.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=LRYemzGVG5YQ7kNvwHf7LCI&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2NjQ3MDc1MDUxNjc1MTAsImFzc2V0X2FnZV9kYXlzIjoxOCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjI5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=a21b677ad516d236&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84Q0E1NzNBOUZDRkE0RTk4OTJEQkZFQzg2NEYwRTcwM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzlGNDRBODZBRTRGNzQ2OTVBNUNGRUJEQjgyNEVENzA0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACas8oC43YL1BRUCKAJDMywXQD0iDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=ujoYFY6IrqV3j1FrFTze6w&_nc_ss=79289&_nc_zt=28&oh=00_AQS_MyyWXpGoaEoQoWf19uVUsB9rcqdnneVc5o00ueQOkQ&oe=6AF3C571",
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "KE"
+      ]
+    },
+    {
+      "ad_id": "2192215241725788",
+      "product_name": "foldable stainless steel trash bag holder",
+      "product_key": "title:foldable stainless steel trash bag holder",
+      "category": "fashion",
+      "advertiser": "Braioncalit",
+      "source_country": "KE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2192215241725788",
+      "landing_url": "https://www.zenblux.com/funnel/news-foldable-stainl-ess-steel-trash-bag-hol-der-m-2",
+      "image_url": null,
+      "video_url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMMOpDK8fQ0YlHD9mzMWifxmkOv65-xaMLp6iRxj6CtHVilOxO4fi-SghpF8-KD6UUdXeM9SezXxXOGBp7HhVrk0WssC-2Oi31fmoZaC-22NA.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=VzRHmq_O8NgQ7kNvwHJKLRQ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIxMjgyMDEyMjE0MDM0MzksImFzc2V0X2FnZV9kYXlzIjoyMCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjM1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=65d2c058d844ea86&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yOTBGNkUxMzgyNjE0RjJEQUEyMDVGNjk4QzM5QTdGMV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzM5NjIwMkQyNUMyMzREOUM4REYyNkZFOTE5N0RBRThGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbezP_czuXHBxUCKAJDMywXQEGVP3ztkWgYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=ujoYFY6IrqV3j1FrFTze6w&_nc_ss=79289&_nc_zt=28&oh=00_AQRvyOeaYCrgZYoWgEjdZARwKsVNUx1E4SpJxz0GihcTYg&oe=6AF3DDA3",
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "KE"
+      ]
+    },
+    {
+      "ad_id": "1361720246069486",
+      "product_name": "multi functional kitchen utensil holder",
+      "product_key": "sku:multi functional kitchen utensil holder",
+      "category": "kitchen",
+      "advertiser": "Enjoyaitlife-US",
+      "source_country": "KE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1361720246069486",
+      "landing_url": "https://www.enjoyaitlife.com/products/multi-functional-kitchen-utensil-holder",
+      "image_url": null,
+      "video_url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPVWH7-1mp7EEhYYrJQAW5TPKQOY1s4zkbY-Rj4aeKopAzP1tbnPKCtPopgJf5bH-_yVFopfMY-gjrRhi4GEGdgRgWKDLlksMJf3_QmOs8Ugg.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=WgHFF_6Y6fcQ7kNvwHu8NNN&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwODk5MTA4MzcwNTI2NTYsImFzc2V0X2FnZV9kYXlzIjo4NywidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjMxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=2869209b08ab5509&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CNDQ3Qjk2RDE0RkZCMjMzRjA1MUMyMzJCOUNDMDlBOF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0RGNENCNDcyREFCNzc3QTc2NjkxNjY4MjkzMUYyQzlGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbgk7zElNHvAxUCKAJDMywXQD-7peNT988YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=ujoYFY6IrqV3j1FrFTze6w&_nc_ss=79289&_nc_zt=28&oh=00_AQReR2cEEarjIEe32RFraRN3hxzswH34SaT_bWRwtmxAAQ&oe=6AF3D7F6",
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "KE"
+      ]
+    },
+    {
+      "ad_id": "4556818794536345",
+      "product_name": "microwave omelet maker for easy egg breakfast",
+      "product_key": "unverified:4556818794536345",
+      "category": "other",
+      "advertiser": "Braioncalit",
+      "source_country": "KE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=4556818794536345",
+      "landing_url": "https://www.zenblux.com/funnel/news-microwave-omelet-maker-m-9",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/858567002_1822508448895997_5962868334071798667_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UgwbHNrAJc8Q7kNvwH9pyME&_nc_oc=Ado6-MWri2_xfdERxRujASGvmrTfvgVnnZXLbLQeADq9shutTseum84TOEaZ14AKnH0&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=ujoYFY6IrqV3j1FrFTze6w&_nc_ss=79289&oh=00_AQR1LSPESLSaHlChfuar-bgODJC4phXHn1GoGE9Cl5gZxQ&oe=6AF3B334",
+      "video_url": null,
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "KE"
+      ]
+    },
+    {
+      "ad_id": "1833224197704927",
+      "product_name": "adjustable stainless steel can opener",
+      "product_key": "unverified:1833224197704927",
+      "category": "other",
+      "advertiser": "Braioncalit",
+      "source_country": "KE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1833224197704927",
+      "landing_url": "https://www.zenblux.com/funnel/news-adjustable-stainless-steel-can-opener-sync-m",
+      "image_url": null,
+      "video_url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNXd3l5Y4b-L2QlnnxrsP3z7BdPuydBPGC4GRDWKlHyohBlhXivlITCzQGzg_Fs_CQIG_jmz_H6Z8Hthpub-I73WjNIhrvWILwdOzX3M31lEg.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=nwBwfSCsDQUQ7kNvwF3MeoJ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI5NDk3ODczOTUzMTUxNjczLCJhc3NldF9hZ2VfZGF5cyI6MTUsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjozOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=83aa76f8fe8beba5&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80NTEwNjA5OUFCNjU0MTNEQUNBNDAzNDNFRUM3QzUwOV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzJDNkIyNTQ3NzFBOTRBMjRCMUU5QjVFNTBBOUY0RjMyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACby6tqpn4rmaBUCKAJDMywXQEMMzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=ujoYFY6IrqV3j1FrFTze6w&_nc_ss=79289&_nc_zt=28&oh=00_AQTeT3DlUFaQBWSuPs0glcG3VeYLGtyD8TAcrB75xwu75A&oe=6AF3D5C4",
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "KE"
+      ]
+    },
+    {
+      "ad_id": "2188989335304476",
+      "product_name": "universal automatic peeler",
+      "product_key": "unverified:2188989335304476",
+      "category": "other",
+      "advertiser": "Shiftaken.shop",
+      "source_country": "KE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2188989335304476",
+      "landing_url": "https://www.shiftaken.com/products/universal-automatic-peeler",
+      "image_url": null,
+      "video_url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQO-uBv3DbJRnISt9X9mhbIHlN-2yM7Oxytb5UKJiLrIcwqcTmzW3pGuAsiF-IKBql1m2RE05Rwkjk7YPzXiJRC41oilW_kf19KaBeitCuOvBQ.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=74zBVo2KaPgQ7kNvwEKcKlm&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2NDg2MzQxNDAxMjY0NzIsImFzc2V0X2FnZV9kYXlzIjoyMiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjUwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=727284e3f94dfbfa&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BODU2NDNFRkI4MEY0MDYyQTY4NEFBNjREQTcyRDE0Rl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0JFMjI5Q0ZENUZEMjQ2RDNBNDNBODQxNTdDMEI5Q0ExX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaQtMvEkdvtBRUCKAJDMywXQEkEOVgQYk4YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=ujoYFY6IrqV3j1FrFTze6w&_nc_ss=79289&_nc_zt=28&oh=00_AQS6XY4cUEjEk5vuWEbfq1icEAe5XbPGdtktGl6bl30v_g&oe=6AF3DE7E",
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "KE"
+      ]
+    },
+    {
+      "ad_id": "2118802778706499",
+      "product_name": "groundingwell bedsheet",
+      "product_key": "unverified:2118802778706499",
+      "category": "other",
+      "advertiser": "Nerve Support Community",
+      "source_country": "KE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2118802778706499",
+      "landing_url": "https://www.groundingwell.com/products/groundingwell-bedsheet",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/777825431_1950438078979217_4302164841859347391_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HOX_78PmRB8Q7kNvwHS3sRd&_nc_oc=AdpLhIcxIbSXLvaxsFZya0sLGs_nuXc4rCZapfZiU0I7cCvn8tIwbHvkx5LpDOHucqw&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=ujoYFY6IrqV3j1FrFTze6w&_nc_ss=79289&oh=00_AQSSPteXRkd6ZsQ0XWuUGnAPnRcsdDFy1OH3kGI-mXTEug&oe=6AF3B6CF",
+      "video_url": null,
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "KE"
+      ]
+    },
+    {
+      "ad_id": "1903560707492405",
+      "product_name": "foldable stainless steel trash bag holder",
+      "product_key": "title:foldable stainless steel trash bag holder",
+      "category": "fashion",
+      "advertiser": "Ascribeavail.EA04",
+      "source_country": "KE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1903560707492405",
+      "landing_url": "https://www.ascribeavail.com/pages/news-foldable-304-stainless-steel-trash-bag-holder-m",
+      "image_url": null,
+      "video_url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPmaMHp6EubBsDXJaCqCQ8vkbOiBx4rRNZkXdcvuYX7vHrx7OvHWJdl9yD_R3bkhzTK3b1g-e6Aq6VBkzqbJ8szV7sNPD12mZO04upn8VhLJw.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=aGz_xvCiTIsQ7kNvwGW_ZLz&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjQ2NjU1NTk4MDAzOTA0NDYsImFzc2V0X2FnZV9kYXlzIjoxMSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjM2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=6b3017a6bb3335f8&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FNEQ3MDZENDkzOUM0RkE5QTQyQzc5MjlFNTFENDcwOF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzgzMTdDNjVBREUxQzQ3QzM4OUMzOTMzOUNDMTMzQjU2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbcjKWpqdPJEBUCKAJDMywXQEIu2RaHKwIYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=ujoYFY6IrqV3j1FrFTze6w&_nc_ss=79289&_nc_zt=28&oh=00_AQQGGaJLdCobxlO_ZDMHtbt5o9_adzYQANZPOjormNWkNw&oe=6AF3DE5F",
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "KE"
+      ]
+    },
+    {
+      "ad_id": "28932688883050807",
+      "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+      "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+      "category": "garden",
+      "advertiser": "Alibaba.com",
+      "source_country": "KE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=28932688883050807",
+      "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/861835283_2153445265558641_1610761181208529352_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=aywboOVMX3MQ7kNvwHQ_rS3&_nc_oc=Adp9-4kyqxolQ9WZY6lJUL6zdLyE8bF7Uv1evFckmG48jY8VkIVzGXJQSu0P4K2Ypmw&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=ujoYFY6IrqV3j1FrFTze6w&_nc_ss=79289&oh=00_AQQn8USsRjRGJqWUVxCiCONFFY7MYVPta6cjCX2huvVHyA&oe=6AF3C989",
+      "video_url": null,
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "ID",
+        "KE"
+      ]
+    },
+    {
+      "ad_id": "28478421241800756",
+      "product_name": "news - 5-layer vegetable shears",
+      "product_key": "unverified:28478421241800756",
+      "category": "other",
+      "advertiser": "Bamaxisboon_hhh",
+      "source_country": "KE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=28478421241800756",
+      "landing_url": "https://www.zenblux.com/funnel/news-5-layer-vegetable-shears-sync-m-21",
+      "image_url": null,
+      "video_url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPMCdRXrT9ryp4nuAXTxI3W5VEAHVl7hl3bBhmQjuLy-xeWpStev6P1UZC3ganUOKNsflqfz0tBlomOGjpEmeGJ670wbpsNckv8sKscOBws0Q.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=c_vrf3XLYzkQ7kNvwGR5bj3&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1ODk2NTIwMjYyOTMxODYsImFzc2V0X2FnZV9kYXlzIjozNywidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjU0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=e705b81a729e201d&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83OEE3RDhBNkJBNDk0MzZCOUY4RUU4MTZCMzRFMUQxMl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0M3MzQ2Q0Q4MzZEODQwQzg4NTlCQkQ4NzExNDYyQ0EzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaE77_F9vHSBRUCKAJDMywXQEsAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=ujoYFY6IrqV3j1FrFTze6w&_nc_ss=79289&_nc_zt=28&oh=00_AQQ6ArdFERMmwanBW5H2k232SihRjpcRWg_Bk9gNijzNSg&oe=6AF3D673",
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "KE"
+      ]
+    },
+    {
+      "ad_id": "1619821216553100",
+      "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+      "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+      "category": "garden",
+      "advertiser": "Alibaba.com",
+      "source_country": "KE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1619821216553100",
+      "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/864588286_2293259884797846_4276000571068307097_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZHgZLpCu-X4Q7kNvwEABLiC&_nc_oc=AdqgPUrHPeUpsx158t63cBvvLI5ogpQVPqNp_f7IEERLZSnI9F3a2PWZ5d3q6I2dG9U&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=ujoYFY6IrqV3j1FrFTze6w&_nc_ss=79289&oh=00_AQSgNbbo3my4sI2JnknA8vDDjbuwHW0Y_CWbWrtah94-wA&oe=6AF3B993",
+      "video_url": null,
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "KE"
+      ]
+    },
+    {
+      "ad_id": "1121634477458403",
+      "product_name": "microwave omelet maker for easy egg breakfast",
+      "product_key": "unverified:1121634477458403",
+      "category": "other",
+      "advertiser": "Braioncalit",
+      "source_country": "KE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1121634477458403",
+      "landing_url": "https://www.zenblux.com/funnel/news-microwave-omelet-maker-m-9",
+      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/863152777_1790279152220516_8628165059905947723_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HuZArDjBdIgQ7kNvwHHs3Sz&_nc_oc=AdooD3S2zp1eObrhRWLdPdn45BNgVdqB99mycIEJI6MLbT43mXI_GcvQU7GgYEIOs-k&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=ujoYFY6IrqV3j1FrFTze6w&_nc_ss=79289&oh=00_AQR0b6KCoaDidWc4zHtkrBmSq3LdzSxbnm10xSQ2Eu22Zw&oe=6AF3D610",
+      "video_url": null,
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "KE"
+      ]
+    },
+    {
+      "ad_id": "4558295861107337",
+      "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+      "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+      "category": "garden",
+      "advertiser": "Alibaba.com",
+      "source_country": "KE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=4558295861107337",
+      "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/855336668_2328146318037026_1723384101103634822_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gBMf3cobkHYQ7kNvwGKEaLm&_nc_oc=AdpqLS2mNKEys3LFdCw4_nEh1WBEV5pgKJO1dFrMCSqd4WAu1WWDaB7IObfw11b5fzc&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=ujoYFY6IrqV3j1FrFTze6w&_nc_ss=79289&oh=00_AQTZzsleJzTWmHh7ldjSTuQB6nwX21rz5ikDCk1d08Q9hg&oe=6AF3E2E5",
+      "video_url": null,
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "KE"
+      ]
+    },
+    {
+      "ad_id": "4265106293626128",
+      "product_name": "extend kitchen sink drain basket 5 1 2 4 4 2 3",
+      "product_key": "sku:extend kitchen sink drain basket",
+      "category": "kitchen",
+      "advertiser": "Listedchart",
+      "source_country": "KE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=4265106293626128",
+      "landing_url": "https://www.nookvely.com/products/extend-kitchen-sink-drain-basket-5-1-2-4-4-2-3",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOlHMs7Feb3mOXrw8F3Xohrlwv5y_JQuJNaM6nlovxbJNbcBVDWvndWYAfl7THyIiIac5SPEJOGZOTSdeLxREdY_YCexNrfxuI8uw8Vhn0bKw.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=MyBar_fHkMIQ7kNvwFCYkB_&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2NTc3NjE0Nzg1MTk2MzAsImFzc2V0X2FnZV9kYXlzIjoxNCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjIxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=181ccd2e83b58c3c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83NDMyMjYzRUY1OEM0QTg3QkFFODU2N0I2Rjk1MEJBNl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzlEODgxRENERkVBNTQ3MDY5RDZEMUVDQjZFNjc3QzQzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACacreXAte7xBRUCKAJDMywXQDWQ5WBBiTcYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=ujoYFY6IrqV3j1FrFTze6w&_nc_ss=79289&_nc_zt=28&oh=00_AQQ2rmNzZi6y8eq68JeILFlp52hXFotu0DRH3kRsYjGLPA&oe=6AF3DCA1",
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "KE"
+      ]
+    },
+    {
+      "ad_id": "944062321877335",
+      "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+      "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+      "category": "garden",
+      "advertiser": "Alibaba.com",
+      "source_country": "KE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=944062321877335",
+      "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/867793703_1681154203663940_8936526479561675019_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rRsMvV3Xi-0Q7kNvwH7VBPE&_nc_oc=Adp8oZd364V5VoeUWTJEBtETtspTqsaOSkdT0n5BhdXvD7x6U7vitic7oRlXWfm75_E&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=ujoYFY6IrqV3j1FrFTze6w&_nc_ss=79289&oh=00_AQSsOcZrE2mCZhNPXlhmT--MpthLLOScFyoPjiGtMtKBDA&oe=6AF3DA15",
+      "video_url": null,
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "KE"
+      ]
+    },
+    {
+      "ad_id": "2595600884203636",
+      "product_name": "16 in 1 multifunctional vegetable chopper and slicer",
+      "product_key": "unverified:2595600884203636",
+      "category": "other",
+      "advertiser": "Africana Fashions",
+      "source_country": "KE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2595600884203636",
+      "landing_url": "https://africanafashions.com/products/16-in-1-multifunctional-vegetable-chopper-and-slicer",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/793159061_1773828373647814_1799871417242752474_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lfILBGoMO_oQ7kNvwHysBOG&_nc_oc=AdrBQ8iqptdsnCSzU6_lTawbjgrNSF6uwcHNy_HDc4HDA8eID1EP0KitabR5WW2tzB0&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=ujoYFY6IrqV3j1FrFTze6w&_nc_ss=79289&oh=00_AQSV7UAB1JszB65r01ipkX-UbLt8ODV4Akc1MzcpvFAUtQ&oe=6AF3CC24",
+      "video_url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQN_9DlhiVtFMVQ_B0rVUb0DIWKdSD4OLoYFLx6JSvHBiPdOcc35uHvOmkYUJhuUycykvGAnQNjnCOhbc_qSyu2iUtpNkwhKeBgZ490KBfvDTA.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=HrLkVjhSwjoQ7kNvwHIGwTT&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2MTIwNDQ5MTcxNzUzODksImFzc2V0X2FnZV9kYXlzIjo2NiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjE1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=c8611231b8a513ab&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GNzQ4QUQ5RUE0QUM5MTNBNTlFMENEMEEwN0Y5NTdBNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0JBNEU1OTJBOTMyMDhFN0YxQzNENjZGNjI4MEM4Rjk4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa60bPKrondBRUCKAJDMywXQC6qfvnbItEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=ujoYFY6IrqV3j1FrFTze6w&_nc_ss=79289&_nc_zt=28&oh=00_AQRiTQ_nz8X96bTKr0aIyCdCPSAHxnsugHLK0uiwV_5gTg&oe=6AF3BE9D",
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "KE"
+      ]
+    },
+    {
+      "ad_id": "1633680601447882",
+      "product_name": "microwave egg poacher",
+      "product_key": "unverified:1633680601447882",
+      "category": "other",
+      "advertiser": "Blanceresem.RE04",
+      "source_country": "KE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1633680601447882",
+      "landing_url": "https://www.zenblux.com/funnel/news-microwave-egg-poacher-m-13",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPqksThiyokSknrbiXA1lSOfxqtSqHlHuFIdiYCKQBBm0T8wW8puTrquRtY22Xn_Mr0vJyWtehAKyKZZv2EBaZKcGIooAqUY4duTwoLEJL54A.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=00XbS7aD8H8Q7kNvwH4AXyZ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1MTE5MzExMDA5NTQ2OTQsImFzc2V0X2FnZV9kYXlzIjo1MiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjU4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=2d014a563848605e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82MjQ4NTVBOTkyNUJCMERGRTNFQzhCNjY4NzM0OUZCNl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzUwNDI4MjE5NTgxMUU2RUY5QkY5MDkyMTBBRjA0QUEzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaMgZTD_MWvBRUCKAJDMywXQE0AAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=ujoYFY6IrqV3j1FrFTze6w&_nc_ss=79289&_nc_zt=28&oh=00_AQSp20o3g5RS9mtCl_YXAlpeBZl_Sg_EpYvV93PSndIfng&oe=6AF3B753",
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "KE"
+      ]
+    },
+    {
+      "ad_id": "2448376572637310",
+      "product_name": "microwave egg poacher",
+      "product_key": "unverified:2448376572637310",
+      "category": "other",
+      "advertiser": "Blanceresem.RE04",
+      "source_country": "KE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2448376572637310",
+      "landing_url": "https://www.zenblux.com/funnel/news-microwave-egg-poacher-m-13",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPqksThiyokSknrbiXA1lSOfxqtSqHlHuFIdiYCKQBBm0T8wW8puTrquRtY22Xn_Mr0vJyWtehAKyKZZv2EBaZKcGIooAqUY4duTwoLEJL54A.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=00XbS7aD8H8Q7kNvwH4AXyZ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1MTE5MzExMDA5NTQ2OTQsImFzc2V0X2FnZV9kYXlzIjo1MiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjU4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=2d014a563848605e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82MjQ4NTVBOTkyNUJCMERGRTNFQzhCNjY4NzM0OUZCNl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzUwNDI4MjE5NTgxMUU2RUY5QkY5MDkyMTBBRjA0QUEzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaMgZTD_MWvBRUCKAJDMywXQE0AAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=ujoYFY6IrqV3j1FrFTze6w&_nc_ss=79289&_nc_zt=28&oh=00_AQSp20o3g5RS9mtCl_YXAlpeBZl_Sg_EpYvV93PSndIfng&oe=6AF3B753",
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "KE"
+      ]
+    },
+    {
+      "ad_id": "1917207696354603",
+      "product_name": "news - automatic eggbeater easy whisk",
+      "product_key": "unverified:1917207696354603",
+      "category": "other",
+      "advertiser": "Ascribeavail.EA04",
+      "source_country": "KE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1917207696354603",
+      "landing_url": "https://www.ascribeavail.com/pages/news-automatic-eggbeater-easy-whisk-m-5-1",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQN2kixwXo9h3JJZ4Ui0vw0-_K8pziby0JgqxvcP2hm0ZJgfb99V5dqptg-DHEP8lSvdMtTp9nOjIYIgFBb5s6Y2z9XduOwWvkVGEWSt3yRhdQ.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=KPpVdALHnmcQ7kNvwH3BCZR&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEyMDEyMzY1ODIzNjIyNzEsImFzc2V0X2FnZV9kYXlzIjo4LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NDAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=39534ceed8d1b558&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zRkNDMkYyQkM4M0U0OTc3QjM0MTk1M0JGRTc4QTE0NF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzk3MTM1REI0MzY5MDQ3MjZCRDVDN0RGN0EzNDI5NTc4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa-ssP8laGiBBUCKAJDMywXQEQVP3ztkWgYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=ujoYFY6IrqV3j1FrFTze6w&_nc_ss=79289&_nc_zt=28&oh=00_AQTd0KQxAAhCD_bEMLX55FifKfq0BeIjYokgjQAaFrQJBQ&oe=6AF3CBF5",
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "KE"
+      ]
+    },
+    {
+      "ad_id": "1840504507103753",
+      "product_name": "vintage kitchen gadgets worth bringing back vicu72",
+      "product_key": "sku:vintage kitchen gadgets worth bringing back vicu72",
+      "category": "kitchen",
+      "advertiser": "Workera",
+      "source_country": "KE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1840504507103753",
+      "landing_url": "https://24629.advisorssearch.com/p/vintage-kitchen-gadgets-worth-bringing-back-vicu72",
+      "image_url": null,
+      "video_url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPcIHzAYNhHyFGHP7RJ6GRjQMRrGlpHdfeAWWN4hnTD22dFg4AtGJrKVFCZ4fgjx7PL0jyTFxghUatseYzuPCEH9ZrvK28Kdcy7GQJVmtQq7w.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=VZn9nVv4T28Q7kNvwHufYiH&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwNzg3NDIzOTgzMTg0NDYsImFzc2V0X2FnZV9kYXlzIjo3LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=4dfcabbaeb53a74f&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85QzRGM0RCQjlCMDQ0MTQzQUY5RkZCMEY4QjkwQUU1QV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQ3QTc2MzU2OEQ3MjQ3NDE5RjQ2NTJEMUI2OTJGMjkwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbc3aWXicfqAxUCKAJDMywXQB7U_fO2RaIYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=ujoYFY6IrqV3j1FrFTze6w&_nc_ss=79289&_nc_zt=28&oh=00_AQTvKYBGZHqLaIIR7UU669ezRXW5GT90LgWEEfMw61yKVg&oe=6AF3E69F",
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "KE"
+      ]
+    },
+    {
+      "ad_id": "1788359315792603",
+      "product_name": "universal automatic peeler 2",
+      "product_key": "unverified:1788359315792603",
+      "category": "other",
+      "advertiser": "Zcjeaneviln&2",
+      "source_country": "KE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1788359315792603",
+      "landing_url": "https://www.zcjeaneviln.com/products/universal-automatic-peeler-2",
+      "image_url": null,
+      "video_url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNZToF3i3UfOWMheHDuhEd2XCQ7PvmnX7Umz62TQ9gQmNvFIuPUw9dfHqgzuL3xab4oM-0626J6OkIpeYr4NUYVwRGQY7pwuSSxRYu5O3aS7w.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=VRRhcWO_-iAQ7kNvwGg6DeN&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE5ODkyNTQ1MDg2OTc2OTIsImFzc2V0X2FnZV9kYXlzIjoxNSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjQwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=e5c684d997a0822e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81NTFCQTUyNDIyRjk0RTk1QjYyNTcxMTAwRjQ5Mjk3RF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzA4MUEwNTNBNTZCNTQ0RkZCQTU1ODQxQTNEQjUxMTRDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa44d6F7c2IBxUCKAJDMywXQERzMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=ujoYFY6IrqV3j1FrFTze6w&_nc_ss=79289&_nc_zt=28&oh=00_AQRV7nf-7flMeJVVtIh1GHC_agRGAuw7vXTb_7wuUpKjwA&oe=6AF3E0FB",
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "KE"
+      ]
+    },
+    {
+      "ad_id": "1914613096642693",
+      "product_name": "universal automatic peeler 2",
+      "product_key": "unverified:1914613096642693",
+      "category": "other",
+      "advertiser": "Tremendousup.E",
+      "source_country": "KE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1914613096642693",
+      "landing_url": "https://www.novtris.com/products/universal-automatic-peeler-2",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNpD7uF21FoexgKa17X3QXxrF5MUf12TWyDgq6FTxvrUZ-Atsgy-CLeAXuok2ry92vhXEwSqmWI6yybaFiDTYSrmdnz_K0AbFd0NquGfr9NJQ.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=9SPcsAgECOIQ7kNvwEce_rs&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3OTgwNDYxMDc5ODkxOTYsImFzc2V0X2FnZV9kYXlzIjoxOSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjMwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=b4cffe548c7939bc&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yRTdDODZFMzZDMjA0QzFFODg0OTFCOTgwNTIyNzIzOF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0JBQ0I4Mzc3M0QxMDQ4MDJCQzU0QTFCMDg1NTg0MkJBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaY0_O4h9SxBhUCKAJDMywXQD4iDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=ujoYFY6IrqV3j1FrFTze6w&_nc_ss=79289&_nc_zt=28&oh=00_AQSJV7iBYxdPoYo4MUezUhwa9tL2mC-i9P3JcAYl3MvRVg&oe=6AF3BB37",
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "KE"
+      ]
+    },
+    {
+      "ad_id": "1973339663625765",
+      "product_name": "bio-enzyme drain care pods",
+      "product_key": "unverified:1973339663625765",
+      "category": "vehicle",
+      "advertiser": "Creclockdit",
+      "source_country": "KE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1973339663625765",
+      "landing_url": "https://www.zenblux.com/funnel/news-bio-enzy-me-drain-ca-re-pods-m-3",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOGZs1c4I8zIaTtsuedyd-KkcEqiW3S8CnAIeTsD7WxsKATUKX6162WD4Ujcub9C_0Cl4HvCq3023jx7iwPk82u9FJuB7eNGH_TiBFfR88_kg.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=4eyDCYz2xVQQ7kNvwGR4CPu&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0MzI3OTA0ODU0NDQ4NjQsImFzc2V0X2FnZV9kYXlzIjozNywidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjE1MiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=a38a5e0a557db92&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BNzVCMzVCRjMwOEM0QzY2OUY1MDRFNTUwNzU2NUExMV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0FGNTUyMjZERTY2RTRFMkM4Qjk0N0IyMTNBMTg0NjZFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaApOH-sMeLBRUCKAJDMywXQGMMzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=ujoYFY6IrqV3j1FrFTze6w&_nc_ss=79289&_nc_zt=28&oh=00_AQQ_0giH1bl_WwUKgkj3oFDxYO_mlps6pT-La4D3Qj2SUQ&oe=6AF3DF89",
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "KE"
+      ]
+    },
+    {
+      "ad_id": "1153989190312802",
+      "product_name": "source industrial machinery on alibaba com alibaba com-world s leading b2b marketplace",
+      "product_key": "unverified:1153989190312802",
+      "category": "other",
+      "advertiser": "Alibaba.com",
+      "source_country": "ID",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1153989190312802",
+      "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/866979823_952179737614440_661477863268048597_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=K_mgKPcIYfAQ7kNvwEq2-_1&_nc_oc=AdofkgDHcIJbwwmzAvMcd1u1uEm12sv2l0rliiibb1YqRNqhF00_kZUhd9ORSEzEi4w&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=ybcgBIsFcysLW4-IbQe44w&_nc_ss=79289&oh=00_AQRpJTj7c-BkWjZ1Na8xTxDH49Lvy_pB5i2kn5ew_mkmlQ&oe=6AF3B252",
+      "video_url": null,
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "ID"
+      ]
+    },
+    {
+      "ad_id": "29345920771764487",
+      "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+      "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+      "category": "garden",
+      "advertiser": "Alibaba.com",
+      "source_country": "ID",
+      "ad_url": "https://www.facebook.com/ads/library/?id=29345920771764487",
+      "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/866079770_2977905252563335_4284817901274932340_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=w7ySWEEZ4vAQ7kNvwEVA_wJ&_nc_oc=AdrarX6WgZVm-RmqnZ6OAmJZckNhrNkjeklMCBvdC2v1zGbQammtRJ23WooCnqe7shk&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=ybcgBIsFcysLW4-IbQe44w&_nc_ss=79289&oh=00_AQQwGMlFr0SVVVpi6HRuqhqLqWe6ZlOjSuwRwL_6hMnZKw&oe=6AF3CB48",
+      "video_url": null,
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "ID"
+      ]
+    },
+    {
+      "ad_id": "2541730286335154",
+      "product_name": "source home appliances on alibaba com alibaba com-world s leading b2b marketplace",
+      "product_key": "unverified:2541730286335154",
+      "category": "other",
+      "advertiser": "Alibaba.com",
+      "source_country": "ID",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2541730286335154",
+      "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/865753525_3380036115717942_1784329598381516275_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=t7ek79HgosIQ7kNvwGU6g5U&_nc_oc=Adq1kgTloMY7hQUOCsypWU2J_GiW1RbSgN9PCDBU-zUOTEObgy6kpCMuGTZ61F5ojF8&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=ybcgBIsFcysLW4-IbQe44w&_nc_ss=79289&oh=00_AQRSbyAD8sWNXSmiBu9Hpbf29bC7stVo-AVF96yvfbD1Jg&oe=6AF3E261",
+      "video_url": null,
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "ID"
+      ]
+    },
+    {
+      "ad_id": "1378556460764688",
+      "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+      "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+      "category": "garden",
+      "advertiser": "Alibaba.com",
+      "source_country": "ID",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1378556460764688",
+      "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/869450903_1436057077904484_4670820379649831527_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fWH6kS77SoQQ7kNvwF9rTfg&_nc_oc=AdqgVVNlVgVIIFEt9So-xw6QqZ-jSHrj3MGGg2pfHS5ijkw9DCsMxAZCpZySN6Q1qQQ&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=ybcgBIsFcysLW4-IbQe44w&_nc_ss=79289&oh=00_AQTGglyHDKP-dojR_PMpkh0D_gFYZRPxqRu4YR-LI5RzUg&oe=6AF3E122",
+      "video_url": null,
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "ID"
+      ]
+    },
+    {
+      "ad_id": "1999513547674258",
+      "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+      "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+      "category": "garden",
+      "advertiser": "Alibaba.com",
+      "source_country": "ID",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1999513547674258",
+      "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/861163000_1130910569454293_401629941074023023_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=aRpD2DCu1TQQ7kNvwGerYza&_nc_oc=AdqaXplBkqJK8S_ckdtbeWOl0tvOkR9QwfU9KA8-oXeWiuljQoPvZyweEi011EzvfVo&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=ybcgBIsFcysLW4-IbQe44w&_nc_ss=79289&oh=00_AQQAi1AO0vOqoONsjRWe01_0WLp52dArjm8uHQKVRukEsg&oe=6AF3AFF0",
+      "video_url": null,
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "ID"
+      ]
+    },
+    {
+      "ad_id": "1111108848355106",
+      "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+      "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+      "category": "garden",
+      "advertiser": "Alibaba.com",
+      "source_country": "ID",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1111108848355106",
+      "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/866567085_1706456340831257_1693676583720514527_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GjQW9_royLMQ7kNvwEJM442&_nc_oc=AdqvdX0ZGEUMh5LJqqZibH25IaVhlL7xIW-aqM1eiTOidICHgBkAevG5AZvP5Bm2SUc&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=ybcgBIsFcysLW4-IbQe44w&_nc_ss=79289&oh=00_AQTwz4AIQwOkzH-I-JZwCQKvMYZIXKyk5qwuEUZiIqTTWA&oe=6AF3B466",
+      "video_url": null,
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "ID"
+      ]
+    },
+    {
+      "ad_id": "1051682481219334",
+      "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+      "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+      "category": "garden",
+      "advertiser": "Alibaba.com",
+      "source_country": "ID",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1051682481219334",
+      "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/862082765_1784369489482614_2815659977990958893_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8c3EgFJ7tX4Q7kNvwEZOgov&_nc_oc=Adq-DtfyzgX2C8digxhMV2Dlnei-AKdDkA0_C3U6xq0dny5FndkVhAuS0lBI9O0wV5E&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=ybcgBIsFcysLW4-IbQe44w&_nc_ss=79289&oh=00_AQTfcOx8Gpo6fwZq_UxO97UnQL0FSOI5kmOcJaO2mC6-LA&oe=6AF3DCB2",
+      "video_url": null,
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "ID"
+      ]
+    },
+    {
+      "ad_id": "2012330656116983",
+      "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+      "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+      "category": "garden",
+      "advertiser": "Alibaba.com",
+      "source_country": "ID",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2012330656116983",
+      "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+      "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/876371673_1445216057765921_1921834174884194458_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TFdFovYTWP4Q7kNvwF0pl26&_nc_oc=Adrc7Xd7jPMlBjPOJWv78N-cpwWX398qg0A0V7rrLAHWHr4Monm3afeITb7cP7FOCnk&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=ybcgBIsFcysLW4-IbQe44w&_nc_ss=79289&oh=00_AQRK-IlwgiAO9Yecl3rDMapDvVggsbHaEFykcW0E_HFvVw&oe=6AF3BE62",
+      "video_url": null,
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "ID"
+      ]
+    },
+    {
+      "ad_id": "28747963128232659",
+      "product_name": "for fresh poultry semi-frozen meat root vegetables",
+      "product_key": "unverified:28747963128232659",
+      "category": "other",
+      "advertiser": "Vegetable and fruit washing line",
+      "source_country": "ID",
+      "ad_url": "https://www.facebook.com/ads/library/?id=28747963128232659",
+      "landing_url": "http://fb.me/",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOjT_qAAjbttqm5Y054DSYsg5gXD8YgRFuCI2BuYzw0QTgKQVgCz1nct2qBdsNItrS-0cwN0tu0UFx7m5nLansXqVsRZd7Eh7U7kOKXKfHA8A.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=BB4YdjxFQ_wQ7kNvwFdXqn2&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTI4MC5kYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjozMTIwMjM0ODQ0OTg4MDU0LCJhc3NldF9hZ2VfZGF5cyI6NywidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjY5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=31d1e3f0d0a981d6&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84RjEzQkVCNjg0RDY0NTBCQjk2MTA4MDFGQUI5QTA0RF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQ0Q0E5MDY1OTNFRTQ1RjU5RTYxNjU0QTc0QzQwQjg1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACasiumYyfWKCxUCKAJDMywXQFFgAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=ybcgBIsFcysLW4-IbQe44w&_nc_ss=79289&_nc_zt=28&oh=00_AQRvg3k2MRV7EsntNDZe8A0eJdvQ2HKCe7AxhM8PNbaveg&oe=6AF3C436",
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "ID"
+      ]
+    },
+    {
+      "ad_id": "4739319603059423",
+      "product_name": "boost your farm productivity with our full line of agricultural machinery",
+      "product_key": "unverified:4739319603059423",
+      "category": "other",
+      "advertiser": "High-Tech Machinery",
+      "source_country": "ID",
+      "ad_url": "https://www.facebook.com/ads/library/?id=4739319603059423",
+      "landing_url": null,
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/854568024_1094941986926440_338033451222274279_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=248h0OAg9ScQ7kNvwG9IW-4&_nc_oc=AdpVsdKeb2woBOmR_JBUTvzhO4a4n-YIl6PcjbSTV3K9QeCvzeOjwUvTK7rnLxMmJ0o&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=ybcgBIsFcysLW4-IbQe44w&_nc_ss=79289&oh=00_AQQvMlb0bh7cNIFiQ41gnzHbDrYlQfg-T3B89S1NkIH66Q&oe=6AF3C8FA",
+      "video_url": null,
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "ID"
+      ]
+    },
+    {
+      "ad_id": "1139123415677105",
+      "product_name": "yuk beb di beli produknya sekarang di sini",
+      "product_key": "unverified:1139123415677105",
+      "category": "other",
+      "advertiser": "Anindya Helena",
+      "source_country": "ID",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1139123415677105",
+      "landing_url": "https://s.shopee.co.id/9pfZsQ6Zak",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPeWUesC7wM37TMPuzuWLKjr9lY2d9vBYr67-8o_fTD0Lvt5_2m2JXsu6ZdBxdJRXLESJV7hZ7lnY7WpTFxwPMJKFjXpw37pQLyNaxWey1hzQ.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=9Z3i446znwcQ7kNvwFbcAwO&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE5MTEyNTA0NDY1Mjg5NzMsImFzc2V0X2FnZV9kYXlzIjozLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6MzYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=fd2400ea58c351cc&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GRjIxRTJDODYzQ0E0MDFGQUY1Rjc4RTdDREVFNjMyMF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzdDRDdFNzQ1MUQ4MzRCM0Q5MTQyMzI0Mzc2OUQ1RTNBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaax4m_tZHlBhUCKAJDMywXQEJMzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=ybcgBIsFcysLW4-IbQe44w&_nc_ss=79289&_nc_zt=28&oh=00_AQS3Ky0WHbf3iXH_rp7RaYPcXARzSmuRO5ZPsIgCWCxWJg&oe=6AF3D1AB",
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "ID"
+      ]
+    },
+    {
+      "ad_id": "1779131420888464",
+      "product_name": "beli disini",
+      "product_key": "unverified:1779131420888464",
+      "category": "other",
+      "advertiser": "Pusat Belanja Murah",
+      "source_country": "ID",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1779131420888464",
+      "landing_url": null,
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQM7dLF2foMa-7Josvy-v65OoT2msiZG1QJoN4Lob2JH9ORSZzgvM61iPH6GF7HCnp2lFDdLzvagpshMQbUf-izz_pUAeylxDU1ZVAdg7KWBSw.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=2IkRvaRHgt4Q7kNvwE2Ik_a&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI1OTIzNzUxNzc5Mzg3OTYsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6MjUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=7b985e173c03f39a&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82MUI4QzQxQkVCMEI0Qzk2ODNENzkwRkQzMjY4MkQ3MF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzZGMDZERjAyNUFCOTQwNkZBMEFDQTU5NTg0NTE2NDc5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbYndiZjPCaCRUCKAJDMywXQDnVP3ztkWgYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=ybcgBIsFcysLW4-IbQe44w&_nc_ss=79289&_nc_zt=28&oh=00_AQQV-VoFtTZ-r4-8Z6Hqsc-Y8psiFStwU45hNbndM_SMcw&oe=6AF3D737",
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "ID"
+      ]
+    },
+    {
+      "ad_id": "1095662583179745",
+      "product_name": "wireless vegetable cutter",
+      "product_key": "unverified:1095662583179745",
+      "category": "kitchen",
+      "advertiser": "Shoprevitasole5",
+      "source_country": "ID",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1095662583179745",
+      "landing_url": "https://www.nookvely.com/funnel/news-professional-instant-precision-wireless-food-chopper-m",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOb2DPsGs0tmgVuf-0ZQIXryTtmsFRSK04vt7MrZmJxOIJ9h-aNNhkUO1zBxB4KVZWedUc8voDwQMJpxGnRU5EMDfeShXCXp9RDFas9cV2Q0g.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=7gIh05ZuUUQQ7kNvwFw5zaz&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjMzODYxODc0ODQ5MDU3NzUsImFzc2V0X2FnZV9kYXlzIjoxMSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjI5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=dc841b7c64b1ca4&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wOURCMzMwMzNFMDY0M0RBQjBDMDAyNEQ2OEI4MjEzRV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzdDQUY4NUQ0QTcwMDQxM0M4M0JFQTEzMDBDNjNEQkU4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbehPLihu6DDBUCKAJDMywXQD0ZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=ybcgBIsFcysLW4-IbQe44w&_nc_ss=79289&_nc_zt=28&oh=00_AQRTTKP2dP3KobkVWWpaTBztouNHEyRgZvnUtzPyjdpvwQ&oe=6AF3D145",
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "ID"
+      ]
+    },
+    {
+      "ad_id": "1483808827141861",
+      "product_name": "wireless vegetable cutter",
+      "product_key": "unverified:1483808827141861",
+      "category": "kitchen",
+      "advertiser": "Assurancethesafe.U",
+      "source_country": "ID",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1483808827141861",
+      "landing_url": "https://www.wisebookvibe.com/funnel/news-professional-instant-precision-wireless-food-chopper-m",
+      "image_url": null,
+      "video_url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOBu6lZdVVZgHwccRnHyQwstYxdu3MMoVoF8--2oHD21NoOcNvwf6CpJTLuh6RZg1h_kxVFlbNmdsFhyssiwvItQf5oTawPt3bMcZJFu4xvwg.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=otzK6LXl9pQQ7kNvwG2UJk3&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExMDgwNzAwOTIwNTg5ODQsImFzc2V0X2FnZV9kYXlzIjoxMCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjI3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=40a89f5da9a476d1&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80ODU3OTE2MTcwRDY0MEZFOTQzNzUzQ0ZBQTdGN0I5MF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0YyNTBBNzkyMzNBNzQwQTU5NTNDMDk2N0NCNjFGRjkyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbQxcnDlfL3AxUCKAJDMywXQDv3S8an754YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=ybcgBIsFcysLW4-IbQe44w&_nc_ss=79289&_nc_zt=28&oh=00_AQSBLuVU9xYwBGkn0VGdRTA0s_fmNWgV5nXrpsmIMqEIWA&oe=6AF3D075",
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "ID"
+      ]
+    },
+    {
+      "ad_id": "1792214678770418",
+      "product_name": "beli disini",
+      "product_key": "unverified:1792214678770418",
+      "category": "other",
+      "advertiser": "Pusat Belanja Murah",
+      "source_country": "ID",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1792214678770418",
+      "landing_url": null,
+      "image_url": null,
+      "video_url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMLQhBPk1mN9lUNePvrriBHuG_pK3eYyVHdNH5bnQTKfkXWUL1ftWzKkLUqV1J9i8gOYmO_HdXMmb0Sa8hAMbQqo8U1lF5QtsucUkTyH3SegQ.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=daWCgKwjFR0Q7kNvwEcAR-9&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI1Njc0MjAxMDA0MTE5NzUsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6MTgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=ef11de4db9f73782&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82M0NFMUY2RjNFOUQ0OTUzODQ3MDZFMDNCMTFERUZEQl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzA3NjVCRUQyMkFGNTRBRjM5MUVCMzA1NDMzM0M4OTEyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaOiZixwsOPCRUCKAJDMywXQDLmZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=ybcgBIsFcysLW4-IbQe44w&_nc_ss=79289&_nc_zt=28&oh=00_AQTSMCdbjrPhEWlEbJdR3kWV9URvp1MdG9i-dB5S3-2JJg&oe=6AF3C61D",
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "ID"
+      ]
+    },
+    {
+      "ad_id": "930851903438410",
+      "product_name": "beli di sini",
+      "product_key": "unverified:930851903438410",
+      "category": "other",
+      "advertiser": "Belajar bikin kue dan masakan",
+      "source_country": "ID",
+      "ad_url": "https://www.facebook.com/ads/library/?id=930851903438410",
+      "landing_url": "https://s.shopee.co.id/4B0wGSrfeS",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMfz-XMzjQHPMHkR-F5SsTOQK4kDPv_r6xEvqpmKWE-ieEGZ_onhYFfX1ko5Uyqi_GuLp6zlU-dSwZDCM0u2c4Zbl4tz9g6L3hJsgrY_XSQBg.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=SAx1CyHQRNAQ7kNvwHEa_Fq&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTQwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIyMDUzMTIwOTcwNjY1MTAsImFzc2V0X2FnZV9kYXlzIjoxNCwidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjMzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=366729d3f8222f08&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CM0MwRTFEN0Q3Qjg0NEE0QTk5Q0U1Qzc0MjA2OENCOF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzU5RDZCQzZERTI3QjRCNDBCMzgwMkI3OUVEMzgwNjNFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACac-NDCh-7qBxUCKAJDMywXQEDmZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=ybcgBIsFcysLW4-IbQe44w&_nc_ss=79289&_nc_zt=28&oh=00_AQTlLK6qRWYLe57NUNLMG2DV27K92sGFZVgoke7hTW2qqA&oe=6AF3B0AD",
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "ID"
+      ]
+    },
+    {
+      "ad_id": "1617308892591815",
+      "product_name": "wireless vegetable cutter",
+      "product_key": "unverified:1617308892591815",
+      "category": "kitchen",
+      "advertiser": "Cautiousm=1",
+      "source_country": "ID",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1617308892591815",
+      "landing_url": "https://www.nookvely.com/funnel/news-professional-instant-precision-wireless-food-chopper-m",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQN84qVN7dnH-MoAm__-6IW6lLUGqfc5HlxO1ioXWYK3TEd3by1rN3ffsvKyRJHX5XmpQ7yJgbSzsOVDQg4hQjMEsxl9qIPhDFOhcagqDhOhNw.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=Q-Muk3IPDb0Q7kNvwExNyeW&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjkzODA0NDI3OTE3ODExNiwiYXNzZXRfYWdlX2RheXMiOjcsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoyOSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=52d2e50e21496765&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FNkVGRDcyNDdDRkE0Njk5QTBENDhCRjdCMENBMzdDMl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQ3QTQ4QjkzQ0JERTRBNDNBMTNDNjhEREVDMkQ1OEY1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaIjtrArsmqAxUCKAJDMywXQD0ZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=ybcgBIsFcysLW4-IbQe44w&_nc_ss=79289&_nc_zt=28&oh=00_AQSG6lNV2IGKdjGBsGql9IToObzvKe4QDMpCAp_hL6FMfw&oe=6AF3CC0E",
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "ID"
+      ]
+    },
+    {
+      "ad_id": "2036649840372563",
+      "product_name": "beli disini",
+      "product_key": "unverified:2036649840372563",
+      "category": "other",
+      "advertiser": "Pusat Belanja Murah",
+      "source_country": "ID",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2036649840372563",
+      "landing_url": null,
+      "image_url": null,
+      "video_url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQP0cyl1Ihk9udy-0_LbTa8Df6jxcOwn27B0UuJIKs4TMehfJlm1err457joQaeeyKqUGHyMG50SE31iqFFncM7AClgdsDAa0pvlykcNRgp2IQ.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=9lowsY_CFNEQ7kNvwGqp4Wz&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1MzEzMzc5MTIxNjI0MTksImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6MjYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=96b4f2d1eae7d1c4&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BNkJDRDk5NUEyODE0QUY3ODZDMzBBQTlFRTBFRTE4N19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0FCQTMyMkFEODA4RjQ1MDg4NkM1MDU3M0MxODM4RDQyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbm4cjEzK-4BRUCKAJDMywXQDqIcrAgxJwYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=ybcgBIsFcysLW4-IbQe44w&_nc_ss=79289&_nc_zt=28&oh=00_AQQfWJRwrcB5F-TJrD-RFHvJpbnN8iVxYz0_SbBkDyC2Pg&oe=6AF3CA18",
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "ID"
+      ]
+    },
+    {
+      "ad_id": "1911938473013621",
+      "product_name": "customized music fridge magnet personalized photo fridge magnet can play songs and adjust volume",
+      "product_key": "unverified:1911938473013621",
+      "category": "other",
+      "advertiser": "Soufeel",
+      "source_country": "EE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1911938473013621",
+      "landing_url": "https://soufeel.com/products/customized-music-fridge-magnet-personalized-photo-fridge-magnet-can-play-songs-and-adjust-volume?sku=18066215829729139845580845&utm_source=Facebook&utm_medium=us&utm_content=MYBK&utm_term=MYBKYFZ0925&utm_campaign=FB-Vicky",
+      "image_url": null,
+      "video_url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQO0LEX1LMVv35TZNxoJ-EbJzgFDn-W99pCofZDwrDh4-2bou6xXs-Lpi9nuYV-EQP8WjwP9c5iHYEcE0QaFlin0uSMNMeNAnvX0q16vReMIOw.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=qs8GwpClhIsQ7kNvwHxXP0N&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjYwMzQ3MjQyNTM2NzU1MywiYXNzZXRfYWdlX2RheXMiOjcwNywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=700ed0696f75b4f6&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80NzQyQzUxRTNCNEU1NTk4NTExOEE4RUQ2MjE1MjBCMF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dFenQ4QnZ4dEdGRHQyNERBTFo0bTVtR1NhNExidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaC4N3427aSAhUCKAJDMywXQC4AAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=RDxiaD-FBWBERzXgQbMWbQ&_nc_ss=79289&_nc_zt=28&oh=00_AQRvczjby3fynlo_GuMbBzPrbnL8n8p6DZeqiIKKzW-nVw&oe=6AF3CC59",
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "EE"
+      ]
+    },
+    {
+      "ad_id": "1132347022668296",
+      "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+      "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+      "category": "garden",
+      "advertiser": "Alibaba.com",
+      "source_country": "EE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1132347022668296",
+      "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+      "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/864353148_2206197109970210_6475096872139226158_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Dcz05kZeVYIQ7kNvwEKLKWs&_nc_oc=AdphEpsUsm6pOAPfKNn2HUxH2_MT_kjQ8rfK8otGMTFifNVpE3Oiqt3qbw_To2GVEOg&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=RDxiaD-FBWBERzXgQbMWbQ&_nc_ss=79289&oh=00_AQRdKcNVxnqH7uDhIN9kY3IpBM5tV3QJ0wQZQVq92Wqeww&oe=6AF3C72C",
+      "video_url": null,
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "EE"
+      ]
+    },
+    {
+      "ad_id": "1822573129090171",
+      "product_name": "Unidentified product",
+      "product_key": "unverified:1822573129090171",
+      "category": "other",
+      "advertiser": "LION BLADE",
+      "source_country": "EE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1822573129090171",
+      "landing_url": "https://lionblade.co.uk/products/product-4",
+      "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/889740906_3077174149294186_7144153494177648287_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VSbytq4ZkikQ7kNvwGugyKn&_nc_oc=Adq8BmuVsBGnau5QV-KTohM04rfyOQzMJwfNSeyZYiPgukMREfKhM7bsjBRDPQZ90X8&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=RDxiaD-FBWBERzXgQbMWbQ&_nc_ss=79289&oh=00_AQQn0FV3w6r4pgkT9i2mI2DABfg0wycdhDW2clrsPS3dTQ&oe=6AF3E4BB",
+      "video_url": null,
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "EE"
+      ]
+    },
+    {
+      "ad_id": "2236134956945256",
+      "product_name": "Unidentified product",
+      "product_key": "unverified:2236134956945256",
+      "category": "other",
+      "advertiser": "LION BLADE",
+      "source_country": "EE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2236134956945256",
+      "landing_url": "https://lionblade.co.uk/products/product-4",
+      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/889765379_1158916543304024_2666440078095052420_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=d8S-DvpoRhQQ7kNvwF_X63m&_nc_oc=AdqrZS6GsOzWR1PuNtWUp_TcSZxNQJ3D6qPKU_65GgFrwvuClpCxVXvz45n6JZOQwGc&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=RDxiaD-FBWBERzXgQbMWbQ&_nc_ss=79289&oh=00_AQRgCXNWxn1hAsHKlcdlTbk4smyR75CNu1dyksZH8ra0ng&oe=6AF3C3AA",
+      "video_url": null,
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "EE"
+      ]
+    },
+    {
+      "ad_id": "1642364030919150",
+      "product_name": "2 in 1 tenderizer and sauce injector",
+      "product_key": "unverified:1642364030919150",
+      "category": "other",
+      "advertiser": "Definitein 17A",
+      "source_country": "EE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1642364030919150",
+      "landing_url": "https://www.definitein.com/products/2-in-1-tenderizer-and-sauce-injector",
+      "image_url": null,
+      "video_url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNnUKe78Frpb8DXqko5G8B6DOfoRWqcFK0tiN80pvm2fJcVAeNrNEyCGzGcUvs-SVjI2L4S4sck4SAzy8ceSuZrzGjGtsEBLi_YOkOe-OqDxg.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=in2d52ux5h4Q7kNvwEF3qmu&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzNzcyOTAyODA2NDIzMTUsImFzc2V0X2FnZV9kYXlzIjo2OSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjQ1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=6c952d979edaddb3&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yNDQ1MjJEMkUxOTAxOUIwMzVGNjg0RTEwRjI5QkU5RF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0U4NEMwMzkyNEFGMzJCMkQ0RUU5RTNFRjRDNUM1Mzk3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaWnPGe7KjyBBUCKAJDMywXQEbiDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=RDxiaD-FBWBERzXgQbMWbQ&_nc_ss=79289&_nc_zt=28&oh=00_AQRrAkhaWOYUzq7-4emeZagE2R_3xOdYV8V44QIjgIvRzA&oe=6AF3C589",
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "EE"
+      ]
+    },
+    {
+      "ad_id": "1644162430607154",
+      "product_name": "2 in 1 tenderizer and sauce injector",
+      "product_key": "unverified:1644162430607154",
+      "category": "other",
+      "advertiser": "Definitein 17A",
+      "source_country": "EE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1644162430607154",
+      "landing_url": "https://www.definitein.com/products/2-in-1-tenderizer-and-sauce-injector",
+      "image_url": null,
+      "video_url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNnUKe78Frpb8DXqko5G8B6DOfoRWqcFK0tiN80pvm2fJcVAeNrNEyCGzGcUvs-SVjI2L4S4sck4SAzy8ceSuZrzGjGtsEBLi_YOkOe-OqDxg.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=in2d52ux5h4Q7kNvwEF3qmu&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzNzcyOTAyODA2NDIzMTUsImFzc2V0X2FnZV9kYXlzIjo2OSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjQ1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=6c952d979edaddb3&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yNDQ1MjJEMkUxOTAxOUIwMzVGNjg0RTEwRjI5QkU5RF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0U4NEMwMzkyNEFGMzJCMkQ0RUU5RTNFRjRDNUM1Mzk3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaWnPGe7KjyBBUCKAJDMywXQEbiDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=RDxiaD-FBWBERzXgQbMWbQ&_nc_ss=79289&_nc_zt=28&oh=00_AQRrAkhaWOYUzq7-4emeZagE2R_3xOdYV8V44QIjgIvRzA&oe=6AF3C589",
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "EE"
+      ]
+    },
+    {
+      "ad_id": "29826456663612493",
+      "product_name": "Unidentified product",
+      "product_key": "unverified:29826456663612493",
+      "category": "other",
+      "advertiser": "LION BLADE",
+      "source_country": "EE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=29826456663612493",
+      "landing_url": "https://lionblade.co.uk/products/product-4",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/886842673_39965569833056809_7222162277188201062_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sLiKgyf8IuEQ7kNvwGe2eiB&_nc_oc=AdqQPti_FVzZzDregrPAICqrvAlrHgUuyymUAVRN3_kmO0QHe2HiC3pO8AyHXCOVwp4&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=RDxiaD-FBWBERzXgQbMWbQ&_nc_ss=79289&oh=00_AQRy7a370y97Eji46NHID0mGinsePbcfXdyEq1Y-lUynTQ&oe=6AF3D8A1",
+      "video_url": null,
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "EE"
+      ]
+    },
+    {
+      "ad_id": "1555233379008841",
+      "product_name": "2 in 1 tenderizer and sauce injector",
+      "product_key": "unverified:1555233379008841",
+      "category": "other",
+      "advertiser": "Definitein 17A",
+      "source_country": "EE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1555233379008841",
+      "landing_url": "https://www.definitein.com/products/2-in-1-tenderizer-and-sauce-injector",
+      "image_url": null,
+      "video_url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNnUKe78Frpb8DXqko5G8B6DOfoRWqcFK0tiN80pvm2fJcVAeNrNEyCGzGcUvs-SVjI2L4S4sck4SAzy8ceSuZrzGjGtsEBLi_YOkOe-OqDxg.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=in2d52ux5h4Q7kNvwEF3qmu&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzNzcyOTAyODA2NDIzMTUsImFzc2V0X2FnZV9kYXlzIjo2OSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjQ1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=6c952d979edaddb3&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yNDQ1MjJEMkUxOTAxOUIwMzVGNjg0RTEwRjI5QkU5RF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0U4NEMwMzkyNEFGMzJCMkQ0RUU5RTNFRjRDNUM1Mzk3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaWnPGe7KjyBBUCKAJDMywXQEbiDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=RDxiaD-FBWBERzXgQbMWbQ&_nc_ss=79289&_nc_zt=28&oh=00_AQRrAkhaWOYUzq7-4emeZagE2R_3xOdYV8V44QIjgIvRzA&oe=6AF3C589",
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "EE"
+      ]
+    },
+    {
+      "ad_id": "4402480039964997",
+      "product_name": "source commercial equipment machinery on alibaba com alibaba com-world s leading b2b marketplace",
+      "product_key": "unverified:4402480039964997",
+      "category": "other",
+      "advertiser": "Alibaba.com",
+      "source_country": "JP",
+      "ad_url": "https://www.facebook.com/ads/library/?id=4402480039964997",
+      "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign&biz=aiWholeSite&field=P4P_AD",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/727758068_1024335920151196_4593613655536850961_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zQX4iT68WksQ7kNvwHB7YXw&_nc_oc=AdqSkSEwpqWf6qwZS4Mjwnw1i7jqidP9vwH2-RHV5whIgpqLpDu1RbxlwGgDNdkkM0Y&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=8q2-uEXLIE8m-Y9s2hlTuw&_nc_ss=79289&oh=00_AQSEZiMNII5AoPyBThxiLCULdel6mB_GVd59jjhDcxzXbA&oe=6AF3D4CC",
+      "video_url": null,
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "JP"
+      ]
+    },
+    {
+      "ad_id": "927353860356594",
+      "product_name": "ai video maker app 49 sale",
+      "product_key": "unverified:927353860356594",
+      "category": "other",
+      "advertiser": "VideoExpress.ai",
+      "source_country": "JP",
+      "ad_url": "https://www.facebook.com/ads/library/?id=927353860356594",
+      "landing_url": "https://videoexpress.ai/fbdeal/",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMH7e_yFH2eJetKBsZ7XIDgLyt90lHf-boaBJHCHW9xIPTpsm5VwYTb_6uQuufqUlfeGPR2b0f3yD_dL7VotjnW769sZNTRDGq0nigagGHP_g.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=QcZ9Gl3MmSIQ7kNvwGPUsiZ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0OTMxNjI0ODE4Njc4NjUsImFzc2V0X2FnZV9kYXlzIjo0MzQsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo1OCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=d4bde160390380d1&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CRjRGN0U5QkRFN0E1OUI1MjgxNzZFMDc3OUFGRUQ4RF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzRBNDVBRjQ5QjJEOTM3QkQ0ODA3Rjk4RTQzQjI5NEJEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACay8Za1v4GnBRUCKAJDMywXQE1VP3ztkWgYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=8q2-uEXLIE8m-Y9s2hlTuw&_nc_ss=79289&_nc_zt=28&oh=00_AQTjGUMqzGvYl5ghMSyYWgzP09yZ64LfUAKnhJGWVnXdzw&oe=6AF3C7D8",
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "JP"
+      ]
+    },
+    {
+      "ad_id": "1602276251446062",
+      "product_name": "support stamina and heart health every day",
+      "product_key": "title:support stamina and heart health every day",
+      "category": "wellness",
+      "advertiser": "The Heart Health Project",
+      "source_country": "JP",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1602276251446062",
+      "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/812373109_1782094293210275_6778046102892464908_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Jfr4dX0BftYQ7kNvwEOwVOH&_nc_oc=AdrBYB3IhwoP6moHMhdnukZr7eRqG6aJhI2C3COjUQWGZfavL5Z9tXQOEudO6CxGAL4&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=8q2-uEXLIE8m-Y9s2hlTuw&_nc_ss=79289&oh=00_AQQVTW6Eist7eU9sHdfubqMIaRys5vwNiiFJswGSYK-Tkg&oe=6AF3B980",
+      "video_url": null,
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "JP"
+      ]
+    },
+    {
+      "ad_id": "1059526657061215",
+      "product_name": "support stamina and heart health every day",
+      "product_key": "title:support stamina and heart health every day",
+      "category": "wellness",
+      "advertiser": "The Heart Health Project",
+      "source_country": "JP",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1059526657061215",
+      "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
+      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/811830930_1396049951947368_8727536700436820138_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZWqy05hfBqoQ7kNvwE7iDPJ&_nc_oc=AdoMd5XuGZuBhe3Y1GoMtRmmSaTKyh4UJFEXotm0_DgNKispRrYObr8gQdAuyvIAFPg&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=8q2-uEXLIE8m-Y9s2hlTuw&_nc_ss=79289&oh=00_AQSAHLaCdYWa0tPNWlcw8-4z6OtDE8zSJTvarbSB4Cmmcg&oe=6AF3D8FE",
+      "video_url": null,
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "JP"
+      ]
+    },
+    {
+      "ad_id": "969395372584611",
+      "product_name": "barista-quality coffee anytime anywhere",
+      "product_key": "unverified:969395372584611",
+      "category": "food",
+      "advertiser": "Outin Portable Electric Espresso Machine",
+      "source_country": "JP",
+      "ad_url": "https://www.facebook.com/ads/library/?id=969395372584611",
+      "landing_url": "https://outin.com/collections/all",
+      "image_url": null,
+      "video_url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOZw5ap_3WvJ-XoZ6XqhRRhG9_NF0HRlCaO8nloLZA8bBM4A4-t3tDz5-__LHjCayBvFbzftpxkr3q9kghE2_S0Q7p53OmdDtSdElM_K7fq-g.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=FHwzgUeqWUEQ7kNvwFY2H67&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjkwMTg3ODg0NTc2NDI0OSwiYXNzZXRfYWdlX2RheXMiOjI3OCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjQ0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=9840d156a6d3b404&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82OTQ5Nzk2RDc0QTNCNDZBQTBCNDM4NzNDMzQ3RjBBQl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0ExNDZEMUMwMDI1MUMzRjQ1OUUwNzAzMTkxOTgwRjg1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACayytuDoZCaAxUCKAJDMywXQEZfO2RaHKwYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=8q2-uEXLIE8m-Y9s2hlTuw&_nc_ss=79289&_nc_zt=28&oh=00_AQTVMkV913fTNl68jr4_LyRfgrQ_3zDAl4jFDkccerT4mA&oe=6AF3B353",
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "JP"
+      ]
+    },
+    {
+      "ad_id": "1077283944696419",
+      "product_name": "support stamina and heart health everyday",
+      "product_key": "title:support stamina and heart health everyday",
+      "category": "wellness",
+      "advertiser": "Essential Health Finds",
+      "source_country": "JP",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1077283944696419",
+      "landing_url": "https://track.tryrosabella.com/cdc16426-3e48-40a7-9fad-21098084f6cf",
+      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/780077704_2809759339389957_3858632873574006450_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dHdTjgTZJ_MQ7kNvwGE6FbO&_nc_oc=AdpkOHlkFEJ5ckRH9nvxEI5vRjEljNlgKd8nZ3kkHEKh5Wq-IsIGqAHw7APdNZ5upWs&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=8q2-uEXLIE8m-Y9s2hlTuw&_nc_ss=79289&oh=00_AQSAtYd2LgfLm-Ui-lvBq5y3SBMtRahtwVMSoAiDAql6lw&oe=6AF3B2CA",
+      "video_url": null,
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "JP"
+      ]
+    },
+    {
+      "ad_id": "1563698788367552",
+      "product_name": "support stamina and heart health every day",
+      "product_key": "title:support stamina and heart health every day",
+      "category": "wellness",
+      "advertiser": "Blood Pressure Secrets",
+      "source_country": "JP",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1563698788367552",
+      "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
+      "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/794447814_4467112353602147_8601544679394713778_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fN1L5JEKLB8Q7kNvwGYAoOl&_nc_oc=Adoqv11zsoJHay2t1V8vVyGHUimbB_X2pCx4vbSLrtMylsDBxXgWx9EtACnGvHA1HFk&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=8q2-uEXLIE8m-Y9s2hlTuw&_nc_ss=79289&oh=00_AQR2pZ8rlaNJJxmAdMay4U8egKeRO9Cn46tR-aDxHUdGyQ&oe=6AF3D332",
+      "video_url": null,
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "JP"
+      ]
+    },
+    {
+      "ad_id": "2337102826826878",
+      "product_name": "support stamina and heart health every day",
+      "product_key": "title:support stamina and heart health every day",
+      "category": "wellness",
+      "advertiser": "Rosabella",
+      "source_country": "JP",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2337102826826878",
+      "landing_url": "https://track.tryrosabella.com/cdc16426-3e48-40a7-9fad-21098084f6cf",
+      "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/812132910_1469679015023839_7251404266984292396_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ldI6ARvKktUQ7kNvwGe3yyq&_nc_oc=AdpGxSSczrcPrSUVeLtaIUL_9k2g6TE2koKrdR54X3rbg4frWPx6nv54gcQZJDzDfCo&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=8q2-uEXLIE8m-Y9s2hlTuw&_nc_ss=79289&oh=00_AQSYhP0wEqyblK8r66mIQgvmJ2ak3_Cq1JvKsEJg6DaWIw&oe=6AF3E208",
+      "video_url": null,
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "JP"
+      ]
+    },
+    {
+      "ad_id": "1253071373626926",
+      "product_name": "support stamina and heart health every day",
+      "product_key": "title:support stamina and heart health every day",
+      "category": "wellness",
+      "advertiser": "Rosabella",
+      "source_country": "JP",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1253071373626926",
+      "landing_url": "https://track.tryrosabella.com/cdc16426-3e48-40a7-9fad-21098084f6cf",
+      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/795777070_1635866701240819_5193122022771916519_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GiOm0lccF5YQ7kNvwHiZete&_nc_oc=AdotUQQw_QHMCJVDY7izpz7YjwtWdNi9iOvQe9Ey6DUH0ytenWYDz6QUSFwk0fBhe_Q&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=8q2-uEXLIE8m-Y9s2hlTuw&_nc_ss=79289&oh=00_AQRQFH1soc2O5SDN8HWrLhhjg37yY4IsXsRo03aESJpHWQ&oe=6AF3E0B0",
+      "video_url": null,
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "JP"
+      ]
+    },
+    {
+      "ad_id": "2139459547450278",
+      "product_name": "support stamina and heart health everyday",
+      "product_key": "title:support stamina and heart health everyday",
+      "category": "wellness",
+      "advertiser": "Essential Health Finds",
+      "source_country": "JP",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2139459547450278",
+      "landing_url": "https://track.tryrosabella.com/cdc16426-3e48-40a7-9fad-21098084f6cf",
+      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/780843036_1363518992654960_996925480111313901_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YSJ_SM9JZrcQ7kNvwHB5tHG&_nc_oc=AdrZWANvzcP5s7EPksjqFgu1lzl3CjKj9zne3gO2eQxZPPTPFl_EzTNqcNAWq-8nT9k&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=8q2-uEXLIE8m-Y9s2hlTuw&_nc_ss=79289&oh=00_AQTbQovsHLXapQBCXNlYavc_wj0c5oYQiPNHT7XtVXQjsQ&oe=6AF3BFA6",
+      "video_url": null,
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "JP"
+      ]
+    },
+    {
+      "ad_id": "4600791133527514",
+      "product_name": "book a complimentary consultation",
+      "product_key": "unverified:4600791133527514",
+      "category": "other",
+      "advertiser": "Ariana Designs & Interiors",
+      "source_country": "JP",
+      "ad_url": "https://www.facebook.com/ads/library/?id=4600791133527514",
+      "landing_url": "https://ariid.com/contact-us/",
+      "image_url": null,
+      "video_url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNEhZGuijfTb9yEKWYWdvCRqTkeD5chpm94WdJ9ySa5gK64rd6qPfDa08JFokyCTdaYo_qV6iizIjkcy7KrPhcfO3KWdxeS8hRGVBqdCdURbg.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=mssU5jN4G8EQ7kNvwEzuRk-&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwNzgwNDI0MzQ5NDcxOTgsImFzc2V0X2FnZV9kYXlzIjo1MSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjc5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=f6bc707a76f41d22&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GMTRGMTAzN0YzOUNFMkE1NTMwNjRCN0RDNDgxMTM4M19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzJENEE3NEZDRkNGNkNGRjQ1RkZCMTgzMDhEQzNERTk2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8oZqGqp7qAxUCKAJDMywXQFP7tkWhysEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=8q2-uEXLIE8m-Y9s2hlTuw&_nc_ss=79289&_nc_zt=28&oh=00_AQRd9nI3X30PLQtDL8FrWc0zzcv-8Z7sUb2c9jnLHpA_Cg&oe=6AF3BC94",
+      "first_seen": "2026-11-06T15:54:49.240561+00:00",
+      "last_seen": "2026-11-06T15:54:49.240561+00:00",
+      "active_checked_at": "2026-11-06T15:54:49.240561+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "JP"
+      ]
+    },
     {
       "ad_id": "1511925157427688",
       "product_name": "rich mogul poor disguise she loved him anyway",
@@ -16363,64 +17682,6 @@
         "AE",
         "FR",
         "PL"
-      ]
-    },
-    {
-      "ad_id": "27086586400970202",
-      "product_name": "muse best reels maker",
-      "product_key": "unverified:27086586400970202",
-      "category": "other",
-      "advertiser": "Muse App",
-      "source_country": "HU",
-      "ad_url": "https://www.facebook.com/ads/library/?id=27086586400970202",
-      "landing_url": "http://itunes.apple.com/app/id1638320348",
-      "image_url": null,
-      "video_url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMVY5oW3uMBlSoihshn3IHc48DE3UU_LYZQw1ltgdXLwvVC0S6u59WGngaG2I756LJc4Fnw_94kkbmGV-9h3C6AyFQOl9FS7O4ru3GRVybApw.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=xlFVZQeZVAcQ7kNvwHTqMoA&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI0NTM5NzMwNDE3MzY0MTcsImFzc2V0X2FnZV9kYXlzIjoxNDIsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozMiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=978ce9754d04c95c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82RDRFNUVBRUY3NDEzN0RDRUU4NTIxMEIyMTdERkQ5Nl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzlGNDdCRDMzRTVEODFFMzUzMzFFNEQxMkRERTJGQkE1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbCq4f3g_jbCBUCKAJDMywXQEAAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=SUonsZ1myV_Qoecp6hHATQ&_nc_ss=79289&_nc_zt=28&oh=00_AQRJpE_NEtRKKKx4lytjRbDdoS9pfBzUnduBpWkE8uQgyw&oe=6AE7B68A",
-      "first_seen": "2026-10-28T12:54:34.839090+00:00",
-      "last_seen": "2026-11-06T05:43:48.682643+00:00",
-      "active_checked_at": "2026-11-06T05:43:48.682643+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "AT",
-        "BE",
-        "CN",
-        "HK",
-        "HU",
-        "IL",
-        "JP",
-        "LT",
-        "SK",
-        "TR",
-        "VN"
-      ]
-    },
-    {
-      "ad_id": "1440028007970319",
-      "product_name": "muse best reels maker",
-      "product_key": "unverified:1440028007970319",
-      "category": "other",
-      "advertiser": "Muse App",
-      "source_country": "HU",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1440028007970319",
-      "landing_url": "http://itunes.apple.com/app/id1638320348",
-      "image_url": null,
-      "video_url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNX8G23iGQtF8jxIkbkSGG7m7L_eHdLHEAKF2hzbi8EI27U-vZxwK-Rrqzrks890ubiULp2OGCr2lf7dEBIz6I4Vkx0pB9nLASkFr-Ym1kH6g.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=WVctheCSHikQ7kNvwEyB1OK&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwMDczNzM1MDIxODEyNTYsImFzc2V0X2FnZV9kYXlzIjoxMDMsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozMSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=bcb9f35cf6b226ca&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CRDQ5MzVBODhDMDdGRTA2NzI0OTg1M0FDQTZGMzU4OF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0MzNEQ0NTBBRUUwRTM1RjhGNUEzQzY5MjM0OTdDNEJEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaQvoe87YzKAxUCKAJDMywXQD_3S8an754YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=SUonsZ1myV_Qoecp6hHATQ&_nc_ss=79289&_nc_zt=28&oh=00_AQQIbCJ8vOS-zj3U1Ux-4f59yJZL8EarpeYaKapvZ-FJWA&oe=6AE7C843",
-      "first_seen": "2026-10-28T12:54:34.839090+00:00",
-      "last_seen": "2026-11-06T05:43:48.682643+00:00",
-      "active_checked_at": "2026-11-06T05:43:48.682643+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "AT",
-        "BE",
-        "CN",
-        "HK",
-        "HU",
-        "IL",
-        "JP",
-        "LT",
-        "SK",
-        "TR",
-        "VN"
       ]
     },
     {
@@ -43360,31 +44621,6 @@
       ]
     },
     {
-      "ad_id": "1866683000975667",
-      "product_name": "support stamina and heart health every day",
-      "product_key": "title:support stamina and heart health every day",
-      "category": "wellness",
-      "advertiser": "Essential Health Finds",
-      "source_country": "HU",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1866683000975667",
-      "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
-      "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/778985133_1563691878628072_4075139560395152163_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=J1FJaLwlEh0Q7kNvwHvotls&_nc_oc=AdpqdchIBogSI8XB1iIFwKGW1S6aqthJo8r8DSo7ZDg7PnPmxFrahz9F7qDO_1P7xRI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=SUonsZ1myV_Qoecp6hHATQ&_nc_ss=79289&oh=00_AQTs0IK0nXj16zm5JXnyfS1DaHsH97fw3npOXfnVu8ZNVQ&oe=6AE7B634",
-      "video_url": null,
-      "first_seen": "2026-10-28T12:54:34.839090+00:00",
-      "last_seen": "2026-11-05T03:11:06.601935+00:00",
-      "active_checked_at": "2026-11-05T03:11:06.601935+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "AT",
-        "EE",
-        "HU",
-        "IL",
-        "JP",
-        "LT",
-        "PE"
-      ]
-    },
-    {
       "ad_id": "1044191461940294",
       "product_name": "Unidentified product",
       "product_key": "unverified:1044191461940294",
@@ -51316,615 +52552,6 @@
       "is_active_observed": true,
       "source_countries": [
         "PK"
-      ]
-    },
-    {
-      "ad_id": "1988954458481940",
-      "product_name": "support stamina and heart health every day",
-      "product_key": "title:support stamina and heart health every day",
-      "category": "wellness",
-      "advertiser": "Rosabella",
-      "source_country": "SI",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1988954458481940",
-      "landing_url": "https://track.tryrosabella.com/cdc16426-3e48-40a7-9fad-21098084f6cf",
-      "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/812030255_1727194919415286_173920378969220644_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Zvr7DEZzKwUQ7kNvwHUqOkh&_nc_oc=Adr2LYr6b3tkLK3ZRrXi_x62BHgplc-mZcnma3p3kLkDvhynnAEvhIb0lEZPLb4FZN4&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=M8QQhJac7Vhdi7WXuhLlYA&_nc_ss=79289&oh=00_AQR56nt9Qk-FG_7PKbIeoZDr0bOQF9wxbBmTKYC4vD701g&oe=6AEED6E2",
-      "video_url": null,
-      "first_seen": "2026-11-02T21:44:47.154284+00:00",
-      "last_seen": "2026-11-04T15:30:05.555240+00:00",
-      "active_checked_at": "2026-11-04T15:30:05.555240+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "PT",
-        "SI"
-      ]
-    },
-    {
-      "ad_id": "1785963129323397",
-      "product_name": "unidentified product",
-      "product_key": "unverified:1785963129323397",
-      "category": "other",
-      "advertiser": "Temu Czechia",
-      "source_country": "HU",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1785963129323397",
-      "landing_url": "https://www.temu.com/hu/kuiper/un3.html?subj=dpa-un-default&_bg_fs=1&_p_jump_id=947&_x_vst_scene=adg&locale_override=90~~HUF&_p_rfs=1&_x_ads_channel=facebook&_x_ads_sub_channel=sc_dpa&_x_bg_adid=eu1080917354&_x_ads_set={{campaign.id}}&_x_ads_id={{adset.id}}&_x_ads_creative_id={{ad.id}}&_x_ns_source={{site_source_name}}&_x_ns_placement={{placement}}",
-      "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/858050143_1649255913214644_339680044064336593_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=huJIXBMmnFUQ7kNvwEGkeRk&_nc_oc=Adpvm6QJyttNGYllAhINLUnfdjBj_n8Xw5yBHvOa59ELtBvviiw6y7kBEfawrtgDchM&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=xen_ian2u4O6hwrayQN71w&_nc_ss=79289&oh=00_AQSwQOCLo7ExXsdmHFn_UxaSW0zoVy8MGbJHBshLcylotQ&oe=6AEEE684",
-      "video_url": null,
-      "first_seen": "2026-11-02T21:44:47.154284+00:00",
-      "last_seen": "2026-11-04T15:30:05.555240+00:00",
-      "active_checked_at": "2026-11-04T15:30:05.555240+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "HU"
-      ]
-    },
-    {
-      "ad_id": "2034559260453805",
-      "product_name": "solax ori utility-scale liquid cooling ess",
-      "product_key": "unverified:2034559260453805",
-      "category": "other",
-      "advertiser": "SolaX Power",
-      "source_country": "LK",
-      "ad_url": "https://www.facebook.com/ads/library/?id=2034559260453805",
-      "landing_url": "https://www.solaxpower.com/our-products/ori.html",
-      "image_url": null,
-      "video_url": "https://video-sjc6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQO7jdGXCr1v4s5eBaZyY0NE19Ausum0l1mdLrDzhRu2iCcRxWkuAjoNMPGtl8M9bhwm993su3lTrpDRqOVE0_lNEGUMGiVcLGGXPlpg_G3IRA.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-sjc6-1.xx.fbcdn.net&_nc_ohc=r28jFH2AJwUQ7kNvwE6ZNGW&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTI4MC5kYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjo4NzM2NjI3MTU2NzQ3ODcsImFzc2V0X2FnZV9kYXlzIjoyNTIsInZpX3VzZWNhc2VfaWQiOjEwMTIyLCJkdXJhdGlvbl9zIjoxMDIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=5e85cddc7b909e4d&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82RDQ0REYyMzc5NkExNDk3NEU2OUE4ODgxQjBDMjM5N19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzhCNEEyQjBEN0Y2OTNEQjA0QUFCNDM3MzAyNzlDQTkxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbGgpK97qWNAxUCKAJDMywXQFm1wo9cKPYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZZSeAQA&_nc_gid=EmMT8_e2oio02M5VHF7hOA&_nc_ss=79289&_nc_zt=28&oh=00_AQTcB2VQMSwhmHUlOuLA4WlKWaiesuWRpdlTXqrCbng0Hg&oe=6AEEE7C7",
-      "first_seen": "2026-11-02T21:44:47.154284+00:00",
-      "last_seen": "2026-11-04T15:30:05.555240+00:00",
-      "active_checked_at": "2026-11-04T15:30:05.555240+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "LK"
-      ]
-    },
-    {
-      "ad_id": "4479060362368709",
-      "product_name": "ceylon bathware",
-      "product_key": "unverified:4479060362368709",
-      "category": "other",
-      "advertiser": "Ceylon Bathware",
-      "source_country": "LK",
-      "ad_url": "https://www.facebook.com/ads/library/?id=4479060362368709",
-      "landing_url": "https://api.whatsapp.com/send",
-      "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/773360003_1674547677908849_8849995777614050554_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DZJm_FAroIIQ7kNvwFGBp32&_nc_oc=AdqzBqcinRlM7g6DGYV56O_ZYUAtkpZj6EJGGnpln8Ki9rQG4SLyAvoPxmhO_efsL-g&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=EmMT8_e2oio02M5VHF7hOA&_nc_ss=79289&oh=00_AQRHaPqf-uVoV7ti-5TR2XhcEQxCfVSHm4k6ZQUkNjMAoQ&oe=6AEED5F1",
-      "video_url": null,
-      "first_seen": "2026-11-02T21:44:47.154284+00:00",
-      "last_seen": "2026-11-04T15:30:05.555240+00:00",
-      "active_checked_at": "2026-11-04T15:30:05.555240+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "LK"
-      ]
-    },
-    {
-      "ad_id": "1659519058500150",
-      "product_name": "bedroom favorites are here",
-      "product_key": "unverified:1659519058500150",
-      "category": "other",
-      "advertiser": "Goods_plus.mv",
-      "source_country": "LK",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1659519058500150",
-      "landing_url": null,
-      "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/705154816_4512457415635179_7829211987940904613_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-kiPAVG6QpkQ7kNvwEn-VBK&_nc_oc=AdrN7Tmlg-39wkK8wnIyuV9scUc5VcCudzaPbhyRu84qjmkN282ImOPXDpp2jxbcZhc&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=EmMT8_e2oio02M5VHF7hOA&_nc_ss=79289&oh=00_AQTk9ZS6n1daHd4_iEasyhBygTo2ZAfa6UxJMh6572Unvw&oe=6AEEC5D3",
-      "video_url": null,
-      "first_seen": "2026-11-02T21:44:47.154284+00:00",
-      "last_seen": "2026-11-04T15:30:05.555240+00:00",
-      "active_checked_at": "2026-11-04T15:30:05.555240+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "LK"
-      ]
-    },
-    {
-      "ad_id": "1045566464575090",
-      "product_name": "a tidy cleaning area makes every task easier keep your essential tools organized and always within",
-      "product_key": "title:a tidy cleaning area makes every task easier keep your essential tools organized and always within",
-      "category": "home",
-      "advertiser": "Feather",
-      "source_country": "LK",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1045566464575090",
-      "landing_url": "https://feather.lk/collections/others",
-      "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/741613613_995207179817643_2433747627947059976_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LnKTuy3OvzUQ7kNvwGbpGMK&_nc_oc=AdqB7b8lxmHa0gSzO0zSlS-gSe9dMECGooBdOmd3DABco7KplYSRvWwfo3YhU_fWN-Q&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=EmMT8_e2oio02M5VHF7hOA&_nc_ss=79289&oh=00_AQTQMF1Y9ktJ4l6DbX6qe7b5j3ZIN74FC14z94muX_ElkA&oe=6AEED143",
-      "video_url": null,
-      "first_seen": "2026-11-02T21:44:47.154284+00:00",
-      "last_seen": "2026-11-04T15:30:05.555240+00:00",
-      "active_checked_at": "2026-11-04T15:30:05.555240+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "LK"
-      ]
-    },
-    {
-      "ad_id": "1631132985082294",
-      "product_name": "thumbs-up store ய ழ ப ப ணம",
-      "product_key": "unverified:1631132985082294",
-      "category": "other",
-      "advertiser": "Thumbs-Up Store யாழ்ப்பாணம்",
-      "source_country": "LK",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1631132985082294",
-      "landing_url": "https://fb.com/canvas_doc/1672770487769741",
-      "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/845738686_28629418750019759_8365191890859030540_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=76xEoQQ8zjEQ7kNvwEvr7Gl&_nc_oc=AdrPhygvunAgYOf2UDew5VCFkP2Tvb32uQwqkLxCxNw0lhryK1tXzStu8mJCfgwniJg&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=EmMT8_e2oio02M5VHF7hOA&_nc_ss=79289&oh=00_AQSfyH-BcdACW6qa1X3cl2s_UBjQfZJ7xlm2-VZz6bddkw&oe=6AEEC99B",
-      "video_url": null,
-      "first_seen": "2026-11-02T21:44:47.154284+00:00",
-      "last_seen": "2026-11-04T15:30:05.555240+00:00",
-      "active_checked_at": "2026-11-04T15:30:05.555240+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "LK"
-      ]
-    },
-    {
-      "ad_id": "2006919779979024",
-      "product_name": "visual studios plus",
-      "product_key": "unverified:2006919779979024",
-      "category": "other",
-      "advertiser": "Visual Studios Plus",
-      "source_country": "LK",
-      "ad_url": "https://www.facebook.com/ads/library/?id=2006919779979024",
-      "landing_url": "https://api.whatsapp.com/send",
-      "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/820542665_1449010023787641_8244216333355841878_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=q9f1Z_Uf5_cQ7kNvwFhIWCT&_nc_oc=AdpFWqNSFpPnhIfcGb2Tijblehp1Mvuz_awSweaptwzCyjfu3uvwZfWl14IDrvwQk8s&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=EmMT8_e2oio02M5VHF7hOA&_nc_ss=79289&oh=00_AQQVOps8PbUTpGeD2FkH-SSbfxVgFeiRnN3g0hFB8oOGFw&oe=6AEED10D",
-      "video_url": null,
-      "first_seen": "2026-11-02T21:44:47.154284+00:00",
-      "last_seen": "2026-11-04T15:30:05.555240+00:00",
-      "active_checked_at": "2026-11-04T15:30:05.555240+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "LK"
-      ]
-    },
-    {
-      "ad_id": "2065637767660287",
-      "product_name": "ඔබග business එකට complete billing solution එකක",
-      "product_key": "unverified:2065637767660287",
-      "category": "other",
-      "advertiser": "SaveFirst.lk",
-      "source_country": "LK",
-      "ad_url": "https://www.facebook.com/ads/library/?id=2065637767660287",
-      "landing_url": null,
-      "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/747573261_1718184735872163_7683980960942110018_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fm0Un5Wf9m4Q7kNvwHjqhOp&_nc_oc=AdqpX_kGdkqhz-7eZqX4GSRokXXItIhCEeNRBx504Ow7vSr0hpjD7-Bsuy8FZz6OT1c&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=EmMT8_e2oio02M5VHF7hOA&_nc_ss=79289&oh=00_AQR3Yvt0VPGKwZeglT7eQgSqMadV0sZr0AyU3NkNJ-44wQ&oe=6AEEE9F4",
-      "video_url": null,
-      "first_seen": "2026-11-02T21:44:47.154284+00:00",
-      "last_seen": "2026-11-04T15:30:05.555240+00:00",
-      "active_checked_at": "2026-11-04T15:30:05.555240+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "LK"
-      ]
-    },
-    {
-      "ad_id": "1760599978834920",
-      "product_name": "powering homes day and night",
-      "product_key": "unverified:1760599978834920",
-      "category": "other",
-      "advertiser": "Hypontech Solar",
-      "source_country": "LK",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1760599978834920",
-      "landing_url": "https://instagram.com/hypontechsolar",
-      "image_url": null,
-      "video_url": "https://video-sjc3-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQOwdym7ztfea0WRRkgKy5hC9sY2Fb2sBZA1t0hL-9HiuGz6eP8OjtRZ1xOOvdkS79My8yxDM3PBvFLsxWzUeLc45EVQE7I80V5welArqA.mp4?_nc_cat=106&_nc_sid=ef5aa3&_nc_ht=video-sjc3-1.xx.fbcdn.net&_nc_ohc=_qsEWYHn0c4Q7kNvwGN10o8&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTI4MC5wcm9ncmVzc2l2ZV9oMjY0LWJhc2ljLWdlbjJfNzIwcCIsInhwdl9hc3NldF9pZCI6MTgxMTg1NTQxNjM5NTY5ODgsImFzc2V0X2FnZV9kYXlzIjoxNCwidmlfdXNlY2FzZV9pZCI6MTIzNzQsImR1cmF0aW9uX3MiOjE0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=EmMT8_e2oio02M5VHF7hOA&_nc_ss=79289&_nc_zt=28&oh=00_AQSDzttFpJGzLZk2hwhv_b5kDft4-PMvh5KjYLNOCpWVqQ&oe=6AEED010",
-      "first_seen": "2026-11-02T21:44:47.154284+00:00",
-      "last_seen": "2026-11-04T15:30:05.555240+00:00",
-      "active_checked_at": "2026-11-04T15:30:05.555240+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "LK"
-      ]
-    },
-    {
-      "ad_id": "1757175964791981",
-      "product_name": "ඇණව ම ක ර මට",
-      "product_key": "unverified:1757175964791981",
-      "category": "other",
-      "advertiser": "Royal Deals",
-      "source_country": "LK",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1757175964791981",
-      "landing_url": "http://fb.me/",
-      "image_url": null,
-      "video_url": "https://video-sjc3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMhTnEkGGyx77EY9VhIart7L58cNA_KfgbJYQkqOcdszOyu4Cony1aXU9X3Mejc3j2CMkYSGDv9AQ9TvNbNZn5zfmYcZX7KnXGIbq07g635Ew.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-sjc3-1.xx.fbcdn.net&_nc_ohc=lsQ4QRlSMnAQ7kNvwEC6IKa&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0NjgwMDEyMjA5NTg3NjUsImFzc2V0X2FnZV9kYXlzIjozNjMsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxNywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=204aa0b7f3e9c130&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84OTQxOTUwMjk1MEY5NjZEQTZFMDlBQjM1ODlGMzU5OF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzc5NEJFRUQxRDg5QkFBMUVERTU1NzI5NEQyMUM2Mzk2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACba6PC09cibBRUCKAJDMywXQDFVP3ztkWgYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=EmMT8_e2oio02M5VHF7hOA&_nc_ss=79289&_nc_zt=28&oh=00_AQQNh67ikkiUQu8_c8HcwwcaekA3FhNtIDHCzgL3msFxHQ&oe=6AEED397",
-      "first_seen": "2026-11-02T21:44:47.154284+00:00",
-      "last_seen": "2026-11-04T15:30:05.555240+00:00",
-      "active_checked_at": "2026-11-04T15:30:05.555240+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "LK"
-      ]
-    },
-    {
-      "ad_id": "2349854422215148",
-      "product_name": "conversionwise",
-      "product_key": "unverified:2349854422215148",
-      "category": "other",
-      "advertiser": "ConversionWise",
-      "source_country": "SI",
-      "ad_url": "https://www.facebook.com/ads/library/?id=2349854422215148",
-      "landing_url": "https://go.conversionwise.io/offer",
-      "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/779998350_1363145772660947_816508536331465655_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=y_sgkxt0VpcQ7kNvwE0ERpO&_nc_oc=AdrjtNJmBkoRwhV3k2RpTJeppqFY9nvqQ77KIotq4FmA08wX-6E-eu71qVPU7OCDi5o&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=M8QQhJac7Vhdi7WXuhLlYA&_nc_ss=79289&oh=00_AQSjkzmuN-6IgP1Hy8iMq8OdSUDT-E66AV7BZ93rDuO8iA&oe=6AEEEA61",
-      "video_url": null,
-      "first_seen": "2026-11-02T21:44:47.154284+00:00",
-      "last_seen": "2026-11-04T15:30:05.555240+00:00",
-      "active_checked_at": "2026-11-04T15:30:05.555240+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "SI"
-      ]
-    },
-    {
-      "ad_id": "1058503780398998",
-      "product_name": "support stamina and heart health every day",
-      "product_key": "title:support stamina and heart health every day",
-      "category": "wellness",
-      "advertiser": "Rosabella",
-      "source_country": "SI",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1058503780398998",
-      "landing_url": "https://track.tryrosabella.com/cdc16426-3e48-40a7-9fad-21098084f6cf",
-      "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/795668562_2667366337011423_7752982774374387742_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NTWVg7Kc0pEQ7kNvwGmYQSV&_nc_oc=AdoGzG8eEtuG_XLl_vi_pVXk3YVpia4iVMjl4uoUzx-XzZcSa0mumSe789TDWF_oXoI&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=M8QQhJac7Vhdi7WXuhLlYA&_nc_ss=79289&oh=00_AQSApjUvSXAJatJEg9Ne44zRn8EFYl8kixsw8MGInci5OQ&oe=6AEEEA67",
-      "video_url": null,
-      "first_seen": "2026-11-02T21:44:47.154284+00:00",
-      "last_seen": "2026-11-04T15:30:05.555240+00:00",
-      "active_checked_at": "2026-11-04T15:30:05.555240+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "SI"
-      ]
-    },
-    {
-      "ad_id": "3087716224751689",
-      "product_name": "support stamina and heart health every day",
-      "product_key": "title:support stamina and heart health every day",
-      "category": "wellness",
-      "advertiser": "Leslie Hosmer",
-      "source_country": "SI",
-      "ad_url": "https://www.facebook.com/ads/library/?id=3087716224751689",
-      "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
-      "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/811303791_1787116925857008_5582760077618827141_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VvPuLUaYPTwQ7kNvwGLPHpk&_nc_oc=AdpVVGCjNicBaeLjG3lFZ_ufkCCdMkSTB3rvm68ZceP0GScnNnMHNIBo7Z-HiLIZll0&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=M8QQhJac7Vhdi7WXuhLlYA&_nc_ss=79289&oh=00_AQQ_Za1IJ0xp_4iUtwg5xLep6T_F2jNfjLPY0aZBn0-NjQ&oe=6AEED4DE",
-      "video_url": null,
-      "first_seen": "2026-11-02T21:44:47.154284+00:00",
-      "last_seen": "2026-11-04T15:30:05.555240+00:00",
-      "active_checked_at": "2026-11-04T15:30:05.555240+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "SI"
-      ]
-    },
-    {
-      "ad_id": "2450922925399075",
-      "product_name": "electric facial cleanser lifting firming pore deep cleaning 2",
-      "product_key": "sku:electric facial cleanser lifting firming pore deep cleaning",
-      "category": "beauty",
-      "advertiser": "Perpetualing.PR02",
-      "source_country": "SI",
-      "ad_url": "https://www.facebook.com/ads/library/?id=2450922925399075",
-      "landing_url": "https://perpetualing.com/products/electric-facial-cleanser-lifting-firming-pore-deep-cleaning-2",
-      "image_url": null,
-      "video_url": "https://video-sjc3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMmmgD0cGgMXgIWmHOQRwZ3ZQT3ycVmxdQBIpJwTaIYwXgGp1EgiN-AbYKVR7DsYj94NGDh3I9kcL77gPTjJBvgCDJJoYKrXpkvIYp4XTrFcQ.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-sjc3-1.xx.fbcdn.net&_nc_ohc=uvSuJVpaRMMQ7kNvwGlzZPe&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI1NjY5NDA5MTcxMTY4MDUsImFzc2V0X2FnZV9kYXlzIjo0NywidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjExNywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=c0baebbb4ede8f7e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GQjRDNDM1NThGQjk1QkM3OTQ1QzM2NTY1MjdCQjk5NF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0ZGNDBEQkU1RTZCQjdDRTBDMDgzQTRGMzg1MEY2NDg1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaKvrGY0KePCRUCKAJDMywXQF1CHKwIMScYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=M8QQhJac7Vhdi7WXuhLlYA&_nc_ss=79289&_nc_zt=28&oh=00_AQRnWd0UMI6Le1vStzDNRmYVBToydUqR_vbq49F4BkG-Rg&oe=6AEEDED5",
-      "first_seen": "2026-11-02T21:44:47.154284+00:00",
-      "last_seen": "2026-11-04T15:30:05.555240+00:00",
-      "active_checked_at": "2026-11-04T15:30:05.555240+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "SI"
-      ]
-    },
-    {
-      "ad_id": "1109462571762013",
-      "product_name": "support stamina and heart health every day",
-      "product_key": "title:support stamina and heart health every day",
-      "category": "wellness",
-      "advertiser": "Rosabella",
-      "source_country": "SI",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1109462571762013",
-      "landing_url": "https://track.tryrosabella.com/cdc16426-3e48-40a7-9fad-21098084f6cf",
-      "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/813282288_1534264475074508_286949806873004978_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=i5mq-jR8F5AQ7kNvwHQGfI6&_nc_oc=AdrkB7m2_UjwKpUyqDrrFYOp5m_qKlnumtD_hoKxS1-7a6I0weSwoqRgYUxdQ2tBUp8&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=M8QQhJac7Vhdi7WXuhLlYA&_nc_ss=79289&oh=00_AQQT7ZV-ZsNKAOU-cde778RcpEvRp8TTxaN8lrt-u4gq7Q&oe=6AEED24B",
-      "video_url": null,
-      "first_seen": "2026-11-02T21:44:47.154284+00:00",
-      "last_seen": "2026-11-04T15:30:05.555240+00:00",
-      "active_checked_at": "2026-11-04T15:30:05.555240+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "SI"
-      ]
-    },
-    {
-      "ad_id": "1107550198550118",
-      "product_name": "unidentified product",
-      "product_key": "unverified:1107550198550118",
-      "category": "other",
-      "advertiser": "Temu Austria",
-      "source_country": "HU",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1107550198550118",
-      "landing_url": "https://play.google.com/store/apps/details?id=com.einnovation.temu",
-      "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/879595712_1658081872695414_6185110748688561398_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QTEOIurA39AQ7kNvwH5gVGH&_nc_oc=Adq46jkRYohdexNwqhYDBlgwcIQYz9gn6ETUiB2bjuEcX8_ljWntaizYbkvN0l1g1OE&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=8HIbYrmrzEeOgfaDzIsHnw&_nc_ss=79289&oh=00_AQQCKA7qLXDPOewlk_IzWboTUBO3LydC5XsP1tDkEn1g2A&oe=6AF12270",
-      "video_url": null,
-      "first_seen": "2026-11-04T15:30:05.555240+00:00",
-      "last_seen": "2026-11-04T15:30:05.555240+00:00",
-      "active_checked_at": "2026-11-04T15:30:05.555240+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "HU"
-      ]
-    },
-    {
-      "ad_id": "1093355559846589",
-      "product_name": "unidentified product",
-      "product_key": "unverified:1093355559846589",
-      "category": "other",
-      "advertiser": "Temu Austria",
-      "source_country": "HU",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1093355559846589",
-      "landing_url": "https://www.temu.com/hu/kuiper/un3.html?subj=dpa-un-default&_bg_fs=1&_p_jump_id=947&_x_vst_scene=adg&locale_override=90~~HUF&_p_rfs=1&_x_ads_channel=facebook&_x_ads_sub_channel=sc_dpa&_x_bg_adid=eu1078628295&_x_ads_set={{campaign.id}}&_x_ads_id={{adset.id}}&_x_ads_creative_id={{ad.id}}&_x_ns_source={{site_source_name}}&_x_ns_placement={{placement}}",
-      "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/819785089_2040338666597808_2295036240668082893_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kR3JwU8sMAUQ7kNvwHZddVx&_nc_oc=AdrPcKFNFBlmt33bhYqpZyGeDRZ94c58LA-GrIsyCxrvNkwbCwKLpihBNBlXmrCH7RQ&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=8HIbYrmrzEeOgfaDzIsHnw&_nc_ss=79289&oh=00_AQQUl2lxnciegHjFyK5eN7Iu6V2H64KyyUP4zLpO7W5Mrw&oe=6AF13E00",
-      "video_url": null,
-      "first_seen": "2026-11-04T15:30:05.555240+00:00",
-      "last_seen": "2026-11-04T15:30:05.555240+00:00",
-      "active_checked_at": "2026-11-04T15:30:05.555240+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "HU"
-      ]
-    },
-    {
-      "ad_id": "1159373933706986",
-      "product_name": "toilet clog remover tool",
-      "product_key": "sku:toilet clog remover tool",
-      "category": "garden",
-      "advertiser": "Elara",
-      "source_country": "HU",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1159373933706986",
-      "landing_url": "https://noomoriey.com/products/toilet-clog-remover-tool?utm_source=%7B%7Bsite_source_name%7D%7D&utm_medium=%7B%7Bcampaign.id%7D%7D&utm_campaign=WYP-%7B%7Bcampaign.name%7D%7D&utm_id=FB&utm_term=%7B%7Badset.id%7D%7D&utm_content=%7B%7Bad.id%7D%7D",
-      "image_url": null,
-      "video_url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOozGMR4U0aWgpWa_r68NB6jD-1K2Qe-wOq3gb_Y8aBfi9sN4-ElwUxF7WwVJCnSVICaf9suQRkYt2Q_Wz_s480PKP1P3SktLVKHkKjnHWGig.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=vhWZGLAUi34Q7kNvwGWb2dR&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2MjU1ODA2NzkwMjA2MjYsImFzc2V0X2FnZV9kYXlzIjoyMywidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjI0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=1622bde14b4516e8&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82MEVDMDZBRjFBQTA0ODRBODFFMjg4QzU4NDREMDVCQ19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzU5MjgyNjczREEwMjQ1RjdCNDg0RDg3OERBODQyQzcxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACakgerun53jBRUCKAJDMywXQDhEGJN0vGoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=8HIbYrmrzEeOgfaDzIsHnw&_nc_ss=79289&_nc_zt=28&oh=00_AQRIhzi01B6ha4efZIua5dzXp3iPOn_TEHnT0g1VuAk6qg&oe=6AF12040",
-      "first_seen": "2026-11-04T15:30:05.555240+00:00",
-      "last_seen": "2026-11-04T15:30:05.555240+00:00",
-      "active_checked_at": "2026-11-04T15:30:05.555240+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "HU"
-      ]
-    },
-    {
-      "ad_id": "1111363654821749",
-      "product_name": "unidentified product",
-      "product_key": "unverified:1111363654821749",
-      "category": "other",
-      "advertiser": "Temu Czechia",
-      "source_country": "HU",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1111363654821749",
-      "landing_url": "https://www.temu.com/hu/kuiper/un3.html?subj=dpa-un-default&_bg_fs=1&_p_jump_id=947&_x_vst_scene=adg&locale_override=90~~HUF&_p_rfs=1&_x_ads_channel=facebook&_x_ads_sub_channel=sc_dpa&_x_bg_adid=eu1081389812&_x_ads_set={{campaign.id}}&_x_ads_id={{adset.id}}&_x_ads_creative_id={{ad.id}}&_x_ns_source={{site_source_name}}&_x_ns_placement={{placement}}",
-      "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/864737896_1559771735916790_4759498586798686420_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UwSlomgaofUQ7kNvwEyYI3f&_nc_oc=AdqgDCTX49AnMg-rR8cPbHJJC5y0i6WpqxmmqGlq8zI9JQqT33i-r9O0OiuTcu7Rm_M&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=8HIbYrmrzEeOgfaDzIsHnw&_nc_ss=79289&oh=00_AQT6NKob3I1dKUedV4i_ja6B5yMHG1aEaBqVk34bmQPWQA&oe=6AF1203B",
-      "video_url": null,
-      "first_seen": "2026-11-04T15:30:05.555240+00:00",
-      "last_seen": "2026-11-04T15:30:05.555240+00:00",
-      "active_checked_at": "2026-11-04T15:30:05.555240+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "HU"
-      ]
-    },
-    {
-      "ad_id": "1456386069569598",
-      "product_name": "3 layers bathroom organizer shelf - 25 000 naira",
-      "product_key": "unverified:1456386069569598",
-      "category": "other",
-      "advertiser": "Home And More",
-      "source_country": "NG",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1456386069569598",
-      "landing_url": "https://www.instagram.com/_u/homeandmoreone",
-      "image_url": null,
-      "video_url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m86/AQOesZi_w-D0s_3MAR1mMucO_gKoMJSv0rIKletMHLL8Zi-n8Q1rVwOdGcLHbD0iybLxPYSZfXtBK0L6lGjptTGDsSCCq-3z1Qvh2yM.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=TF61ACJxkkgQ7kNvwEhdzdw&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNDgwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTM1MTk5ODQyMzY0OTQ0MywiYXNzZXRfYWdlX2RheXMiOjMzNiwidmlfdXNlY2FzZV9pZCI6MTIzNzQsImR1cmF0aW9uX3MiOjE3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=a5619134e584d5cc&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zNjQxODQyMjkzOEEwQjdBMDM5MUI2NDk0OTNENzY4Rl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYR2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8xMzY1OTMxMzMxNzQxMDU5XzI0MTc1NzA5NzM3ODQ4MjQ5NzgubXA0FQICyAESACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJsayupzV6OYEFQIoAkMzLBdAMbul41P3zxgSZGFzaF9iYXNlbGluZV8xX3YxEQB1AGWswQEA&_nc_gid=RFFNQnbhy2QQckRBCJoYzw&_nc_ss=79289&_nc_zt=28&oh=00_AQRa_UAVm7dgEIrCZF58rNG6dEDc9xeEol43s8_4VThRmQ&oe=6AED22FB",
-      "first_seen": "2026-11-04T15:30:05.555240+00:00",
-      "last_seen": "2026-11-04T15:30:05.555240+00:00",
-      "active_checked_at": "2026-11-04T15:30:05.555240+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "NG"
-      ]
-    },
-    {
-      "ad_id": "1693432832391766",
-      "product_name": "weekend is the time for a reset a time to reflect on how your week went and to plan the coming week",
-      "product_key": "unverified:1693432832391766",
-      "category": "other",
-      "advertiser": "BL Jewellery",
-      "source_country": "NG",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1693432832391766",
-      "landing_url": null,
-      "image_url": null,
-      "video_url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQOj2tWQ2zXdc1G6_lyF1DqiPVmgcoVfbxl7GoONJtlzIi9wFwhZ-ArtN7IE6Mu8wxMDSXskinYkunja9LTYqvN0LhwrLtMWdNKN8pxYQg.mp4?_nc_cat=109&_nc_sid=ef5aa3&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=jvOJdABQ6nQQ7kNvwEqE0-N&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxNDMxMDcxNDcyMjUwNjA1LCJhc3NldF9hZ2VfZGF5cyI6NTMsInZpX3VzZWNhc2VfaWQiOjEyMzc0LCJkdXJhdGlvbl9zIjozMiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=RFFNQnbhy2QQckRBCJoYzw&_nc_ss=79289&_nc_zt=28&oh=00_AQTpr-qUCkf5k2naTHZTlvjgKKTd8tIKzOqJK2uC3lBzlw&oe=6AF10FF1",
-      "first_seen": "2026-11-04T15:30:05.555240+00:00",
-      "last_seen": "2026-11-04T15:30:05.555240+00:00",
-      "active_checked_at": "2026-11-04T15:30:05.555240+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "NG"
-      ]
-    },
-    {
-      "ad_id": "1622210629612958",
-      "product_name": "ම ල ර 2100 ය",
-      "product_key": "unverified:1622210629612958",
-      "category": "other",
-      "advertiser": "EasyPick lk",
-      "source_country": "LK",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1622210629612958",
-      "landing_url": "http://fb.me/",
-      "image_url": null,
-      "video_url": "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMRcmL67J80t_Finlcqh--ZIOFMPZj66ZWQkfToj6q2JWp2d-4i_Pv3BoX6TJRlzKtbPyccnOYW1ndQa7QfY3-rGeKvAOH5F6ZQjj3jawTTKA.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=6DU6ftegjdUQ7kNvwEjjAQF&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0NzM4ODY1MTQ1NzU4NTIsImFzc2V0X2FnZV9kYXlzIjo0NywidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjI5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=f1e0aa991b9cb5bf&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xQzQyMURFQkZFNjgyMjY0RTg1NTE2MDQzQzM2RjhBRV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzZCNEQyMEFENDc1NzkyRDQzNzYzMTdCRUE4RDcwMjlEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbY55-ivp-eBRUCKAJDMywXQD0Q5WBBiTcYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=CbGqYHG3ih_DziI0a5Y14Q&_nc_ss=79289&_nc_zt=28&oh=00_AQTTetBmq24keQUUAl1QUixS2Dux6FfYjfNh77oz_MZVFw&oe=6AF11E90",
-      "first_seen": "2026-11-04T15:30:05.555240+00:00",
-      "last_seen": "2026-11-04T15:30:05.555240+00:00",
-      "active_checked_at": "2026-11-04T15:30:05.555240+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "LK"
-      ]
-    },
-    {
-      "ad_id": "2610526099398081",
-      "product_name": "chat with us",
-      "product_key": "unverified:2610526099398081",
-      "category": "other",
-      "advertiser": "Casa Home",
-      "source_country": "LK",
-      "ad_url": "https://www.facebook.com/ads/library/?id=2610526099398081",
-      "landing_url": "https://api.whatsapp.com/send",
-      "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/853423977_1102920745933183_4140780196665199018_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8Z8AwtHRAkQQ7kNvwG_b25O&_nc_oc=AdrqOQAAyebuxSLPwt2dS8daNwcNkoaOjMuhlC90l6riLFzzNflgbg8kGYCX_iWyQ0g&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=CbGqYHG3ih_DziI0a5Y14Q&_nc_ss=79289&oh=00_AQRsSPcqXXO-gsRwFH0_bGUkcKPaIkZ1iOwYPbZatCshJA&oe=6AF1211E",
-      "video_url": null,
-      "first_seen": "2026-11-04T15:30:05.555240+00:00",
-      "last_seen": "2026-11-04T15:30:05.555240+00:00",
-      "active_checked_at": "2026-11-04T15:30:05.555240+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "LK"
-      ]
-    },
-    {
-      "ad_id": "1871071180106948",
-      "product_name": "buy 2 get 1 free",
-      "product_key": "unverified:1871071180106948",
-      "category": "other",
-      "advertiser": "The Shopping Kingdom",
-      "source_country": "LK",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1871071180106948",
-      "landing_url": null,
-      "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/542024444_788680326886552_5980113417391129697_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1V0PGD9u13gQ7kNvwE-dBOL&_nc_oc=AdrlP-MWUJxLbK68evGKWTfDXxLhTrWXCLCwKqECWSwqibAfNIstttOcncQ-cxOmcd4&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=CbGqYHG3ih_DziI0a5Y14Q&_nc_ss=79289&oh=00_AQQTsOeVAyNrpyyE_Oh7CFEN991PZxiR462l5uKIJvSrKg&oe=6AF115B5",
-      "video_url": null,
-      "first_seen": "2026-11-04T15:30:05.555240+00:00",
-      "last_seen": "2026-11-04T15:30:05.555240+00:00",
-      "active_checked_at": "2026-11-04T15:30:05.555240+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "LK"
-      ]
-    },
-    {
-      "ad_id": "2947413922136381",
-      "product_name": "wooden wall mirror free delivery",
-      "product_key": "unverified:2947413922136381",
-      "category": "other",
-      "advertiser": "Ornate Wooden Items",
-      "source_country": "LK",
-      "ad_url": "https://www.facebook.com/ads/library/?id=2947413922136381",
-      "landing_url": "https://api.whatsapp.com/send",
-      "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/597887526_1933210247225546_4293615662582638426_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nmTtJxETJMgQ7kNvwF57jVd&_nc_oc=Adqh8zaMSCMIwaoFxyMnJlnqAIQ7viIDT_ExUr_b4YXk11DA_wuzVaTGtSDxaogPP4Q&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=CbGqYHG3ih_DziI0a5Y14Q&_nc_ss=79289&oh=00_AQR3ty21ibVtxN6ymjAtgYJpREQOX5f7XMA-5wZamuourg&oe=6AF131B7",
-      "video_url": null,
-      "first_seen": "2026-11-04T15:30:05.555240+00:00",
-      "last_seen": "2026-11-04T15:30:05.555240+00:00",
-      "active_checked_at": "2026-11-04T15:30:05.555240+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "LK"
-      ]
-    },
-    {
-      "ad_id": "1073637665112836",
-      "product_name": "hypontech solar",
-      "product_key": "unverified:1073637665112836",
-      "category": "other",
-      "advertiser": "Hypontech Solar",
-      "source_country": "LK",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1073637665112836",
-      "landing_url": "https://www.facebook.com/115776816495119",
-      "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/786492848_1777230190166765_5306112855407632162_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Em9imwDBQb0Q7kNvwEbnNv6&_nc_oc=AdpIHy41JoEOkSJTsxuk72ct9e3Uycsx9E2e0cT723GCXnESl26c7K1pQ7p3GQ0lQAo&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=CbGqYHG3ih_DziI0a5Y14Q&_nc_ss=79289&oh=00_AQSNZi4dbpxCsS-ByqtE2yCpjiAkTjXF6QKpktaRTmuO6A&oe=6AF133D4",
-      "video_url": null,
-      "first_seen": "2026-11-04T15:30:05.555240+00:00",
-      "last_seen": "2026-11-04T15:30:05.555240+00:00",
-      "active_checked_at": "2026-11-04T15:30:05.555240+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "LK"
-      ]
-    },
-    {
-      "ad_id": "1385041726685291",
-      "product_name": "wooden wall mirror",
-      "product_key": "unverified:1385041726685291",
-      "category": "other",
-      "advertiser": "Ornate Wooden Items",
-      "source_country": "LK",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1385041726685291",
-      "landing_url": "https://api.whatsapp.com/send",
-      "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/598383051_689337944260409_1416593257571598305_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jhNfAlnbfVgQ7kNvwFuUp18&_nc_oc=Adp2Sukpb32ibO-M9nvCP9qjkT2GOyNqwp4VnEGR1nE1yJ9uqKOpV5pbm4zMai_pL9w&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=CbGqYHG3ih_DziI0a5Y14Q&_nc_ss=79289&oh=00_AQSUyuBl9IAB6Hlxi4WkbVc8N0bYW26mQnubvG8mfwlV8g&oe=6AF11874",
-      "video_url": null,
-      "first_seen": "2026-11-04T15:30:05.555240+00:00",
-      "last_seen": "2026-11-04T15:30:05.555240+00:00",
-      "active_checked_at": "2026-11-04T15:30:05.555240+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "LK"
-      ]
-    },
-    {
-      "ad_id": "1106681462219845",
-      "product_name": "ඔබ ප ච ස රතල ට අවශ ය හ ම ද යක ම එකම ත න න",
-      "product_key": "unverified:1106681462219845",
-      "category": "other",
-      "advertiser": "V & L Baby Shop",
-      "source_country": "LK",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1106681462219845",
-      "landing_url": null,
-      "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/854930264_1280722074187895_8342808096209605627_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yN-E236rXSwQ7kNvwGHs2b4&_nc_oc=Adqta6Cn9XZbN2psQ-gk4LjdcaSB-T72MZd1-LFhHqGNBpjMmChZ_vZJOK2Dwv0Jk_0&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=CbGqYHG3ih_DziI0a5Y14Q&_nc_ss=79289&oh=00_AQSN16rk20B28joPSh4BPzWyW9DcQckevVpXYAsqdt5NyQ&oe=6AF11B51",
-      "video_url": null,
-      "first_seen": "2026-11-04T15:30:05.555240+00:00",
-      "last_seen": "2026-11-04T15:30:05.555240+00:00",
-      "active_checked_at": "2026-11-04T15:30:05.555240+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "LK"
-      ]
-    },
-    {
-      "ad_id": "28477012111963683",
-      "product_name": "thumbs-up store ய ழ ப ப ணம",
-      "product_key": "unverified:28477012111963683",
-      "category": "other",
-      "advertiser": "Thumbs-Up Store யாழ்ப்பாணம்",
-      "source_country": "LK",
-      "ad_url": "https://www.facebook.com/ads/library/?id=28477012111963683",
-      "landing_url": "https://fb.com/canvas_doc/1000833273023778",
-      "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/836437812_1442607701150047_2341974166054104850_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uivvykICDhwQ7kNvwF0sOPD&_nc_oc=AdpxvPguSaOg1BFUZ-mJj6moHBHaIWubrTFTJGcoPutjG-io21QNmdjX2ctIfK44uCI&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=CbGqYHG3ih_DziI0a5Y14Q&_nc_ss=79289&oh=00_AQQ2bIStB8_oZnOaPYj2Kt_y0JhDYauZwzY8ReaKvnXlVw&oe=6AF1349D",
-      "video_url": null,
-      "first_seen": "2026-11-04T15:30:05.555240+00:00",
-      "last_seen": "2026-11-04T15:30:05.555240+00:00",
-      "active_checked_at": "2026-11-04T15:30:05.555240+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "LK"
-      ]
-    },
-    {
-      "ad_id": "1623911422852503",
-      "product_name": "u home ඔබ න වසට අවශ ය ස යල ල එකම ත නක න",
-      "product_key": "unverified:1623911422852503",
-      "category": "other",
-      "advertiser": "Uhome Lanka",
-      "source_country": "LK",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1623911422852503",
-      "landing_url": "https://api.whatsapp.com/send",
-      "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/855071569_1343285014399175_3011505667240256704_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4tuuIuh6oNUQ7kNvwHCLFdq&_nc_oc=AdrZmNyuqi1HzfEUtv6GXlZG7mrRiBp7O5twXfX3PWtf_0YDb8HflQzqXThtUSSJAnk&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=CbGqYHG3ih_DziI0a5Y14Q&_nc_ss=79289&oh=00_AQS66VL_mhqvonP0cllQ5qlMdKuVCB4AtJswiEUpJM0xZQ&oe=6AF135A9",
-      "video_url": null,
-      "first_seen": "2026-11-04T15:30:05.555240+00:00",
-      "last_seen": "2026-11-04T15:30:05.555240+00:00",
-      "active_checked_at": "2026-11-04T15:30:05.555240+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "LK"
-      ]
-    },
-    {
-      "ad_id": "2190746921848420",
-      "product_name": "source power transmission on alibaba com alibaba com-world s leading b2b marketplace",
-      "product_key": "unverified:2190746921848420",
-      "category": "other",
-      "advertiser": "Alibaba.com",
-      "source_country": "SI",
-      "ad_url": "https://www.facebook.com/ads/library/?id=2190746921848420",
-      "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
-      "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/829099322_27648752181464605_4097998389518004801_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xmZas0EG-oQQ7kNvwE6YllV&_nc_oc=Ado-IF0DAZzUEHG6NCDw-NPhWxDet9dUvWRUAwEOvBH0obT27PryRtwXqxZq6c-GD4I&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=54xwsIeNPHAolm85GLF8VA&_nc_ss=79289&oh=00_AQTCP18ZldASx_UIQq1FB27ogMQ9QVKAv6IPpFBcs2bnvw&oe=6AF115A0",
-      "video_url": null,
-      "first_seen": "2026-11-04T15:30:05.555240+00:00",
-      "last_seen": "2026-11-04T15:30:05.555240+00:00",
-      "active_checked_at": "2026-11-04T15:30:05.555240+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "SI"
       ]
     }
   ]
