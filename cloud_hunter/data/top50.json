@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T18:35:51.322480+00:00",
+  "updated_at": "2026-11-06T19:44:08.567359+00:00",
   "minimum_active_ads": 21,
   "active_window_hours": 48,
   "categories": {
@@ -8,9 +8,9 @@
       {
         "name": "support stamina and heart health every day",
         "group_key": "title:support stamina and heart health every day",
-        "ad_count": 42,
-        "active_ads_observed": 42,
-        "advertiser_count": 8,
+        "ad_count": 43,
+        "active_ads_observed": 43,
+        "advertiser_count": 9,
         "countries": [
           "AE",
           "AT",
@@ -24,14 +24,34 @@
           "JP",
           "LT",
           "NL",
+          "NO",
           "PE",
           "PL",
           "PT",
           "SA",
           "SI"
         ],
-        "last_active_observation": "2026-11-06T18:35:51.322480+00:00",
+        "last_active_observation": "2026-11-06T19:44:08.567359+00:00",
         "ads": [
+          {
+            "ad_id": "834918403012073",
+            "product_name": "support stamina and heart health every day",
+            "product_key": "title:support stamina and heart health every day",
+            "category": "wellness",
+            "advertiser": "Cortisol Reset Project",
+            "source_country": "NO",
+            "ad_url": "https://www.facebook.com/ads/library/?id=834918403012073",
+            "landing_url": "https://track.tryrosabella.com/cdc16426-3e48-40a7-9fad-21098084f6cf",
+            "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/797744807_2300262004092928_815436538193422986_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vM3yitGL2JYQ7kNvwG7XIy9&_nc_oc=AdoyvgYdTs5k4QVvM6F3yS4gK52WQXp58GZK9fpTseNXVyY_TqobKPgyuJUQz8Uvp2U&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=owFsaoCkccICa72nOJCChw&_nc_ss=79289&oh=00_AQQHSijN8plTwuvSlT9XljKwClPcR_pIp546Tce-OeBDJw&oe=6AF410C3",
+            "video_url": null,
+            "first_seen": "2026-11-06T19:44:08.567359+00:00",
+            "last_seen": "2026-11-06T19:44:08.567359+00:00",
+            "active_checked_at": "2026-11-06T19:44:08.567359+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "NO"
+            ]
+          },
           {
             "ad_id": "3693847204097327",
             "product_name": "support stamina and heart health every day",
