@@ -1,37 +1,37 @@
 {
-  "timestamp_utc": "2026-11-06T08:57:41.003078+00:00",
+  "timestamp_utc": "2026-11-06T10:02:54.164510+00:00",
   "attempts": [
     {
-      "country": "AT",
-      "keyword": "duong toc",
-      "category": "beauty",
+      "country": "CO",
+      "keyword": "phone accessory",
+      "category": "electronics",
       "found": 30
     },
     {
-      "country": "GR",
-      "keyword": "dung cu nha bep",
-      "category": "kitchen",
-      "found": 24
+      "country": "TR",
+      "keyword": "wireless charger",
+      "category": "electronics",
+      "found": 29
     },
     {
-      "country": "EG",
-      "keyword": "organizador hogar",
-      "category": "home",
-      "found": 1
+      "country": "KZ",
+      "keyword": "smartwatch",
+      "category": "electronics",
+      "found": 30
     },
     {
-      "country": "SG",
-      "keyword": "cuidado cabello",
-      "category": "beauty",
+      "country": "US",
+      "keyword": "bluetooth headphones",
+      "category": "electronics",
       "found": 30
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 10,
-  "unique_active_ads_observed_last_48h": 2521,
+  "new_ads": 20,
+  "unique_active_ads_observed_last_48h": 2441,
   "qualifying_products": 1,
-  "groups_below_threshold_or_unverified": 2193,
+  "groups_below_threshold_or_unverified": 2126,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "ok",
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
