@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T19:28:16.310549+00:00",
+  "updated_at": "2026-11-07T20:11:46.015644+00:00",
   "minimum_active_ads": 21,
   "active_window_hours": 48,
   "categories": {
@@ -1026,7 +1026,458 @@
     "home": [],
     "kitchen": [],
     "electronics": [],
-    "fashion": [],
+    "fashion": [
+      {
+        "name": "source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
+        "group_key": "title:source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
+        "ad_count": 21,
+        "active_ads_observed": 21,
+        "advertiser_count": 1,
+        "countries": [
+          "AR",
+          "BR",
+          "CO",
+          "CZ",
+          "GR",
+          "IL",
+          "LT",
+          "PE",
+          "SA",
+          "SE",
+          "SI",
+          "UA"
+        ],
+        "last_active_observation": "2026-11-07T20:11:46.015644+00:00",
+        "ads": [
+          {
+            "ad_id": "1649707499897121",
+            "product_name": "source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "fashion",
+            "advertiser": "Alibaba.com",
+            "source_country": "UA",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1649707499897121",
+            "landing_url": "https://www.alibaba.com/product-detail/_1601245368687.html?src=cpm_fb&sub_channel=dpa&biz=trust_aiWholeSite&link_type=link&field=P4P_AD&comp_id=259942030&p4p_prod_id=1601245368687&p4p_campaign_id=386232509",
+            "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/827943901_1063602923169264_6420478296415402304_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3GmDHKTRdBkQ7kNvwGqTerq&_nc_oc=AdovA9Gw1bDmh_BETrf5E-DiDlPdy2NcXI_NuDPFMX4JDrUwjLhrRpwRnap8jwMITW8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=nG9GKuemaNDe0IGNAIE5HA&_nc_ss=79289&oh=00_AQRVdZYySfACd3iaP3kLxXI3hQtECf-qpAICdurUNYBI3A&oe=6AF530E5",
+            "video_url": null,
+            "first_seen": "2026-11-07T18:44:43.332882+00:00",
+            "last_seen": "2026-11-07T20:11:46.015644+00:00",
+            "active_checked_at": "2026-11-07T20:11:46.015644+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "LT",
+              "UA"
+            ]
+          },
+          {
+            "ad_id": "4377995642451255",
+            "product_name": "source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "fashion",
+            "advertiser": "Alibaba.com",
+            "source_country": "LT",
+            "ad_url": "https://www.facebook.com/ads/library/?id=4377995642451255",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/869975853_959575713483448_306187986283037444_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VtKtCps1-O4Q7kNvwEZyCRM&_nc_oc=AdpxV4Luuvsan7lA4KyWBMPzfP1-L7ayjLf2JbWkoHSznNiQdzEr7ikZDYg0G87vB9c&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=EoLuOzEml57kpuBOr8OtJA&_nc_ss=79289&oh=00_AQSaVA8PXf0Jb3HwBFnXVQ9TbRCZ22QqdT0rqYfKtUm_Zw&oe=6AF56A5B",
+            "video_url": null,
+            "first_seen": "2026-11-07T20:11:46.015644+00:00",
+            "last_seen": "2026-11-07T20:11:46.015644+00:00",
+            "active_checked_at": "2026-11-07T20:11:46.015644+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "LT"
+            ]
+          },
+          {
+            "ad_id": "1111689895051914",
+            "product_name": "source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "fashion",
+            "advertiser": "Alibaba.com",
+            "source_country": "UA",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1111689895051914",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/867179180_1136495889124109_8064812905469179972_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4WjMCRY4WXsQ7kNvwG0m1TF&_nc_oc=Adr4H6sA-bU6BqxbCzugSj610W48qdGXYr6Wl0fL6p_fG3_8h6SN42T7Tt9GjzK4B64&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=nG9GKuemaNDe0IGNAIE5HA&_nc_ss=79289&oh=00_AQSBcrQZQHX4Zll5AY5Qwvn9mwzfu08cxYaYWwdtIXJM5w&oe=6AF52D6F",
+            "video_url": null,
+            "first_seen": "2026-11-07T18:44:43.332882+00:00",
+            "last_seen": "2026-11-07T18:44:43.332882+00:00",
+            "active_checked_at": "2026-11-07T18:44:43.332882+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "UA"
+            ]
+          },
+          {
+            "ad_id": "2519004805540558",
+            "product_name": "source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "fashion",
+            "advertiser": "Alibaba.com",
+            "source_country": "UA",
+            "ad_url": "https://www.facebook.com/ads/library/?id=2519004805540558",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/867110481_2366774500752704_1385171010933945654_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ADTo1va9kyYQ7kNvwHH3AS8&_nc_oc=AdptfSj6kkS9kN_40LPWDK0Q-qkTmkQGi7a9zB9WOEorQKcIWTzpTB8y60JLug4gDH8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=nG9GKuemaNDe0IGNAIE5HA&_nc_ss=79289&oh=00_AQRn3VSzXzkYqnsxtn6d5U91_LmmKMrMKC7Os9uB6hMkSA&oe=6AF54B2C",
+            "video_url": null,
+            "first_seen": "2026-11-07T18:44:43.332882+00:00",
+            "last_seen": "2026-11-07T18:44:43.332882+00:00",
+            "active_checked_at": "2026-11-07T18:44:43.332882+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "UA"
+            ]
+          },
+          {
+            "ad_id": "1510930304196871",
+            "product_name": "source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "fashion",
+            "advertiser": "Alibaba.com",
+            "source_country": "SI",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1510930304196871",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/868405498_2257302275127509_3815757892510681157_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=a36Pbh5eOlwQ7kNvwE8zsHm&_nc_oc=Adp3xyYt9aRI0F3McBPOpX16uXf35OkPG-7H_Hm3YqtAvR9Fbx0jse__MS7Kgalep9I&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ScG7ymeP1ERefnGKV8zHmA&_nc_ss=79289&oh=00_AQSLzo-ho-LohzIpigRymV7bO-c8Ix2xBbfMBi3t5Qc6Jg&oe=6AF4A9BA",
+            "video_url": null,
+            "first_seen": "2026-11-07T09:25:16.817099+00:00",
+            "last_seen": "2026-11-07T12:25:29.619109+00:00",
+            "active_checked_at": "2026-11-07T12:25:29.619109+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "CO",
+              "SI"
+            ]
+          },
+          {
+            "ad_id": "2671779419908233",
+            "product_name": "source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "fashion",
+            "advertiser": "Alibaba.com",
+            "source_country": "CZ",
+            "ad_url": "https://www.facebook.com/ads/library/?id=2671779419908233",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/861854364_29242135352056841_4413869299687600315_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DlJ7CvCk4EYQ7kNvwG1ADun&_nc_oc=Adqma3Y0yi81CfrHMM-q9yUU_NWXXzlV6QYTVqtmUcL7bqOrHJeXvFY2yzcTE5fD3W4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=xaRPw1os-isboWpaPCbLhQ&_nc_ss=79289&oh=00_AQREOac0aDEquR9NysANkHpRcPwln0DXZAlELJWTK1eX-w&oe=6AF0F50A",
+            "video_url": null,
+            "first_seen": "2026-11-04T13:31:26.310970+00:00",
+            "last_seen": "2026-11-07T11:02:48.988310+00:00",
+            "active_checked_at": "2026-11-07T11:02:48.988310+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "AR",
+              "BR",
+              "CZ",
+              "GR",
+              "SA",
+              "SE",
+              "UA"
+            ]
+          },
+          {
+            "ad_id": "2571050816723636",
+            "product_name": "source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "fashion",
+            "advertiser": "Alibaba.com",
+            "source_country": "SE",
+            "ad_url": "https://www.facebook.com/ads/library/?id=2571050816723636",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/864143180_1824853198848113_7494111480764717660_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7DSOOxmhsagQ7kNvwEZAk65&_nc_oc=AdpTRUfT2eolDjlqiADeB0J16AjC_TFubpPpmGoQUkzQJ2nrvei__PtTx_bsdlAW_e8&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=oJh4yRcRjKyo8qguESVitA&_nc_ss=79289&oh=00_AQRo-ipxJlfyms0QTXcjWMD1_l6fJPtg1lllfd2bpqMy0Q&oe=6AF23960",
+            "video_url": null,
+            "first_seen": "2026-11-05T11:05:12.959382+00:00",
+            "last_seen": "2026-11-07T11:02:48.988310+00:00",
+            "active_checked_at": "2026-11-07T11:02:48.988310+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "GR",
+              "SE",
+              "UA"
+            ]
+          },
+          {
+            "ad_id": "1721973749286440",
+            "product_name": "source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "fashion",
+            "advertiser": "Alibaba.com",
+            "source_country": "SE",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1721973749286440",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/867729197_981190541116789_4584788731493044441_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=j_AO-Vol5aYQ7kNvwGBHGd3&_nc_oc=Ado0Mh_WgDEIHjanRPOD26kAeyzpT1WNHuQgji9MEI3SuxpZGk_p-jvqM_QYadI2zVw&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=oJh4yRcRjKyo8qguESVitA&_nc_ss=79289&oh=00_AQQXQ5UfTGXR92cKfA7nF81zcr7yCkaxigSXNu0ifIyDGA&oe=6AF225E4",
+            "video_url": null,
+            "first_seen": "2026-11-05T11:05:12.959382+00:00",
+            "last_seen": "2026-11-07T11:02:48.988310+00:00",
+            "active_checked_at": "2026-11-07T11:02:48.988310+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "GR",
+              "SE",
+              "UA"
+            ]
+          },
+          {
+            "ad_id": "2436822080181106",
+            "product_name": "source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "fashion",
+            "advertiser": "Alibaba.com",
+            "source_country": "SE",
+            "ad_url": "https://www.facebook.com/ads/library/?id=2436822080181106",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/868158157_1433908732274602_3868925197167288401_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NlO7LCbnvCAQ7kNvwFB7iD1&_nc_oc=AdqMgDbhuQjLKcNNCCVuc2iNNNGeO8cD1KJ6hZG-oi3lMUKxEWr33bdeTZskA14T0hw&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=oJh4yRcRjKyo8qguESVitA&_nc_ss=79289&oh=00_AQTjq6afyQDUhligQM26-bcv7Cx1WpHhyZ_tKhD6giInlw&oe=6AF22F18",
+            "video_url": null,
+            "first_seen": "2026-11-05T11:05:12.959382+00:00",
+            "last_seen": "2026-11-07T11:02:48.988310+00:00",
+            "active_checked_at": "2026-11-07T11:02:48.988310+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "GR",
+              "SE",
+              "UA"
+            ]
+          },
+          {
+            "ad_id": "2212809206286054",
+            "product_name": "source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "fashion",
+            "advertiser": "Alibaba.com",
+            "source_country": "SE",
+            "ad_url": "https://www.facebook.com/ads/library/?id=2212809206286054",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/868223663_1098002606415351_2694207847829090433_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=adDVFoeXvbIQ7kNvwHCEOg7&_nc_oc=Adq7TC3nM8lXkF62LrtoSHLTZKiKZZknyHUusC0eU7vwTfNbaLmKcQoRqhdNlmz4-ZI&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=oJh4yRcRjKyo8qguESVitA&_nc_ss=79289&oh=00_AQQV58yUShqze59lWJcje_4QYB8s2IaGYMKH-jFCGuteQg&oe=6AF222AB",
+            "video_url": null,
+            "first_seen": "2026-11-05T11:05:12.959382+00:00",
+            "last_seen": "2026-11-07T11:02:48.988310+00:00",
+            "active_checked_at": "2026-11-07T11:02:48.988310+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "GR",
+              "SE",
+              "UA"
+            ]
+          },
+          {
+            "ad_id": "1391161976155473",
+            "product_name": "source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "fashion",
+            "advertiser": "Alibaba.com",
+            "source_country": "SE",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1391161976155473",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/875501161_1656413015947514_7310299486904318263_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2FnBjvAzo7UQ7kNvwFbawst&_nc_oc=AdqCIAzrN5YMHdYSfnX6JOOTad68FZSzmKYlLvMq5qGDvoR7Ut8-I6NC6L-FLc7uYHA&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=oJh4yRcRjKyo8qguESVitA&_nc_ss=79289&oh=00_AQTlo3j73_uYwPV6de-_o5jaTjf4x83ryZsOBtt8J7AHKw&oe=6AF21FD4",
+            "video_url": null,
+            "first_seen": "2026-11-05T11:05:12.959382+00:00",
+            "last_seen": "2026-11-07T11:02:48.988310+00:00",
+            "active_checked_at": "2026-11-07T11:02:48.988310+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "GR",
+              "SE",
+              "UA"
+            ]
+          },
+          {
+            "ad_id": "1136119328808008",
+            "product_name": "source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "fashion",
+            "advertiser": "Alibaba.com",
+            "source_country": "UA",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1136119328808008",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/872987650_3048438902172392_3257580146880266231_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_NOWPxeP_o8Q7kNvwHdMva7&_nc_oc=AdoIG2WuQ4kb5RJ1LZWYePiJzmnrAnhLzh5ndLM2aJiiGDbIbNGjyFxBmiFgG4HXRrM&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=zso8mR6R-wyU-v5c5B7wsg&_nc_ss=79289&oh=00_AQTXdjFcgvbyP-dSYSCxWGHeBYKAZux4dO17EmaR6HgFkA&oe=6AF38DD2",
+            "video_url": null,
+            "first_seen": "2026-11-06T11:03:07.266734+00:00",
+            "last_seen": "2026-11-07T11:02:48.988310+00:00",
+            "active_checked_at": "2026-11-07T11:02:48.988310+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "GR",
+              "UA"
+            ]
+          },
+          {
+            "ad_id": "972073328795693",
+            "product_name": "source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "fashion",
+            "advertiser": "Alibaba.com",
+            "source_country": "UA",
+            "ad_url": "https://www.facebook.com/ads/library/?id=972073328795693",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/867290595_2904550686604432_7514020348876764536_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=D0iYrljy7H8Q7kNvwGsDtzq&_nc_oc=Adox3nfQnXg9n39iRNAwhOGJm991jN82zBHluG5DRAosEPV--Q3Wnl_nRPPoqxUKX0o&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=zso8mR6R-wyU-v5c5B7wsg&_nc_ss=79289&oh=00_AQRNNlo7chcnhfitjkIfnYnxjvL_dPexdlLnVKSZlOorbg&oe=6AF38B9F",
+            "video_url": null,
+            "first_seen": "2026-11-06T11:03:07.266734+00:00",
+            "last_seen": "2026-11-07T11:02:48.988310+00:00",
+            "active_checked_at": "2026-11-07T11:02:48.988310+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "GR",
+              "UA"
+            ]
+          },
+          {
+            "ad_id": "2314957462690245",
+            "product_name": "source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "fashion",
+            "advertiser": "Alibaba.com",
+            "source_country": "GR",
+            "ad_url": "https://www.facebook.com/ads/library/?id=2314957462690245",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/866669656_1424812789855853_2733097499846066046_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=t9EHkrtyVAMQ7kNvwGWUW0T&_nc_oc=Adpt2tgXpEuThVxQh22RRAxA7HQeTBUn7ugsNYULrDjTnN0bRY1LB5RxFyyCmerrPy8&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=kfqaWWeZba21SnIrLiGb0Q&_nc_ss=79289&oh=00_AQRip2TSXSwWqziCao1pOI3gO2joc7kvmY1ungIslwBvJA&oe=6AF4D0DC",
+            "video_url": null,
+            "first_seen": "2026-11-07T11:02:48.988310+00:00",
+            "last_seen": "2026-11-07T11:02:48.988310+00:00",
+            "active_checked_at": "2026-11-07T11:02:48.988310+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "GR"
+            ]
+          },
+          {
+            "ad_id": "1635360524697531",
+            "product_name": "source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "fashion",
+            "advertiser": "Alibaba.com",
+            "source_country": "SE",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1635360524697531",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/876600154_4476190695930988_4777086464335934378_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JI3_12ROdhEQ7kNvwFE_8V-&_nc_oc=AdrSG-jwVh7dbvjcDMJU4rPJu5S0s_t7fu7IRGsBDyOEUAgQItNnrsKDQ6F-8UzHPCA&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=oJh4yRcRjKyo8qguESVitA&_nc_ss=79289&oh=00_AQSnaaDrSRvqslfuxQxSXS2RzCh5pXs6vC_DLxj9lEi9_w&oe=6AF23BAD",
+            "video_url": null,
+            "first_seen": "2026-11-05T11:05:12.959382+00:00",
+            "last_seen": "2026-11-06T11:03:07.266734+00:00",
+            "active_checked_at": "2026-11-06T11:03:07.266734+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "SE",
+              "UA"
+            ]
+          },
+          {
+            "ad_id": "4823217117936452",
+            "product_name": "source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "fashion",
+            "advertiser": "Alibaba.com",
+            "source_country": "PE",
+            "ad_url": "https://www.facebook.com/ads/library/?id=4823217117936452",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=57&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/825278879_1446098570774851_2978919954474923191_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DCcJlwtvzHYQ7kNvwHX-FKK&_nc_oc=Ado7-Kq5G8NN1BZK1MsE9Sws3BfrNwUVqZQKEjCVty7apxKuTmEI0N3DvpotqOBJBTg&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=aCkutQwoewCzLPQYLoeTzw&_nc_ss=79289&oh=00_AQQgC2xy4SqXl4MeuGF_3R2xb_BVZw0F7U-Dm2T2Z8aZvQ&oe=6AF0F3C6",
+            "video_url": null,
+            "first_seen": "2026-11-04T11:14:54.474317+00:00",
+            "last_seen": "2026-11-06T11:03:07.266734+00:00",
+            "active_checked_at": "2026-11-06T11:03:07.266734+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "IL",
+              "PE"
+            ]
+          },
+          {
+            "ad_id": "1315430390636145",
+            "product_name": "source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "fashion",
+            "advertiser": "Alibaba.com",
+            "source_country": "PE",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1315430390636145",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/861234975_3708687139307694_2065525373305264452_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=t5ZyTnRjXNsQ7kNvwGdQ80F&_nc_oc=Adp9oRYSSLvEj0NP6qug1e4h4BOmcSt9FzpfaWL8m8sOOmS0mPT8uM70tP1tlK1PUjo&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=aCkutQwoewCzLPQYLoeTzw&_nc_ss=79289&oh=00_AQR0SL4ecEgcepbJ0kTeakB1JBr5TxpIQZO7BcjDJ0BDjA&oe=6AF0CA93",
+            "video_url": null,
+            "first_seen": "2026-11-04T11:14:54.474317+00:00",
+            "last_seen": "2026-11-06T11:03:07.266734+00:00",
+            "active_checked_at": "2026-11-06T11:03:07.266734+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "IL",
+              "PE"
+            ]
+          },
+          {
+            "ad_id": "1058718513885512",
+            "product_name": "source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "fashion",
+            "advertiser": "Alibaba.com",
+            "source_country": "PE",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1058718513885512",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/866979824_3752686254898365_3824207256965780298_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_l2dJ8qBYm8Q7kNvwFlSPqF&_nc_oc=Adput5ZLYYJHEyZBpPzoCRM9dqZiI_oXf5-1lphXNt5KioLYJ4A-knX9NzXaWufNqLE&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=aCkutQwoewCzLPQYLoeTzw&_nc_ss=79289&oh=00_AQS2TwqStkWkIGsgyecSh-IeRkz0KiIUn7w9UhgnW6ZwiQ&oe=6AF0DA64",
+            "video_url": null,
+            "first_seen": "2026-11-04T11:14:54.474317+00:00",
+            "last_seen": "2026-11-06T11:03:07.266734+00:00",
+            "active_checked_at": "2026-11-06T11:03:07.266734+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "IL",
+              "PE"
+            ]
+          },
+          {
+            "ad_id": "4703486309895223",
+            "product_name": "source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "fashion",
+            "advertiser": "Alibaba.com",
+            "source_country": "PE",
+            "ad_url": "https://www.facebook.com/ads/library/?id=4703486309895223",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/871223773_940244985596205_8727963058944043401_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=13grsB7ys2kQ7kNvwHvIFtL&_nc_oc=AdoxdBlT7GmR6eZHFkoSKRw1jcRPf0lAdLH2VTioviYYLaIprN6CSyvGZ70dSoWCi1I&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=aCkutQwoewCzLPQYLoeTzw&_nc_ss=79289&oh=00_AQTT9sECIG087Mi31iIYlu0tygHPlaqs2spsIyox3X5-6w&oe=6AF0E0AD",
+            "video_url": null,
+            "first_seen": "2026-11-04T11:14:54.474317+00:00",
+            "last_seen": "2026-11-06T11:03:07.266734+00:00",
+            "active_checked_at": "2026-11-06T11:03:07.266734+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "IL",
+              "PE"
+            ]
+          },
+          {
+            "ad_id": "1678167540423333",
+            "product_name": "source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "fashion",
+            "advertiser": "Alibaba.com",
+            "source_country": "PE",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1678167540423333",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/870828681_2893217784382532_2616877693093881965_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PmgQI2wUMXUQ7kNvwG-UYV-&_nc_oc=AdqTzWfrgLBb9klCOLZMgCDd5rnRsZwniy36lScEoxSSoqjxzUjqpQ0m9eLjZSQRZt0&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=aCkutQwoewCzLPQYLoeTzw&_nc_ss=79289&oh=00_AQS4APzWShB01d1yBvC38_Vs1r2w3xy6ljPwa8UWsFlrLg&oe=6AF0F78E",
+            "video_url": null,
+            "first_seen": "2026-11-04T11:14:54.474317+00:00",
+            "last_seen": "2026-11-06T11:03:07.266734+00:00",
+            "active_checked_at": "2026-11-06T11:03:07.266734+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "IL",
+              "PE"
+            ]
+          },
+          {
+            "ad_id": "1882863356414257",
+            "product_name": "source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "fashion",
+            "advertiser": "Alibaba.com",
+            "source_country": "UA",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1882863356414257",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/885614078_2275731079945505_5636140079434758985_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uLCmDTAvO3QQ7kNvwE2Fh3y&_nc_oc=AdrlB6MRBfvKSburuu0JI1elN5NAkPGaKHRiLsv-hNi6bdUtbobkFGlI9bXJLidvm-U&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=zso8mR6R-wyU-v5c5B7wsg&_nc_ss=79289&oh=00_AQSm0J5zeCzS9myiymlwIv789YnePNpCGxmytUms7Qv8JQ&oe=6AF38417",
+            "video_url": null,
+            "first_seen": "2026-11-06T11:03:07.266734+00:00",
+            "last_seen": "2026-11-06T11:03:07.266734+00:00",
+            "active_checked_at": "2026-11-06T11:03:07.266734+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "UA"
+            ]
+          }
+        ],
+        "verification": "Approximate product identity, never ad-set count or verified sales"
+      }
+    ],
     "baby": [],
     "sport": [],
     "vehicle": [],
