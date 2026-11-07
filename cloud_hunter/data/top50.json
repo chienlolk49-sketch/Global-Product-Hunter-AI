@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T20:57:52.299615+00:00",
+  "updated_at": "2026-11-07T21:38:41.522896+00:00",
   "minimum_active_ads": 21,
   "active_window_hours": 48,
   "categories": {
@@ -31,7 +31,7 @@
           "SA",
           "SI"
         ],
-        "last_active_observation": "2026-11-07T18:44:43.332882+00:00",
+        "last_active_observation": "2026-11-07T21:38:41.522896+00:00",
         "ads": [
           {
             "ad_id": "3693847204097327",
@@ -45,8 +45,8 @@
             "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/791512647_1829904285028374_2230006781502496913_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-nwQAllY9VUQ7kNvwEw6rT8&_nc_oc=AdqX5qHU9h9jWxfxvA3sVi1ZR78ZZN2gjBoOSwyp_GK-Yb6rq98F9SpHEAUrh7X9THQ&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=JcjTc8_e45NSJHObNIR3Nw&_nc_ss=79289&oh=00_AQREO3LbHY8BnEDH6owcbH9y9hPuMiMTZDazsqmOCnXQNA&oe=6AEB6EFC",
             "video_url": null,
             "first_seen": "2026-10-31T09:40:51.015951+00:00",
-            "last_seen": "2026-11-07T18:44:43.332882+00:00",
-            "active_checked_at": "2026-11-07T18:44:43.332882+00:00",
+            "last_seen": "2026-11-07T21:38:41.522896+00:00",
+            "active_checked_at": "2026-11-07T21:38:41.522896+00:00",
             "is_active_observed": true,
             "source_countries": [
               "AT",
@@ -69,8 +69,8 @@
             "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/796895983_1011501851992657_7396688702595271645_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UMsiQuwkseEQ7kNvwFA8ss8&_nc_oc=AdooiAjusyyxqHxJLLSw8XRle-M0a2uSa7zBy_KitMEN-t3VqvYffgSp_7EYNKcatkk&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=0GD5FDBjt0qFYBVlTgpOgg&_nc_ss=79289&oh=00_AQR3XJMNeNO-Yg8yrb8QiKR2JU92eHBUSynIcbnn7kjhJQ&oe=6AF1755E",
             "video_url": null,
             "first_seen": "2026-11-04T21:31:41.402776+00:00",
-            "last_seen": "2026-11-07T18:44:43.332882+00:00",
-            "active_checked_at": "2026-11-07T18:44:43.332882+00:00",
+            "last_seen": "2026-11-07T21:38:41.522896+00:00",
+            "active_checked_at": "2026-11-07T21:38:41.522896+00:00",
             "is_active_observed": true,
             "source_countries": [
               "AT",
