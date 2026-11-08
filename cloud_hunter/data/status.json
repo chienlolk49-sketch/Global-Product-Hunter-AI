@@ -1,37 +1,37 @@
 {
-  "timestamp_utc": "2026-11-08T20:56:55.757037+00:00",
+  "timestamp_utc": "2026-11-08T21:38:11.542978+00:00",
   "attempts": [
     {
-      "country": "IL",
-      "keyword": "duong toc",
-      "category": "beauty",
+      "country": "CN",
+      "keyword": "cleaning tool",
+      "category": "home",
       "found": 30
     },
     {
-      "country": "UA",
-      "keyword": "dung cu nha bep",
-      "category": "kitchen",
-      "found": 22
-    },
-    {
-      "country": "GB",
-      "keyword": "organizador hogar",
+      "country": "CR",
+      "keyword": "home organizer",
       "category": "home",
-      "found": 5
+      "found": 30
     },
     {
-      "country": "PT",
-      "keyword": "cuidado cabello",
-      "category": "beauty",
+      "country": "IT",
+      "keyword": "storage solution",
+      "category": "home",
+      "found": 30
+    },
+    {
+      "country": "PL",
+      "keyword": "vacuum cleaner",
+      "category": "home",
       "found": 30
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 20,
-  "unique_active_ads_observed_last_48h": 2567,
+  "new_ads": 53,
+  "unique_active_ads_observed_last_48h": 2579,
   "qualifying_products": 2,
-  "groups_below_threshold_or_unverified": 2285,
+  "groups_below_threshold_or_unverified": 2293,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "ok",
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
