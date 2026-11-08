@@ -1,37 +1,37 @@
 {
-  "timestamp_utc": "2026-11-08T22:58:54.785617+00:00",
+  "timestamp_utc": "2026-11-08T23:38:13.553552+00:00",
   "attempts": [
     {
-      "country": "FR",
-      "keyword": "workout bands",
-      "category": "sport",
+      "country": "PT",
+      "keyword": "plant accessories",
+      "category": "garden",
+      "found": 20
+    },
+    {
+      "country": "SK",
+      "keyword": "coffee",
+      "category": "food",
       "found": 30
     },
     {
-      "country": "BE",
-      "keyword": "car accessories",
-      "category": "vehicle",
+      "country": "ZA",
+      "keyword": "healthy snacks",
+      "category": "food",
       "found": 30
     },
     {
-      "country": "RO",
-      "keyword": "car cleaning",
-      "category": "vehicle",
-      "found": 30
-    },
-    {
-      "country": "KE",
-      "keyword": "motorcycle accessory",
-      "category": "vehicle",
-      "found": 28
+      "country": "BD",
+      "keyword": "tea",
+      "category": "food",
+      "found": 29
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 66,
-  "unique_active_ads_observed_last_48h": 2554,
+  "new_ads": 24,
+  "unique_active_ads_observed_last_48h": 2534,
   "qualifying_products": 2,
-  "groups_below_threshold_or_unverified": 2280,
+  "groups_below_threshold_or_unverified": 2268,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "ok",
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
