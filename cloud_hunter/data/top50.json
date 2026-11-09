@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T02:39:25.423899+00:00",
+  "updated_at": "2026-11-09T03:39:22.241442+00:00",
   "minimum_active_ads": 21,
   "active_window_hours": 48,
   "categories": {
@@ -8,8 +8,8 @@
       {
         "name": "support stamina and heart health every day",
         "group_key": "title:support stamina and heart health every day",
-        "ad_count": 31,
-        "active_ads_observed": 31,
+        "ad_count": 36,
+        "active_ads_observed": 36,
         "advertiser_count": 8,
         "countries": [
           "AE",
@@ -30,7 +30,7 @@
           "SA",
           "SI"
         ],
-        "last_active_observation": "2026-11-08T21:38:11.542978+00:00",
+        "last_active_observation": "2026-11-09T03:39:22.241442+00:00",
         "ads": [
           {
             "ad_id": "28596616316690428",
@@ -44,8 +44,8 @@
             "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/825286340_1562102505224646_6614485958974632269_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Fb1TvYZEkAgQ7kNvwGB5lt7&_nc_oc=AdrwD0sTJL3d9sWki3Jk4Z00JuVQalT45bJPAiGjXnZB9nr5PgbU9x0i9izvwUkEV74&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=x6u5W1FQ0j3-CIC_DwP1lA&_nc_ss=79289&oh=00_AQToZf6hicWjuGwH4XPiON10528sU20g1NV-pEIsn-XqyQ&oe=6AEB97C5",
             "video_url": null,
             "first_seen": "2026-10-31T09:40:51.015951+00:00",
-            "last_seen": "2026-11-08T21:38:11.542978+00:00",
-            "active_checked_at": "2026-11-08T21:38:11.542978+00:00",
+            "last_seen": "2026-11-09T03:39:22.241442+00:00",
+            "active_checked_at": "2026-11-09T03:39:22.241442+00:00",
             "is_active_observed": true,
             "source_countries": [
               "AE",
@@ -68,8 +68,8 @@
             "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/811028550_3587386728075555_7869916144403769915_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=T8b1F5IKixYQ7kNvwGHLn13&_nc_oc=AdpQ726jURKFgyfwnBenz0eueBNdlRsF2cbod68xEI71NqahwSs5-bX8kfh9MNmkd8Q&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=x6u5W1FQ0j3-CIC_DwP1lA&_nc_ss=79289&oh=00_AQS_MVz2TOzGBMfCPQy3p6XKbQYCAvH4L8Snsp6Pm8LU8g&oe=6AEB8E52",
             "video_url": null,
             "first_seen": "2026-10-31T09:40:51.015951+00:00",
-            "last_seen": "2026-11-08T21:38:11.542978+00:00",
-            "active_checked_at": "2026-11-08T21:38:11.542978+00:00",
+            "last_seen": "2026-11-09T03:39:22.241442+00:00",
+            "active_checked_at": "2026-11-09T03:39:22.241442+00:00",
             "is_active_observed": true,
             "source_countries": [
               "AE",
@@ -92,8 +92,8 @@
             "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/825278922_1138771495488567_7170780211516596682_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=r8ebnSkPjAAQ7kNvwFAG3cv&_nc_oc=AdqWa-cbolxt3wZk8lcNZoufkykTunhbXX3nckBsgGfxoiv5lUcYaeRVn2JDhg9SCAE&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=x6u5W1FQ0j3-CIC_DwP1lA&_nc_ss=79289&oh=00_AQRp2q2xJGIJrQkjrO5r8ZZ2jcpNqOu64X6LymvdDSIqiQ&oe=6AEB8265",
             "video_url": null,
             "first_seen": "2026-10-31T09:40:51.015951+00:00",
-            "last_seen": "2026-11-08T21:38:11.542978+00:00",
-            "active_checked_at": "2026-11-08T21:38:11.542978+00:00",
+            "last_seen": "2026-11-09T03:39:22.241442+00:00",
+            "active_checked_at": "2026-11-09T03:39:22.241442+00:00",
             "is_active_observed": true,
             "source_countries": [
               "AE",
@@ -116,8 +116,8 @@
             "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/810813791_1035850899421928_3583825391781550233_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BqD439FV0O0Q7kNvwFyHBZE&_nc_oc=AdqexkGIC_S794EMLQsqusGj_QY0WBqESnMpHeFkrbqXttDkt35lpjC8ilC4Vt2E6nQ&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=x6u5W1FQ0j3-CIC_DwP1lA&_nc_ss=79289&oh=00_AQQIyY3NdNWReOVoEvaR2asYHoZBeDr9qcECIU4TJt5dQQ&oe=6AEB9746",
             "video_url": null,
             "first_seen": "2026-10-31T09:40:51.015951+00:00",
-            "last_seen": "2026-11-08T21:38:11.542978+00:00",
-            "active_checked_at": "2026-11-08T21:38:11.542978+00:00",
+            "last_seen": "2026-11-09T03:39:22.241442+00:00",
+            "active_checked_at": "2026-11-09T03:39:22.241442+00:00",
             "is_active_observed": true,
             "source_countries": [
               "AE",
@@ -140,8 +140,8 @@
             "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/810813690_1402427984593875_8105807881152293293_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=osAf03LAoT8Q7kNvwEl4DYe&_nc_oc=AdozTXEIkIOFlOdiPzcavmI3SiaQaRhexZcIcAEbR9vCxfZckxUCDijNACkQ_tp_Z9U&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=x6u5W1FQ0j3-CIC_DwP1lA&_nc_ss=79289&oh=00_AQR536Y9WQeMTD653ezk-L-lGqKkvbEh0LxNiJcYxOIfvw&oe=6AEB873D",
             "video_url": null,
             "first_seen": "2026-10-31T09:40:51.015951+00:00",
-            "last_seen": "2026-11-08T21:38:11.542978+00:00",
-            "active_checked_at": "2026-11-08T21:38:11.542978+00:00",
+            "last_seen": "2026-11-09T03:39:22.241442+00:00",
+            "active_checked_at": "2026-11-09T03:39:22.241442+00:00",
             "is_active_observed": true,
             "source_countries": [
               "AE",
@@ -164,8 +164,8 @@
             "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/791512647_1829904285028374_2230006781502496913_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-nwQAllY9VUQ7kNvwEw6rT8&_nc_oc=AdqX5qHU9h9jWxfxvA3sVi1ZR78ZZN2gjBoOSwyp_GK-Yb6rq98F9SpHEAUrh7X9THQ&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=JcjTc8_e45NSJHObNIR3Nw&_nc_ss=79289&oh=00_AQREO3LbHY8BnEDH6owcbH9y9hPuMiMTZDazsqmOCnXQNA&oe=6AEB6EFC",
             "video_url": null,
             "first_seen": "2026-10-31T09:40:51.015951+00:00",
-            "last_seen": "2026-11-08T18:44:02.309937+00:00",
-            "active_checked_at": "2026-11-08T18:44:02.309937+00:00",
+            "last_seen": "2026-11-09T03:39:22.241442+00:00",
+            "active_checked_at": "2026-11-09T03:39:22.241442+00:00",
             "is_active_observed": true,
             "source_countries": [
               "AT",
@@ -188,8 +188,8 @@
             "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/796895983_1011501851992657_7396688702595271645_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UMsiQuwkseEQ7kNvwFA8ss8&_nc_oc=AdooiAjusyyxqHxJLLSw8XRle-M0a2uSa7zBy_KitMEN-t3VqvYffgSp_7EYNKcatkk&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=0GD5FDBjt0qFYBVlTgpOgg&_nc_ss=79289&oh=00_AQR3XJMNeNO-Yg8yrb8QiKR2JU92eHBUSynIcbnn7kjhJQ&oe=6AF1755E",
             "video_url": null,
             "first_seen": "2026-11-04T21:31:41.402776+00:00",
-            "last_seen": "2026-11-08T15:38:22.560697+00:00",
-            "active_checked_at": "2026-11-08T15:38:22.560697+00:00",
+            "last_seen": "2026-11-09T03:39:22.241442+00:00",
+            "active_checked_at": "2026-11-09T03:39:22.241442+00:00",
             "is_active_observed": true,
             "source_countries": [
               "AT",
@@ -211,8 +211,8 @@
             "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/828164523_1610016617515072_8326348692009205078_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hU5I9LP_-lEQ7kNvwEA9eYv&_nc_oc=AdomdevLIFjzFyftd05gqR1DCYzjTK8jPKBEEJpuCdzFr0JWL0RLzQ3O0IEVP1v1NAo&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=x6u5W1FQ0j3-CIC_DwP1lA&_nc_ss=79289&oh=00_AQRiswhsAyb3_e6UKm2cN1B-cR3ThDGzwjldOGRRFIQaUw&oe=6AEB92AB",
             "video_url": null,
             "first_seen": "2026-10-31T09:40:51.015951+00:00",
-            "last_seen": "2026-11-08T15:38:22.560697+00:00",
-            "active_checked_at": "2026-11-08T15:38:22.560697+00:00",
+            "last_seen": "2026-11-09T03:39:22.241442+00:00",
+            "active_checked_at": "2026-11-09T03:39:22.241442+00:00",
             "is_active_observed": true,
             "source_countries": [
               "AE",
@@ -235,8 +235,8 @@
             "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/829356811_1404204841822166_5416093194403585643_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hxx7b8KG6oYQ7kNvwHeZ3gE&_nc_oc=Adq4YyziExusybJhkETx76z9pMBKYWx0ynz20ZUE7uqBYya-i0Y0FXgK-7kjkeA0xoI&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=x6u5W1FQ0j3-CIC_DwP1lA&_nc_ss=79289&oh=00_AQQpaqXEqWw-1XxskmgxnWGPyZPCDfblshCevjV_Wu-x4A&oe=6AEB8471",
             "video_url": null,
             "first_seen": "2026-10-31T09:40:51.015951+00:00",
-            "last_seen": "2026-11-08T15:38:22.560697+00:00",
-            "active_checked_at": "2026-11-08T15:38:22.560697+00:00",
+            "last_seen": "2026-11-09T03:39:22.241442+00:00",
+            "active_checked_at": "2026-11-09T03:39:22.241442+00:00",
             "is_active_observed": true,
             "source_countries": [
               "AE",
@@ -259,10 +259,11 @@
             "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/811830277_1383914817234776_6032804493516511052_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=g8ozGZ5xaPwQ7kNvwFezCAL&_nc_oc=Adqh9yUPRcLn_hZynTZEZLt89FlYZKcSqeku_1NGMr6kFGg7bY__lP1drJ2u-DE58OY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=Db1fXYDfD-hPBLAtJfNFBA&_nc_ss=79289&oh=00_AQRoAKVcF7gvDrCkeSVmUblrNtmZ-FvSHhsUvM5rrrCXdw&oe=6AF54ACB",
             "video_url": null,
             "first_seen": "2026-11-07T18:44:43.332882+00:00",
-            "last_seen": "2026-11-08T15:38:22.560697+00:00",
-            "active_checked_at": "2026-11-08T15:38:22.560697+00:00",
+            "last_seen": "2026-11-09T03:39:22.241442+00:00",
+            "active_checked_at": "2026-11-09T03:39:22.241442+00:00",
             "is_active_observed": true,
             "source_countries": [
+              "CO",
               "PT"
             ]
           },
@@ -278,10 +279,11 @@
             "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/825329789_995924173527580_35220248580247418_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UGKSHv4MNhYQ7kNvwEkNVNh&_nc_oc=AdpjmswzCXnxS33QaHhM7LJJRRlVgD4vDO6kqH3w_FpgOjkyT7dy8nkCoCU742wo5Ho&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Db1fXYDfD-hPBLAtJfNFBA&_nc_ss=79289&oh=00_AQRsYZsfppq7QBYVb62mBsqga647FMaN5cobDZfg4Dxxkw&oe=6AF550B0",
             "video_url": null,
             "first_seen": "2026-11-07T18:44:43.332882+00:00",
-            "last_seen": "2026-11-08T15:38:22.560697+00:00",
-            "active_checked_at": "2026-11-08T15:38:22.560697+00:00",
+            "last_seen": "2026-11-09T03:39:22.241442+00:00",
+            "active_checked_at": "2026-11-09T03:39:22.241442+00:00",
             "is_active_observed": true,
             "source_countries": [
+              "CO",
               "PT"
             ]
           },
@@ -297,10 +299,11 @@
             "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/829004307_2330876854349616_4103182542423222397_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BXIfSgeWVewQ7kNvwGXsi4m&_nc_oc=AdpgPHvOqcW5vzZQnAm7-iRsXvoBbT9aXNrlO-Fyl9o5GQCPPCJm52lpI0UcVxX9lLI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=Db1fXYDfD-hPBLAtJfNFBA&_nc_ss=79289&oh=00_AQSTnkyWYwnxnKLNP58a_OuwSGZF7Lx9rh8F6AOtyvaJmQ&oe=6AF53924",
             "video_url": null,
             "first_seen": "2026-11-07T18:44:43.332882+00:00",
-            "last_seen": "2026-11-08T15:38:22.560697+00:00",
-            "active_checked_at": "2026-11-08T15:38:22.560697+00:00",
+            "last_seen": "2026-11-09T03:39:22.241442+00:00",
+            "active_checked_at": "2026-11-09T03:39:22.241442+00:00",
             "is_active_observed": true,
             "source_countries": [
+              "CO",
               "PT"
             ]
           },
@@ -316,10 +319,11 @@
             "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/829324819_1641335314216969_8162246074148772136_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=aoP-4p5MX6sQ7kNvwEAzHVs&_nc_oc=AdrXQsJVdX2P87R408680nPQZJQ9oRCwPDrilws84trmcj5aA0IDkGMmbthGF1sGnKI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Db1fXYDfD-hPBLAtJfNFBA&_nc_ss=79289&oh=00_AQSWwt2B2_tzUQqPTyHOy8UL4_E9kXddVAcSviSzXLCMGg&oe=6AF54125",
             "video_url": null,
             "first_seen": "2026-11-07T18:44:43.332882+00:00",
-            "last_seen": "2026-11-08T15:38:22.560697+00:00",
-            "active_checked_at": "2026-11-08T15:38:22.560697+00:00",
+            "last_seen": "2026-11-09T03:39:22.241442+00:00",
+            "active_checked_at": "2026-11-09T03:39:22.241442+00:00",
             "is_active_observed": true,
             "source_countries": [
+              "CO",
               "PT"
             ]
           },
@@ -335,8 +339,8 @@
             "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/808397627_1082489277606822_5116896826893374786_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6exZlQaMmFcQ7kNvwG89gc5&_nc_oc=AdqcNcx3DD3JL-whTUKxLaZDunmbQTAZzerDMf0j_chGDjQXFGlMjBJMXxm4cZfjr0c&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=JcjTc8_e45NSJHObNIR3Nw&_nc_ss=79289&oh=00_AQQmhC1uLDy2F4ycQW-GVDj4sEDyEt3xWd0M1wQtdpilEA&oe=6AEB9526",
             "video_url": null,
             "first_seen": "2026-10-31T09:40:51.015951+00:00",
-            "last_seen": "2026-11-08T15:38:22.560697+00:00",
-            "active_checked_at": "2026-11-08T15:38:22.560697+00:00",
+            "last_seen": "2026-11-09T03:39:22.241442+00:00",
+            "active_checked_at": "2026-11-09T03:39:22.241442+00:00",
             "is_active_observed": true,
             "source_countries": [
               "HU",
@@ -358,8 +362,8 @@
             "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/819375916_1588110713101405_8926943002457331932_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MILrhrE_hPEQ7kNvwHUZw1y&_nc_oc=AdoqhTA0zJVGJtrurJorOPFEWdtpi-msY9ajg97kLU-PT6pO0cuterqwxqhQazpJlkQ&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=8HIbYrmrzEeOgfaDzIsHnw&_nc_ss=79289&oh=00_AQTO7W8bZ3G7PH0gDnHVBo73otnOJa7KNEt9Hs1eGI_uWA&oe=6AF128C7",
             "video_url": null,
             "first_seen": "2026-11-04T15:30:05.555240+00:00",
-            "last_seen": "2026-11-08T15:38:22.560697+00:00",
-            "active_checked_at": "2026-11-08T15:38:22.560697+00:00",
+            "last_seen": "2026-11-09T03:39:22.241442+00:00",
+            "active_checked_at": "2026-11-09T03:39:22.241442+00:00",
             "is_active_observed": true,
             "source_countries": [
               "HU",
@@ -367,6 +371,123 @@
               "JP",
               "LT",
               "PE"
+            ]
+          },
+          {
+            "ad_id": "2335191667236095",
+            "product_name": "support stamina and heart health every day",
+            "product_key": "title:support stamina and heart health every day",
+            "category": "wellness",
+            "advertiser": "Ashley Mccullough",
+            "source_country": "HU",
+            "ad_url": "https://www.facebook.com/ads/library/?id=2335191667236095",
+            "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
+            "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/797481568_2599796703803842_34680813898009291_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dFGx-MQZWMIQ7kNvwFBSfgv&_nc_oc=AdpBF3V1c12dkFZEFTbF6jINacgRgGbTfcIQlahfgPhSaomsUNNN1--7gzjzvYSIieM&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=8HIbYrmrzEeOgfaDzIsHnw&_nc_ss=79289&oh=00_AQTo7sQWddvJyjMh0QKOFMRFviVPZ2mYdRSKdlrg9m1Idg&oe=6AF11624",
+            "video_url": null,
+            "first_seen": "2026-11-04T15:30:05.555240+00:00",
+            "last_seen": "2026-11-09T03:39:22.241442+00:00",
+            "active_checked_at": "2026-11-09T03:39:22.241442+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "HU",
+              "JP",
+              "LT",
+              "PE"
+            ]
+          },
+          {
+            "ad_id": "2188161798395898",
+            "product_name": "support stamina and heart health every day",
+            "product_key": "title:support stamina and heart health every day",
+            "category": "wellness",
+            "advertiser": "Eric Bussey",
+            "source_country": "LT",
+            "ad_url": "https://www.facebook.com/ads/library/?id=2188161798395898",
+            "landing_url": "https://track.tryrosabella.com/cdc16426-3e48-40a7-9fad-21098084f6cf",
+            "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/817742412_1618642773238537_4683779604560060088_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5tOvai5N8XMQ7kNvwHagYF6&_nc_oc=AdpE5fRLWWjS57jn0eQiHMq9aK4NO_XN5tpTUI7hpHOn2waiV_RHkwkZkX2yl1p-k0o&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=nrh6_7tEoWyeZtBoFpKpTg&_nc_ss=79289&oh=00_AQRYbOMof1OCNENNQ-NYtafEMTh4dHmdelxTgN2kSQDuOg&oe=6AF7267E",
+            "video_url": null,
+            "first_seen": "2026-11-09T03:39:22.241442+00:00",
+            "last_seen": "2026-11-09T03:39:22.241442+00:00",
+            "active_checked_at": "2026-11-09T03:39:22.241442+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "LT"
+            ]
+          },
+          {
+            "ad_id": "2288229402020207",
+            "product_name": "support stamina and heart health every day",
+            "product_key": "title:support stamina and heart health every day",
+            "category": "wellness",
+            "advertiser": "The Health Haven",
+            "source_country": "LT",
+            "ad_url": "https://www.facebook.com/ads/library/?id=2288229402020207",
+            "landing_url": "https://track.tryrosabella.com/cdc16426-3e48-40a7-9fad-21098084f6cf",
+            "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/799440462_1805761737241460_7568034023602479150_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Xe4ogPzhYsgQ7kNvwHRI4_g&_nc_oc=Adq8BhVBZ0h3mqY2uKfwKzJO0FA4j3QFCGgPy9e0ub-YSFxalTtUUugZhQB6a4eN_qU&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=nrh6_7tEoWyeZtBoFpKpTg&_nc_ss=79289&oh=00_AQSdyl4SlELWC5D5B6UJPPTprBp4DjWEn5iX7EH4tgKMVA&oe=6AF71CFC",
+            "video_url": null,
+            "first_seen": "2026-11-09T03:39:22.241442+00:00",
+            "last_seen": "2026-11-09T03:39:22.241442+00:00",
+            "active_checked_at": "2026-11-09T03:39:22.241442+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "LT"
+            ]
+          },
+          {
+            "ad_id": "1988954458481940",
+            "product_name": "support stamina and heart health every day",
+            "product_key": "title:support stamina and heart health every day",
+            "category": "wellness",
+            "advertiser": "Rosabella",
+            "source_country": "CO",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1988954458481940",
+            "landing_url": "https://track.tryrosabella.com/cdc16426-3e48-40a7-9fad-21098084f6cf",
+            "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/812030255_1727194919415286_173920378969220644_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sE-qP6wkG50Q7kNvwH8jn95&_nc_oc=AdqHmGbNSPvkCDcN6IIV2eQo4UoIH-Uy2eNsrzCin9lEz38E48iGSOv3mznJr_aknKM&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=GWDWZNb6JRUgxhfQSSAH_w&_nc_ss=79289&oh=00_AQRXsrpxviWr-jysAJvC4SJZ9xLMZV72XmbwlQsSEASGIA&oe=6AF6F822",
+            "video_url": null,
+            "first_seen": "2026-11-09T03:39:22.241442+00:00",
+            "last_seen": "2026-11-09T03:39:22.241442+00:00",
+            "active_checked_at": "2026-11-09T03:39:22.241442+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "CO"
+            ]
+          },
+          {
+            "ad_id": "1058503780398998",
+            "product_name": "support stamina and heart health every day",
+            "product_key": "title:support stamina and heart health every day",
+            "category": "wellness",
+            "advertiser": "Rosabella",
+            "source_country": "CO",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1058503780398998",
+            "landing_url": "https://track.tryrosabella.com/cdc16426-3e48-40a7-9fad-21098084f6cf",
+            "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/795668562_2667366337011423_7752982774374387742_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=G0ramQoXK5sQ7kNvwELe58j&_nc_oc=AdoKxH67mGMet7go-tD_el1aogSr0w0hX8cLia57pEKTO9ouPZwUd_EQgZSu5dc8ofo&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=GWDWZNb6JRUgxhfQSSAH_w&_nc_ss=79289&oh=00_AQQ2owxVKUh6j7FiQ7jQbkt0FV68DwavAeJehDt8qmChdw&oe=6AF70BA7",
+            "video_url": null,
+            "first_seen": "2026-11-09T03:39:22.241442+00:00",
+            "last_seen": "2026-11-09T03:39:22.241442+00:00",
+            "active_checked_at": "2026-11-09T03:39:22.241442+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "CO"
+            ]
+          },
+          {
+            "ad_id": "3087716224751689",
+            "product_name": "support stamina and heart health every day",
+            "product_key": "title:support stamina and heart health every day",
+            "category": "wellness",
+            "advertiser": "Leslie Hosmer",
+            "source_country": "CO",
+            "ad_url": "https://www.facebook.com/ads/library/?id=3087716224751689",
+            "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
+            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/811303791_1787116925857008_5582760077618827141_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ACr9kvuixc8Q7kNvwHAM5UQ&_nc_oc=AdphmugXjJ-iNSEZ-1M4-19rXYtY0T8V7Sisy9ErrTSCwPlfc0WvTrFLWXGOaOv23yY&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=GWDWZNb6JRUgxhfQSSAH_w&_nc_ss=79289&oh=00_AQTbYwbnk9XUaxg5O7WMIfOYV__JtpvAsfYqm7hEzr40KA&oe=6AF72E5E",
+            "video_url": null,
+            "first_seen": "2026-11-09T03:39:22.241442+00:00",
+            "last_seen": "2026-11-09T03:39:22.241442+00:00",
+            "active_checked_at": "2026-11-09T03:39:22.241442+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "CO"
             ]
           },
           {
@@ -753,28 +874,6 @@
               "EE",
               "IL",
               "JP",
-              "PE"
-            ]
-          },
-          {
-            "ad_id": "2335191667236095",
-            "product_name": "support stamina and heart health every day",
-            "product_key": "title:support stamina and heart health every day",
-            "category": "wellness",
-            "advertiser": "Ashley Mccullough",
-            "source_country": "HU",
-            "ad_url": "https://www.facebook.com/ads/library/?id=2335191667236095",
-            "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
-            "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/797481568_2599796703803842_34680813898009291_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dFGx-MQZWMIQ7kNvwFBSfgv&_nc_oc=AdpBF3V1c12dkFZEFTbF6jINacgRgGbTfcIQlahfgPhSaomsUNNN1--7gzjzvYSIieM&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=8HIbYrmrzEeOgfaDzIsHnw&_nc_ss=79289&oh=00_AQTo7sQWddvJyjMh0QKOFMRFviVPZ2mYdRSKdlrg9m1Idg&oe=6AF11624",
-            "video_url": null,
-            "first_seen": "2026-11-04T15:30:05.555240+00:00",
-            "last_seen": "2026-11-07T15:39:49.299221+00:00",
-            "active_checked_at": "2026-11-07T15:39:49.299221+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "HU",
-              "JP",
-              "LT",
               "PE"
             ]
           }
