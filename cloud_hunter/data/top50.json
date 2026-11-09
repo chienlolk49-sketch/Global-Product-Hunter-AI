@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T17:10:03.627794+00:00",
+  "updated_at": "2026-11-09T19:18:37.500192+00:00",
   "minimum_active_ads": 21,
   "active_window_hours": 48,
   "categories": {
@@ -1022,8 +1022,8 @@
       {
         "name": "source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
         "group_key": "title:source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
-        "ad_count": 26,
-        "active_ads_observed": 26,
+        "ad_count": 25,
+        "active_ads_observed": 25,
         "advertiser_count": 1,
         "countries": [
           "AR",
@@ -1562,25 +1562,6 @@
             "source_countries": [
               "CO",
               "SI"
-            ]
-          },
-          {
-            "ad_id": "2519004805540558",
-            "product_name": "source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
-            "product_key": "title:source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
-            "category": "fashion",
-            "advertiser": "Alibaba.com",
-            "source_country": "UA",
-            "ad_url": "https://www.facebook.com/ads/library/?id=2519004805540558",
-            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
-            "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/867110481_2366774500752704_1385171010933945654_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ADTo1va9kyYQ7kNvwHH3AS8&_nc_oc=AdptfSj6kkS9kN_40LPWDK0Q-qkTmkQGi7a9zB9WOEorQKcIWTzpTB8y60JLug4gDH8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=nG9GKuemaNDe0IGNAIE5HA&_nc_ss=79289&oh=00_AQRn3VSzXzkYqnsxtn6d5U91_LmmKMrMKC7Os9uB6hMkSA&oe=6AF54B2C",
-            "video_url": null,
-            "first_seen": "2026-11-07T18:44:43.332882+00:00",
-            "last_seen": "2026-11-07T18:44:43.332882+00:00",
-            "active_checked_at": "2026-11-07T18:44:43.332882+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "UA"
             ]
           }
         ],
