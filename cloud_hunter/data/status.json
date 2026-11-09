@@ -1,37 +1,37 @@
 {
-  "timestamp_utc": "2026-11-09T08:29:55.942546+00:00",
+  "timestamp_utc": "2026-11-09T09:39:55.780881+00:00",
   "attempts": [
     {
-      "country": "BG",
-      "keyword": "educational toy",
-      "category": "toys",
-      "found": 28
-    },
-    {
-      "country": "DE",
-      "keyword": "desk organizer",
-      "category": "office",
+      "country": "JP",
+      "keyword": "cleaning tool",
+      "category": "home",
       "found": 30
     },
     {
-      "country": "NL",
-      "keyword": "office supplies",
-      "category": "office",
+      "country": "SE",
+      "keyword": "home organizer",
+      "category": "home",
       "found": 30
     },
     {
-      "country": "HU",
-      "keyword": "garden tool",
-      "category": "garden",
+      "country": "NZ",
+      "keyword": "storage solution",
+      "category": "home",
+      "found": 30
+    },
+    {
+      "country": "AE",
+      "keyword": "vacuum cleaner",
+      "category": "home",
       "found": 30
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 2,
-  "unique_active_ads_observed_last_48h": 2599,
+  "new_ads": 1,
+  "unique_active_ads_observed_last_48h": 2584,
   "qualifying_products": 2,
-  "groups_below_threshold_or_unverified": 2329,
+  "groups_below_threshold_or_unverified": 2322,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "ok",
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
