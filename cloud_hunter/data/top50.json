@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T17:27:22.558947+00:00",
+  "updated_at": "2026-11-10T18:19:12.456422+00:00",
   "minimum_active_ads": 21,
   "active_window_hours": 48,
   "categories": {
@@ -1053,8 +1053,8 @@
       {
         "name": "source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
         "group_key": "title:source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
-        "ad_count": 22,
-        "active_ads_observed": 22,
+        "ad_count": 23,
+        "active_ads_observed": 23,
         "advertiser_count": 1,
         "countries": [
           "AR",
@@ -1067,12 +1067,32 @@
           "JP",
           "LT",
           "PE",
+          "PL",
           "SA",
           "SE",
           "UA"
         ],
-        "last_active_observation": "2026-11-10T16:34:54.416185+00:00",
+        "last_active_observation": "2026-11-10T18:19:12.456422+00:00",
         "ads": [
+          {
+            "ad_id": "1510930304196871",
+            "product_name": "source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "fashion",
+            "advertiser": "Alibaba.com",
+            "source_country": "PL",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1510930304196871",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/868405498_2257302275127509_3815757892510681157_n.jpg?_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yICh6xpXV4YQ7kNvwHgrpHH&_nc_oc=AdrqkwiqwpBKXxtQuhKdzfhJC320b_nZtDgjOnQD-2XHcbkzzmAwoFwtbhNII1D35ug&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=l07ijSLXXJe4CwZ842VPgg&_nc_ss=79289&oh=00_AQRfV4BRn3BnU-kGvV5EJbKtVJnUrjATo1c24ZIP2o0QZQ&oe=6AF946FA",
+            "video_url": null,
+            "first_seen": "2026-11-10T18:19:12.456422+00:00",
+            "last_seen": "2026-11-10T18:19:12.456422+00:00",
+            "active_checked_at": "2026-11-10T18:19:12.456422+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "PL"
+            ]
+          },
           {
             "ad_id": "2671779419908233",
             "product_name": "source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
@@ -1546,11 +1566,12 @@
       {
         "name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
         "group_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
-        "ad_count": 29,
-        "active_ads_observed": 29,
+        "ad_count": 30,
+        "active_ads_observed": 30,
         "advertiser_count": 1,
         "countries": [
           "BG",
+          "CL",
           "CO",
           "CR",
           "CZ",
@@ -1572,8 +1593,27 @@
           "SI",
           "UA"
         ],
-        "last_active_observation": "2026-11-10T17:27:22.558947+00:00",
+        "last_active_observation": "2026-11-10T18:19:12.456422+00:00",
         "ads": [
+          {
+            "ad_id": "40011038328510099",
+            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "garden",
+            "advertiser": "Alibaba.com",
+            "source_country": "CL",
+            "ad_url": "https://www.facebook.com/ads/library/?id=40011038328510099",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/867176486_1671458507892066_2023161964876414400_n.jpg?_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1RoSCN5ScnUQ7kNvwHbhLQV&_nc_oc=AdoIFZ8GqvqNSdqXeXjuiOh8Zuu0fd18c5nnvTxHXJi3liQtvLdC929Ax3b07URcQls&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=6701QrfTVIEkSPdctNhEuQ&_nc_ss=79289&oh=00_AQSjixzyGVz3D6XIJddFoTZzELF6Ww-CNweEl_fJjoDhew&oe=6AF9208C",
+            "video_url": null,
+            "first_seen": "2026-11-10T18:19:12.456422+00:00",
+            "last_seen": "2026-11-10T18:19:12.456422+00:00",
+            "active_checked_at": "2026-11-10T18:19:12.456422+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "CL"
+            ]
+          },
           {
             "ad_id": "1139352535103200",
             "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
