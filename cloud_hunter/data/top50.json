@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T22:01:04.780162+00:00",
+  "updated_at": "2026-11-10T22:44:06.301029+00:00",
   "minimum_active_ads": 21,
   "active_window_hours": 48,
   "categories": {
@@ -22,6 +22,7 @@
           "HU",
           "IL",
           "JP",
+          "KR",
           "KZ",
           "LT",
           "NL",
@@ -32,8 +33,28 @@
           "SA",
           "SI"
         ],
-        "last_active_observation": "2026-11-10T20:23:23.459644+00:00",
+        "last_active_observation": "2026-11-10T22:44:06.301029+00:00",
         "ads": [
+          {
+            "ad_id": "834918403012073",
+            "product_name": "support stamina and heart health every day",
+            "product_key": "title:support stamina and heart health every day",
+            "category": "wellness",
+            "advertiser": "Cortisol Reset Project",
+            "source_country": "NO",
+            "ad_url": "https://www.facebook.com/ads/library/?id=834918403012073",
+            "landing_url": "https://track.tryrosabella.com/cdc16426-3e48-40a7-9fad-21098084f6cf",
+            "image_url": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/797744807_2300262004092928_815436538193422986_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FQe_Cz9RR70Q7kNvwHI9URZ&_nc_oc=Ado7CrDEKnkCsVQsVhNyWcHkL2CCvOrUCxKiSFFA9yuvLdHNpIrgZ-VqfHsApVtahFU&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=7KLrvKulnx1BgFc_aAAe_A&_nc_ss=79289&oh=00_AQRDsbS-izNPDZa4uxEKMNAGZoWrosrIiV1ck6qy58bEnQ&oe=6AF75C83",
+            "video_url": null,
+            "first_seen": "2026-11-09T10:39:55.048321+00:00",
+            "last_seen": "2026-11-10T22:44:06.301029+00:00",
+            "active_checked_at": "2026-11-10T22:44:06.301029+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "KR",
+              "NO"
+            ]
+          },
           {
             "ad_id": "1077131378619957",
             "product_name": "support stamina and heart health every day",
@@ -887,25 +908,6 @@
             ]
           },
           {
-            "ad_id": "834918403012073",
-            "product_name": "support stamina and heart health every day",
-            "product_key": "title:support stamina and heart health every day",
-            "category": "wellness",
-            "advertiser": "Cortisol Reset Project",
-            "source_country": "NO",
-            "ad_url": "https://www.facebook.com/ads/library/?id=834918403012073",
-            "landing_url": "https://track.tryrosabella.com/cdc16426-3e48-40a7-9fad-21098084f6cf",
-            "image_url": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/797744807_2300262004092928_815436538193422986_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FQe_Cz9RR70Q7kNvwHI9URZ&_nc_oc=Ado7CrDEKnkCsVQsVhNyWcHkL2CCvOrUCxKiSFFA9yuvLdHNpIrgZ-VqfHsApVtahFU&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=7KLrvKulnx1BgFc_aAAe_A&_nc_ss=79289&oh=00_AQRDsbS-izNPDZa4uxEKMNAGZoWrosrIiV1ck6qy58bEnQ&oe=6AF75C83",
-            "video_url": null,
-            "first_seen": "2026-11-09T10:39:55.048321+00:00",
-            "last_seen": "2026-11-09T10:39:55.048321+00:00",
-            "active_checked_at": "2026-11-09T10:39:55.048321+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "NO"
-            ]
-          },
-          {
             "ad_id": "2335191667236095",
             "product_name": "support stamina and heart health every day",
             "product_key": "title:support stamina and heart health every day",
@@ -1072,8 +1074,35 @@
           "SE",
           "UA"
         ],
-        "last_active_observation": "2026-11-10T18:19:12.456422+00:00",
+        "last_active_observation": "2026-11-10T22:44:06.301029+00:00",
         "ads": [
+          {
+            "ad_id": "2671779419908233",
+            "product_name": "source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "fashion",
+            "advertiser": "Alibaba.com",
+            "source_country": "CZ",
+            "ad_url": "https://www.facebook.com/ads/library/?id=2671779419908233",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/861854364_29242135352056841_4413869299687600315_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DlJ7CvCk4EYQ7kNvwG1ADun&_nc_oc=Adqma3Y0yi81CfrHMM-q9yUU_NWXXzlV6QYTVqtmUcL7bqOrHJeXvFY2yzcTE5fD3W4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=xaRPw1os-isboWpaPCbLhQ&_nc_ss=79289&oh=00_AQREOac0aDEquR9NysANkHpRcPwln0DXZAlELJWTK1eX-w&oe=6AF0F50A",
+            "video_url": null,
+            "first_seen": "2026-11-04T13:31:26.310970+00:00",
+            "last_seen": "2026-11-10T22:44:06.301029+00:00",
+            "active_checked_at": "2026-11-10T22:44:06.301029+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "AR",
+              "BR",
+              "CA",
+              "CR",
+              "CZ",
+              "GR",
+              "SA",
+              "SE",
+              "UA"
+            ]
+          },
           {
             "ad_id": "1510930304196871",
             "product_name": "source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
@@ -1091,33 +1120,6 @@
             "is_active_observed": true,
             "source_countries": [
               "PL"
-            ]
-          },
-          {
-            "ad_id": "2671779419908233",
-            "product_name": "source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
-            "product_key": "title:source luggage bags cases on alibaba com alibaba com-world s leading b2b marketplace",
-            "category": "fashion",
-            "advertiser": "Alibaba.com",
-            "source_country": "CZ",
-            "ad_url": "https://www.facebook.com/ads/library/?id=2671779419908233",
-            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
-            "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/861854364_29242135352056841_4413869299687600315_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DlJ7CvCk4EYQ7kNvwG1ADun&_nc_oc=Adqma3Y0yi81CfrHMM-q9yUU_NWXXzlV6QYTVqtmUcL7bqOrHJeXvFY2yzcTE5fD3W4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=xaRPw1os-isboWpaPCbLhQ&_nc_ss=79289&oh=00_AQREOac0aDEquR9NysANkHpRcPwln0DXZAlELJWTK1eX-w&oe=6AF0F50A",
-            "video_url": null,
-            "first_seen": "2026-11-04T13:31:26.310970+00:00",
-            "last_seen": "2026-11-10T16:34:54.416185+00:00",
-            "active_checked_at": "2026-11-10T16:34:54.416185+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "AR",
-              "BR",
-              "CA",
-              "CR",
-              "CZ",
-              "GR",
-              "SA",
-              "SE",
-              "UA"
             ]
           },
           {
