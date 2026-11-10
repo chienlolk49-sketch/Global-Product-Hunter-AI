@@ -1,37 +1,37 @@
 {
-  "timestamp_utc": "2026-11-10T08:43:20.348075+00:00",
+  "timestamp_utc": "2026-11-10T09:40:12.762843+00:00",
   "attempts": [
     {
-      "country": "CO",
-      "keyword": "plant accessories",
-      "category": "garden",
-      "found": 17
-    },
-    {
-      "country": "TR",
-      "keyword": "coffee",
-      "category": "food",
+      "country": "IL",
+      "keyword": "cleaning tool",
+      "category": "home",
       "found": 30
     },
     {
-      "country": "KZ",
-      "keyword": "healthy snacks",
-      "category": "food",
+      "country": "UA",
+      "keyword": "home organizer",
+      "category": "home",
       "found": 30
     },
     {
-      "country": "US",
-      "keyword": "tea",
-      "category": "food",
-      "found": 25
+      "country": "GB",
+      "keyword": "storage solution",
+      "category": "home",
+      "found": 30
+    },
+    {
+      "country": "PT",
+      "keyword": "vacuum cleaner",
+      "category": "home",
+      "found": 30
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 5,
-  "unique_active_ads_observed_last_48h": 2762,
+  "new_ads": 3,
+  "unique_active_ads_observed_last_48h": 2751,
   "qualifying_products": 3,
-  "groups_below_threshold_or_unverified": 2413,
+  "groups_below_threshold_or_unverified": 2407,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "ok",
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
