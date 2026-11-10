@@ -1,37 +1,37 @@
 {
-  "timestamp_utc": "2026-11-10T19:23:41.915913+00:00",
+  "timestamp_utc": "2026-11-10T20:23:23.459644+00:00",
   "attempts": [
     {
-      "country": "PE",
-      "keyword": "crossbody bag",
-      "category": "fashion",
+      "country": "BD",
+      "keyword": "educational toy",
+      "category": "toys",
       "found": 30
     },
     {
-      "country": "PK",
-      "keyword": "comfortable shoes",
-      "category": "fashion",
+      "country": "RS",
+      "keyword": "desk organizer",
+      "category": "office",
       "found": 30
     },
     {
-      "country": "HR",
-      "keyword": "jewelry",
-      "category": "fashion",
-      "found": 30
+      "country": "BR",
+      "keyword": "office supplies",
+      "category": "office",
+      "found": 29
     },
     {
-      "country": "FR",
-      "keyword": "casual clothing",
-      "category": "fashion",
+      "country": "AT",
+      "keyword": "garden tool",
+      "category": "garden",
       "found": 30
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 60,
-  "unique_active_ads_observed_last_48h": 2685,
+  "new_ads": 8,
+  "unique_active_ads_observed_last_48h": 2616,
   "qualifying_products": 3,
-  "groups_below_threshold_or_unverified": 2333,
+  "groups_below_threshold_or_unverified": 2269,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "ok",
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
