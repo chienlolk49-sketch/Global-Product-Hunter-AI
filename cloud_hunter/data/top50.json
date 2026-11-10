@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T06:30:21.483590+00:00",
+  "updated_at": "2026-11-10T07:48:29.532121+00:00",
   "minimum_active_ads": 21,
   "active_window_hours": 48,
   "categories": {
@@ -1600,16 +1600,14 @@
       {
         "name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
         "group_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
-        "ad_count": 23,
-        "active_ads_observed": 23,
+        "ad_count": 22,
+        "active_ads_observed": 22,
         "advertiser_count": 1,
         "countries": [
-          "AR",
           "BE",
           "CL",
           "CO",
           "CR",
-          "CZ",
           "HK",
           "HR",
           "ID",
@@ -2058,26 +2056,6 @@
               "CL",
               "TR",
               "VN"
-            ]
-          },
-          {
-            "ad_id": "1868312727675863",
-            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
-            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
-            "category": "garden",
-            "advertiser": "Alibaba.com",
-            "source_country": "CZ",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1868312727675863",
-            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
-            "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/876711262_2240914786477820_2030738448945278811_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sfnnC1-YMZMQ7kNvwGmLEWJ&_nc_oc=AdqRINBo2qq0Lw_-yQhc3dZ2s6eSkLrT8R-RxHxl1r5DYcepXV6Rr9fq4JYR7C9wjN4&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=gopIOuP0-x8Wk5_GTwKFcw&_nc_ss=79289&oh=00_AQRC1raiTUp18fQoE5-_ciscIEWrjTfHec_XrpguVxWeNw&oe=6AF5BF51",
-            "video_url": null,
-            "first_seen": "2026-11-08T01:36:20.692389+00:00",
-            "last_seen": "2026-11-08T07:39:10.069969+00:00",
-            "active_checked_at": "2026-11-08T07:39:10.069969+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "AR",
-              "CZ"
             ]
           }
         ],
