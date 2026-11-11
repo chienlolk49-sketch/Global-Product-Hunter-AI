@@ -1,37 +1,37 @@
 {
-  "timestamp_utc": "2026-11-11T19:37:29.217937+00:00",
+  "timestamp_utc": "2026-11-11T21:14:52.307753+00:00",
   "attempts": [
     {
-      "country": "KR",
-      "keyword": "baby care",
-      "category": "baby",
+      "country": "IE",
+      "keyword": "hair serum",
+      "category": "beauty",
       "found": 30
     },
     {
-      "country": "FI",
-      "keyword": "maternity accessory",
-      "category": "baby",
-      "found": 0
+      "country": "MA",
+      "keyword": "skincare serum",
+      "category": "beauty",
+      "found": 30
     },
     {
-      "country": "AR",
-      "keyword": "fitness accessory",
-      "category": "sport",
-      "found": 8
+      "country": "TW",
+      "keyword": "hair care",
+      "category": "beauty",
+      "found": 30
     },
     {
-      "country": "IL",
-      "keyword": "yoga equipment",
-      "category": "sport",
+      "country": "LT",
+      "keyword": "shampoo",
+      "category": "beauty",
       "found": 30
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 1,
-  "unique_active_ads_observed_last_48h": 2659,
+  "new_ads": 66,
+  "unique_active_ads_observed_last_48h": 2608,
   "qualifying_products": 2,
-  "groups_below_threshold_or_unverified": 2295,
+  "groups_below_threshold_or_unverified": 2244,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "ok",
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
