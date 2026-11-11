@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T09:29:47.540043+00:00",
+  "updated_at": "2026-11-11T10:34:08.365090+00:00",
   "minimum_active_ads": 21,
   "active_window_hours": 48,
   "categories": {
@@ -8,8 +8,8 @@
       {
         "name": "support stamina and heart health every day",
         "group_key": "title:support stamina and heart health every day",
-        "ad_count": 58,
-        "active_ads_observed": 58,
+        "ad_count": 57,
+        "active_ads_observed": 57,
         "advertiser_count": 9,
         "countries": [
           "AE",
@@ -1293,28 +1293,6 @@
             "source_countries": [
               "CO",
               "PT"
-            ]
-          },
-          {
-            "ad_id": "2335191667236095",
-            "product_name": "support stamina and heart health every day",
-            "product_key": "title:support stamina and heart health every day",
-            "category": "wellness",
-            "advertiser": "Ashley Mccullough",
-            "source_country": "HU",
-            "ad_url": "https://www.facebook.com/ads/library/?id=2335191667236095",
-            "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
-            "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/797481568_2599796703803842_34680813898009291_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dFGx-MQZWMIQ7kNvwFBSfgv&_nc_oc=AdpBF3V1c12dkFZEFTbF6jINacgRgGbTfcIQlahfgPhSaomsUNNN1--7gzjzvYSIieM&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=8HIbYrmrzEeOgfaDzIsHnw&_nc_ss=79289&oh=00_AQTo7sQWddvJyjMh0QKOFMRFviVPZ2mYdRSKdlrg9m1Idg&oe=6AF11624",
-            "video_url": null,
-            "first_seen": "2026-11-04T15:30:05.555240+00:00",
-            "last_seen": "2026-11-09T09:39:55.780881+00:00",
-            "active_checked_at": "2026-11-09T09:39:55.780881+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "HU",
-              "JP",
-              "LT",
-              "PE"
             ]
           }
         ],
