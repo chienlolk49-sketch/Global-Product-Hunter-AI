@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T05:59:45.593333+00:00",
+  "updated_at": "2026-11-11T07:13:02.982744+00:00",
   "minimum_active_ads": 21,
   "active_window_hours": 48,
   "categories": {
@@ -1801,8 +1801,8 @@
       {
         "name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
         "group_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
-        "ad_count": 32,
-        "active_ads_observed": 32,
+        "ad_count": 31,
+        "active_ads_observed": 31,
         "advertiser_count": 1,
         "countries": [
           "BG",
@@ -2437,25 +2437,6 @@
             "is_active_observed": true,
             "source_countries": [
               "HR"
-            ]
-          },
-          {
-            "ad_id": "1173812838546652",
-            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
-            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
-            "category": "garden",
-            "advertiser": "Alibaba.com",
-            "source_country": "ID",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1173812838546652",
-            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
-            "image_url": "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.35426-6/869729726_1870548703970179_2219683035378160187_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=H4J_7-EPMYUQ7kNvwG1YBcj&_nc_oc=AdrAqx2jUcUYdzYeNdPjZI4MFAer20DrgWezKEJG9JjoKbyCmrbcqFl8pT429xgo5PI&_nc_zt=14&_nc_ht=scontent-dfw6-2.xx&_nc_gid=SbtW_kpgYs2lQ4WZ-Nogaw&_nc_ss=79289&oh=00_AQTT79KCbfxBty9Dsdp1OrAUqhF1AWZLYg9oGEwB4xvtxw&oe=6AF73881",
-            "video_url": null,
-            "first_seen": "2026-11-09T06:54:33.152575+00:00",
-            "last_seen": "2026-11-09T06:54:33.152575+00:00",
-            "active_checked_at": "2026-11-09T06:54:33.152575+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "ID"
             ]
           }
         ],
