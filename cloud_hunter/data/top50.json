@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T18:26:49.910570+00:00",
+  "updated_at": "2026-11-11T19:37:29.217937+00:00",
   "minimum_active_ads": 21,
   "active_window_hours": 48,
   "categories": {
@@ -33,8 +33,28 @@
           "SA",
           "SI"
         ],
-        "last_active_observation": "2026-11-11T12:32:15.100778+00:00",
+        "last_active_observation": "2026-11-11T19:37:29.217937+00:00",
         "ads": [
+          {
+            "ad_id": "834918403012073",
+            "product_name": "support stamina and heart health every day",
+            "product_key": "title:support stamina and heart health every day",
+            "category": "wellness",
+            "advertiser": "Cortisol Reset Project",
+            "source_country": "NO",
+            "ad_url": "https://www.facebook.com/ads/library/?id=834918403012073",
+            "landing_url": "https://track.tryrosabella.com/cdc16426-3e48-40a7-9fad-21098084f6cf",
+            "image_url": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/797744807_2300262004092928_815436538193422986_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FQe_Cz9RR70Q7kNvwHI9URZ&_nc_oc=Ado7CrDEKnkCsVQsVhNyWcHkL2CCvOrUCxKiSFFA9yuvLdHNpIrgZ-VqfHsApVtahFU&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=7KLrvKulnx1BgFc_aAAe_A&_nc_ss=79289&oh=00_AQRDsbS-izNPDZa4uxEKMNAGZoWrosrIiV1ck6qy58bEnQ&oe=6AF75C83",
+            "video_url": null,
+            "first_seen": "2026-11-09T10:39:55.048321+00:00",
+            "last_seen": "2026-11-11T19:37:29.217937+00:00",
+            "active_checked_at": "2026-11-11T19:37:29.217937+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "KR",
+              "NO"
+            ]
+          },
           {
             "ad_id": "28596616316690428",
             "product_name": "support stamina and heart health every day",
@@ -1140,26 +1160,6 @@
             "is_active_observed": true,
             "source_countries": [
               "IL"
-            ]
-          },
-          {
-            "ad_id": "834918403012073",
-            "product_name": "support stamina and heart health every day",
-            "product_key": "title:support stamina and heart health every day",
-            "category": "wellness",
-            "advertiser": "Cortisol Reset Project",
-            "source_country": "NO",
-            "ad_url": "https://www.facebook.com/ads/library/?id=834918403012073",
-            "landing_url": "https://track.tryrosabella.com/cdc16426-3e48-40a7-9fad-21098084f6cf",
-            "image_url": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/797744807_2300262004092928_815436538193422986_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FQe_Cz9RR70Q7kNvwHI9URZ&_nc_oc=Ado7CrDEKnkCsVQsVhNyWcHkL2CCvOrUCxKiSFFA9yuvLdHNpIrgZ-VqfHsApVtahFU&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=7KLrvKulnx1BgFc_aAAe_A&_nc_ss=79289&oh=00_AQRDsbS-izNPDZa4uxEKMNAGZoWrosrIiV1ck6qy58bEnQ&oe=6AF75C83",
-            "video_url": null,
-            "first_seen": "2026-11-09T10:39:55.048321+00:00",
-            "last_seen": "2026-11-10T22:44:06.301029+00:00",
-            "active_checked_at": "2026-11-10T22:44:06.301029+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "KR",
-              "NO"
             ]
           },
           {
