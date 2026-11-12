@@ -1,37 +1,37 @@
 {
-  "timestamp_utc": "2026-11-12T19:31:53.652457+00:00",
+  "timestamp_utc": "2026-11-12T20:25:42.207263+00:00",
   "attempts": [
     {
-      "country": "BD",
-      "keyword": "baby care",
-      "category": "baby",
+      "country": "BG",
+      "keyword": "educational toy",
+      "category": "toys",
+      "found": 28
+    },
+    {
+      "country": "DE",
+      "keyword": "desk organizer",
+      "category": "office",
       "found": 30
     },
     {
-      "country": "RS",
-      "keyword": "maternity accessory",
-      "category": "baby",
-      "found": 0
+      "country": "NL",
+      "keyword": "office supplies",
+      "category": "office",
+      "found": 30
     },
     {
-      "country": "BR",
-      "keyword": "fitness accessory",
-      "category": "sport",
-      "found": 13
-    },
-    {
-      "country": "AT",
-      "keyword": "yoga equipment",
-      "category": "sport",
+      "country": "HU",
+      "keyword": "garden tool",
+      "category": "garden",
       "found": 30
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 32,
-  "unique_active_ads_observed_last_48h": 2498,
+  "new_ads": 2,
+  "unique_active_ads_observed_last_48h": 2493,
   "qualifying_products": 1,
-  "groups_below_threshold_or_unverified": 2162,
+  "groups_below_threshold_or_unverified": 2159,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "ok",
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
