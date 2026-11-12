@@ -1,37 +1,37 @@
 {
-  "timestamp_utc": "2026-11-12T13:11:24.623927+00:00",
+  "timestamp_utc": "2026-11-12T14:28:14.926701+00:00",
   "attempts": [
     {
-      "country": "CO",
-      "keyword": "phone accessory",
-      "category": "electronics",
+      "country": "BD",
+      "keyword": "educational toy",
+      "category": "toys",
       "found": 30
     },
     {
-      "country": "TR",
-      "keyword": "wireless charger",
-      "category": "electronics",
+      "country": "RS",
+      "keyword": "desk organizer",
+      "category": "office",
+      "found": 30
+    },
+    {
+      "country": "BR",
+      "keyword": "office supplies",
+      "category": "office",
       "found": 29
     },
     {
-      "country": "KZ",
-      "keyword": "smartwatch",
-      "category": "electronics",
-      "found": 30
-    },
-    {
-      "country": "US",
-      "keyword": "bluetooth headphones",
-      "category": "electronics",
+      "country": "AT",
+      "keyword": "garden tool",
+      "category": "garden",
       "found": 30
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 63,
-  "unique_active_ads_observed_last_48h": 2673,
+  "new_ads": 12,
+  "unique_active_ads_observed_last_48h": 2581,
   "qualifying_products": 2,
-  "groups_below_threshold_or_unverified": 2301,
+  "groups_below_threshold_or_unverified": 2217,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "ok",
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
