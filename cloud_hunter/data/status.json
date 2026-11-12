@@ -1,37 +1,37 @@
 {
-  "timestamp_utc": "2026-11-12T06:37:43.180194+00:00",
+  "timestamp_utc": "2026-11-12T08:03:08.111269+00:00",
   "attempts": [
     {
-      "country": "AT",
-      "keyword": "cleaning tool",
-      "category": "home",
+      "country": "PE",
+      "keyword": "travel organizer",
+      "category": "travel",
       "found": 30
     },
     {
-      "country": "GR",
-      "keyword": "home organizer",
-      "category": "home",
-      "found": 30
+      "country": "PK",
+      "keyword": "luggage accessory",
+      "category": "travel",
+      "found": 20
     },
     {
-      "country": "EG",
-      "keyword": "storage solution",
-      "category": "home",
-      "found": 28
+      "country": "HR",
+      "keyword": "camping equipment",
+      "category": "travel",
+      "found": 29
     },
     {
-      "country": "SG",
-      "keyword": "vacuum cleaner",
-      "category": "home",
+      "country": "FR",
+      "keyword": "puzzle game",
+      "category": "toys",
       "found": 30
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 12,
-  "unique_active_ads_observed_last_48h": 2525,
+  "new_ads": 34,
+  "unique_active_ads_observed_last_48h": 2488,
   "qualifying_products": 2,
-  "groups_below_threshold_or_unverified": 2190,
+  "groups_below_threshold_or_unverified": 2156,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "ok",
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
