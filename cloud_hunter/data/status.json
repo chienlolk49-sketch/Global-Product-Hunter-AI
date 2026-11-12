@@ -1,37 +1,37 @@
 {
-  "timestamp_utc": "2026-11-12T16:37:26.023149+00:00",
+  "timestamp_utc": "2026-11-12T17:31:25.217783+00:00",
   "attempts": [
     {
-      "country": "KR",
-      "keyword": "baby care",
-      "category": "baby",
+      "country": "PL",
+      "keyword": "plant accessories",
+      "category": "garden",
+      "found": 23
+    },
+    {
+      "country": "CL",
+      "keyword": "coffee",
+      "category": "food",
       "found": 30
     },
     {
-      "country": "FI",
-      "keyword": "maternity accessory",
-      "category": "baby",
-      "found": 0
+      "country": "IN",
+      "keyword": "healthy snacks",
+      "category": "food",
+      "found": 28
     },
     {
-      "country": "AR",
-      "keyword": "fitness accessory",
-      "category": "sport",
-      "found": 9
-    },
-    {
-      "country": "IL",
-      "keyword": "yoga equipment",
-      "category": "sport",
+      "country": "BG",
+      "keyword": "tea",
+      "category": "food",
       "found": 30
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 3,
-  "unique_active_ads_observed_last_48h": 2523,
+  "new_ads": 39,
+  "unique_active_ads_observed_last_48h": 2533,
   "qualifying_products": 1,
-  "groups_below_threshold_or_unverified": 2169,
+  "groups_below_threshold_or_unverified": 2184,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "ok",
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
