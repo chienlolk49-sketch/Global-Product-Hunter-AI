@@ -1,35 +1,35 @@
 {
-  "timestamp_utc": "2026-11-14T16:24:05.361852+00:00",
+  "timestamp_utc": "2026-11-14T17:15:01.977800+00:00",
   "attempts": [
     {
-      "country": "AT",
-      "keyword": "crossbody bag",
-      "category": "fashion",
+      "country": "IE",
+      "keyword": "educational toy",
+      "category": "toys",
+      "found": 29
+    },
+    {
+      "country": "MA",
+      "keyword": "desk organizer",
+      "category": "office",
       "found": 30
     },
     {
-      "country": "GR",
-      "keyword": "comfortable shoes",
-      "category": "fashion",
-      "found": 30
+      "country": "TW",
+      "keyword": "office supplies",
+      "category": "office",
+      "found": 29
     },
     {
-      "country": "EG",
-      "keyword": "jewelry",
-      "category": "fashion",
-      "found": 30
-    },
-    {
-      "country": "SG",
-      "keyword": "casual clothing",
-      "category": "fashion",
+      "country": "LT",
+      "keyword": "garden tool",
+      "category": "garden",
       "found": 30
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 6,
-  "unique_active_ads_observed_last_48h": 2606,
+  "new_ads": 19,
+  "unique_active_ads_observed_last_48h": 2604,
   "qualifying_products": 2,
   "groups_below_threshold_or_unverified": 2247,
   "threshold_min_unique_active_ad_ids": 21,
