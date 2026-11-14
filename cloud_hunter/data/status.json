@@ -1,35 +1,35 @@
 {
-  "timestamp_utc": "2026-11-13T23:26:29.659721+00:00",
+  "timestamp_utc": "2026-11-14T00:13:02.651968+00:00",
   "attempts": [
     {
-      "country": "US",
-      "keyword": "educational toy",
-      "category": "toys",
+      "country": "KR",
+      "keyword": "hair serum",
+      "category": "beauty",
       "found": 30
     },
     {
-      "country": "ES",
-      "keyword": "desk organizer",
-      "category": "office",
+      "country": "FI",
+      "keyword": "skincare serum",
+      "category": "beauty",
       "found": 30
     },
     {
-      "country": "CZ",
-      "keyword": "office supplies",
-      "category": "office",
-      "found": 30
+      "country": "AR",
+      "keyword": "hair care",
+      "category": "beauty",
+      "found": 29
     },
     {
-      "country": "PE",
-      "keyword": "garden tool",
-      "category": "garden",
+      "country": "IL",
+      "keyword": "shampoo",
+      "category": "beauty",
       "found": 30
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 43,
-  "unique_active_ads_observed_last_48h": 2787,
+  "new_ads": 3,
+  "unique_active_ads_observed_last_48h": 2786,
   "qualifying_products": 2,
   "groups_below_threshold_or_unverified": 2414,
   "threshold_min_unique_active_ad_ids": 21,
