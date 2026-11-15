@@ -1,37 +1,37 @@
 {
-  "timestamp_utc": "2026-11-15T15:17:59.826135+00:00",
+  "timestamp_utc": "2026-11-15T15:59:24.656646+00:00",
   "attempts": [
     {
-      "country": "AE",
-      "keyword": "makeup tools",
-      "category": "beauty",
-      "found": 29
+      "country": "BD",
+      "keyword": "kitchen gadget",
+      "category": "kitchen",
+      "found": 28
     },
     {
-      "country": "HK",
-      "keyword": "neck massager",
-      "category": "wellness",
+      "country": "RS",
+      "keyword": "vegetable cutter",
+      "category": "kitchen",
       "found": 30
     },
     {
-      "country": "UY",
-      "keyword": "posture support",
-      "category": "wellness",
-      "found": 0
+      "country": "BR",
+      "keyword": "cooking accessory",
+      "category": "kitchen",
+      "found": 8
     },
     {
-      "country": "KR",
-      "keyword": "massage device",
-      "category": "wellness",
+      "country": "AT",
+      "keyword": "coffee maker",
+      "category": "kitchen",
       "found": 30
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 14,
-  "unique_active_ads_observed_last_48h": 2771,
-  "qualifying_products": 2,
-  "groups_below_threshold_or_unverified": 2416,
+  "new_ads": 75,
+  "unique_active_ads_observed_last_48h": 2846,
+  "qualifying_products": 3,
+  "groups_below_threshold_or_unverified": 2470,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "ok",
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
