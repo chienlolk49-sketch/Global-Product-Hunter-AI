@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T12:26:11.604534+00:00",
+  "updated_at": "2026-11-15T13:32:02.858716+00:00",
   "minimum_active_ads": 21,
   "active_window_hours": 48,
   "categories": {
@@ -26,13 +26,14 @@
           "KZ",
           "LT",
           "NL",
+          "NO",
           "PE",
           "PL",
           "PT",
           "SA",
           "SI"
         ],
-        "last_active_observation": "2026-11-15T07:43:14.136784+00:00",
+        "last_active_observation": "2026-11-15T13:32:02.858716+00:00",
         "ads": [
           {
             "ad_id": "834918403012073",
@@ -46,11 +47,12 @@
             "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/797744807_2300262004092928_815436538193422986_n.jpg?_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=grl4fHJOOf0Q7kNvwGEGAkJ&_nc_oc=AdqA_rNxjOVKXepwcQPC82m-_u09yctUh7tsqSMRoyy7OGX42-eeIDeXL4uob8jAvPg&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=Fux_7LglGHsJXRcmajGJsg&_nc_ss=79289&oh=00_AQQ_TDRvTsS-m91E6lETc7mpOOVmqxoWUsPkU55Z2JiU3A&oe=6AFF4583",
             "video_url": null,
             "first_seen": "2026-11-15T07:43:14.136784+00:00",
-            "last_seen": "2026-11-15T07:43:14.136784+00:00",
-            "active_checked_at": "2026-11-15T07:43:14.136784+00:00",
+            "last_seen": "2026-11-15T13:32:02.858716+00:00",
+            "active_checked_at": "2026-11-15T13:32:02.858716+00:00",
             "is_active_observed": true,
             "source_countries": [
-              "KR"
+              "KR",
+              "NO"
             ]
           },
           {
@@ -891,7 +893,7 @@
           "SI",
           "UA"
         ],
-        "last_active_observation": "2026-11-15T11:06:56.966900+00:00",
+        "last_active_observation": "2026-11-15T13:32:02.858716+00:00",
         "ads": [
           {
             "ad_id": "2671779419908233",
@@ -905,8 +907,8 @@
             "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/861854364_29242135352056841_4413869299687600315_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DlJ7CvCk4EYQ7kNvwG1ADun&_nc_oc=Adqma3Y0yi81CfrHMM-q9yUU_NWXXzlV6QYTVqtmUcL7bqOrHJeXvFY2yzcTE5fD3W4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=xaRPw1os-isboWpaPCbLhQ&_nc_ss=79289&oh=00_AQREOac0aDEquR9NysANkHpRcPwln0DXZAlELJWTK1eX-w&oe=6AF0F50A",
             "video_url": null,
             "first_seen": "2026-11-04T13:31:26.310970+00:00",
-            "last_seen": "2026-11-15T11:06:56.966900+00:00",
-            "active_checked_at": "2026-11-15T11:06:56.966900+00:00",
+            "last_seen": "2026-11-15T13:32:02.858716+00:00",
+            "active_checked_at": "2026-11-15T13:32:02.858716+00:00",
             "is_active_observed": true,
             "source_countries": [
               "AR",
