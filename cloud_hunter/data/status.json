@@ -1,37 +1,37 @@
 {
-  "timestamp_utc": "2026-11-16T11:53:25.076998+00:00",
+  "timestamp_utc": "2026-11-16T15:07:04.594128+00:00",
   "attempts": [
     {
-      "country": "PE",
-      "keyword": "duong toc",
+      "country": "KR",
+      "keyword": "hair serum",
+      "category": "beauty",
+      "found": 30
+    },
+    {
+      "country": "FI",
+      "keyword": "skincare serum",
+      "category": "beauty",
+      "found": 30
+    },
+    {
+      "country": "AR",
+      "keyword": "hair care",
       "category": "beauty",
       "found": 29
     },
     {
-      "country": "PK",
-      "keyword": "dung cu nha bep",
-      "category": "kitchen",
-      "found": 25
-    },
-    {
-      "country": "HR",
-      "keyword": "organizador hogar",
-      "category": "home",
-      "found": 1
-    },
-    {
-      "country": "FR",
-      "keyword": "cuidado cabello",
+      "country": "IL",
+      "keyword": "shampoo",
       "category": "beauty",
       "found": 30
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 30,
-  "unique_active_ads_observed_last_48h": 2890,
+  "new_ads": 3,
+  "unique_active_ads_observed_last_48h": 2820,
   "qualifying_products": 2,
-  "groups_below_threshold_or_unverified": 2526,
+  "groups_below_threshold_or_unverified": 2460,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "ok",
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
