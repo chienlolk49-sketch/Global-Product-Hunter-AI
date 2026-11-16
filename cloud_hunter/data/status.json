@@ -1,37 +1,37 @@
 {
-  "timestamp_utc": "2026-11-16T16:44:33.930950+00:00",
+  "timestamp_utc": "2026-11-16T17:48:10.370183+00:00",
   "attempts": [
     {
-      "country": "IE",
-      "keyword": "baby care",
-      "category": "baby",
+      "country": "IL",
+      "keyword": "duong toc",
+      "category": "beauty",
       "found": 30
     },
     {
-      "country": "MA",
-      "keyword": "maternity accessory",
-      "category": "baby",
-      "found": 0
+      "country": "UA",
+      "keyword": "dung cu nha bep",
+      "category": "kitchen",
+      "found": 16
     },
     {
-      "country": "TW",
-      "keyword": "fitness accessory",
-      "category": "sport",
-      "found": 3
+      "country": "GB",
+      "keyword": "organizador hogar",
+      "category": "home",
+      "found": 2
     },
     {
-      "country": "LT",
-      "keyword": "yoga equipment",
-      "category": "sport",
+      "country": "PT",
+      "keyword": "cuidado cabello",
+      "category": "beauty",
       "found": 30
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 13,
-  "unique_active_ads_observed_last_48h": 2707,
+  "new_ads": 24,
+  "unique_active_ads_observed_last_48h": 2713,
   "qualifying_products": 2,
-  "groups_below_threshold_or_unverified": 2359,
+  "groups_below_threshold_or_unverified": 2366,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "ok",
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
