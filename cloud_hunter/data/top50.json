@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T12:08:45.191270+00:00",
+  "updated_at": "2026-11-17T13:37:21.689223+00:00",
   "minimum_active_ads": 21,
   "active_window_hours": 48,
   "categories": {
@@ -8,9 +8,9 @@
       {
         "name": "support stamina and heart health every day",
         "group_key": "title:support stamina and heart health every day",
-        "ad_count": 44,
-        "active_ads_observed": 44,
-        "advertiser_count": 9,
+        "ad_count": 43,
+        "active_ads_observed": 43,
+        "advertiser_count": 8,
         "countries": [
           "AE",
           "AT",
@@ -22,11 +22,9 @@
           "HU",
           "IL",
           "JP",
-          "KR",
           "KZ",
           "LT",
           "NL",
-          "NO",
           "PE",
           "PL",
           "PT",
@@ -1010,26 +1008,6 @@
             "is_active_observed": true,
             "source_countries": [
               "AT"
-            ]
-          },
-          {
-            "ad_id": "834918403012073",
-            "product_name": "support stamina and heart health every day",
-            "product_key": "title:support stamina and heart health every day",
-            "category": "wellness",
-            "advertiser": "Cortisol Reset Project",
-            "source_country": "KR",
-            "ad_url": "https://www.facebook.com/ads/library/?id=834918403012073",
-            "landing_url": "https://track.tryrosabella.com/cdc16426-3e48-40a7-9fad-21098084f6cf",
-            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/797744807_2300262004092928_815436538193422986_n.jpg?_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=grl4fHJOOf0Q7kNvwGEGAkJ&_nc_oc=AdqA_rNxjOVKXepwcQPC82m-_u09yctUh7tsqSMRoyy7OGX42-eeIDeXL4uob8jAvPg&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=Fux_7LglGHsJXRcmajGJsg&_nc_ss=79289&oh=00_AQQ_TDRvTsS-m91E6lETc7mpOOVmqxoWUsPkU55Z2JiU3A&oe=6AFF4583",
-            "video_url": null,
-            "first_seen": "2026-11-15T07:43:14.136784+00:00",
-            "last_seen": "2026-11-15T13:32:02.858716+00:00",
-            "active_checked_at": "2026-11-15T13:32:02.858716+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "KR",
-              "NO"
             ]
           }
         ],
