@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T05:35:38.475573+00:00",
+  "updated_at": "2026-11-17T06:39:24.821160+00:00",
   "minimum_active_ads": 21,
   "active_window_hours": 48,
   "categories": {
@@ -8,8 +8,8 @@
       {
         "name": "support stamina and heart health every day",
         "group_key": "title:support stamina and heart health every day",
-        "ad_count": 43,
-        "active_ads_observed": 43,
+        "ad_count": 44,
+        "active_ads_observed": 44,
         "advertiser_count": 9,
         "countries": [
           "AE",
@@ -33,8 +33,261 @@
           "SA",
           "SI"
         ],
-        "last_active_observation": "2026-11-17T02:27:09.042659+00:00",
+        "last_active_observation": "2026-11-17T06:39:24.821160+00:00",
         "ads": [
+          {
+            "ad_id": "28596616316690428",
+            "product_name": "support stamina and heart health every day",
+            "product_key": "title:support stamina and heart health every day",
+            "category": "wellness",
+            "advertiser": "Essential Health Finds",
+            "source_country": "CO",
+            "ad_url": "https://www.facebook.com/ads/library/?id=28596616316690428",
+            "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
+            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/825286340_1562102505224646_6614485958974632269_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Fb1TvYZEkAgQ7kNvwGB5lt7&_nc_oc=AdrwD0sTJL3d9sWki3Jk4Z00JuVQalT45bJPAiGjXnZB9nr5PgbU9x0i9izvwUkEV74&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=x6u5W1FQ0j3-CIC_DwP1lA&_nc_ss=79289&oh=00_AQToZf6hicWjuGwH4XPiON10528sU20g1NV-pEIsn-XqyQ&oe=6AEB97C5",
+            "video_url": null,
+            "first_seen": "2026-10-31T09:40:51.015951+00:00",
+            "last_seen": "2026-11-17T06:39:24.821160+00:00",
+            "active_checked_at": "2026-11-17T06:39:24.821160+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "AE",
+              "CO",
+              "FR",
+              "PL",
+              "PT",
+              "SI"
+            ]
+          },
+          {
+            "ad_id": "2005360520111600",
+            "product_name": "support stamina and heart health every day",
+            "product_key": "title:support stamina and heart health every day",
+            "category": "wellness",
+            "advertiser": "Rosabella",
+            "source_country": "CO",
+            "ad_url": "https://www.facebook.com/ads/library/?id=2005360520111600",
+            "landing_url": "https://track.tryrosabella.com/cdc16426-3e48-40a7-9fad-21098084f6cf",
+            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/811028550_3587386728075555_7869916144403769915_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=T8b1F5IKixYQ7kNvwGHLn13&_nc_oc=AdpQ726jURKFgyfwnBenz0eueBNdlRsF2cbod68xEI71NqahwSs5-bX8kfh9MNmkd8Q&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=x6u5W1FQ0j3-CIC_DwP1lA&_nc_ss=79289&oh=00_AQS_MVz2TOzGBMfCPQy3p6XKbQYCAvH4L8Snsp6Pm8LU8g&oe=6AEB8E52",
+            "video_url": null,
+            "first_seen": "2026-10-31T09:40:51.015951+00:00",
+            "last_seen": "2026-11-17T06:39:24.821160+00:00",
+            "active_checked_at": "2026-11-17T06:39:24.821160+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "AE",
+              "CO",
+              "FR",
+              "PL",
+              "PT",
+              "SI"
+            ]
+          },
+          {
+            "ad_id": "1105807051944244",
+            "product_name": "support stamina and heart health every day",
+            "product_key": "title:support stamina and heart health every day",
+            "category": "wellness",
+            "advertiser": "The Heart Health Project",
+            "source_country": "CO",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1105807051944244",
+            "landing_url": "https://track.tryrosabella.com/cdc16426-3e48-40a7-9fad-21098084f6cf",
+            "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/825278922_1138771495488567_7170780211516596682_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=r8ebnSkPjAAQ7kNvwFAG3cv&_nc_oc=AdqWa-cbolxt3wZk8lcNZoufkykTunhbXX3nckBsgGfxoiv5lUcYaeRVn2JDhg9SCAE&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=x6u5W1FQ0j3-CIC_DwP1lA&_nc_ss=79289&oh=00_AQRp2q2xJGIJrQkjrO5r8ZZ2jcpNqOu64X6LymvdDSIqiQ&oe=6AEB8265",
+            "video_url": null,
+            "first_seen": "2026-10-31T09:40:51.015951+00:00",
+            "last_seen": "2026-11-17T06:39:24.821160+00:00",
+            "active_checked_at": "2026-11-17T06:39:24.821160+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "AE",
+              "CO",
+              "FR",
+              "PL",
+              "PT",
+              "SI"
+            ]
+          },
+          {
+            "ad_id": "1462105022489815",
+            "product_name": "support stamina and heart health every day",
+            "product_key": "title:support stamina and heart health every day",
+            "category": "wellness",
+            "advertiser": "Leslie Hosmer",
+            "source_country": "CO",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1462105022489815",
+            "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
+            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/810813791_1035850899421928_3583825391781550233_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BqD439FV0O0Q7kNvwFyHBZE&_nc_oc=AdqexkGIC_S794EMLQsqusGj_QY0WBqESnMpHeFkrbqXttDkt35lpjC8ilC4Vt2E6nQ&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=x6u5W1FQ0j3-CIC_DwP1lA&_nc_ss=79289&oh=00_AQQIyY3NdNWReOVoEvaR2asYHoZBeDr9qcECIU4TJt5dQQ&oe=6AEB9746",
+            "video_url": null,
+            "first_seen": "2026-10-31T09:40:51.015951+00:00",
+            "last_seen": "2026-11-17T06:39:24.821160+00:00",
+            "active_checked_at": "2026-11-17T06:39:24.821160+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "AE",
+              "CO",
+              "FR",
+              "PL",
+              "PT",
+              "SI"
+            ]
+          },
+          {
+            "ad_id": "1799862831197694",
+            "product_name": "support stamina and heart health every day",
+            "product_key": "title:support stamina and heart health every day",
+            "category": "wellness",
+            "advertiser": "Leslie Hosmer",
+            "source_country": "CO",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1799862831197694",
+            "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
+            "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/810813690_1402427984593875_8105807881152293293_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=osAf03LAoT8Q7kNvwEl4DYe&_nc_oc=AdozTXEIkIOFlOdiPzcavmI3SiaQaRhexZcIcAEbR9vCxfZckxUCDijNACkQ_tp_Z9U&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=x6u5W1FQ0j3-CIC_DwP1lA&_nc_ss=79289&oh=00_AQR536Y9WQeMTD653ezk-L-lGqKkvbEh0LxNiJcYxOIfvw&oe=6AEB873D",
+            "video_url": null,
+            "first_seen": "2026-10-31T09:40:51.015951+00:00",
+            "last_seen": "2026-11-17T06:39:24.821160+00:00",
+            "active_checked_at": "2026-11-17T06:39:24.821160+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "AE",
+              "CO",
+              "FR",
+              "PL",
+              "PT",
+              "SI"
+            ]
+          },
+          {
+            "ad_id": "3693847204097327",
+            "product_name": "support stamina and heart health every day",
+            "product_key": "title:support stamina and heart health every day",
+            "category": "wellness",
+            "advertiser": "Ashley Mccullough",
+            "source_country": "LT",
+            "ad_url": "https://www.facebook.com/ads/library/?id=3693847204097327",
+            "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
+            "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/791512647_1829904285028374_2230006781502496913_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-nwQAllY9VUQ7kNvwEw6rT8&_nc_oc=AdqX5qHU9h9jWxfxvA3sVi1ZR78ZZN2gjBoOSwyp_GK-Yb6rq98F9SpHEAUrh7X9THQ&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=JcjTc8_e45NSJHObNIR3Nw&_nc_ss=79289&oh=00_AQREO3LbHY8BnEDH6owcbH9y9hPuMiMTZDazsqmOCnXQNA&oe=6AEB6EFC",
+            "video_url": null,
+            "first_seen": "2026-10-31T09:40:51.015951+00:00",
+            "last_seen": "2026-11-17T06:39:24.821160+00:00",
+            "active_checked_at": "2026-11-17T06:39:24.821160+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "AT",
+              "HU",
+              "IL",
+              "JP",
+              "KZ",
+              "LT",
+              "PE"
+            ]
+          },
+          {
+            "ad_id": "1751017926119235",
+            "product_name": "support stamina and heart health every day",
+            "product_key": "title:support stamina and heart health every day",
+            "category": "wellness",
+            "advertiser": "Essential Health Finds",
+            "source_country": "CO",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1751017926119235",
+            "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
+            "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/828164523_1610016617515072_8326348692009205078_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hU5I9LP_-lEQ7kNvwEA9eYv&_nc_oc=AdomdevLIFjzFyftd05gqR1DCYzjTK8jPKBEEJpuCdzFr0JWL0RLzQ3O0IEVP1v1NAo&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=x6u5W1FQ0j3-CIC_DwP1lA&_nc_ss=79289&oh=00_AQRiswhsAyb3_e6UKm2cN1B-cR3ThDGzwjldOGRRFIQaUw&oe=6AEB92AB",
+            "video_url": null,
+            "first_seen": "2026-10-31T09:40:51.015951+00:00",
+            "last_seen": "2026-11-17T06:39:24.821160+00:00",
+            "active_checked_at": "2026-11-17T06:39:24.821160+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "AE",
+              "CO",
+              "FR",
+              "PL",
+              "PT",
+              "SI"
+            ]
+          },
+          {
+            "ad_id": "1654573789717370",
+            "product_name": "support stamina and heart health every day",
+            "product_key": "title:support stamina and heart health every day",
+            "category": "wellness",
+            "advertiser": "Rosabella",
+            "source_country": "PT",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1654573789717370",
+            "landing_url": "https://track.tryrosabella.com/cdc16426-3e48-40a7-9fad-21098084f6cf",
+            "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/811830277_1383914817234776_6032804493516511052_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=g8ozGZ5xaPwQ7kNvwFezCAL&_nc_oc=Adqh9yUPRcLn_hZynTZEZLt89FlYZKcSqeku_1NGMr6kFGg7bY__lP1drJ2u-DE58OY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=Db1fXYDfD-hPBLAtJfNFBA&_nc_ss=79289&oh=00_AQRoAKVcF7gvDrCkeSVmUblrNtmZ-FvSHhsUvM5rrrCXdw&oe=6AF54ACB",
+            "video_url": null,
+            "first_seen": "2026-11-07T18:44:43.332882+00:00",
+            "last_seen": "2026-11-17T06:39:24.821160+00:00",
+            "active_checked_at": "2026-11-17T06:39:24.821160+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "AE",
+              "CO",
+              "PL",
+              "PT",
+              "SI"
+            ]
+          },
+          {
+            "ad_id": "1561851275155883",
+            "product_name": "support stamina and heart health every day",
+            "product_key": "title:support stamina and heart health every day",
+            "category": "wellness",
+            "advertiser": "Eric Bussey",
+            "source_country": "LT",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1561851275155883",
+            "landing_url": "https://track.tryrosabella.com/cdc16426-3e48-40a7-9fad-21098084f6cf",
+            "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/796895983_1011501851992657_7396688702595271645_n.jpg?_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xaKHz1jvoL0Q7kNvwGB2Y0n&_nc_oc=AdrU2mi1McYyudW1n9Fy16CMN6jLnhPIeyWUwI-zPoE3SfHg5WpwyD52nNn21EnnFhM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7-32rXjguDWaXR0Q9BFEmw&_nc_ss=79289&oh=00_AQTVyC7t7Va9NxJnEX984JCRJAHm9Jq6sQzWMihYQFwGiQ&oe=6AFBC91E",
+            "video_url": null,
+            "first_seen": "2026-11-12T15:30:37.607350+00:00",
+            "last_seen": "2026-11-17T06:39:24.821160+00:00",
+            "active_checked_at": "2026-11-17T06:39:24.821160+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "HU",
+              "JP",
+              "LT"
+            ]
+          },
+          {
+            "ad_id": "974231482388634",
+            "product_name": "support stamina and heart health every day",
+            "product_key": "title:support stamina and heart health every day",
+            "category": "wellness",
+            "advertiser": "The Heart Health Project",
+            "source_country": "LT",
+            "ad_url": "https://www.facebook.com/ads/library/?id=974231482388634",
+            "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
+            "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/808397627_1082489277606822_5116896826893374786_n.jpg?_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zWWFaLiiiOEQ7kNvwEWzp6-&_nc_oc=AdpHjb2pc6pwjoFHjp43G1mTWcpjDnQVFtl5MerctvfVeka44cHtDG8aqs1J4vTQy_8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7-32rXjguDWaXR0Q9BFEmw&_nc_ss=79289&oh=00_AQRN75c8ZhSSVfmVrX9BWzTgrdyO4pxGx33uxORGVl1yFg&oe=6AFB9F66",
+            "video_url": null,
+            "first_seen": "2026-11-12T15:30:37.607350+00:00",
+            "last_seen": "2026-11-17T06:39:24.821160+00:00",
+            "active_checked_at": "2026-11-17T06:39:24.821160+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "HU",
+              "JP",
+              "LT"
+            ]
+          },
+          {
+            "ad_id": "939569752073180",
+            "product_name": "support stamina and heart health every day",
+            "product_key": "title:support stamina and heart health every day",
+            "category": "wellness",
+            "advertiser": "Eric Bussey",
+            "source_country": "JP",
+            "ad_url": "https://www.facebook.com/ads/library/?id=939569752073180",
+            "landing_url": "https://track.tryrosabella.com/cdc16426-3e48-40a7-9fad-21098084f6cf",
+            "image_url": "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/819375916_1588110713101405_8926943002457331932_n.jpg?_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=V1dS7PiiChMQ7kNvwGslOOw&_nc_oc=AdpRl5ifpNbVZ1CGgKOJt6qknsE9fln5ZuSoOcjrxlonnjwNtizTXCV5FXS2QpBADXI&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=FffAMQep_CmecUfQlbLTSA&_nc_ss=79289&oh=00_AQTa-lon0JcA4VlJmQ7uF332agMDmBDMq9Po2j3v-EmQxA&oe=6B01DBC7",
+            "video_url": null,
+            "first_seen": "2026-11-17T06:39:24.821160+00:00",
+            "last_seen": "2026-11-17T06:39:24.821160+00:00",
+            "active_checked_at": "2026-11-17T06:39:24.821160+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "JP"
+            ]
+          },
           {
             "ad_id": "1077131378619957",
             "product_name": "support stamina and heart health every day",
@@ -448,175 +701,6 @@
             ]
           },
           {
-            "ad_id": "28596616316690428",
-            "product_name": "support stamina and heart health every day",
-            "product_key": "title:support stamina and heart health every day",
-            "category": "wellness",
-            "advertiser": "Essential Health Finds",
-            "source_country": "CO",
-            "ad_url": "https://www.facebook.com/ads/library/?id=28596616316690428",
-            "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
-            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/825286340_1562102505224646_6614485958974632269_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Fb1TvYZEkAgQ7kNvwGB5lt7&_nc_oc=AdrwD0sTJL3d9sWki3Jk4Z00JuVQalT45bJPAiGjXnZB9nr5PgbU9x0i9izvwUkEV74&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=x6u5W1FQ0j3-CIC_DwP1lA&_nc_ss=79289&oh=00_AQToZf6hicWjuGwH4XPiON10528sU20g1NV-pEIsn-XqyQ&oe=6AEB97C5",
-            "video_url": null,
-            "first_seen": "2026-10-31T09:40:51.015951+00:00",
-            "last_seen": "2026-11-16T18:38:31.133162+00:00",
-            "active_checked_at": "2026-11-16T18:38:31.133162+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "AE",
-              "CO",
-              "FR",
-              "PL",
-              "PT",
-              "SI"
-            ]
-          },
-          {
-            "ad_id": "2005360520111600",
-            "product_name": "support stamina and heart health every day",
-            "product_key": "title:support stamina and heart health every day",
-            "category": "wellness",
-            "advertiser": "Rosabella",
-            "source_country": "CO",
-            "ad_url": "https://www.facebook.com/ads/library/?id=2005360520111600",
-            "landing_url": "https://track.tryrosabella.com/cdc16426-3e48-40a7-9fad-21098084f6cf",
-            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/811028550_3587386728075555_7869916144403769915_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=T8b1F5IKixYQ7kNvwGHLn13&_nc_oc=AdpQ726jURKFgyfwnBenz0eueBNdlRsF2cbod68xEI71NqahwSs5-bX8kfh9MNmkd8Q&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=x6u5W1FQ0j3-CIC_DwP1lA&_nc_ss=79289&oh=00_AQS_MVz2TOzGBMfCPQy3p6XKbQYCAvH4L8Snsp6Pm8LU8g&oe=6AEB8E52",
-            "video_url": null,
-            "first_seen": "2026-10-31T09:40:51.015951+00:00",
-            "last_seen": "2026-11-16T18:38:31.133162+00:00",
-            "active_checked_at": "2026-11-16T18:38:31.133162+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "AE",
-              "CO",
-              "FR",
-              "PL",
-              "PT",
-              "SI"
-            ]
-          },
-          {
-            "ad_id": "1105807051944244",
-            "product_name": "support stamina and heart health every day",
-            "product_key": "title:support stamina and heart health every day",
-            "category": "wellness",
-            "advertiser": "The Heart Health Project",
-            "source_country": "CO",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1105807051944244",
-            "landing_url": "https://track.tryrosabella.com/cdc16426-3e48-40a7-9fad-21098084f6cf",
-            "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/825278922_1138771495488567_7170780211516596682_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=r8ebnSkPjAAQ7kNvwFAG3cv&_nc_oc=AdqWa-cbolxt3wZk8lcNZoufkykTunhbXX3nckBsgGfxoiv5lUcYaeRVn2JDhg9SCAE&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=x6u5W1FQ0j3-CIC_DwP1lA&_nc_ss=79289&oh=00_AQRp2q2xJGIJrQkjrO5r8ZZ2jcpNqOu64X6LymvdDSIqiQ&oe=6AEB8265",
-            "video_url": null,
-            "first_seen": "2026-10-31T09:40:51.015951+00:00",
-            "last_seen": "2026-11-16T18:38:31.133162+00:00",
-            "active_checked_at": "2026-11-16T18:38:31.133162+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "AE",
-              "CO",
-              "FR",
-              "PL",
-              "PT",
-              "SI"
-            ]
-          },
-          {
-            "ad_id": "1462105022489815",
-            "product_name": "support stamina and heart health every day",
-            "product_key": "title:support stamina and heart health every day",
-            "category": "wellness",
-            "advertiser": "Leslie Hosmer",
-            "source_country": "CO",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1462105022489815",
-            "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
-            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/810813791_1035850899421928_3583825391781550233_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BqD439FV0O0Q7kNvwFyHBZE&_nc_oc=AdqexkGIC_S794EMLQsqusGj_QY0WBqESnMpHeFkrbqXttDkt35lpjC8ilC4Vt2E6nQ&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=x6u5W1FQ0j3-CIC_DwP1lA&_nc_ss=79289&oh=00_AQQIyY3NdNWReOVoEvaR2asYHoZBeDr9qcECIU4TJt5dQQ&oe=6AEB9746",
-            "video_url": null,
-            "first_seen": "2026-10-31T09:40:51.015951+00:00",
-            "last_seen": "2026-11-16T18:38:31.133162+00:00",
-            "active_checked_at": "2026-11-16T18:38:31.133162+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "AE",
-              "CO",
-              "FR",
-              "PL",
-              "PT",
-              "SI"
-            ]
-          },
-          {
-            "ad_id": "1799862831197694",
-            "product_name": "support stamina and heart health every day",
-            "product_key": "title:support stamina and heart health every day",
-            "category": "wellness",
-            "advertiser": "Leslie Hosmer",
-            "source_country": "CO",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1799862831197694",
-            "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
-            "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/810813690_1402427984593875_8105807881152293293_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=osAf03LAoT8Q7kNvwEl4DYe&_nc_oc=AdozTXEIkIOFlOdiPzcavmI3SiaQaRhexZcIcAEbR9vCxfZckxUCDijNACkQ_tp_Z9U&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=x6u5W1FQ0j3-CIC_DwP1lA&_nc_ss=79289&oh=00_AQR536Y9WQeMTD653ezk-L-lGqKkvbEh0LxNiJcYxOIfvw&oe=6AEB873D",
-            "video_url": null,
-            "first_seen": "2026-10-31T09:40:51.015951+00:00",
-            "last_seen": "2026-11-16T18:38:31.133162+00:00",
-            "active_checked_at": "2026-11-16T18:38:31.133162+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "AE",
-              "CO",
-              "FR",
-              "PL",
-              "PT",
-              "SI"
-            ]
-          },
-          {
-            "ad_id": "3693847204097327",
-            "product_name": "support stamina and heart health every day",
-            "product_key": "title:support stamina and heart health every day",
-            "category": "wellness",
-            "advertiser": "Ashley Mccullough",
-            "source_country": "LT",
-            "ad_url": "https://www.facebook.com/ads/library/?id=3693847204097327",
-            "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
-            "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/791512647_1829904285028374_2230006781502496913_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-nwQAllY9VUQ7kNvwEw6rT8&_nc_oc=AdqX5qHU9h9jWxfxvA3sVi1ZR78ZZN2gjBoOSwyp_GK-Yb6rq98F9SpHEAUrh7X9THQ&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=JcjTc8_e45NSJHObNIR3Nw&_nc_ss=79289&oh=00_AQREO3LbHY8BnEDH6owcbH9y9hPuMiMTZDazsqmOCnXQNA&oe=6AEB6EFC",
-            "video_url": null,
-            "first_seen": "2026-10-31T09:40:51.015951+00:00",
-            "last_seen": "2026-11-16T00:38:43.933312+00:00",
-            "active_checked_at": "2026-11-16T00:38:43.933312+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "AT",
-              "HU",
-              "IL",
-              "JP",
-              "KZ",
-              "LT",
-              "PE"
-            ]
-          },
-          {
-            "ad_id": "1751017926119235",
-            "product_name": "support stamina and heart health every day",
-            "product_key": "title:support stamina and heart health every day",
-            "category": "wellness",
-            "advertiser": "Essential Health Finds",
-            "source_country": "CO",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1751017926119235",
-            "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
-            "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/828164523_1610016617515072_8326348692009205078_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hU5I9LP_-lEQ7kNvwEA9eYv&_nc_oc=AdomdevLIFjzFyftd05gqR1DCYzjTK8jPKBEEJpuCdzFr0JWL0RLzQ3O0IEVP1v1NAo&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=x6u5W1FQ0j3-CIC_DwP1lA&_nc_ss=79289&oh=00_AQRiswhsAyb3_e6UKm2cN1B-cR3ThDGzwjldOGRRFIQaUw&oe=6AEB92AB",
-            "video_url": null,
-            "first_seen": "2026-10-31T09:40:51.015951+00:00",
-            "last_seen": "2026-11-16T00:38:43.933312+00:00",
-            "active_checked_at": "2026-11-16T00:38:43.933312+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "AE",
-              "CO",
-              "FR",
-              "PL",
-              "PT",
-              "SI"
-            ]
-          },
-          {
             "ad_id": "1799294711202106",
             "product_name": "support stamina and heart health every day",
             "product_key": "title:support stamina and heart health every day",
@@ -635,28 +719,6 @@
               "AE",
               "CO",
               "FR",
-              "PL",
-              "PT",
-              "SI"
-            ]
-          },
-          {
-            "ad_id": "1654573789717370",
-            "product_name": "support stamina and heart health every day",
-            "product_key": "title:support stamina and heart health every day",
-            "category": "wellness",
-            "advertiser": "Rosabella",
-            "source_country": "PT",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1654573789717370",
-            "landing_url": "https://track.tryrosabella.com/cdc16426-3e48-40a7-9fad-21098084f6cf",
-            "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/811830277_1383914817234776_6032804493516511052_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=g8ozGZ5xaPwQ7kNvwFezCAL&_nc_oc=Adqh9yUPRcLn_hZynTZEZLt89FlYZKcSqeku_1NGMr6kFGg7bY__lP1drJ2u-DE58OY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=Db1fXYDfD-hPBLAtJfNFBA&_nc_ss=79289&oh=00_AQRoAKVcF7gvDrCkeSVmUblrNtmZ-FvSHhsUvM5rrrCXdw&oe=6AF54ACB",
-            "video_url": null,
-            "first_seen": "2026-11-07T18:44:43.332882+00:00",
-            "last_seen": "2026-11-16T00:38:43.933312+00:00",
-            "active_checked_at": "2026-11-16T00:38:43.933312+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "CO",
               "PL",
               "PT",
               "SI"
@@ -720,48 +782,6 @@
             "source_countries": [
               "PT",
               "SI"
-            ]
-          },
-          {
-            "ad_id": "1561851275155883",
-            "product_name": "support stamina and heart health every day",
-            "product_key": "title:support stamina and heart health every day",
-            "category": "wellness",
-            "advertiser": "Eric Bussey",
-            "source_country": "LT",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1561851275155883",
-            "landing_url": "https://track.tryrosabella.com/cdc16426-3e48-40a7-9fad-21098084f6cf",
-            "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/796895983_1011501851992657_7396688702595271645_n.jpg?_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xaKHz1jvoL0Q7kNvwGB2Y0n&_nc_oc=AdrU2mi1McYyudW1n9Fy16CMN6jLnhPIeyWUwI-zPoE3SfHg5WpwyD52nNn21EnnFhM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7-32rXjguDWaXR0Q9BFEmw&_nc_ss=79289&oh=00_AQTVyC7t7Va9NxJnEX984JCRJAHm9Jq6sQzWMihYQFwGiQ&oe=6AFBC91E",
-            "video_url": null,
-            "first_seen": "2026-11-12T15:30:37.607350+00:00",
-            "last_seen": "2026-11-16T00:38:43.933312+00:00",
-            "active_checked_at": "2026-11-16T00:38:43.933312+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "HU",
-              "JP",
-              "LT"
-            ]
-          },
-          {
-            "ad_id": "974231482388634",
-            "product_name": "support stamina and heart health every day",
-            "product_key": "title:support stamina and heart health every day",
-            "category": "wellness",
-            "advertiser": "The Heart Health Project",
-            "source_country": "LT",
-            "ad_url": "https://www.facebook.com/ads/library/?id=974231482388634",
-            "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
-            "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/808397627_1082489277606822_5116896826893374786_n.jpg?_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zWWFaLiiiOEQ7kNvwEWzp6-&_nc_oc=AdpHjb2pc6pwjoFHjp43G1mTWcpjDnQVFtl5MerctvfVeka44cHtDG8aqs1J4vTQy_8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7-32rXjguDWaXR0Q9BFEmw&_nc_ss=79289&oh=00_AQRN75c8ZhSSVfmVrX9BWzTgrdyO4pxGx33uxORGVl1yFg&oe=6AFB9F66",
-            "video_url": null,
-            "first_seen": "2026-11-12T15:30:37.607350+00:00",
-            "last_seen": "2026-11-16T00:38:43.933312+00:00",
-            "active_checked_at": "2026-11-16T00:38:43.933312+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "HU",
-              "JP",
-              "LT"
             ]
           },
           {
@@ -1059,8 +1079,32 @@
           "UA",
           "VN"
         ],
-        "last_active_observation": "2026-11-17T02:27:09.042659+00:00",
+        "last_active_observation": "2026-11-17T06:39:24.821160+00:00",
         "ads": [
+          {
+            "ad_id": "1005982002522998",
+            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "garden",
+            "advertiser": "Alibaba.com",
+            "source_country": "UA",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1005982002522998",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign&biz=aiWholeSite",
+            "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/870559549_1106777708907394_8616148629466221354_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bDzHnHLpx9AQ7kNvwHF9BQ8&_nc_oc=AdqVwlX7xWxR1elX0U_iTLfZ8mde_TtgXFIaIRoikBLIXEBeLKEbf6J7eIJyxTNLv5o&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=nG9GKuemaNDe0IGNAIE5HA&_nc_ss=79289&oh=00_AQQoEFtGp2Le9AnkagHqLSS_QsJOb3Zd1V38empAfuUuAw&oe=6AF5495F",
+            "video_url": null,
+            "first_seen": "2026-11-07T18:44:43.332882+00:00",
+            "last_seen": "2026-11-17T06:39:24.821160+00:00",
+            "active_checked_at": "2026-11-17T06:39:24.821160+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "CR",
+              "GR",
+              "LT",
+              "PE",
+              "SE",
+              "UA"
+            ]
+          },
           {
             "ad_id": "4695047627385238",
             "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
@@ -1105,30 +1149,6 @@
               "CZ",
               "NL",
               "SA"
-            ]
-          },
-          {
-            "ad_id": "1005982002522998",
-            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
-            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
-            "category": "garden",
-            "advertiser": "Alibaba.com",
-            "source_country": "UA",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1005982002522998",
-            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign&biz=aiWholeSite",
-            "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/870559549_1106777708907394_8616148629466221354_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bDzHnHLpx9AQ7kNvwHF9BQ8&_nc_oc=AdqVwlX7xWxR1elX0U_iTLfZ8mde_TtgXFIaIRoikBLIXEBeLKEbf6J7eIJyxTNLv5o&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=nG9GKuemaNDe0IGNAIE5HA&_nc_ss=79289&oh=00_AQQoEFtGp2Le9AnkagHqLSS_QsJOb3Zd1V38empAfuUuAw&oe=6AF5495F",
-            "video_url": null,
-            "first_seen": "2026-11-07T18:44:43.332882+00:00",
-            "last_seen": "2026-11-16T18:38:31.133162+00:00",
-            "active_checked_at": "2026-11-16T18:38:31.133162+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "CR",
-              "GR",
-              "LT",
-              "PE",
-              "SE",
-              "UA"
             ]
           },
           {
