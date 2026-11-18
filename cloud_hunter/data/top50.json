@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T00:35:30.830273+00:00",
+  "updated_at": "2026-11-18T01:54:36.198084+00:00",
   "minimum_active_ads": 21,
   "active_window_hours": 48,
   "categories": {
@@ -8,8 +8,8 @@
       {
         "name": "support stamina and heart health every day",
         "group_key": "title:support stamina and heart health every day",
-        "ad_count": 39,
-        "active_ads_observed": 39,
+        "ad_count": 38,
+        "active_ads_observed": 38,
         "advertiser_count": 9,
         "countries": [
           "AE",
@@ -925,25 +925,6 @@
             "is_active_observed": true,
             "source_countries": [
               "AT"
-            ]
-          },
-          {
-            "ad_id": "3087716224751689",
-            "product_name": "support stamina and heart health every day",
-            "product_key": "title:support stamina and heart health every day",
-            "category": "wellness",
-            "advertiser": "Leslie Hosmer",
-            "source_country": "SI",
-            "ad_url": "https://www.facebook.com/ads/library/?id=3087716224751689",
-            "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
-            "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/811303791_1787116925857008_5582760077618827141_n.jpg?_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-dmMzdHHofIQ7kNvwE7NxGn&_nc_oc=AdrdtHqeC5ZKE2MAiUkNkK1K9AkKQ1twZXUTTfYAP1t2O3pyU0cR6ogwY_WK_tglkDc&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=Aot0dC4WrDdTy6Mrk0bOXg&_nc_ss=79289&oh=00_AQT01NCL889_WRNST-mghSS8FnjC6zmuGB7U_1gb-Ejsew&oe=6B00309E",
-            "video_url": null,
-            "first_seen": "2026-11-16T00:38:43.933312+00:00",
-            "last_seen": "2026-11-16T00:38:43.933312+00:00",
-            "active_checked_at": "2026-11-16T00:38:43.933312+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "SI"
             ]
           }
         ],
