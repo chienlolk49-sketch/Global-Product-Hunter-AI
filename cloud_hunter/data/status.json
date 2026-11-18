@@ -1,37 +1,37 @@
 {
-  "timestamp_utc": "2026-11-18T22:12:02.830623+00:00",
+  "timestamp_utc": "2026-11-18T23:12:02.262217+00:00",
   "attempts": [
     {
-      "country": "AE",
-      "keyword": "phone accessory",
-      "category": "electronics",
-      "found": 30
+      "country": "CN",
+      "keyword": "travel organizer",
+      "category": "travel",
+      "found": 27
     },
     {
-      "country": "HK",
-      "keyword": "wireless charger",
-      "category": "electronics",
-      "found": 30
+      "country": "CR",
+      "keyword": "luggage accessory",
+      "category": "travel",
+      "found": 17
     },
     {
-      "country": "UY",
-      "keyword": "smartwatch",
-      "category": "electronics",
-      "found": 30
-    },
-    {
-      "country": "KR",
-      "keyword": "bluetooth headphones",
-      "category": "electronics",
+      "country": "IT",
+      "keyword": "camping equipment",
+      "category": "travel",
       "found": 28
+    },
+    {
+      "country": "PL",
+      "keyword": "puzzle game",
+      "category": "toys",
+      "found": 30
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 56,
-  "unique_active_ads_observed_last_48h": 2598,
+  "new_ads": 43,
+  "unique_active_ads_observed_last_48h": 2583,
   "qualifying_products": 2,
-  "groups_below_threshold_or_unverified": 2239,
+  "groups_below_threshold_or_unverified": 2218,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "ok",
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
