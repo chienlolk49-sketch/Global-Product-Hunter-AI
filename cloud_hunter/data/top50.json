@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T11:44:40.570409+00:00",
+  "updated_at": "2026-11-18T12:45:45.291724+00:00",
   "minimum_active_ads": 21,
   "active_window_hours": 48,
   "categories": {
@@ -8,8 +8,8 @@
       {
         "name": "support stamina and heart health every day",
         "group_key": "title:support stamina and heart health every day",
-        "ad_count": 62,
-        "active_ads_observed": 62,
+        "ad_count": 63,
+        "active_ads_observed": 63,
         "advertiser_count": 9,
         "countries": [
           "AE",
@@ -32,8 +32,212 @@
           "SA",
           "SI"
         ],
-        "last_active_observation": "2026-11-18T09:36:21.293999+00:00",
+        "last_active_observation": "2026-11-18T12:45:45.291724+00:00",
         "ads": [
+          {
+            "ad_id": "1866683000975667",
+            "product_name": "support stamina and heart health every day",
+            "product_key": "title:support stamina and heart health every day",
+            "category": "wellness",
+            "advertiser": "Essential Health Finds",
+            "source_country": "JP",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1866683000975667",
+            "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
+            "image_url": "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.35426-6/778985133_1563691878628072_4075139560395152163_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uCGnLB9imLAQ7kNvwEeYcz9&_nc_oc=AdqkmJB3tr1ohf4zPbHU6DHWy7XUcBrWih6BMpm_fCfDUjzDguQitLV3makz1vjYsqw&_nc_zt=14&_nc_ht=scontent-dfw6-2.xx&_nc_gid=7xenSqKWYaDZJ-sgSuP_Eg&_nc_ss=79289&oh=00_AQQr3nFRnvglVQ6-ASg7CRQDhU6X0DPuTMbjbZoRW1oefg&oe=6AF74FF4",
+            "video_url": null,
+            "first_seen": "2026-11-09T06:54:33.152575+00:00",
+            "last_seen": "2026-11-18T12:45:45.291724+00:00",
+            "active_checked_at": "2026-11-18T12:45:45.291724+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "AT",
+              "EE",
+              "HU",
+              "IL",
+              "JP",
+              "LT",
+              "NL"
+            ]
+          },
+          {
+            "ad_id": "1059526657061215",
+            "product_name": "support stamina and heart health every day",
+            "product_key": "title:support stamina and heart health every day",
+            "category": "wellness",
+            "advertiser": "The Heart Health Project",
+            "source_country": "IL",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1059526657061215",
+            "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
+            "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/811830930_1396049951947368_8727536700436820138_n.jpg?_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Ysxe7agf79oQ7kNvwHKSaYT&_nc_oc=AdohzM1GGO1ys88zSazd0Seca4DTIqU5Aihv9AxUUP2rkRwcXKcY7Cm-DmQJYt61Dvg&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=1diM8Rb106eZeJGwSnCb4g&_nc_ss=79289&oh=00_AQTMH5tHVfcRBi-ltjH_3VT0xAQEZjCK8xDS1sMbX0zmww&oe=6B03023E",
+            "video_url": null,
+            "first_seen": "2026-11-18T03:57:09.159733+00:00",
+            "last_seen": "2026-11-18T12:45:45.291724+00:00",
+            "active_checked_at": "2026-11-18T12:45:45.291724+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "HU",
+              "IL"
+            ]
+          },
+          {
+            "ad_id": "1602276251446062",
+            "product_name": "support stamina and heart health every day",
+            "product_key": "title:support stamina and heart health every day",
+            "category": "wellness",
+            "advertiser": "The Heart Health Project",
+            "source_country": "IL",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1602276251446062",
+            "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
+            "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/812373109_1782094293210275_6778046102892464908_n.jpg?_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Wpdue461jWsQ7kNvwFLV3Sq&_nc_oc=AdrVVkglAauYjG08DUW5pEksycX5Gv4rfbl78Qpcp1vJTfZzXr6nr55d_Fy65S4X8J0&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=1diM8Rb106eZeJGwSnCb4g&_nc_ss=79289&oh=00_AQTfv1OquPFezgvmrZ6zh9jKAtBLlqSmneyrXIChMRVOAw&oe=6B02E2C0",
+            "video_url": null,
+            "first_seen": "2026-11-18T03:57:09.159733+00:00",
+            "last_seen": "2026-11-18T12:45:45.291724+00:00",
+            "active_checked_at": "2026-11-18T12:45:45.291724+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "HU",
+              "IL"
+            ]
+          },
+          {
+            "ad_id": "1563698788367552",
+            "product_name": "support stamina and heart health every day",
+            "product_key": "title:support stamina and heart health every day",
+            "category": "wellness",
+            "advertiser": "Blood Pressure Secrets",
+            "source_country": "IL",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1563698788367552",
+            "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
+            "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/794447814_4467112353602147_8601544679394713778_n.jpg?_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fqXZgIRbqsoQ7kNvwGI8Wbj&_nc_oc=Adp4vQwz4ZvcGVRmbp2oVfQp-hkHekyHaqpD-nMwEodHLRS3D6GA39ZYG8YXSZtPNmQ&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=1diM8Rb106eZeJGwSnCb4g&_nc_ss=79289&oh=00_AQRtj0R9zlEZL_-3QwApvjUPFkc7StnzQKU7Y2Z1aglKaQ&oe=6B02FC72",
+            "video_url": null,
+            "first_seen": "2026-11-18T03:57:09.159733+00:00",
+            "last_seen": "2026-11-18T12:45:45.291724+00:00",
+            "active_checked_at": "2026-11-18T12:45:45.291724+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "HU",
+              "IL"
+            ]
+          },
+          {
+            "ad_id": "1253071373626926",
+            "product_name": "support stamina and heart health every day",
+            "product_key": "title:support stamina and heart health every day",
+            "category": "wellness",
+            "advertiser": "Rosabella",
+            "source_country": "IL",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1253071373626926",
+            "landing_url": "https://track.tryrosabella.com/cdc16426-3e48-40a7-9fad-21098084f6cf",
+            "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/795777070_1635866701240819_5193122022771916519_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=P4Te-uYYc_wQ7kNvwFPRoxO&_nc_oc=AdplFQoM24RNGdOBSdHo31PQIf1wdU5uKVZAgMvWtwwzCfan78QOeN8sO4AWa8uGZwg&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=1diM8Rb106eZeJGwSnCb4g&_nc_ss=79289&oh=00_AQSLYwhqNtXWaUgKXU6OXZiii_H-iSkXZkp2A0UkK1LrJw&oe=6B0309F0",
+            "video_url": null,
+            "first_seen": "2026-11-18T03:57:09.159733+00:00",
+            "last_seen": "2026-11-18T12:45:45.291724+00:00",
+            "active_checked_at": "2026-11-18T12:45:45.291724+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "HU",
+              "IL"
+            ]
+          },
+          {
+            "ad_id": "2337102826826878",
+            "product_name": "support stamina and heart health every day",
+            "product_key": "title:support stamina and heart health every day",
+            "category": "wellness",
+            "advertiser": "Rosabella",
+            "source_country": "IL",
+            "ad_url": "https://www.facebook.com/ads/library/?id=2337102826826878",
+            "landing_url": "https://track.tryrosabella.com/cdc16426-3e48-40a7-9fad-21098084f6cf",
+            "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/812132910_1469679015023839_7251404266984292396_n.jpg?_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xVXkoqkQMJAQ7kNvwEQt9Jt&_nc_oc=AdroMfu_KdJqyn0DsOzrBdb62wjhjHlMShKMBkEhAUPxgk2xFI2wmRPeW1zM7dLBqB4&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=1diM8Rb106eZeJGwSnCb4g&_nc_ss=79289&oh=00_AQRERgeaSgCly0UUP7GJKdagOcMmEd1gOxpOuGB5k4xYEw&oe=6B030B48",
+            "video_url": null,
+            "first_seen": "2026-11-18T03:57:09.159733+00:00",
+            "last_seen": "2026-11-18T12:45:45.291724+00:00",
+            "active_checked_at": "2026-11-18T12:45:45.291724+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "HU",
+              "IL"
+            ]
+          },
+          {
+            "ad_id": "1806445980536431",
+            "product_name": "support stamina and heart health every day",
+            "product_key": "title:support stamina and heart health every day",
+            "category": "wellness",
+            "advertiser": "Rosabella",
+            "source_country": "IL",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1806445980536431",
+            "landing_url": "https://track.tryrosabella.com/cdc16426-3e48-40a7-9fad-21098084f6cf",
+            "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/812781709_1088251284065255_4088636375547364007_n.jpg?_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DtUvvE8SIY0Q7kNvwFw9621&_nc_oc=Adodp_bBNTYNrA3KmuVxe1qLDgZ_q_jWRUXW83X0q5FQMrxMLUlKkHBt8h6i9uzm820&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=1diM8Rb106eZeJGwSnCb4g&_nc_ss=79289&oh=00_AQRuJ1PLq7tztVmGAFxzZB_iQKcyzvFYHdZq3416BlqEOA&oe=6B02F5B4",
+            "video_url": null,
+            "first_seen": "2026-11-18T03:57:09.159733+00:00",
+            "last_seen": "2026-11-18T12:45:45.291724+00:00",
+            "active_checked_at": "2026-11-18T12:45:45.291724+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "HU",
+              "IL"
+            ]
+          },
+          {
+            "ad_id": "1635124924863366",
+            "product_name": "support stamina and heart health every day",
+            "product_key": "title:support stamina and heart health every day",
+            "category": "wellness",
+            "advertiser": "The Heart Health Project",
+            "source_country": "IL",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1635124924863366",
+            "landing_url": "https://track.tryrosabella.com/cdc16426-3e48-40a7-9fad-21098084f6cf",
+            "image_url": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.35426-6/785365100_1954855715177243_5899473308114676541_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WSRmeNDdhHcQ7kNvwGl5zqQ&_nc_oc=AdrO1-Pmu1drtKWMWjFmuRTMlKx5mr8pJu8BFhElRcj92qYSpYcgRZmgawzqTTkqdWM&_nc_zt=14&_nc_ht=scontent-sea5-2.xx&_nc_gid=1diM8Rb106eZeJGwSnCb4g&_nc_ss=79289&oh=00_AQROvOBZP2n1fgYa3CNXb--N4T83j-PecCCKqd_l9enFpQ&oe=6B02D8CF",
+            "video_url": null,
+            "first_seen": "2026-11-18T03:57:09.159733+00:00",
+            "last_seen": "2026-11-18T12:45:45.291724+00:00",
+            "active_checked_at": "2026-11-18T12:45:45.291724+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "HU",
+              "IL"
+            ]
+          },
+          {
+            "ad_id": "1379553854290704",
+            "product_name": "support stamina and heart health every day",
+            "product_key": "title:support stamina and heart health every day",
+            "category": "wellness",
+            "advertiser": "The Heart Health Project",
+            "source_country": "IL",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1379553854290704",
+            "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
+            "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/810868153_1764611017789923_797139429468306906_n.jpg?_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=w1oYALmtTjkQ7kNvwFxVQ3E&_nc_oc=AdoNgdwar1M-0lN4UMsTzeq9AKV80o58oweZ0dHWSkYWmniODKz63M9TFAfZ-JkNSi4&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=1diM8Rb106eZeJGwSnCb4g&_nc_ss=79289&oh=00_AQTl_AEGuNmx_njIKcxTHP4jWDT2fbyvVTpDl2fgaCzP1Q&oe=6B0307CC",
+            "video_url": null,
+            "first_seen": "2026-11-18T03:57:09.159733+00:00",
+            "last_seen": "2026-11-18T12:45:45.291724+00:00",
+            "active_checked_at": "2026-11-18T12:45:45.291724+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "HU",
+              "IL"
+            ]
+          },
+          {
+            "ad_id": "1630623452017635",
+            "product_name": "support stamina and heart health every day",
+            "product_key": "title:support stamina and heart health every day",
+            "category": "wellness",
+            "advertiser": "Rosabella",
+            "source_country": "HU",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1630623452017635",
+            "landing_url": "https://track.tryrosabella.com/cdc16426-3e48-40a7-9fad-21098084f6cf",
+            "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/811137956_1610745667249603_6993563473308679422_n.jpg?_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CEvHGKMFt6kQ7kNvwFzr9K8&_nc_oc=Ado29cfowsifh0cUdmkXPs2uLfyv-RAQNeBoK2MfxfNpKjaRyz7M_ZKbHtdbgDGm3TA&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=hbwOga2L09DakWviNtwZNA&_nc_ss=79289&oh=00_AQQQQMhF0C4fDXjg1VAjcNZkasJzurJ4Vhjak1ZWA6jzUA&oe=6B037E93",
+            "video_url": null,
+            "first_seen": "2026-11-18T12:45:45.291724+00:00",
+            "last_seen": "2026-11-18T12:45:45.291724+00:00",
+            "active_checked_at": "2026-11-18T12:45:45.291724+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "HU"
+            ]
+          },
           {
             "ad_id": "3693847204097327",
             "product_name": "support stamina and heart health every day",
@@ -57,31 +261,6 @@
               "KZ",
               "LT",
               "PE"
-            ]
-          },
-          {
-            "ad_id": "1866683000975667",
-            "product_name": "support stamina and heart health every day",
-            "product_key": "title:support stamina and heart health every day",
-            "category": "wellness",
-            "advertiser": "Essential Health Finds",
-            "source_country": "JP",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1866683000975667",
-            "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
-            "image_url": "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.35426-6/778985133_1563691878628072_4075139560395152163_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uCGnLB9imLAQ7kNvwEeYcz9&_nc_oc=AdqkmJB3tr1ohf4zPbHU6DHWy7XUcBrWih6BMpm_fCfDUjzDguQitLV3makz1vjYsqw&_nc_zt=14&_nc_ht=scontent-dfw6-2.xx&_nc_gid=7xenSqKWYaDZJ-sgSuP_Eg&_nc_ss=79289&oh=00_AQQr3nFRnvglVQ6-ASg7CRQDhU6X0DPuTMbjbZoRW1oefg&oe=6AF74FF4",
-            "video_url": null,
-            "first_seen": "2026-11-09T06:54:33.152575+00:00",
-            "last_seen": "2026-11-18T06:06:16.052460+00:00",
-            "active_checked_at": "2026-11-18T06:06:16.052460+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "AT",
-              "EE",
-              "HU",
-              "IL",
-              "JP",
-              "LT",
-              "NL"
             ]
           },
           {
@@ -386,158 +565,6 @@
             "is_active_observed": true,
             "source_countries": [
               "KR"
-            ]
-          },
-          {
-            "ad_id": "1059526657061215",
-            "product_name": "support stamina and heart health every day",
-            "product_key": "title:support stamina and heart health every day",
-            "category": "wellness",
-            "advertiser": "The Heart Health Project",
-            "source_country": "IL",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1059526657061215",
-            "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
-            "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/811830930_1396049951947368_8727536700436820138_n.jpg?_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Ysxe7agf79oQ7kNvwHKSaYT&_nc_oc=AdohzM1GGO1ys88zSazd0Seca4DTIqU5Aihv9AxUUP2rkRwcXKcY7Cm-DmQJYt61Dvg&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=1diM8Rb106eZeJGwSnCb4g&_nc_ss=79289&oh=00_AQTMH5tHVfcRBi-ltjH_3VT0xAQEZjCK8xDS1sMbX0zmww&oe=6B03023E",
-            "video_url": null,
-            "first_seen": "2026-11-18T03:57:09.159733+00:00",
-            "last_seen": "2026-11-18T03:57:09.159733+00:00",
-            "active_checked_at": "2026-11-18T03:57:09.159733+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "IL"
-            ]
-          },
-          {
-            "ad_id": "1602276251446062",
-            "product_name": "support stamina and heart health every day",
-            "product_key": "title:support stamina and heart health every day",
-            "category": "wellness",
-            "advertiser": "The Heart Health Project",
-            "source_country": "IL",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1602276251446062",
-            "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
-            "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/812373109_1782094293210275_6778046102892464908_n.jpg?_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Wpdue461jWsQ7kNvwFLV3Sq&_nc_oc=AdrVVkglAauYjG08DUW5pEksycX5Gv4rfbl78Qpcp1vJTfZzXr6nr55d_Fy65S4X8J0&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=1diM8Rb106eZeJGwSnCb4g&_nc_ss=79289&oh=00_AQTfv1OquPFezgvmrZ6zh9jKAtBLlqSmneyrXIChMRVOAw&oe=6B02E2C0",
-            "video_url": null,
-            "first_seen": "2026-11-18T03:57:09.159733+00:00",
-            "last_seen": "2026-11-18T03:57:09.159733+00:00",
-            "active_checked_at": "2026-11-18T03:57:09.159733+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "IL"
-            ]
-          },
-          {
-            "ad_id": "1563698788367552",
-            "product_name": "support stamina and heart health every day",
-            "product_key": "title:support stamina and heart health every day",
-            "category": "wellness",
-            "advertiser": "Blood Pressure Secrets",
-            "source_country": "IL",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1563698788367552",
-            "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
-            "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/794447814_4467112353602147_8601544679394713778_n.jpg?_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fqXZgIRbqsoQ7kNvwGI8Wbj&_nc_oc=Adp4vQwz4ZvcGVRmbp2oVfQp-hkHekyHaqpD-nMwEodHLRS3D6GA39ZYG8YXSZtPNmQ&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=1diM8Rb106eZeJGwSnCb4g&_nc_ss=79289&oh=00_AQRtj0R9zlEZL_-3QwApvjUPFkc7StnzQKU7Y2Z1aglKaQ&oe=6B02FC72",
-            "video_url": null,
-            "first_seen": "2026-11-18T03:57:09.159733+00:00",
-            "last_seen": "2026-11-18T03:57:09.159733+00:00",
-            "active_checked_at": "2026-11-18T03:57:09.159733+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "IL"
-            ]
-          },
-          {
-            "ad_id": "1253071373626926",
-            "product_name": "support stamina and heart health every day",
-            "product_key": "title:support stamina and heart health every day",
-            "category": "wellness",
-            "advertiser": "Rosabella",
-            "source_country": "IL",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1253071373626926",
-            "landing_url": "https://track.tryrosabella.com/cdc16426-3e48-40a7-9fad-21098084f6cf",
-            "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/795777070_1635866701240819_5193122022771916519_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=P4Te-uYYc_wQ7kNvwFPRoxO&_nc_oc=AdplFQoM24RNGdOBSdHo31PQIf1wdU5uKVZAgMvWtwwzCfan78QOeN8sO4AWa8uGZwg&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=1diM8Rb106eZeJGwSnCb4g&_nc_ss=79289&oh=00_AQSLYwhqNtXWaUgKXU6OXZiii_H-iSkXZkp2A0UkK1LrJw&oe=6B0309F0",
-            "video_url": null,
-            "first_seen": "2026-11-18T03:57:09.159733+00:00",
-            "last_seen": "2026-11-18T03:57:09.159733+00:00",
-            "active_checked_at": "2026-11-18T03:57:09.159733+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "IL"
-            ]
-          },
-          {
-            "ad_id": "2337102826826878",
-            "product_name": "support stamina and heart health every day",
-            "product_key": "title:support stamina and heart health every day",
-            "category": "wellness",
-            "advertiser": "Rosabella",
-            "source_country": "IL",
-            "ad_url": "https://www.facebook.com/ads/library/?id=2337102826826878",
-            "landing_url": "https://track.tryrosabella.com/cdc16426-3e48-40a7-9fad-21098084f6cf",
-            "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/812132910_1469679015023839_7251404266984292396_n.jpg?_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xVXkoqkQMJAQ7kNvwEQt9Jt&_nc_oc=AdroMfu_KdJqyn0DsOzrBdb62wjhjHlMShKMBkEhAUPxgk2xFI2wmRPeW1zM7dLBqB4&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=1diM8Rb106eZeJGwSnCb4g&_nc_ss=79289&oh=00_AQRERgeaSgCly0UUP7GJKdagOcMmEd1gOxpOuGB5k4xYEw&oe=6B030B48",
-            "video_url": null,
-            "first_seen": "2026-11-18T03:57:09.159733+00:00",
-            "last_seen": "2026-11-18T03:57:09.159733+00:00",
-            "active_checked_at": "2026-11-18T03:57:09.159733+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "IL"
-            ]
-          },
-          {
-            "ad_id": "1806445980536431",
-            "product_name": "support stamina and heart health every day",
-            "product_key": "title:support stamina and heart health every day",
-            "category": "wellness",
-            "advertiser": "Rosabella",
-            "source_country": "IL",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1806445980536431",
-            "landing_url": "https://track.tryrosabella.com/cdc16426-3e48-40a7-9fad-21098084f6cf",
-            "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/812781709_1088251284065255_4088636375547364007_n.jpg?_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DtUvvE8SIY0Q7kNvwFw9621&_nc_oc=Adodp_bBNTYNrA3KmuVxe1qLDgZ_q_jWRUXW83X0q5FQMrxMLUlKkHBt8h6i9uzm820&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=1diM8Rb106eZeJGwSnCb4g&_nc_ss=79289&oh=00_AQRuJ1PLq7tztVmGAFxzZB_iQKcyzvFYHdZq3416BlqEOA&oe=6B02F5B4",
-            "video_url": null,
-            "first_seen": "2026-11-18T03:57:09.159733+00:00",
-            "last_seen": "2026-11-18T03:57:09.159733+00:00",
-            "active_checked_at": "2026-11-18T03:57:09.159733+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "IL"
-            ]
-          },
-          {
-            "ad_id": "1635124924863366",
-            "product_name": "support stamina and heart health every day",
-            "product_key": "title:support stamina and heart health every day",
-            "category": "wellness",
-            "advertiser": "The Heart Health Project",
-            "source_country": "IL",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1635124924863366",
-            "landing_url": "https://track.tryrosabella.com/cdc16426-3e48-40a7-9fad-21098084f6cf",
-            "image_url": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.35426-6/785365100_1954855715177243_5899473308114676541_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WSRmeNDdhHcQ7kNvwGl5zqQ&_nc_oc=AdrO1-Pmu1drtKWMWjFmuRTMlKx5mr8pJu8BFhElRcj92qYSpYcgRZmgawzqTTkqdWM&_nc_zt=14&_nc_ht=scontent-sea5-2.xx&_nc_gid=1diM8Rb106eZeJGwSnCb4g&_nc_ss=79289&oh=00_AQROvOBZP2n1fgYa3CNXb--N4T83j-PecCCKqd_l9enFpQ&oe=6B02D8CF",
-            "video_url": null,
-            "first_seen": "2026-11-18T03:57:09.159733+00:00",
-            "last_seen": "2026-11-18T03:57:09.159733+00:00",
-            "active_checked_at": "2026-11-18T03:57:09.159733+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "IL"
-            ]
-          },
-          {
-            "ad_id": "1379553854290704",
-            "product_name": "support stamina and heart health every day",
-            "product_key": "title:support stamina and heart health every day",
-            "category": "wellness",
-            "advertiser": "The Heart Health Project",
-            "source_country": "IL",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1379553854290704",
-            "landing_url": "https://track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
-            "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/810868153_1764611017789923_797139429468306906_n.jpg?_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=w1oYALmtTjkQ7kNvwFxVQ3E&_nc_oc=AdoNgdwar1M-0lN4UMsTzeq9AKV80o58oweZ0dHWSkYWmniODKz63M9TFAfZ-JkNSi4&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=1diM8Rb106eZeJGwSnCb4g&_nc_ss=79289&oh=00_AQTl_AEGuNmx_njIKcxTHP4jWDT2fbyvVTpDl2fgaCzP1Q&oe=6B0307CC",
-            "video_url": null,
-            "first_seen": "2026-11-18T03:57:09.159733+00:00",
-            "last_seen": "2026-11-18T03:57:09.159733+00:00",
-            "active_checked_at": "2026-11-18T03:57:09.159733+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "IL"
             ]
           },
           {
@@ -1395,7 +1422,601 @@
     "sport": [],
     "vehicle": [],
     "travel": [],
-    "garden": [],
+    "garden": [
+      {
+        "name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+        "group_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+        "ad_count": 28,
+        "active_ads_observed": 28,
+        "advertiser_count": 1,
+        "countries": [
+          "AE",
+          "AR",
+          "BG",
+          "CR",
+          "CZ",
+          "DE",
+          "ES",
+          "FI",
+          "FR",
+          "GR",
+          "HK",
+          "ID",
+          "LT",
+          "MA",
+          "MX",
+          "NL",
+          "PE",
+          "RS",
+          "SA",
+          "SE",
+          "TR",
+          "UA"
+        ],
+        "last_active_observation": "2026-11-18T12:45:45.291724+00:00",
+        "ads": [
+          {
+            "ad_id": "4558295861107337",
+            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "garden",
+            "advertiser": "Alibaba.com",
+            "source_country": "BG",
+            "ad_url": "https://www.facebook.com/ads/library/?id=4558295861107337",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/869832053_1786795282371331_3093972017159158339_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IgXDtr8-V4QQ7kNvwETK6kB&_nc_oc=Adq7I92Gd1ogUnEG78v3GBkGIolDgtzOIz9JKuz_nOn8HTb8lYcZnDQ9wypeIsLr5zI&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=XTuEaNRW6-uVxpMm4zfUqw&_nc_ss=79289&oh=00_AQSfoaJg3PLkQecfLbOorg4nacVHSHHSw-ks4q9pv2BH-A&oe=6B036E0B",
+            "video_url": null,
+            "first_seen": "2026-11-18T12:45:45.291724+00:00",
+            "last_seen": "2026-11-18T12:45:45.291724+00:00",
+            "active_checked_at": "2026-11-18T12:45:45.291724+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "BG"
+            ]
+          },
+          {
+            "ad_id": "1440028270917530",
+            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "garden",
+            "advertiser": "Alibaba.com",
+            "source_country": "BG",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1440028270917530",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/867340864_3226887194176148_3777023540489225849_n.jpg?_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VzuTimWpitIQ7kNvwHc-G4N&_nc_oc=AdofB2dqlIVPV1LArSHq7PP4KGv3V4zx66zXU7EyE3JUCQtnobfd77FSvZMHJn2Y5qc&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=XTuEaNRW6-uVxpMm4zfUqw&_nc_ss=79289&oh=00_AQQqLfNxRIOrghwoaGTklvCC5TXhfQZ1nJTztyeQTvF2Lg&oe=6B035745",
+            "video_url": null,
+            "first_seen": "2026-11-18T12:45:45.291724+00:00",
+            "last_seen": "2026-11-18T12:45:45.291724+00:00",
+            "active_checked_at": "2026-11-18T12:45:45.291724+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "BG"
+            ]
+          },
+          {
+            "ad_id": "1152284220475222",
+            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "garden",
+            "advertiser": "Alibaba.com",
+            "source_country": "DE",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1152284220475222",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/858404079_2322105898612935_902231709251707545_n.jpg?_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=24FedWn5egMQ7kNvwFnEPVX&_nc_oc=AdoROqhLMGzoT1o77uqioQOlJs5V6Pv-Kedgk0_OP2s45zk64CwTWf-o6pG7NLbqFkU&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=yBQ9t9YtqQYfcABHD7bKxg&_nc_ss=79289&oh=00_AQRLOXHyoZAz13us33eL9r8jyTATejlAauTwbhEX-zYUuw&oe=6B038074",
+            "video_url": null,
+            "first_seen": "2026-11-18T12:45:45.291724+00:00",
+            "last_seen": "2026-11-18T12:45:45.291724+00:00",
+            "active_checked_at": "2026-11-18T12:45:45.291724+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "DE"
+            ]
+          },
+          {
+            "ad_id": "1378556460764688",
+            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "garden",
+            "advertiser": "Alibaba.com",
+            "source_country": "DE",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1378556460764688",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/869450903_1436057077904484_4670820379649831527_n.jpg?_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fMUgHwMa0ksQ7kNvwH-EvdN&_nc_oc=AdpJo6PyBEtdJePXshN-pji2mJzfvaGxO6ZAdbvyec-VQ7NOGAcpr_CdDQTyaJhbqOg&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=yBQ9t9YtqQYfcABHD7bKxg&_nc_ss=79289&oh=00_AQREc4L8jqvy8Ev97zK3Gp8rv7as_5oIBvbyChCK769v0A&oe=6B037AE2",
+            "video_url": null,
+            "first_seen": "2026-11-18T12:45:45.291724+00:00",
+            "last_seen": "2026-11-18T12:45:45.291724+00:00",
+            "active_checked_at": "2026-11-18T12:45:45.291724+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "DE"
+            ]
+          },
+          {
+            "ad_id": "1051682481219334",
+            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "garden",
+            "advertiser": "Alibaba.com",
+            "source_country": "DE",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1051682481219334",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/862082765_1784369489482614_2815659977990958893_n.jpg?_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RIdU8W9VF3gQ7kNvwFMnyU3&_nc_oc=AdpPBSlb3nN3W1w91lRdWE1v5A7xVKPcrTKpknpiZvhvxtXMX0VRmjWHbuhUJLEHegw&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=yBQ9t9YtqQYfcABHD7bKxg&_nc_ss=79289&oh=00_AQTa7lOj_Hzld-A38INHzUqVxdvHG7jrlW5K-FfEVk986A&oe=6B037672",
+            "video_url": null,
+            "first_seen": "2026-11-18T12:45:45.291724+00:00",
+            "last_seen": "2026-11-18T12:45:45.291724+00:00",
+            "active_checked_at": "2026-11-18T12:45:45.291724+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "DE"
+            ]
+          },
+          {
+            "ad_id": "1111108848355106",
+            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "garden",
+            "advertiser": "Alibaba.com",
+            "source_country": "DE",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1111108848355106",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/866435490_1384663661397351_7278352887744173090_n.jpg?_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VpCzvdRRo20Q7kNvwFZG3Vo&_nc_oc=Adr3rmL8TY69-Csi2Oa3CEbKe-WJjF64ElzQzHX3i19_TwnlPqIgBMXLnTkZFRmgsxM&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=yBQ9t9YtqQYfcABHD7bKxg&_nc_ss=79289&oh=00_AQRqUpzFJ6uc3YEFBfV-vE5Tb9Ul-My5MruMm5wnYkI3gA&oe=6B0372A1",
+            "video_url": null,
+            "first_seen": "2026-11-18T12:45:45.291724+00:00",
+            "last_seen": "2026-11-18T12:45:45.291724+00:00",
+            "active_checked_at": "2026-11-18T12:45:45.291724+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "DE"
+            ]
+          },
+          {
+            "ad_id": "2012330656116983",
+            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "garden",
+            "advertiser": "Alibaba.com",
+            "source_country": "DE",
+            "ad_url": "https://www.facebook.com/ads/library/?id=2012330656116983",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/871553541_2874496939594121_748182833565098068_n.jpg?_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5iMPD2Dc6zAQ7kNvwEK2jdk&_nc_oc=AdraA_wGlKc0wapd_vc4LEK817egsdwIJstThSbvT11vcx2xk3QEVX6wMzFC8jZuWMY&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=yBQ9t9YtqQYfcABHD7bKxg&_nc_ss=79289&oh=00_AQR82AJK56kbfZ3_-aLm4xGc1dG16PAgssERYBrxstHYoQ&oe=6B036A6F",
+            "video_url": null,
+            "first_seen": "2026-11-18T12:45:45.291724+00:00",
+            "last_seen": "2026-11-18T12:45:45.291724+00:00",
+            "active_checked_at": "2026-11-18T12:45:45.291724+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "DE"
+            ]
+          },
+          {
+            "ad_id": "1173812838546652",
+            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "garden",
+            "advertiser": "Alibaba.com",
+            "source_country": "DE",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1173812838546652",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/874489620_1688246759543160_685754263777750831_n.jpg?_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=n1WQ1e64qGQQ7kNvwFJXkWL&_nc_oc=Adq33qXIPMgM8RIfWnlPiC4gFiiNrO7mHePnqwBAdUqPZ4avTXTAoivsSkM4GEF9ygM&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=yBQ9t9YtqQYfcABHD7bKxg&_nc_ss=79289&oh=00_AQT8875_Z3BrC3J3ugh4YD9U6qqTtBAL2gw4MTo8geKoLg&oe=6B036B7D",
+            "video_url": null,
+            "first_seen": "2026-11-18T12:45:45.291724+00:00",
+            "last_seen": "2026-11-18T12:45:45.291724+00:00",
+            "active_checked_at": "2026-11-18T12:45:45.291724+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "DE"
+            ]
+          },
+          {
+            "ad_id": "1108687338746098",
+            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "garden",
+            "advertiser": "Alibaba.com",
+            "source_country": "DE",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1108687338746098",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/876372358_1675129490634382_7219531791837061457_n.jpg?_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XwQmoLt6lt8Q7kNvwGDR2kM&_nc_oc=AdriydlcWv6UJno8t_Y0L57q3kwaLVTO2Y8XETu6J0MPze36KBFLrGDvQoPV8tCYp4I&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=yBQ9t9YtqQYfcABHD7bKxg&_nc_ss=79289&oh=00_AQTs4f4j2_DSaMtUtrdYFVAUqZmknBh2aUTElyyVEdOQfg&oe=6B037FEE",
+            "video_url": null,
+            "first_seen": "2026-11-18T12:45:45.291724+00:00",
+            "last_seen": "2026-11-18T12:45:45.291724+00:00",
+            "active_checked_at": "2026-11-18T12:45:45.291724+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "DE"
+            ]
+          },
+          {
+            "ad_id": "4565226377140012",
+            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "garden",
+            "advertiser": "Alibaba.com",
+            "source_country": "DE",
+            "ad_url": "https://www.facebook.com/ads/library/?id=4565226377140012",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/867796814_2076630607059469_6023855959707195870_n.jpg?_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tLqxbrKlIAMQ7kNvwFc_X7q&_nc_oc=Adq3POPxSOL3i9KADvldABhHWjruIaxwIM1kTa9sDP0lIEFcjOlW74xuEuJTHRZoOEw&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=yBQ9t9YtqQYfcABHD7bKxg&_nc_ss=79289&oh=00_AQQQtCBY1Vym9wcHqFESYchRtulwiqeVvMrmJVEFuZ9xHg&oe=6B037CED",
+            "video_url": null,
+            "first_seen": "2026-11-18T12:45:45.291724+00:00",
+            "last_seen": "2026-11-18T12:45:45.291724+00:00",
+            "active_checked_at": "2026-11-18T12:45:45.291724+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "DE"
+            ]
+          },
+          {
+            "ad_id": "1073948545702792",
+            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "garden",
+            "advertiser": "Alibaba.com",
+            "source_country": "DE",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1073948545702792",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/871101271_1886872766059937_507504404262731220_n.jpg?_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pM_XawEirA0Q7kNvwHPyuaS&_nc_oc=AdrIO5cIZvNFFr0aXzhH9su8VCuSHRtc3tHqLzrm6ruUqh8mdN13DIvETjDjayDhk4o&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=yBQ9t9YtqQYfcABHD7bKxg&_nc_ss=79289&oh=00_AQQEqlr_2AviGEKGGMdd6ilRnODiQD82WFByWHe5uiSiQQ&oe=6B03836F",
+            "video_url": null,
+            "first_seen": "2026-11-18T12:45:45.291724+00:00",
+            "last_seen": "2026-11-18T12:45:45.291724+00:00",
+            "active_checked_at": "2026-11-18T12:45:45.291724+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "DE",
+              "NL"
+            ]
+          },
+          {
+            "ad_id": "1636820107883857",
+            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "garden",
+            "advertiser": "Alibaba.com",
+            "source_country": "NL",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1636820107883857",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/864479187_1125298076580263_5071492997197218333_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_PeMntS-vAgQ7kNvwE9giWl&_nc_oc=AdrJ1LhqhIm8Xgmkvf9OFjGSNYtnCbYoZllaHHdTS-jnqeeEpZTD8y_WpPLq1iCWono&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=1MViKtglWCtJIsyyzZGGwg&_nc_ss=79289&oh=00_AQSLBQCSJsks6pjffWPGT2jSWGWYbjR8MgzUWi9N4as4Tg&oe=6B03616C",
+            "video_url": null,
+            "first_seen": "2026-11-18T12:45:45.291724+00:00",
+            "last_seen": "2026-11-18T12:45:45.291724+00:00",
+            "active_checked_at": "2026-11-18T12:45:45.291724+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "NL"
+            ]
+          },
+          {
+            "ad_id": "1546652590559958",
+            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "garden",
+            "advertiser": "Alibaba.com",
+            "source_country": "NL",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1546652590559958",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/870225323_1832407967897394_6865518076482577679_n.jpg?_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fhCJUfxZSF8Q7kNvwH4xmJI&_nc_oc=AdrPqvKV_2oF_g7hUjZzX7P_8Pp1RXa2ZYnaQh2lNYesc4iHs0UkCwStgCQ8-utMfP8&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=1MViKtglWCtJIsyyzZGGwg&_nc_ss=79289&oh=00_AQTxYgetl4-sA-N42fzSfM9trtuuGAaz9QTiWrXwi-4p_g&oe=6B0366FC",
+            "video_url": null,
+            "first_seen": "2026-11-18T12:45:45.291724+00:00",
+            "last_seen": "2026-11-18T12:45:45.291724+00:00",
+            "active_checked_at": "2026-11-18T12:45:45.291724+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "NL"
+            ]
+          },
+          {
+            "ad_id": "1366114695430441",
+            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "garden",
+            "advertiser": "Alibaba.com",
+            "source_country": "NL",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1366114695430441",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/862314967_2604725223308654_405645418999481057_n.jpg?_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fFtqApVZ200Q7kNvwFv6Zr5&_nc_oc=Adpo6lJUfoYY2OVQwR9hXDu3QF_9CjUUMmbDBi7lsifjvwJcgm-v8e7rgVaDfCdqlVk&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=1MViKtglWCtJIsyyzZGGwg&_nc_ss=79289&oh=00_AQQWn4M_E2C3UutEuAKFaWmENBF75JuUBpHhmvHBe9C7KA&oe=6B0366E2",
+            "video_url": null,
+            "first_seen": "2026-11-18T12:45:45.291724+00:00",
+            "last_seen": "2026-11-18T12:45:45.291724+00:00",
+            "active_checked_at": "2026-11-18T12:45:45.291724+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "NL"
+            ]
+          },
+          {
+            "ad_id": "2393385721197417",
+            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "garden",
+            "advertiser": "Alibaba.com",
+            "source_country": "NL",
+            "ad_url": "https://www.facebook.com/ads/library/?id=2393385721197417",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/865003041_1104922082182377_3404366244866667400_n.jpg?_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CIzRNPBrtggQ7kNvwHnWI9x&_nc_oc=Adow-c4Jx4d_V7vqzatwj596soeHKPc_pMpkZIEJXR9E2BpxZxmCugA6A15F9Sr1qLY&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=1MViKtglWCtJIsyyzZGGwg&_nc_ss=79289&oh=00_AQQRAuzLNia1m8omRS39lRIz8Zo3EB5V8HA9rmFnAsFrwA&oe=6B038888",
+            "video_url": null,
+            "first_seen": "2026-11-18T12:45:45.291724+00:00",
+            "last_seen": "2026-11-18T12:45:45.291724+00:00",
+            "active_checked_at": "2026-11-18T12:45:45.291724+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "NL"
+            ]
+          },
+          {
+            "ad_id": "1113817564859090",
+            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "garden",
+            "advertiser": "Alibaba.com",
+            "source_country": "NL",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1113817564859090",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/864353148_2206197109970210_6475096872139226158_n.jpg?_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7V-BTgSEtrMQ7kNvwFbj5CP&_nc_oc=AdrZP1PRm6vDhRNdHchKtYvkTOiPClsTPio7tPM5lskG2dGisrwlnp73LYbTw6pnY3Y&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=1MViKtglWCtJIsyyzZGGwg&_nc_ss=79289&oh=00_AQQuOI_sJxBmg_0xKcVYnNRueo3rygTg-HMiLqmMvPoV6Q&oe=6B0360EC",
+            "video_url": null,
+            "first_seen": "2026-11-18T12:45:45.291724+00:00",
+            "last_seen": "2026-11-18T12:45:45.291724+00:00",
+            "active_checked_at": "2026-11-18T12:45:45.291724+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "NL"
+            ]
+          },
+          {
+            "ad_id": "1823975535312457",
+            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "garden",
+            "advertiser": "Alibaba.com",
+            "source_country": "NL",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1823975535312457",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/865687892_1928155998556553_2886022140789522101_n.jpg?_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ysPTR2uY0EcQ7kNvwFuSAVH&_nc_oc=AdqvYGnL3V0CVOSD0XAKE8f1V0ZEa6pJgvu1OAYQ9HhMglm3ikr6Ys2vjwcAFjy_JwY&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=1MViKtglWCtJIsyyzZGGwg&_nc_ss=79289&oh=00_AQTQ66X_kbE5FGXwupVsnnVIlqa51nB4AF7ae4vAES7kqQ&oe=6B0362D7",
+            "video_url": null,
+            "first_seen": "2026-11-18T12:45:45.291724+00:00",
+            "last_seen": "2026-11-18T12:45:45.291724+00:00",
+            "active_checked_at": "2026-11-18T12:45:45.291724+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "NL"
+            ]
+          },
+          {
+            "ad_id": "1288766846714718",
+            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "garden",
+            "advertiser": "Alibaba.com",
+            "source_country": "FR",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1288766846714718",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/868245270_1433923702280241_6910378599990869966_n.jpg?_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MCab7ZrfC8kQ7kNvwGlnJtj&_nc_oc=Ado-aNI7XiEIv3_PEnia4rf6yrs0D448O94uIEGVRX4GMdyVc1OiicDHYhZguZ0ozto&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7EBTKG0VE-vl_ZqRoOZJEw&_nc_ss=79289&oh=00_AQR0KWPn_h31dBQkPqmvu0RTcH7M7eLaHE7zHojRQ8DKJg&oe=6B032C40",
+            "video_url": null,
+            "first_seen": "2026-11-18T08:34:42.386366+00:00",
+            "last_seen": "2026-11-18T11:44:40.570409+00:00",
+            "active_checked_at": "2026-11-18T11:44:40.570409+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "AE",
+              "FR"
+            ]
+          },
+          {
+            "ad_id": "1136975878914977",
+            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "garden",
+            "advertiser": "Alibaba.com",
+            "source_country": "AE",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1136975878914977",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/869579330_3767968400023606_968689053181750475_n.jpg?_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sIsVIo4Rq44Q7kNvwHIdWUa&_nc_oc=AdoIiqInwzoyl0sLeH5FjEj2pylbMpLVOdVXtR9YsDFHY45yRPz10Gs2GyVZlEciZWU&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=CJ6FIQAnomTb009q4EB-3w&_nc_ss=79289&oh=00_AQS3-rxRxdleTxGrq-MRRk-xVTY37ao4GtuhLCq2zDo9Lw&oe=6B0378BF",
+            "video_url": null,
+            "first_seen": "2026-11-18T11:44:40.570409+00:00",
+            "last_seen": "2026-11-18T11:44:40.570409+00:00",
+            "active_checked_at": "2026-11-18T11:44:40.570409+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "AE"
+            ]
+          },
+          {
+            "ad_id": "28954370720840463",
+            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "garden",
+            "advertiser": "Alibaba.com",
+            "source_country": "AE",
+            "ad_url": "https://www.facebook.com/ads/library/?id=28954370720840463",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/861759820_1095023929960105_787856110039513845_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=N6FA6_zDtowQ7kNvwFQdm3u&_nc_oc=Adov25leShkng6005p0wnbPaz0gqJePQn8o_7qDI68UXi_L0RQJgP05FpMKEkpYed2Q&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=CJ6FIQAnomTb009q4EB-3w&_nc_ss=79289&oh=00_AQTnc1AByrq8tVoRPfyOtip2O7f5Fx-0k8i4xcF0zHVLbA&oe=6B034BEA",
+            "video_url": null,
+            "first_seen": "2026-11-18T11:44:40.570409+00:00",
+            "last_seen": "2026-11-18T11:44:40.570409+00:00",
+            "active_checked_at": "2026-11-18T11:44:40.570409+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "AE"
+            ]
+          },
+          {
+            "ad_id": "1581337440340760",
+            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "garden",
+            "advertiser": "Alibaba.com",
+            "source_country": "UA",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1581337440340760",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/871081074_2071770700196500_6218958450110269337_n.jpg?_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JV1DxJy97w0Q7kNvwH7TU-Z&_nc_oc=AdoZLudlOcPPVKmsDF2fdbNf5enNKJREbwTSMl7ddcBGsdsfj4hdEgL4aoSDbz5zyyU&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=SWSqjbNL8CWqW1ATrDEk6g&_nc_ss=79289&oh=00_AQRP_NpVqqn2mGAF_TWM0xsWoX7pKpUUDxhH7cTD8JijJw&oe=6AFE8AB2",
+            "video_url": null,
+            "first_seen": "2026-11-14T18:44:52.966521+00:00",
+            "last_seen": "2026-11-18T09:36:21.293999+00:00",
+            "active_checked_at": "2026-11-18T09:36:21.293999+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "CR",
+              "GR",
+              "UA"
+            ]
+          },
+          {
+            "ad_id": "1588660466634057",
+            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "garden",
+            "advertiser": "Alibaba.com",
+            "source_country": "TR",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1588660466634057",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/855053269_1420909703003093_6413536517261500833_n.jpg?_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qgxeHp8P8ywQ7kNvwFnSKtf&_nc_oc=AdoZ9c7_8nw8yl08L9QWGj3HWkFM3jXnVmnNDz9qe1gYg5hI_SwQv8AYLx6YqaV9RTU&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=G7C1SW1_b-mObgc6gq8yDw&_nc_ss=79289&oh=00_AQSXSlUTHGzpCf1nbnUOfvVSaTQuuQws0sgstPMPNGgJZg&oe=6AFFE604",
+            "video_url": null,
+            "first_seen": "2026-11-15T19:58:50.948765+00:00",
+            "last_seen": "2026-11-17T19:51:05.612220+00:00",
+            "active_checked_at": "2026-11-17T19:51:05.612220+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "HK",
+              "TR"
+            ]
+          },
+          {
+            "ad_id": "2350330119049522",
+            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "garden",
+            "advertiser": "Alibaba.com",
+            "source_country": "CR",
+            "ad_url": "https://www.facebook.com/ads/library/?id=2350330119049522",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/872105618_1801694384435764_4397406377293062880_n.jpg?_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kcDyWkV0AB8Q7kNvwHTUqP-&_nc_oc=AdrYkCWK155CkqDudeMxBUIaR3Ty9Elj5uRqIfo7PUC3JhzYTfG0h-Ym4JYCsKXcgBQ&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ltACnHgZZ6Rnml6eXyLfmA&_nc_ss=79289&oh=00_AQR2FZygoZurIG5VpVLSoQT--mI7X4gscTIDblJYRyaFmg&oe=6B02366E",
+            "video_url": null,
+            "first_seen": "2026-11-17T15:39:29.257864+00:00",
+            "last_seen": "2026-11-17T15:39:29.257864+00:00",
+            "active_checked_at": "2026-11-17T15:39:29.257864+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "CR"
+            ]
+          },
+          {
+            "ad_id": "4695047627385238",
+            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "garden",
+            "advertiser": "Alibaba.com",
+            "source_country": "RS",
+            "ad_url": "https://www.facebook.com/ads/library/?id=4695047627385238",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/875948315_1137446152115085_2329834826215696495_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=P4Mul1S1mpMQ7kNvwFl3PKB&_nc_oc=Ado1aWrYMmhGS3uR9VhXy8mMY4GuZQJAf177KMf2e5UhBj3pWmGgyCC96b_uHm6I8fs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=O8utRAr3bPnylT7Ez16yQA&_nc_ss=79289&oh=00_AQSfapeuy3Z99L5FJxJ1mUDOS8z3tM9jiI4JCwSEW6wHNQ&oe=6AF12636",
+            "video_url": null,
+            "first_seen": "2026-11-04T17:28:07.356250+00:00",
+            "last_seen": "2026-11-17T11:18:39.254956+00:00",
+            "active_checked_at": "2026-11-17T11:18:39.254956+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "DE",
+              "ES",
+              "ID",
+              "MA",
+              "MX",
+              "RS"
+            ]
+          },
+          {
+            "ad_id": "1139352535103200",
+            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "garden",
+            "advertiser": "Alibaba.com",
+            "source_country": "ID",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1139352535103200",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/876551162_1466475828678713_6015861840700822596_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=v00UaH0dji0Q7kNvwH2op1O&_nc_oc=AdrgaAs0AjjSIo5wnW2KTLno_LnTf7UsAlkLNpM0TYO2Jn9Q65EPALmj93ZhelTH6fA&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=c0MfU8XGjGqrlfp_CWDlXA&_nc_ss=79289&oh=00_AQRwVHx69iJgGtrfk9yw-85xSu-zhGO9lvRTJ8vkznMBbg&oe=6AEFBDD2",
+            "video_url": null,
+            "first_seen": "2026-11-03T14:15:28.154314+00:00",
+            "last_seen": "2026-11-17T11:18:39.254956+00:00",
+            "active_checked_at": "2026-11-17T11:18:39.254956+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "DE",
+              "ES",
+              "FI",
+              "ID",
+              "MA",
+              "MX",
+              "RS"
+            ]
+          },
+          {
+            "ad_id": "1434572748166357",
+            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "garden",
+            "advertiser": "Alibaba.com",
+            "source_country": "DE",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1434572748166357",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/861786315_1760615438346661_1436057316941489325_n.jpg?_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GuSf_QQVKYAQ7kNvwH-559r&_nc_oc=Adq86lQueZ2ctug2hZB8s5l7yGMEkcyok2drLbVFPyF2QO5JJdZTJcfiL-iBMCcZm9g&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=5X7Q1ABRyN0enfH13-2yyw&_nc_ss=79289&oh=00_AQRU5cShs_O2pY5noj8jl69zR0K3ZjLZ7X47OBE6BKS3sw&oe=6AFE33F1",
+            "video_url": null,
+            "first_seen": "2026-11-14T14:21:10.708571+00:00",
+            "last_seen": "2026-11-17T11:18:39.254956+00:00",
+            "active_checked_at": "2026-11-17T11:18:39.254956+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "DE",
+              "ES",
+              "MA"
+            ]
+          },
+          {
+            "ad_id": "1005982002522998",
+            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "garden",
+            "advertiser": "Alibaba.com",
+            "source_country": "UA",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1005982002522998",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign&biz=aiWholeSite",
+            "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/870559549_1106777708907394_8616148629466221354_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bDzHnHLpx9AQ7kNvwHF9BQ8&_nc_oc=AdqVwlX7xWxR1elX0U_iTLfZ8mde_TtgXFIaIRoikBLIXEBeLKEbf6J7eIJyxTNLv5o&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=nG9GKuemaNDe0IGNAIE5HA&_nc_ss=79289&oh=00_AQQoEFtGp2Le9AnkagHqLSS_QsJOb3Zd1V38empAfuUuAw&oe=6AF5495F",
+            "video_url": null,
+            "first_seen": "2026-11-07T18:44:43.332882+00:00",
+            "last_seen": "2026-11-17T06:39:24.821160+00:00",
+            "active_checked_at": "2026-11-17T06:39:24.821160+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "CR",
+              "GR",
+              "LT",
+              "PE",
+              "SE",
+              "UA"
+            ]
+          },
+          {
+            "ad_id": "2449986262077290",
+            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "garden",
+            "advertiser": "Alibaba.com",
+            "source_country": "CZ",
+            "ad_url": "https://www.facebook.com/ads/library/?id=2449986262077290",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/866141257_1653390589775160_3088230612659190100_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6186yw7unoAQ7kNvwHMao57&_nc_oc=AdoPv86dP-unfyHfmRDhnkYU6NPMDFkUOPDLuuT-VQ9z0zYvNRa7VQEMZV4ohPabWAw&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=gJAuxEwtRVH9srLzdZu6Ng&_nc_ss=79289&oh=00_AQRfONBv3Ix3iDGrex7owRqjLLkVPkOVSricSbxYsWj0Jw&oe=6AFED0B3",
+            "video_url": null,
+            "first_seen": "2026-11-15T01:38:20.204255+00:00",
+            "last_seen": "2026-11-16T19:44:40.911187+00:00",
+            "active_checked_at": "2026-11-16T19:44:40.911187+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "AR",
+              "CZ",
+              "NL",
+              "SA"
+            ]
+          }
+        ],
+        "verification": "Approximate product identity, never ad-set count or verified sales"
+      }
+    ],
     "toys": [],
     "office": [],
     "food": [],
