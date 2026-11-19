@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T14:59:33.503518+00:00",
+  "updated_at": "2026-11-19T16:04:07.442315+00:00",
   "minimum_active_ads": 21,
   "active_window_hours": 48,
   "categories": {
@@ -1416,8 +1416,8 @@
       {
         "name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
         "group_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
-        "ad_count": 33,
-        "active_ads_observed": 33,
+        "ad_count": 32,
+        "active_ads_observed": 32,
         "advertiser_count": 1,
         "countries": [
           "AE",
@@ -2068,25 +2068,6 @@
               "CR",
               "GR",
               "UA"
-            ]
-          },
-          {
-            "ad_id": "2350330119049522",
-            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
-            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
-            "category": "garden",
-            "advertiser": "Alibaba.com",
-            "source_country": "CR",
-            "ad_url": "https://www.facebook.com/ads/library/?id=2350330119049522",
-            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
-            "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/872105618_1801694384435764_4397406377293062880_n.jpg?_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kcDyWkV0AB8Q7kNvwHTUqP-&_nc_oc=AdrYkCWK155CkqDudeMxBUIaR3Ty9Elj5uRqIfo7PUC3JhzYTfG0h-Ym4JYCsKXcgBQ&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ltACnHgZZ6Rnml6eXyLfmA&_nc_ss=79289&oh=00_AQR2FZygoZurIG5VpVLSoQT--mI7X4gscTIDblJYRyaFmg&oe=6B02366E",
-            "video_url": null,
-            "first_seen": "2026-11-17T15:39:29.257864+00:00",
-            "last_seen": "2026-11-17T15:39:29.257864+00:00",
-            "active_checked_at": "2026-11-17T15:39:29.257864+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "CR"
             ]
           }
         ],
