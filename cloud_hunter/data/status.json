@@ -1,37 +1,37 @@
 {
-  "timestamp_utc": "2026-11-19T05:48:00.990183+00:00",
+  "timestamp_utc": "2026-11-19T06:51:05.713067+00:00",
   "attempts": [
     {
-      "country": "JP",
-      "keyword": "duong toc",
-      "category": "beauty",
+      "country": "NO",
+      "keyword": "kitchen gadget",
+      "category": "kitchen",
       "found": 30
     },
     {
-      "country": "SE",
-      "keyword": "dung cu nha bep",
+      "country": "MX",
+      "keyword": "vegetable cutter",
       "category": "kitchen",
-      "found": 22
+      "found": 27
     },
     {
-      "country": "NZ",
-      "keyword": "organizador hogar",
-      "category": "home",
-      "found": 0
+      "country": "SA",
+      "keyword": "cooking accessory",
+      "category": "kitchen",
+      "found": 11
     },
     {
-      "country": "AE",
-      "keyword": "cuidado cabello",
-      "category": "beauty",
+      "country": "CN",
+      "keyword": "coffee maker",
+      "category": "kitchen",
       "found": 30
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 48,
-  "unique_active_ads_observed_last_48h": 2635,
+  "new_ads": 38,
+  "unique_active_ads_observed_last_48h": 2633,
   "qualifying_products": 2,
-  "groups_below_threshold_or_unverified": 2285,
+  "groups_below_threshold_or_unverified": 2282,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "ok",
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
