@@ -1,37 +1,37 @@
 {
-  "timestamp_utc": "2026-11-19T04:53:04.814615+00:00",
+  "timestamp_utc": "2026-11-19T05:48:00.990183+00:00",
   "attempts": [
     {
-      "country": "SI",
-      "keyword": "workout bands",
-      "category": "sport",
+      "country": "JP",
+      "keyword": "duong toc",
+      "category": "beauty",
       "found": 30
     },
     {
-      "country": "VN",
-      "keyword": "car accessories",
-      "category": "vehicle",
-      "found": 28
+      "country": "SE",
+      "keyword": "dung cu nha bep",
+      "category": "kitchen",
+      "found": 22
     },
     {
-      "country": "CH",
-      "keyword": "car cleaning",
-      "category": "vehicle",
-      "found": 30
+      "country": "NZ",
+      "keyword": "organizador hogar",
+      "category": "home",
+      "found": 0
     },
     {
-      "country": "IE",
-      "keyword": "motorcycle accessory",
-      "category": "vehicle",
+      "country": "AE",
+      "keyword": "cuidado cabello",
+      "category": "beauty",
       "found": 30
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 45,
-  "unique_active_ads_observed_last_48h": 2606,
+  "new_ads": 48,
+  "unique_active_ads_observed_last_48h": 2635,
   "qualifying_products": 2,
-  "groups_below_threshold_or_unverified": 2258,
+  "groups_below_threshold_or_unverified": 2285,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "ok",
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
