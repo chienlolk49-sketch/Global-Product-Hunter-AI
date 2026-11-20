@@ -1,37 +1,37 @@
 {
-  "timestamp_utc": "2026-11-20T15:42:14.437375+00:00",
+  "timestamp_utc": "2026-11-20T16:44:58.266635+00:00",
   "attempts": [
     {
-      "country": "PE",
-      "keyword": "cleaning tool",
-      "category": "home",
-      "found": 29
-    },
-    {
-      "country": "PK",
-      "keyword": "home organizer",
-      "category": "home",
+      "country": "BD",
+      "keyword": "baby care",
+      "category": "baby",
       "found": 30
     },
     {
-      "country": "HR",
-      "keyword": "storage solution",
-      "category": "home",
-      "found": 30
+      "country": "RS",
+      "keyword": "maternity accessory",
+      "category": "baby",
+      "found": 0
     },
     {
-      "country": "FR",
-      "keyword": "vacuum cleaner",
-      "category": "home",
+      "country": "BR",
+      "keyword": "fitness accessory",
+      "category": "sport",
+      "found": 12
+    },
+    {
+      "country": "AT",
+      "keyword": "yoga equipment",
+      "category": "sport",
       "found": 30
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 63,
-  "unique_active_ads_observed_last_48h": 2883,
+  "new_ads": 37,
+  "unique_active_ads_observed_last_48h": 2900,
   "qualifying_products": 2,
-  "groups_below_threshold_or_unverified": 2483,
+  "groups_below_threshold_or_unverified": 2505,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "ok",
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
