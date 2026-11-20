@@ -1,37 +1,37 @@
 {
-  "timestamp_utc": "2026-11-20T02:25:46.767707+00:00",
+  "timestamp_utc": "2026-11-20T03:25:05.880819+00:00",
   "attempts": [
     {
-      "country": "US",
-      "keyword": "educational toy",
-      "category": "toys",
+      "country": "PT",
+      "keyword": "makeup tools",
+      "category": "beauty",
       "found": 30
     },
     {
-      "country": "ES",
-      "keyword": "desk organizer",
-      "category": "office",
+      "country": "SK",
+      "keyword": "neck massager",
+      "category": "wellness",
       "found": 30
     },
     {
-      "country": "CZ",
-      "keyword": "office supplies",
-      "category": "office",
+      "country": "ZA",
+      "keyword": "posture support",
+      "category": "wellness",
       "found": 30
     },
     {
-      "country": "PE",
-      "keyword": "garden tool",
-      "category": "garden",
+      "country": "BD",
+      "keyword": "massage device",
+      "category": "wellness",
       "found": 30
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
   "new_ads": 43,
-  "unique_active_ads_observed_last_48h": 2819,
+  "unique_active_ads_observed_last_48h": 2796,
   "qualifying_products": 2,
-  "groups_below_threshold_or_unverified": 2445,
+  "groups_below_threshold_or_unverified": 2418,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "ok",
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
