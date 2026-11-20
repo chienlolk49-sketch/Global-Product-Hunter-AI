@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T09:06:02.461414+00:00",
+  "updated_at": "2026-11-20T10:08:39.669210+00:00",
   "minimum_active_ads": 21,
   "active_window_hours": 48,
   "categories": {
@@ -1182,20 +1182,18 @@
       {
         "name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
         "group_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
-        "ad_count": 32,
-        "active_ads_observed": 32,
+        "ad_count": 31,
+        "active_ads_observed": 31,
         "advertiser_count": 1,
         "countries": [
           "AE",
           "BG",
-          "CR",
           "CZ",
           "DE",
           "EG",
           "ES",
           "FI",
           "FR",
-          "GR",
           "HK",
           "HR",
           "ID",
@@ -1815,27 +1813,6 @@
             "is_active_observed": true,
             "source_countries": [
               "AE"
-            ]
-          },
-          {
-            "ad_id": "1581337440340760",
-            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
-            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
-            "category": "garden",
-            "advertiser": "Alibaba.com",
-            "source_country": "UA",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1581337440340760",
-            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
-            "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/871081074_2071770700196500_6218958450110269337_n.jpg?_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JV1DxJy97w0Q7kNvwH7TU-Z&_nc_oc=AdoZLudlOcPPVKmsDF2fdbNf5enNKJREbwTSMl7ddcBGsdsfj4hdEgL4aoSDbz5zyyU&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=SWSqjbNL8CWqW1ATrDEk6g&_nc_ss=79289&oh=00_AQRP_NpVqqn2mGAF_TWM0xsWoX7pKpUUDxhH7cTD8JijJw&oe=6AFE8AB2",
-            "video_url": null,
-            "first_seen": "2026-11-14T18:44:52.966521+00:00",
-            "last_seen": "2026-11-18T09:36:21.293999+00:00",
-            "active_checked_at": "2026-11-18T09:36:21.293999+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "CR",
-              "GR",
-              "UA"
             ]
           }
         ],
