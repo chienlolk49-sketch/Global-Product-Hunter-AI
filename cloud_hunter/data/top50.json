@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T16:44:58.266635+00:00",
+  "updated_at": "2026-11-20T17:43:53.781644+00:00",
   "minimum_active_ads": 21,
   "active_window_hours": 48,
   "categories": {
@@ -1278,12 +1278,33 @@
           "MX",
           "PL",
           "RS",
+          "SI",
           "TR",
           "UA",
           "VN"
         ],
-        "last_active_observation": "2026-11-20T14:44:34.466158+00:00",
+        "last_active_observation": "2026-11-20T17:43:53.781644+00:00",
         "ads": [
+          {
+            "ad_id": "28954370720840463",
+            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "garden",
+            "advertiser": "Alibaba.com",
+            "source_country": "PL",
+            "ad_url": "https://www.facebook.com/ads/library/?id=28954370720840463",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/858404106_2678542582641822_614418246989455497_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7luq65j_NysQ7kNvwEXvGcL&_nc_oc=AdrhCoE1hYst7pq5wgGqTrHMkaf7hRFjqYLATOYqbC77km-Rth7GiXjxxjJ1p_hzXjI&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=rLjqmC20ovVq0d7ymwgAJA&_nc_ss=79289&oh=00_AQTsmL0lr2DFoUAljWsSLeh8_KC8jFWhObOsLJKz-UZPeA&oe=6B06248A",
+            "video_url": null,
+            "first_seen": "2026-11-20T14:44:34.466158+00:00",
+            "last_seen": "2026-11-20T17:43:53.781644+00:00",
+            "active_checked_at": "2026-11-20T17:43:53.781644+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "PL",
+              "SI"
+            ]
+          },
           {
             "ad_id": "1288766846714718",
             "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
@@ -1313,25 +1334,6 @@
             "ad_url": "https://www.facebook.com/ads/library/?id=1136975878914977",
             "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
             "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/873928284_2182084102429926_8379073713027687_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AVp73P4uiU0Q7kNvwGcw8Kw&_nc_oc=Adorpdbl96SvMhfuO5ncNAtmez8sVrJK00LTpeIaE5qB8jiW-W2m__NYrYsOZwtsxgg&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=rLjqmC20ovVq0d7ymwgAJA&_nc_ss=79289&oh=00_AQSHDsn-XNO1CgklDl7owy_oDRjg_QnCZ7rkGICoV5ENoQ&oe=6B0646BC",
-            "video_url": null,
-            "first_seen": "2026-11-20T14:44:34.466158+00:00",
-            "last_seen": "2026-11-20T14:44:34.466158+00:00",
-            "active_checked_at": "2026-11-20T14:44:34.466158+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "PL"
-            ]
-          },
-          {
-            "ad_id": "28954370720840463",
-            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
-            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
-            "category": "garden",
-            "advertiser": "Alibaba.com",
-            "source_country": "PL",
-            "ad_url": "https://www.facebook.com/ads/library/?id=28954370720840463",
-            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
-            "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/858404106_2678542582641822_614418246989455497_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7luq65j_NysQ7kNvwEXvGcL&_nc_oc=AdrhCoE1hYst7pq5wgGqTrHMkaf7hRFjqYLATOYqbC77km-Rth7GiXjxxjJ1p_hzXjI&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=rLjqmC20ovVq0d7ymwgAJA&_nc_ss=79289&oh=00_AQTsmL0lr2DFoUAljWsSLeh8_KC8jFWhObOsLJKz-UZPeA&oe=6B06248A",
             "video_url": null,
             "first_seen": "2026-11-20T14:44:34.466158+00:00",
             "last_seen": "2026-11-20T14:44:34.466158+00:00",
