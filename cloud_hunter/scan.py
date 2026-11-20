@@ -6,6 +6,7 @@ No credentials, proxies, CAPTCHA bypass, or fabricated ad/engagement numbers.
 """
 from __future__ import annotations
 import json
+import os
 import re
 import sys
 from collections import defaultdict
@@ -152,7 +153,10 @@ def product_identity(ad):
 def main():
     old = load(STORE / "ads.json", {"ads": []}).get("ads", [])
     by_id = {str(a["ad_id"]): a for a in old if isinstance(a, dict) and a.get("ad_id")}
-    cycle = int(NOW.timestamp()) // (SCAN_INTERVAL_MINUTES * 60)
+    # GitHub Actions defaults to 15-minute rotation; the always-on VM
+    # can safely use a shorter rotation while retaining bounded queries.
+    rotation_seconds = max(300, int(os.getenv("CLOUD_HUNTER_ROTATION_SECONDS", str(SCAN_INTERVAL_MINUTES * 60))))
+    cycle = int(NOW.timestamp()) // rotation_seconds
     attempted = []
     successes = 0
     new_count = 0

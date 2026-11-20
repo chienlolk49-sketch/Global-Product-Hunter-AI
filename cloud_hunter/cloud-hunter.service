@@ -1,0 +1,20 @@
+[Unit]
+Description=Global Product Hunter always-on scanning worker
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=ubuntu
+WorkingDirectory=/opt/global-product-hunter
+EnvironmentFile=/etc/cloud-hunter/worker.env
+Environment=PYTHONUNBUFFERED=1
+Environment=PYTHONPATH=/opt/sonda-imperial
+ExecStart=/opt/global-product-hunter/.venv/bin/python /opt/global-product-hunter/cloud_hunter/continuous_worker.py
+Restart=always
+RestartSec=45
+TimeoutStopSec=40
+NoNewPrivileges=true
+
+[Install]
+WantedBy=multi-user.target
