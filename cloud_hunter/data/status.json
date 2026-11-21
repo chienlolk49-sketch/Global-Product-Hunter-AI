@@ -1,37 +1,37 @@
 {
-  "timestamp_utc": "2026-11-21T06:45:30.105624+00:00",
+  "timestamp_utc": "2026-11-21T07:58:04.549500+00:00",
   "attempts": [
     {
-      "country": "IE",
-      "keyword": "kitchen gadget",
-      "category": "kitchen",
+      "country": "AE",
+      "keyword": "workout bands",
+      "category": "sport",
       "found": 30
     },
     {
-      "country": "MA",
-      "keyword": "vegetable cutter",
-      "category": "kitchen",
+      "country": "HK",
+      "keyword": "car accessories",
+      "category": "vehicle",
       "found": 28
     },
     {
-      "country": "TW",
-      "keyword": "cooking accessory",
-      "category": "kitchen",
-      "found": 3
+      "country": "UY",
+      "keyword": "car cleaning",
+      "category": "vehicle",
+      "found": 30
     },
     {
-      "country": "LT",
-      "keyword": "coffee maker",
-      "category": "kitchen",
-      "found": 30
+      "country": "KR",
+      "keyword": "motorcycle accessory",
+      "category": "vehicle",
+      "found": 8
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 27,
-  "unique_active_ads_observed_last_48h": 2757,
+  "new_ads": 12,
+  "unique_active_ads_observed_last_48h": 2726,
   "qualifying_products": 2,
-  "groups_below_threshold_or_unverified": 2367,
+  "groups_below_threshold_or_unverified": 2340,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "ok",
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
