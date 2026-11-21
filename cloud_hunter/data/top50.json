@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T08:53:13.503185+00:00",
+  "updated_at": "2026-11-21T09:50:14.271949+00:00",
   "minimum_active_ads": 21,
   "active_window_hours": 48,
   "categories": {
@@ -34,7 +34,7 @@
           "SA",
           "SI"
         ],
-        "last_active_observation": "2026-11-21T06:45:30.105624+00:00",
+        "last_active_observation": "2026-11-21T09:50:14.271949+00:00",
         "ads": [
           {
             "ad_id": "1866683000975667",
@@ -48,8 +48,8 @@
             "image_url": "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.35426-6/778985133_1563691878628072_4075139560395152163_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uCGnLB9imLAQ7kNvwEeYcz9&_nc_oc=AdqkmJB3tr1ohf4zPbHU6DHWy7XUcBrWih6BMpm_fCfDUjzDguQitLV3makz1vjYsqw&_nc_zt=14&_nc_ht=scontent-dfw6-2.xx&_nc_gid=7xenSqKWYaDZJ-sgSuP_Eg&_nc_ss=79289&oh=00_AQQr3nFRnvglVQ6-ASg7CRQDhU6X0DPuTMbjbZoRW1oefg&oe=6AF74FF4",
             "video_url": null,
             "first_seen": "2026-11-09T06:54:33.152575+00:00",
-            "last_seen": "2026-11-21T06:45:30.105624+00:00",
-            "active_checked_at": "2026-11-21T06:45:30.105624+00:00",
+            "last_seen": "2026-11-21T09:50:14.271949+00:00",
+            "active_checked_at": "2026-11-21T09:50:14.271949+00:00",
             "is_active_observed": true,
             "source_countries": [
               "AT",
@@ -59,7 +59,8 @@
               "IL",
               "JP",
               "LT",
-              "NL"
+              "NL",
+              "PE"
             ]
           },
           {
@@ -74,13 +75,14 @@
             "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/811830930_1396049951947368_8727536700436820138_n.jpg?_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Ysxe7agf79oQ7kNvwHKSaYT&_nc_oc=AdohzM1GGO1ys88zSazd0Seca4DTIqU5Aihv9AxUUP2rkRwcXKcY7Cm-DmQJYt61Dvg&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=1diM8Rb106eZeJGwSnCb4g&_nc_ss=79289&oh=00_AQTMH5tHVfcRBi-ltjH_3VT0xAQEZjCK8xDS1sMbX0zmww&oe=6B03023E",
             "video_url": null,
             "first_seen": "2026-11-18T03:57:09.159733+00:00",
-            "last_seen": "2026-11-21T06:45:30.105624+00:00",
-            "active_checked_at": "2026-11-21T06:45:30.105624+00:00",
+            "last_seen": "2026-11-21T09:50:14.271949+00:00",
+            "active_checked_at": "2026-11-21T09:50:14.271949+00:00",
             "is_active_observed": true,
             "source_countries": [
               "HU",
               "IL",
-              "LT"
+              "LT",
+              "PE"
             ]
           },
           {
@@ -95,13 +97,14 @@
             "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/812373109_1782094293210275_6778046102892464908_n.jpg?_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Wpdue461jWsQ7kNvwFLV3Sq&_nc_oc=AdrVVkglAauYjG08DUW5pEksycX5Gv4rfbl78Qpcp1vJTfZzXr6nr55d_Fy65S4X8J0&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=1diM8Rb106eZeJGwSnCb4g&_nc_ss=79289&oh=00_AQTfv1OquPFezgvmrZ6zh9jKAtBLlqSmneyrXIChMRVOAw&oe=6B02E2C0",
             "video_url": null,
             "first_seen": "2026-11-18T03:57:09.159733+00:00",
-            "last_seen": "2026-11-21T06:45:30.105624+00:00",
-            "active_checked_at": "2026-11-21T06:45:30.105624+00:00",
+            "last_seen": "2026-11-21T09:50:14.271949+00:00",
+            "active_checked_at": "2026-11-21T09:50:14.271949+00:00",
             "is_active_observed": true,
             "source_countries": [
               "HU",
               "IL",
-              "LT"
+              "LT",
+              "PE"
             ]
           },
           {
@@ -116,13 +119,14 @@
             "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/794447814_4467112353602147_8601544679394713778_n.jpg?_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fqXZgIRbqsoQ7kNvwGI8Wbj&_nc_oc=Adp4vQwz4ZvcGVRmbp2oVfQp-hkHekyHaqpD-nMwEodHLRS3D6GA39ZYG8YXSZtPNmQ&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=1diM8Rb106eZeJGwSnCb4g&_nc_ss=79289&oh=00_AQRtj0R9zlEZL_-3QwApvjUPFkc7StnzQKU7Y2Z1aglKaQ&oe=6B02FC72",
             "video_url": null,
             "first_seen": "2026-11-18T03:57:09.159733+00:00",
-            "last_seen": "2026-11-21T06:45:30.105624+00:00",
-            "active_checked_at": "2026-11-21T06:45:30.105624+00:00",
+            "last_seen": "2026-11-21T09:50:14.271949+00:00",
+            "active_checked_at": "2026-11-21T09:50:14.271949+00:00",
             "is_active_observed": true,
             "source_countries": [
               "HU",
               "IL",
-              "LT"
+              "LT",
+              "PE"
             ]
           },
           {
@@ -137,13 +141,14 @@
             "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/795777070_1635866701240819_5193122022771916519_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=P4Te-uYYc_wQ7kNvwFPRoxO&_nc_oc=AdplFQoM24RNGdOBSdHo31PQIf1wdU5uKVZAgMvWtwwzCfan78QOeN8sO4AWa8uGZwg&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=1diM8Rb106eZeJGwSnCb4g&_nc_ss=79289&oh=00_AQSLYwhqNtXWaUgKXU6OXZiii_H-iSkXZkp2A0UkK1LrJw&oe=6B0309F0",
             "video_url": null,
             "first_seen": "2026-11-18T03:57:09.159733+00:00",
-            "last_seen": "2026-11-21T06:45:30.105624+00:00",
-            "active_checked_at": "2026-11-21T06:45:30.105624+00:00",
+            "last_seen": "2026-11-21T09:50:14.271949+00:00",
+            "active_checked_at": "2026-11-21T09:50:14.271949+00:00",
             "is_active_observed": true,
             "source_countries": [
               "HU",
               "IL",
-              "LT"
+              "LT",
+              "PE"
             ]
           },
           {
@@ -158,13 +163,14 @@
             "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/812132910_1469679015023839_7251404266984292396_n.jpg?_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xVXkoqkQMJAQ7kNvwEQt9Jt&_nc_oc=AdroMfu_KdJqyn0DsOzrBdb62wjhjHlMShKMBkEhAUPxgk2xFI2wmRPeW1zM7dLBqB4&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=1diM8Rb106eZeJGwSnCb4g&_nc_ss=79289&oh=00_AQRERgeaSgCly0UUP7GJKdagOcMmEd1gOxpOuGB5k4xYEw&oe=6B030B48",
             "video_url": null,
             "first_seen": "2026-11-18T03:57:09.159733+00:00",
-            "last_seen": "2026-11-21T06:45:30.105624+00:00",
-            "active_checked_at": "2026-11-21T06:45:30.105624+00:00",
+            "last_seen": "2026-11-21T09:50:14.271949+00:00",
+            "active_checked_at": "2026-11-21T09:50:14.271949+00:00",
             "is_active_observed": true,
             "source_countries": [
               "HU",
               "IL",
-              "LT"
+              "LT",
+              "PE"
             ]
           },
           {
@@ -179,13 +185,14 @@
             "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/812781709_1088251284065255_4088636375547364007_n.jpg?_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DtUvvE8SIY0Q7kNvwFw9621&_nc_oc=Adodp_bBNTYNrA3KmuVxe1qLDgZ_q_jWRUXW83X0q5FQMrxMLUlKkHBt8h6i9uzm820&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=1diM8Rb106eZeJGwSnCb4g&_nc_ss=79289&oh=00_AQRuJ1PLq7tztVmGAFxzZB_iQKcyzvFYHdZq3416BlqEOA&oe=6B02F5B4",
             "video_url": null,
             "first_seen": "2026-11-18T03:57:09.159733+00:00",
-            "last_seen": "2026-11-21T06:45:30.105624+00:00",
-            "active_checked_at": "2026-11-21T06:45:30.105624+00:00",
+            "last_seen": "2026-11-21T09:50:14.271949+00:00",
+            "active_checked_at": "2026-11-21T09:50:14.271949+00:00",
             "is_active_observed": true,
             "source_countries": [
               "HU",
               "IL",
-              "LT"
+              "LT",
+              "PE"
             ]
           },
           {
@@ -200,13 +207,14 @@
             "image_url": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.35426-6/785365100_1954855715177243_5899473308114676541_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WSRmeNDdhHcQ7kNvwGl5zqQ&_nc_oc=AdrO1-Pmu1drtKWMWjFmuRTMlKx5mr8pJu8BFhElRcj92qYSpYcgRZmgawzqTTkqdWM&_nc_zt=14&_nc_ht=scontent-sea5-2.xx&_nc_gid=1diM8Rb106eZeJGwSnCb4g&_nc_ss=79289&oh=00_AQROvOBZP2n1fgYa3CNXb--N4T83j-PecCCKqd_l9enFpQ&oe=6B02D8CF",
             "video_url": null,
             "first_seen": "2026-11-18T03:57:09.159733+00:00",
-            "last_seen": "2026-11-21T06:45:30.105624+00:00",
-            "active_checked_at": "2026-11-21T06:45:30.105624+00:00",
+            "last_seen": "2026-11-21T09:50:14.271949+00:00",
+            "active_checked_at": "2026-11-21T09:50:14.271949+00:00",
             "is_active_observed": true,
             "source_countries": [
               "HU",
               "IL",
-              "LT"
+              "LT",
+              "PE"
             ]
           },
           {
@@ -221,13 +229,14 @@
             "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/810868153_1764611017789923_797139429468306906_n.jpg?_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=w1oYALmtTjkQ7kNvwFxVQ3E&_nc_oc=AdoNgdwar1M-0lN4UMsTzeq9AKV80o58oweZ0dHWSkYWmniODKz63M9TFAfZ-JkNSi4&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=1diM8Rb106eZeJGwSnCb4g&_nc_ss=79289&oh=00_AQTl_AEGuNmx_njIKcxTHP4jWDT2fbyvVTpDl2fgaCzP1Q&oe=6B0307CC",
             "video_url": null,
             "first_seen": "2026-11-18T03:57:09.159733+00:00",
-            "last_seen": "2026-11-21T06:45:30.105624+00:00",
-            "active_checked_at": "2026-11-21T06:45:30.105624+00:00",
+            "last_seen": "2026-11-21T09:50:14.271949+00:00",
+            "active_checked_at": "2026-11-21T09:50:14.271949+00:00",
             "is_active_observed": true,
             "source_countries": [
               "HU",
               "IL",
-              "LT"
+              "LT",
+              "PE"
             ]
           },
           {
@@ -242,12 +251,13 @@
             "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/811137956_1610745667249603_6993563473308679422_n.jpg?_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CEvHGKMFt6kQ7kNvwFzr9K8&_nc_oc=Ado29cfowsifh0cUdmkXPs2uLfyv-RAQNeBoK2MfxfNpKjaRyz7M_ZKbHtdbgDGm3TA&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=hbwOga2L09DakWviNtwZNA&_nc_ss=79289&oh=00_AQQQQMhF0C4fDXjg1VAjcNZkasJzurJ4Vhjak1ZWA6jzUA&oe=6B037E93",
             "video_url": null,
             "first_seen": "2026-11-18T12:45:45.291724+00:00",
-            "last_seen": "2026-11-21T06:45:30.105624+00:00",
-            "active_checked_at": "2026-11-21T06:45:30.105624+00:00",
+            "last_seen": "2026-11-21T09:50:14.271949+00:00",
+            "active_checked_at": "2026-11-21T09:50:14.271949+00:00",
             "is_active_observed": true,
             "source_countries": [
               "HU",
-              "LT"
+              "LT",
+              "PE"
             ]
           },
           {
@@ -1317,8 +1327,8 @@
       {
         "name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
         "group_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
-        "ad_count": 24,
-        "active_ads_observed": 24,
+        "ad_count": 35,
+        "active_ads_observed": 35,
         "advertiser_count": 1,
         "countries": [
           "CR",
@@ -1340,8 +1350,217 @@
           "TR",
           "VN"
         ],
-        "last_active_observation": "2026-11-21T03:37:33.038636+00:00",
+        "last_active_observation": "2026-11-21T09:50:14.271949+00:00",
         "ads": [
+          {
+            "ad_id": "1152284220475222",
+            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "garden",
+            "advertiser": "Alibaba.com",
+            "source_country": "ES",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1152284220475222",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/870581108_1507837847849678_7180213624762495556_n.jpg?_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cY5V4_IrW-AQ7kNvwHuNBKi&_nc_oc=Adq1VB3TrMdC2l3drzTuTz1ZYjUf4Jgsah7U3NQQAw1z_NqOAGnW8UE6he1CErx7nBs&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=FHY4PnAki8p782Hn7PqP0A&_nc_ss=79289&oh=00_AQSPgk2oIrs6qk9Id3xQn_ThPy7Mp5mzrkQAx4tuoDlP3w&oe=6B07222C",
+            "video_url": null,
+            "first_seen": "2026-11-21T09:50:14.271949+00:00",
+            "last_seen": "2026-11-21T09:50:14.271949+00:00",
+            "active_checked_at": "2026-11-21T09:50:14.271949+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "ES"
+            ]
+          },
+          {
+            "ad_id": "1378556460764688",
+            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "garden",
+            "advertiser": "Alibaba.com",
+            "source_country": "ES",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1378556460764688",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/867616135_2020363928556508_3533964717783365412_n.jpg?_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mQlHvv1w0QoQ7kNvwEUf7zy&_nc_oc=AdrUjaA1GBHrtwYnXdGUj7Ts4G8AhcyhIE3IumD0V_EefLAirMg_LnBypHzfWV4h_go&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=FHY4PnAki8p782Hn7PqP0A&_nc_ss=79289&oh=00_AQQuw7hhbUt3AOe2PsUEbMNLKtov-JNAybHyPpFtGBt5uw&oe=6B074610",
+            "video_url": null,
+            "first_seen": "2026-11-21T09:50:14.271949+00:00",
+            "last_seen": "2026-11-21T09:50:14.271949+00:00",
+            "active_checked_at": "2026-11-21T09:50:14.271949+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "ES"
+            ]
+          },
+          {
+            "ad_id": "1051682481219334",
+            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "garden",
+            "advertiser": "Alibaba.com",
+            "source_country": "ES",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1051682481219334",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/864007429_2050105082316843_9083252792679768896_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZlR7cG4M110Q7kNvwHRiaIn&_nc_oc=AdrF-75VoWvN3OSOlJ5yFvXkteeGygUlOgJ_ioCJaaZcyiJt23BtDj0qR_hMPAZXbpE&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=FHY4PnAki8p782Hn7PqP0A&_nc_ss=79289&oh=00_AQR0uIWYzcNNzwTeu5nm2AAz7DAJhwWNTpJUw7fV_1fZKw&oe=6B072E20",
+            "video_url": null,
+            "first_seen": "2026-11-21T09:50:14.271949+00:00",
+            "last_seen": "2026-11-21T09:50:14.271949+00:00",
+            "active_checked_at": "2026-11-21T09:50:14.271949+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "ES"
+            ]
+          },
+          {
+            "ad_id": "1111108848355106",
+            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "garden",
+            "advertiser": "Alibaba.com",
+            "source_country": "ES",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1111108848355106",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/866435490_1384663661397351_7278352887744173090_n.jpg?_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SySCeyU2NxQQ7kNvwH2A6tT&_nc_oc=AdpnbtSwHvcQAoRm8qx8yNbttQYjWzws0p4NdojIaZdwjNZXiK8JMDS6iDZERArUOZI&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=FHY4PnAki8p782Hn7PqP0A&_nc_ss=79289&oh=00_AQRGwYHz9iA8dhGrLX0oxf_YdnFE0m9cta2zgVrMu0cwXw&oe=6B072EE1",
+            "video_url": null,
+            "first_seen": "2026-11-21T09:50:14.271949+00:00",
+            "last_seen": "2026-11-21T09:50:14.271949+00:00",
+            "active_checked_at": "2026-11-21T09:50:14.271949+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "ES"
+            ]
+          },
+          {
+            "ad_id": "2012330656116983",
+            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "garden",
+            "advertiser": "Alibaba.com",
+            "source_country": "ES",
+            "ad_url": "https://www.facebook.com/ads/library/?id=2012330656116983",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/867808114_5608117009414236_7588487278183691539_n.jpg?_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FdhFVspF_RUQ7kNvwEXi1x7&_nc_oc=AdpogVaudJFheotfwErrOD4auUfGDv0rI2Rk5gdTyQX5OCkNu--8xAg71RYZnHl-POw&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=FHY4PnAki8p782Hn7PqP0A&_nc_ss=79289&oh=00_AQSZAY0w69DrbaxaAAPPI-_iYvM_xC63wkF7liNAdSrPEQ&oe=6B0733E7",
+            "video_url": null,
+            "first_seen": "2026-11-21T09:50:14.271949+00:00",
+            "last_seen": "2026-11-21T09:50:14.271949+00:00",
+            "active_checked_at": "2026-11-21T09:50:14.271949+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "ES"
+            ]
+          },
+          {
+            "ad_id": "1108687338746098",
+            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "garden",
+            "advertiser": "Alibaba.com",
+            "source_country": "ES",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1108687338746098",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/876372358_1675129490634382_7219531791837061457_n.jpg?_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_-xzR4UFozUQ7kNvwHBU6vW&_nc_oc=AdpKG8AabhnsLF06Oh_SX6RrTHi6W5LI-iyqNfN8rrqmD2VynLkFaPzzXx8lfoI0pSY&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=FHY4PnAki8p782Hn7PqP0A&_nc_ss=79289&oh=00_AQRMxJ-0fDdqnwDODho03qBrt5RHI6BIG2WG_bNqBvF0uA&oe=6B073C2E",
+            "video_url": null,
+            "first_seen": "2026-11-21T09:50:14.271949+00:00",
+            "last_seen": "2026-11-21T09:50:14.271949+00:00",
+            "active_checked_at": "2026-11-21T09:50:14.271949+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "ES"
+            ]
+          },
+          {
+            "ad_id": "4565226377140012",
+            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "garden",
+            "advertiser": "Alibaba.com",
+            "source_country": "ES",
+            "ad_url": "https://www.facebook.com/ads/library/?id=4565226377140012",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/871735975_1134963592403593_6847718634692875879_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ueVq7MM5cM0Q7kNvwEB5KCR&_nc_oc=AdqIiHNMXZSGHlGXrhyL_L-piMAQT8hW6SUUHoZMXtlXF5t4HJoQojjfcN7B1mpSTlM&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=FHY4PnAki8p782Hn7PqP0A&_nc_ss=79289&oh=00_AQSHVKoI_OnM5Okx_qmQXavd2S48aYhhp434cM1YaWOD6A&oe=6B074F20",
+            "video_url": null,
+            "first_seen": "2026-11-21T09:50:14.271949+00:00",
+            "last_seen": "2026-11-21T09:50:14.271949+00:00",
+            "active_checked_at": "2026-11-21T09:50:14.271949+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "ES"
+            ]
+          },
+          {
+            "ad_id": "2457185154690408",
+            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "garden",
+            "advertiser": "Alibaba.com",
+            "source_country": "ES",
+            "ad_url": "https://www.facebook.com/ads/library/?id=2457185154690408",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/875727138_1011309358666592_8582771634382286221_n.jpg?_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=L-Z0zTNQKTIQ7kNvwF42ifk&_nc_oc=AdoKWCJrQpFWHsEnBCtVS8EjqmYBQ43_5rZdX4hI5DOVAjAqWrB9O8CoVNMkDIx1FZU&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=FHY4PnAki8p782Hn7PqP0A&_nc_ss=79289&oh=00_AQSlEzVeY2xN8NfFn4SXsE-RsY3-p2PIs3XnP0zl_nn6wg&oe=6B072FBA",
+            "video_url": null,
+            "first_seen": "2026-11-21T09:50:14.271949+00:00",
+            "last_seen": "2026-11-21T09:50:14.271949+00:00",
+            "active_checked_at": "2026-11-21T09:50:14.271949+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "ES"
+            ]
+          },
+          {
+            "ad_id": "938397702473229",
+            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "garden",
+            "advertiser": "Alibaba.com",
+            "source_country": "ES",
+            "ad_url": "https://www.facebook.com/ads/library/?id=938397702473229",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/868111103_1673725521146391_8171607812474424596_n.jpg?_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LBzGrPc73tAQ7kNvwFlt77-&_nc_oc=Adrqq6lCGvOVP8mB0ED4DjpPsqyJUZRlz5H9tUSCxHr7OyWYqI0JgdsgV6z3OjSmpe8&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=FHY4PnAki8p782Hn7PqP0A&_nc_ss=79289&oh=00_AQSfz0mmZ_MkHyBgFQZiRSIXDEvFBK0CI4gHbR8MdHH-mQ&oe=6B0727C6",
+            "video_url": null,
+            "first_seen": "2026-11-21T09:50:14.271949+00:00",
+            "last_seen": "2026-11-21T09:50:14.271949+00:00",
+            "active_checked_at": "2026-11-21T09:50:14.271949+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "ES"
+            ]
+          },
+          {
+            "ad_id": "1366114695430441",
+            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "garden",
+            "advertiser": "Alibaba.com",
+            "source_country": "CZ",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1366114695430441",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/875569134_1663256122094123_6007861921085349820_n.jpg?_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UniZeTVw-5oQ7kNvwGF2Qtw&_nc_oc=Adri1SRhM8iQYhwRfePpAf_T4qtG4j8lM-591tkPoHIOf_0EwM01Nsc7zX9miy5sxa4&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=t4UybPhqyBXTRaVnFrh15A&_nc_ss=79289&oh=00_AQTfUmF21Ni5gYvv_nabrTgIsaV9v-N3h1YZYHCbshnxEQ&oe=6B072B51",
+            "video_url": null,
+            "first_seen": "2026-11-21T09:50:14.271949+00:00",
+            "last_seen": "2026-11-21T09:50:14.271949+00:00",
+            "active_checked_at": "2026-11-21T09:50:14.271949+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "CZ"
+            ]
+          },
+          {
+            "ad_id": "1823975535312457",
+            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "garden",
+            "advertiser": "Alibaba.com",
+            "source_country": "CZ",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1823975535312457",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/864058646_1644496160788852_3925397055252103046_n.jpg?_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vtW-Bo8tyr8Q7kNvwEcc-HS&_nc_oc=Adqw2Ga1W6UMYtemsehJ1_WYfZsjbmU_Wi5BCAXo38cydShwqwL94h9PgPvlqRCc9Ac&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=t4UybPhqyBXTRaVnFrh15A&_nc_ss=79289&oh=00_AQTbo4OMlz2bLiwXSlF73GC-MtAUIauenxX6C1E3i7kmSg&oe=6B072145",
+            "video_url": null,
+            "first_seen": "2026-11-21T09:50:14.271949+00:00",
+            "last_seen": "2026-11-21T09:50:14.271949+00:00",
+            "active_checked_at": "2026-11-21T09:50:14.271949+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "CZ"
+            ]
+          },
           {
             "ad_id": "39971734575805964",
             "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
