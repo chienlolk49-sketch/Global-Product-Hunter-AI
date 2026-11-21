@@ -1,37 +1,37 @@
 {
-  "timestamp_utc": "2026-11-21T12:22:27.775991+00:00",
+  "timestamp_utc": "2026-11-21T13:37:39.902755+00:00",
   "attempts": [
     {
-      "country": "CO",
-      "keyword": "makeup tools",
-      "category": "beauty",
-      "found": 28
-    },
-    {
-      "country": "TR",
-      "keyword": "neck massager",
-      "category": "wellness",
+      "country": "BD",
+      "keyword": "baby care",
+      "category": "baby",
       "found": 30
     },
     {
-      "country": "KZ",
-      "keyword": "posture support",
-      "category": "wellness",
-      "found": 30
+      "country": "RS",
+      "keyword": "maternity accessory",
+      "category": "baby",
+      "found": 0
     },
     {
-      "country": "US",
-      "keyword": "massage device",
-      "category": "wellness",
+      "country": "BR",
+      "keyword": "fitness accessory",
+      "category": "sport",
+      "found": 13
+    },
+    {
+      "country": "AT",
+      "keyword": "yoga equipment",
+      "category": "sport",
       "found": 30
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 48,
-  "unique_active_ads_observed_last_48h": 2766,
+  "new_ads": 2,
+  "unique_active_ads_observed_last_48h": 2717,
   "qualifying_products": 2,
-  "groups_below_threshold_or_unverified": 2381,
+  "groups_below_threshold_or_unverified": 2338,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "ok",
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
