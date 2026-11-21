@@ -1,37 +1,37 @@
 {
-  "timestamp_utc": "2026-11-21T23:16:12.170949+00:00",
+  "timestamp_utc": "2026-11-21T23:56:52.657761+00:00",
   "attempts": [
     {
-      "country": "KE",
-      "keyword": "educational toy",
-      "category": "toys",
-      "found": 22
-    },
-    {
-      "country": "ID",
-      "keyword": "desk organizer",
-      "category": "office",
-      "found": 29
-    },
-    {
-      "country": "EE",
-      "keyword": "office supplies",
-      "category": "office",
+      "country": "IL",
+      "keyword": "duong toc",
+      "category": "beauty",
       "found": 30
     },
     {
-      "country": "JP",
-      "keyword": "garden tool",
-      "category": "garden",
+      "country": "UA",
+      "keyword": "dung cu nha bep",
+      "category": "kitchen",
+      "found": 14
+    },
+    {
+      "country": "GB",
+      "keyword": "organizador hogar",
+      "category": "home",
+      "found": 1
+    },
+    {
+      "country": "PT",
+      "keyword": "cuidado cabello",
+      "category": "beauty",
       "found": 30
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 34,
-  "unique_active_ads_observed_last_48h": 2686,
+  "new_ads": 55,
+  "unique_active_ads_observed_last_48h": 2682,
   "qualifying_products": 2,
-  "groups_below_threshold_or_unverified": 2324,
+  "groups_below_threshold_or_unverified": 2327,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "ok",
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
