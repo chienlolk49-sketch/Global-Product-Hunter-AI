@@ -1,37 +1,37 @@
 {
-  "timestamp_utc": "2026-11-21T05:42:05.829945+00:00",
+  "timestamp_utc": "2026-11-21T06:45:30.105624+00:00",
   "attempts": [
     {
-      "country": "PT",
-      "keyword": "plant accessories",
-      "category": "garden",
+      "country": "IE",
+      "keyword": "kitchen gadget",
+      "category": "kitchen",
       "found": 30
     },
     {
-      "country": "SK",
-      "keyword": "coffee",
-      "category": "food",
-      "found": 30
+      "country": "MA",
+      "keyword": "vegetable cutter",
+      "category": "kitchen",
+      "found": 28
     },
     {
-      "country": "ZA",
-      "keyword": "healthy snacks",
-      "category": "food",
-      "found": 30
+      "country": "TW",
+      "keyword": "cooking accessory",
+      "category": "kitchen",
+      "found": 3
     },
     {
-      "country": "BD",
-      "keyword": "tea",
-      "category": "food",
-      "found": 29
+      "country": "LT",
+      "keyword": "coffee maker",
+      "category": "kitchen",
+      "found": 30
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 29,
-  "unique_active_ads_observed_last_48h": 2785,
+  "new_ads": 27,
+  "unique_active_ads_observed_last_48h": 2757,
   "qualifying_products": 2,
-  "groups_below_threshold_or_unverified": 2399,
+  "groups_below_threshold_or_unverified": 2367,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "ok",
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
