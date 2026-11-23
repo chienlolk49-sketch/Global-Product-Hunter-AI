@@ -1,37 +1,37 @@
 {
-  "timestamp_utc": "2026-11-23T03:33:49.437376+00:00",
+  "timestamp_utc": "2026-11-23T04:48:05.057073+00:00",
   "attempts": [
     {
-      "country": "LT",
-      "keyword": "cleaning tool",
-      "category": "home",
+      "country": "PT",
+      "keyword": "workout bands",
+      "category": "sport",
       "found": 30
     },
     {
-      "country": "CA",
-      "keyword": "home organizer",
-      "category": "home",
+      "country": "SK",
+      "keyword": "car accessories",
+      "category": "vehicle",
       "found": 30
     },
     {
-      "country": "DK",
-      "keyword": "storage solution",
-      "category": "home",
+      "country": "ZA",
+      "keyword": "car cleaning",
+      "category": "vehicle",
       "found": 30
     },
     {
-      "country": "CO",
-      "keyword": "vacuum cleaner",
-      "category": "home",
-      "found": 29
+      "country": "BD",
+      "keyword": "motorcycle accessory",
+      "category": "vehicle",
+      "found": 12
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
   "new_ads": 52,
-  "unique_active_ads_observed_last_48h": 2834,
+  "unique_active_ads_observed_last_48h": 2820,
   "qualifying_products": 2,
-  "groups_below_threshold_or_unverified": 2469,
+  "groups_below_threshold_or_unverified": 2454,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "ok",
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
