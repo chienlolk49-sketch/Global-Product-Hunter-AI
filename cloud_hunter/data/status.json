@@ -1,37 +1,37 @@
 {
-  "timestamp_utc": "2026-11-23T11:10:21.336053+00:00",
+  "timestamp_utc": "2026-11-23T12:19:19.044272+00:00",
   "attempts": [
     {
-      "country": "HU",
-      "keyword": "travel organizer",
-      "category": "travel",
+      "country": "AE",
+      "keyword": "makeup tools",
+      "category": "beauty",
       "found": 30
     },
     {
-      "country": "NG",
-      "keyword": "luggage accessory",
-      "category": "travel",
-      "found": 3
+      "country": "HK",
+      "keyword": "neck massager",
+      "category": "wellness",
+      "found": 30
     },
     {
-      "country": "LK",
-      "keyword": "camping equipment",
-      "category": "travel",
-      "found": 28
+      "country": "UY",
+      "keyword": "posture support",
+      "category": "wellness",
+      "found": 30
     },
     {
-      "country": "SI",
-      "keyword": "puzzle game",
-      "category": "toys",
+      "country": "KR",
+      "keyword": "massage device",
+      "category": "wellness",
       "found": 30
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 11,
-  "unique_active_ads_observed_last_48h": 2822,
-  "qualifying_products": 2,
-  "groups_below_threshold_or_unverified": 2439,
+  "new_ads": 42,
+  "unique_active_ads_observed_last_48h": 2824,
+  "qualifying_products": 3,
+  "groups_below_threshold_or_unverified": 2436,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "ok",
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
