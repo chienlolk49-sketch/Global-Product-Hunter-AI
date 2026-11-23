@@ -1,6 +1,1347 @@
 {
-  "updated_at": "2026-11-22T23:07:52.160327+00:00",
+  "updated_at": "2026-11-22T23:59:53.704777+00:00",
   "ads": [
+    {
+      "ad_id": "1445532147580496",
+      "product_name": "bạn có việc quan trọng cần giải quyết bạn sắp đi công tác xa",
+      "product_key": "unverified:1445532147580496",
+      "category": "other",
+      "advertiser": "Offline Maps & AI Trip Planner",
+      "source_country": "PE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1445532147580496",
+      "landing_url": "http://play.google.com/store/apps/details?id=com.offline.maps.navigation.gps",
+      "image_url": null,
+      "video_url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQO51CMt5GHkyo6sQWmtAjCzQBPI-Y6TG2P9BxzNjutRYuslh486YKBJ4PXaynw5xZUd7NeBjhgThDWwgxC1uNg9diWPeddEyj7pihQdHF49-g.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=DlMLl-0O0ZQQ7kNvwEWfeaj&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI4MTcwODU4MDQ1OTQ4MTk0LCJhc3NldF9hZ2VfZGF5cyI6MjcsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=79d715d950f1a8cd&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FOTE3RUUwRjY3MDM0MjdDODc1QzI3MzlFNTA4MjBCRV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0REMzdFMDkyMUJCOTRBODU4Njc0QUYwM0YxRjkyRjcyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbEhMat4M-KZBUCKAJDMywXQDyIcrAgxJwYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=YM48ohnFwiPoZAtiYOHCTg&_nc_ss=79289&_nc_zt=28&oh=00_AQQEaD5jw7nFHUi_QYjVzBPxwknbEQX51qe0w4NSfIy_1g&oe=6AE774C0",
+      "first_seen": "2026-10-28T05:48:23.308195+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "AT",
+        "CN",
+        "HU",
+        "IL",
+        "JP",
+        "LT",
+        "PE"
+      ]
+    },
+    {
+      "ad_id": "821447430751066",
+      "product_name": "bộ sưu tập sắc son tinh hoa áo dài cưới nam nữ việt",
+      "product_key": "unverified:821447430751066",
+      "category": "other",
+      "advertiser": "MEO STORE",
+      "source_country": "PE",
+      "ad_url": "https://www.facebook.com/ads/library/?id=821447430751066",
+      "landing_url": null,
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/571236883_1511517939975625_6389381319962315911_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KOzRuBWVXG0Q7kNvwEnKIGv&_nc_oc=Adq6Yuq23pm0YcLGZcBVYYjjnmTc49TI-syBabvb8Bcpi7IIbnSvCBuZjQny_U7aVB0&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=YM48ohnFwiPoZAtiYOHCTg&_nc_ss=79289&oh=00_AQSAxjSnKNKyhDvKHk8xlcGuWSkRXlcwltutswOxIeMSjA&oe=6AE74E7D",
+      "video_url": null,
+      "first_seen": "2026-10-28T05:48:23.308195+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "AT",
+        "CN",
+        "HU",
+        "IL",
+        "JP",
+        "LT",
+        "PE"
+      ]
+    },
+    {
+      "ad_id": "1122639510434372",
+      "product_name": "descarga ahora para ver el contenido completo gratis",
+      "product_key": "title:descarga ahora para ver el contenido completo gratis",
+      "category": "vehicle",
+      "advertiser": "Watch Drama Free",
+      "source_country": "FR",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1122639510434372",
+      "landing_url": "http://play.google.com/store/apps/details?id=com.popreel.pop.shortdrama",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPF6V7w8hxSo2txjhzWzebE-rzuefET4FfFKgGvt0e11U2wT3bn1QLsat8eKMFMFbbjcJJIssKULF38xGu2wVlrQYtgdMg21R9hkChirETP4Q.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=C3etc5wLvwMQ7kNvwHs0Ha0&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE5NjI3NDUyOTQzODkzNTIsImFzc2V0X2FnZV9kYXlzIjo2MCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjEzMzMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=8bf6cb57aeb7b409&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9EODQwQTc4QjRDQzJERjEzNzdBREE5OTI1NjU1NzlBNF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0VCNEFCM0FGQzI4QUUyNzcyMDA4Q0M0REQzMEZCOUE3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbQgfSA6Mb8BhUCKAJDMywXQJTU9cKPXCkYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=P2dMZq-fGhJUhuikpONA-Q&_nc_ss=79289&_nc_zt=28&oh=00_AQQlRKHRTS_Tl3iEVLI8JM91MY4PPVLnR0OEpeE5-n8b_Q&oe=6AE74FB5",
+      "first_seen": "2026-10-28T05:48:23.308195+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "AE",
+        "FR",
+        "PL",
+        "PT",
+        "SG",
+        "SI"
+      ]
+    },
+    {
+      "ad_id": "4760064774208282",
+      "product_name": "descarga ahora y mira episodios completos gratis",
+      "product_key": "title:descarga ahora y mira episodios completos gratis",
+      "category": "vehicle",
+      "advertiser": "TitanForge Studio",
+      "source_country": "FR",
+      "ad_url": "https://www.facebook.com/ads/library/?id=4760064774208282",
+      "landing_url": "http://play.google.com/store/apps/details?id=com.vibeflix.miniseries.tv",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOJOIvxep1y-zYkFrtITSaDLVureGQnv-Y20kic2tUwKFmmiHs3bTIVpZwhZOySiuzqCmlW7r8I6pYWlxhyfKYcPXUrUOU8uSXKayLyJG82qw.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=bqs3udyLwqIQ7kNvwEqxdo5&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE5NzczMjE3OTY3OTk5OTIsImFzc2V0X2FnZV9kYXlzIjozNSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjk5OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=7fa4101caf90819a&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zNDRBODIyNTZGMkQ2QUNFQkFFQzJDMDBDOEU0QTVBRF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Y3M0UzNTI3QjlBMzQ4Q0JBQjY5OTMwNjM3OEZCMzM0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbwt_C0o5eDBxUCKAJDMywXQI88zMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=P2dMZq-fGhJUhuikpONA-Q&_nc_ss=79289&_nc_zt=28&oh=00_AQT7ZxKMv3nK2eIhG6QCnj7uaJROmOr1BAqmmearO4Rp3Q&oe=6AE74F79",
+      "first_seen": "2026-10-28T05:48:23.308195+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "AE",
+        "FR",
+        "PL",
+        "PT",
+        "SG",
+        "SI"
+      ]
+    },
+    {
+      "ad_id": "1114090514381144",
+      "product_name": "descarga ahora y mira episodios completos gratis",
+      "product_key": "title:descarga ahora y mira episodios completos gratis",
+      "category": "vehicle",
+      "advertiser": "TitanForge Studio",
+      "source_country": "FR",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1114090514381144",
+      "landing_url": "http://play.google.com/store/apps/details?id=com.vibeflix.miniseries.tv",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQM61f6I4dTk5sdZKbpfTXohJtkoiBTvK-EKCBR6Ppunj04oUz7E2XxcT2jdUWJvjCYwh8EwKLMNlKQ-Cx2ElIUQgK9QvNBhZxlZC4LbT_3Weg.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=HZ5G3IlDKRgQ7kNvwG8ZLwi&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjM5NjQwNjc3NTM5MDE3MDksImFzc2V0X2FnZV9kYXlzIjozNSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjk2MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=325432a3a7492630&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wRDREQTUyNTcyMzg5NUNEMTQ0ODZGNjQyODg1MDlBQ19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzEyNEU1MjJGMUZDNTUxNThBQkJCNTc0OTk2QTAzNDhEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaa-rGljtOKDhUCKAJDMywXQI4HCj1wo9cYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=P2dMZq-fGhJUhuikpONA-Q&_nc_ss=79289&_nc_zt=28&oh=00_AQRbc0kYaVIEAnQPeiX_33UBLoRw_CIwiC1N4bqEVvLUAg&oe=6AE75F50",
+      "first_seen": "2026-10-28T05:48:23.308195+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "AE",
+        "FR",
+        "PL",
+        "PT",
+        "SG",
+        "SI"
+      ]
+    },
+    {
+      "ad_id": "1822754785398156",
+      "product_name": "descarga ahora y mira episodios completos gratis",
+      "product_key": "title:descarga ahora y mira episodios completos gratis",
+      "category": "vehicle",
+      "advertiser": "Free Dramas You Can't Miss",
+      "source_country": "PL",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1822754785398156",
+      "landing_url": "http://play.google.com/store/apps/details?id=com.tranquiltmt.plotwist",
+      "image_url": null,
+      "video_url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOJOIvxep1y-zYkFrtITSaDLVureGQnv-Y20kic2tUwKFmmiHs3bTIVpZwhZOySiuzqCmlW7r8I6pYWlxhyfKYcPXUrUOU8uSXKayLyJG82qw.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=Mz8ehEWE_n4Q7kNvwFFLSjd&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE5NzczMjE3OTY3OTk5OTIsImFzc2V0X2FnZV9kYXlzIjo0MSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjk5OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=7fa4101caf90819a&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zNDRBODIyNTZGMkQ2QUNFQkFFQzJDMDBDOEU0QTVBRF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Y3M0UzNTI3QjlBMzQ4Q0JBQjY5OTMwNjM3OEZCMzM0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbwt_C0o5eDBxUCKAJDMywXQI88zMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=-KstpO9hwvJZ5b_CGE9elA&_nc_ss=79289&_nc_zt=28&oh=00_AQRMb7zuVrRt0d2wVfsChMCfYFOnlV4AQ335Rgc3h8A4CA&oe=6AEF0039",
+      "first_seen": "2026-11-02T23:53:39.585922+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "AE",
+        "FR",
+        "PL",
+        "PT",
+        "SG",
+        "SI"
+      ]
+    },
+    {
+      "ad_id": "1608163328011543",
+      "product_name": "descarga ahora y mira episodios completos gratis",
+      "product_key": "title:descarga ahora y mira episodios completos gratis",
+      "category": "vehicle",
+      "advertiser": "Free Dramas You Can't Miss",
+      "source_country": "PL",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1608163328011543",
+      "landing_url": "http://play.google.com/store/apps/details?id=com.tranquiltmt.plotwist",
+      "image_url": null,
+      "video_url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQM61f6I4dTk5sdZKbpfTXohJtkoiBTvK-EKCBR6Ppunj04oUz7E2XxcT2jdUWJvjCYwh8EwKLMNlKQ-Cx2ElIUQgK9QvNBhZxlZC4LbT_3Weg.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=jcaHRI4vglwQ7kNvwHE4nHC&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjM5NjQwNjc3NTM5MDE3MDksImFzc2V0X2FnZV9kYXlzIjo0MSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjk2MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=325432a3a7492630&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wRDREQTUyNTcyMzg5NUNEMTQ0ODZGNjQyODg1MDlBQ19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzEyNEU1MjJGMUZDNTUxNThBQkJCNTc0OTk2QTAzNDhEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaa-rGljtOKDhUCKAJDMywXQI4HCj1wo9cYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=-KstpO9hwvJZ5b_CGE9elA&_nc_ss=79289&_nc_zt=28&oh=00_AQT1PbXftgRU1IrSYE3IODseI0P308gY5S5aW9HEyvlMqQ&oe=6AEF1010",
+      "first_seen": "2026-11-02T23:53:39.585922+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "AE",
+        "FR",
+        "PL",
+        "PT",
+        "SG",
+        "SI"
+      ]
+    },
+    {
+      "ad_id": "909188405368744",
+      "product_name": "search 2 9m active nutra ads",
+      "product_key": "unverified:909188405368744",
+      "category": "other",
+      "advertiser": "Vizor Ad Library - Nutra",
+      "source_country": "IL",
+      "ad_url": "https://www.facebook.com/ads/library/?id=909188405368744",
+      "landing_url": "https://nutra.vizor.blog/x-d",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/797229490_1415277584118083_2788457033483987070_n.jpg?_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5jSUnEwu8i4Q7kNvwH4sNlo&_nc_oc=AdrCoPoHu-fxPkpJHRFRRF2A63IbI-P_bcbYw_dbT5DvY5GXPWtZnv5tbLSjrhe0sks&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=Vpzjs_1-8b0pyfXamB1WSw&_nc_ss=79289&oh=00_AQT0t4x4_yhKOHAg3cyWxv7t3ctVldzEEl9SAq4_-pF6aA&oe=6B07EDE2",
+      "video_url": null,
+      "first_seen": "2026-11-21T23:56:52.657761+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "AT",
+        "IL",
+        "PE"
+      ]
+    },
+    {
+      "ad_id": "1491045575786027",
+      "product_name": "unidentified product",
+      "product_key": "unverified:1491045575786027",
+      "category": "other",
+      "advertiser": "DramaGo - Short Drama Series 7st",
+      "source_country": "IL",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1491045575786027",
+      "landing_url": "http://play.google.com/store/apps/details?id=com.drama.go.short.reels",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPxFCQTN38i-yUmXdmGZWmwwPMf7Gp4ErV937sv9cyhUtcrGt93JjuLYPVdBrzFLBW65AYXg3ZJHGJIEPjOOb0OgGiSaszWzi2BXXRm9Q.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=MoKHh5FIphsQ7kNvwF_eeGD&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTExNDI1NzQzMTIyMTE0MiwiYXNzZXRfYWdlX2RheXMiOjE1LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6OTIxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=Vpzjs_1-8b0pyfXamB1WSw&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTXdaah5Qa9qHoXzD0Yd38fFFVxCWn-tjync3be3Ad9Fw&oe=6B081BEB",
+      "first_seen": "2026-11-21T23:56:52.657761+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "AT",
+        "IL",
+        "PE"
+      ]
+    },
+    {
+      "ad_id": "1417073747057048",
+      "product_name": "măng lưỡi lợn đang có giá siêu hời",
+      "product_key": "unverified:1417073747057048",
+      "category": "other",
+      "advertiser": "TutaFood - Hương Vị Bản Nhà",
+      "source_country": "UA",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1417073747057048",
+      "landing_url": null,
+      "image_url": null,
+      "video_url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMuhlDoJ3aKHqxlem8dnGxe3JOXHT6QQOyUJCeHyguCsiZmdtUx-G9bnCUT24LuKZJWt8sAFU5217JAHHnyf84zMT3M8TehZKCJRGjJsCL02A.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=u5ODW_VCWg4Q7kNvwHPO8zj&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIwMDkyNzcwMTMwNTAxODksImFzc2V0X2FnZV9kYXlzIjo3OSwidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjE0NCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=bc8013d308271758&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wRDQyMzQzMzY3RjIyMDJENUUxMUE2QTQ0QTUyNkJCOV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzZBNEQ2MUFFOUI4Nzg2RUEyNDA0RUJDMjI4MjkwNUIzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaajfKpqNuRBxUCKAJDMywXQGIQAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=X1J2Cny5d-FmXil0WCAjSw&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_enc=UtsgB--VDwP6q7OBUXebkRT_s6BqQiRn9ZD8s_kVGhEbQ3-m4cAM0FglkxgD2gif1Ei4_5Bhjby6z92FKBB3HaKCNoXLd54g_jIWnvODQaPR9i-qitmC4RPRn7I&oh=00_AQQGx4-bqRFA8SN5qxZIt3OrCAnVwaS8zxlDvQNQoIgldA&oe=6B07F0A4",
+      "first_seen": "2026-11-21T23:56:52.657761+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "GR",
+        "PK",
+        "UA"
+      ]
+    },
+    {
+      "ad_id": "1435673998067370",
+      "product_name": "ella los dejó y se convirtió en vampira",
+      "product_key": "unverified:1435673998067370",
+      "category": "other",
+      "advertiser": "Cithadolbil Trothesgra",
+      "source_country": "SG",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1435673998067370",
+      "landing_url": "https://drama.reelshort.com/es/drama/6aba479906aa78b81508c38f?mediaType=fb&pixel=511862058617494&campaign_id={{campaign.id}}&adset_id={{adset.id}}&ad_id={{ad.id}}&cms_atid=6ae6e294473c5dcef184d3b4",
+      "image_url": null,
+      "video_url": "https://video-dfw5-3.xx.fbcdn.net/o1/v/t2/f2/m366/AQNJtqMiD-vKv-EQCKQut4rDvscKaivD84T9q67c0MRv1L47BFXEjvtGHABcHt6-q2rDWnBLwrhs9BgYywyXKb-hSC9jXyUqmOBLNXHcK9bY1Q.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-dfw5-3.xx.fbcdn.net&_nc_ohc=YAS5JQ9MS4wQ7kNvwH6HA7n&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzE2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0MDYzMjk2NTgzNTQyOTUsImFzc2V0X2FnZV9kYXlzIjoyOCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjE3NjUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=91ab81ef59ebdbf3&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xNkYxMjhGMTU3OEI0REUxQkE0QTE3M0RDRTI4MTIyQV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Q4MTZFRTE0NzM1ODQwODE5RDFBOTlEMkYxOTZBMERBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbuqcm7lMP_BBUCKAJDMywXQJuUAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=NAlLTQ8sxIAdHKqewxZ6ug&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQVHZ4EtwCGs_KvMGlrh3HPCj5hF5ge3Z03Rn0EKTFJhQ&oe=6AFB63B5",
+      "first_seen": "2026-11-12T11:59:58.168045+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "AE",
+        "FR",
+        "PL",
+        "SG"
+      ]
+    },
+    {
+      "ad_id": "2581819862241363",
+      "product_name": "haz clic y descubre lo que te espera",
+      "product_key": "unverified:2581819862241363",
+      "category": "other",
+      "advertiser": "Short Drama Media",
+      "source_country": "PL",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2581819862241363",
+      "landing_url": "http://play.google.com/store/apps/details?id=com.popreel.pop.shortdrama",
+      "image_url": null,
+      "video_url": "https://video-atl3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPgq0Qps0f5H7uMW4X9B6WueK3EnQY4UcAYFugg6UVONhsvrzroCwHl6Giw5o9BaYZ85ZYEXbWYVHj-ZJFh0rUhaGkSKHu8C37XYsuYKu3s9g.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-atl3-1.xx.fbcdn.net&_nc_ohc=QnSDvhtJvlIQ7kNvwH7A6H0&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2OTgwODg4MjgzMTYxMjMsImFzc2V0X2FnZV9kYXlzIjoxMiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjY5MiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=c56b606fca21f8cf&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83NTM4MzZDMjBBM0Y0NjY0QTdCMUIzQzYxRDE2OEY2NV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzJCNkRCQTExMURFQzQ3QThBMzVCREJGOTA3MDE3NEE5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACa2p8XW45mEBhUCKAJDMywXQIWi7ZFocrAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=asA8Mgt8OhQn3KsRjMQCkQ&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTCmOHsPcvuUFIu8IrzIJ07FvpFhxoGCDYSmWof1VEflg&oe=6B0729E5",
+      "first_seen": "2026-11-21T08:53:13.503185+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "FR",
+        "PL",
+        "SG"
+      ]
+    },
+    {
+      "ad_id": "1299649561403101",
+      "product_name": "hẹn lịch thăm khám",
+      "product_key": "unverified:1299649561403101",
+      "category": "other",
+      "advertiser": "Bác sĩ Hồ Cao Vũ - Dr Ho Cao Vu",
+      "source_country": "PK",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1299649561403101",
+      "landing_url": null,
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMUURF8z_ld4H9c8iwVBFoDteg913v4djnyvgTMzjDkZnc-P_N6NTrEV_rBZXgnQ8JM0O3pIDoQclrSYbS3Mzc9GQR2ZP25ILyEK709kngA2A.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=77llq2-lHE8Q7kNvwHI39T-&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjYwNTIzODA4MTg4OTAwNCwiYXNzZXRfYWdlX2RheXMiOjU0OSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjUwNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=dac83a8b0eabe8e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CMjQxQkRFQ0VGNzc0QTkxRDEyRERBMTIxOEU2NzQ4Q19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dJczF5QjB1RmVJT1BOMEVBTFpncHdlTDh5ODlidjRHQUFBRhUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbYi4GOv52TAhUCKAJDMywXQH-AhysCDEoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=LqihPOHd_E_olrIyrfAlCg&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTXWYl6j1sXgYmh7glVaSXSNvl_biVV8uQ4WjXw5K_cVw&oe=6B08D5DB",
+      "first_seen": "2026-11-22T14:51:59.306734+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "GR",
+        "PK"
+      ]
+    },
+    {
+      "ad_id": "1680005000410844",
+      "product_name": "lee la versión completa",
+      "product_key": "unverified:1680005000410844",
+      "category": "other",
+      "advertiser": "Forbidden Pages",
+      "source_country": "FR",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1680005000410844",
+      "landing_url": "https://huazxc.com/market/goodnovel/1?lpid=73770&utm_campaign={{campaign.name}}&utm_content={{campaign.id}}&adset_name={{adset.name}}&adset_id={{adset.id}}&ad_id={{ad.id}}&ad_name={{ad.name}}&placement={{placement}}",
+      "image_url": null,
+      "video_url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQN6jixFDFKgWn-XRVlelXmCZnzsj1de0PfEygYo2DCamuVCZ998SAdjsPwzFm4MfxL9pImQrZmtzEq3ILYWQSDBAmyh7HvZZ0Knm2pjyzNUFg.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=8zGGbK5tuhYQ7kNvwHmD8do&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExNjgyODc0MzYxNDcyNDYsImFzc2V0X2FnZV9kYXlzIjoxNiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjMxNSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=c799e6b1af44bdb6&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82QzhERjJBMkQ3RDQ0NkYzODNFQzY3MzZERjdDQUY4Q19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzEwQzEyQkM2NjVERDQ3MjY5RDA3QTVFNTFEMEQ2MEIwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbcqITao6OTBBUCKAJDMywXQHOwAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=7G8eORxsu-2LKudOdxWwjA&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQ1ZWaAe_vv6Jr_J7roqYmhYEPQOLgaZ_RHyE_TLphDfw&oe=6B08C7B7",
+      "first_seen": "2026-11-22T14:51:59.306734+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "FR",
+        "SG"
+      ]
+    },
+    {
+      "ad_id": "1018769507947614",
+      "product_name": "haz clic para leer más capítulos",
+      "product_key": "unverified:1018769507947614",
+      "category": "other",
+      "advertiser": "Divorce While I'm Pregnant",
+      "source_country": "FR",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1018769507947614",
+      "landing_url": "https://dynamic.lightreader.com/noah-ssg/wn/766754101/37325515208142005+1+3+facebook?xed=469204711872929&utm_source={{campaign.name}}&utm_campaign={{campaign.id}}&utm_adset={{adset.name}}&adset_id={{adset.id}}&ad_id={{ad.id}}&ad_name={{ad.name}}&placement={{placement}}&sitesource={{site_source_name}}",
+      "image_url": null,
+      "video_url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPLcbJeLRCPmQkN20J-7p8xuX9y-zz154cQThMhBUhDUZbzCKm5lilXTl5ufTYh0Ngg30fBxDVUAxFOCvq1_yi5my5w4n54uGL3iorhIqONLA.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=7q-Jnch29jcQ7kNvwFOr4Gf&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0NDU0MjkwOTM4MTE4NzUsImFzc2V0X2FnZV9kYXlzIjo0LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MTQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=2445a588bad640ea&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83Q0Q3Qzk2N0U5N0Y0NzMxODU3MDBGQTE1NDA5RjVDRl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0M1NTU5QTM0NkZGOTQ4MDM4QjBGNzAyMDI1RTRCNkM4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbGmvr6haeRBRUCKAJDMywXQC3dsi0OVgQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=7G8eORxsu-2LKudOdxWwjA&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRrwYfwPBUsuekMSE4dPyOAGci0My_UdexwWwzgyh4HdQ&oe=6B08E2C6",
+      "first_seen": "2026-11-22T14:51:59.306734+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "FR",
+        "SG"
+      ]
+    },
+    {
+      "ad_id": "1029646762029331",
+      "product_name": "giảm tiếng ồn khi đóng cửa xe",
+      "product_key": "unverified:1029646762029331",
+      "category": "other",
+      "advertiser": "TUẤN ANH AuTo 8888",
+      "source_country": "GR",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1029646762029331",
+      "landing_url": "http://www.chinhhang2025.io.vn/tuananhauto",
+      "image_url": null,
+      "video_url": "https://video-atl3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQOsqjVyXqhpL6T8hEoP99Xm1AvqsiGSxUnIosPqt0ZhG4D55p7VHFfuK1u5aVAxgKSNt6UBeMq9XfraCtZGOm5A.mp4?_nc_cat=105&_nc_sid=ef5aa3&_nc_ht=video-atl3-2.xx.fbcdn.net&_nc_ohc=IlpJC0ccMXUQ7kNvwH2jWT4&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjoyNzQ5NzMxNzk1Mzg1NjI2LCJhc3NldF9hZ2VfZGF5cyI6MTk2LCJ2aV91c2VjYXNlX2lkIjoxMDY4MCwiZHVyYXRpb25fcyI6MTc4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=JZ8SBMxu-8_A3QrMkb1mdA&_nc_ss=79289&_nc_zt=28&oh=00_AQS9bF_0MzPsWw6Mea1tv7ZoRIq9qT16kWkq_CnQnkbhYw&oe=6AE7C65E",
+      "first_seen": "2026-10-28T14:55:38.469677+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "CR",
+        "GR",
+        "NG",
+        "PK",
+        "UA"
+      ]
+    },
+    {
+      "ad_id": "3119820438356453",
+      "product_name": "cảnh báo radar tốc độ 4 8 11m",
+      "product_key": "unverified:3119820438356453",
+      "category": "other",
+      "advertiser": "Radar GO-X",
+      "source_country": "IL",
+      "ad_url": "https://www.facebook.com/ads/library/?id=3119820438356453",
+      "landing_url": "http://itunes.apple.com/app/id6771405651",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMrIn9YIQD_y_3qMuH-8EPINem0c34w7aYf0cEM3KTmU9IEz6kDnmZRXVF_4dLSHLVpRU_kP8LlSX3G8GaTlrFMamvo0yNRbbrxHxCzfyQraQ.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=k4W_CvhqGSYQ7kNvwHeI7o6&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE5NzE2NTk3MTM1MDQxOTQsImFzc2V0X2FnZV9kYXlzIjo1NCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjI4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=ec06c4510055c15e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yNjQzNjhDMUZDQ0I5ODg4MTk0Njc2MDNEOTc3MDlBM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzVCMENEQTZCQTU4QjREMEY4MDU5NjVFQzUwRkFDQkNEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaEj7vN2c2ABxUCKAJDMywXQDyIcrAgxJwYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=Vpzjs_1-8b0pyfXamB1WSw&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQj2RpjC3wEU0BnthmmyKKxgvWVD0q3eMZ9MNhVPFtFyg&oe=6B08159B",
+      "first_seen": "2026-11-21T23:56:52.657761+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "AT",
+        "IL"
+      ]
+    },
+    {
+      "ad_id": "2467475463790477",
+      "product_name": "lái xe thông minh hơn",
+      "product_key": "unverified:2467475463790477",
+      "category": "other",
+      "advertiser": "Offline Maps, GPS, Speedometer",
+      "source_country": "IL",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2467475463790477",
+      "landing_url": "http://play.google.com/store/apps/details?id=com.radarapp.trip.speedometer",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMpfAeBqwhFY75nMLjCOUjs-MgN2_skTbkBC5XSBUxoOku_Rvok-8Y0xooJce_f-SNb8RPYUH8Txb2RhVI66W5Owp4ozmFUIcbZGFG_4gnXTQ.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=h_HCF78_2-MQ7kNvwHJAUcC&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjkxMzM3OTAxNTA0Mjc3MywiYXNzZXRfYWdlX2RheXMiOjM1LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MjcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=2d572ec2a87e1d55&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yOUZBRERDOEM5Mjk0NzIwQTQ2NjU3OTNFMEMzQzUxQl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzBDQTg3MkY2MjcxMzQ3QkRCRDc4QzZGOEEzNURBRTY0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaqm-X7062fAxUCKAJDMywXQDszMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=Vpzjs_1-8b0pyfXamB1WSw&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQpJslNastv4Di0HWQbUkW8QhSX32qvar4XrJ8BZOq3vw&oe=6B080949",
+      "first_seen": "2026-11-21T23:56:52.657761+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "AT",
+        "IL"
+      ]
+    },
+    {
+      "ad_id": "1445994627483287",
+      "product_name": "unidentified product",
+      "product_key": "unverified:1445994627483287",
+      "category": "other",
+      "advertiser": "Annetta Maggio",
+      "source_country": "IL",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1445994627483287",
+      "landing_url": "http://itunes.apple.com/app/id6810490991",
+      "image_url": null,
+      "video_url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOAy1fS2FDvQacLDeuyq-eg3BPqwdFJ-Nr2zgDTRv0F4aL1qtWTjd0MWxpf02RgFCCwxAIffxvpcvJCdwxiLcv0zwMlD_WYf1Yw9bxTjLj5ug.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=nPIy6wBUqQ0Q7kNvwHe-r8b&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjMyMTAwNjg1NDI0OTY3MTEsImFzc2V0X2FnZV9kYXlzIjo2NCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjE1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=b43b6d143f432644&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80MzQwNERFRTIzOTk4RkRGRDk3MjlGN0MyN0NCMDhBRF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0M2NDVCMTM2NzU2MzM2OTk3NUI3RDMyQUUzQ0MxOEFEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaO__CyyuKzCxUCKAJDMywXQC4qfvnbItEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=Vpzjs_1-8b0pyfXamB1WSw&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQlzpzG05wb6IoLrIaIKSW_qBNLEvysHm_KR_R0Ap3k3A&oe=6B08088E",
+      "first_seen": "2026-11-21T23:56:52.657761+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "AT",
+        "IL"
+      ]
+    },
+    {
+      "ad_id": "1100356579498661",
+      "product_name": "nữ chỉ huy cơ trưởng xin đầu hàng phiên bản lồng tiếng",
+      "product_key": "unverified:1100356579498661",
+      "category": "other",
+      "advertiser": "Rowanrift Drama",
+      "source_country": "IL",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1100356579498661",
+      "landing_url": "https://m.mydramawave.com/land/?pixel_id=727231996608627&c={{campaign.name}}&af_c_id={{campaign.id}}&af_adset={{adset.name}}&af_adset_id={{adset.id}}&af_ad={{ad.name}}&af_ad_id={{ad.id}}&af_channel={{placement}}&content_id=TQw6Q0EZLb&media_source=facebook",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNncoN7QhQBqnvA6_P8Co-G_AbVa7Jtqxag8Vf60VKN-J7n_UFaCkH4Ul_YxJcc2ARIfIRWL0qM9Q6PGCI-5b8V8lyUnwBogNtGE3qSqqfXBg.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=iPTjxCmzBasQ7kNvwFM95lI&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExNjc3MDc2MDU3NzkxMTcsImFzc2V0X2FnZV9kYXlzIjoxMSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjIwNzMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=59d04c0c1cf7b524&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82NTcxNUVFRTUwQzQ0MEM2QjI3NTg0NUQ3MTREQkIyNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzcwRDcyNUQwOTM3OTRDRTZCMkY1MjgwOUYzQkVCRDdDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbaitrQw4GTBBUCKAJDMywXQKAzFP3ztkYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=Vpzjs_1-8b0pyfXamB1WSw&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTQfpLqDml6rsOq628bMbt1fpjN3ClQo8gKJsQBe1XZ0Q&oe=6B081C0D",
+      "first_seen": "2026-11-21T23:56:52.657761+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "AT",
+        "IL"
+      ]
+    },
+    {
+      "ad_id": "1536795128282647",
+      "product_name": "nữ chỉ huy cơ trưởng xin đầu hàng phiên bản lồng tiếng",
+      "product_key": "unverified:1536795128282647",
+      "category": "other",
+      "advertiser": "Mini drama free",
+      "source_country": "IL",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1536795128282647",
+      "landing_url": "https://m.mydramawave.com/land/?pixel_id=727231996608627&c={{campaign.name}}&af_c_id={{campaign.id}}&af_adset={{adset.name}}&af_adset_id={{adset.id}}&af_ad={{ad.name}}&af_ad_id={{ad.id}}&af_channel={{placement}}&content_id=TQw6Q0EZLb&media_source=facebook",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNncoN7QhQBqnvA6_P8Co-G_AbVa7Jtqxag8Vf60VKN-J7n_UFaCkH4Ul_YxJcc2ARIfIRWL0qM9Q6PGCI-5b8V8lyUnwBogNtGE3qSqqfXBg.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=iPTjxCmzBasQ7kNvwFM95lI&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExNjc3MDc2MDU3NzkxMTcsImFzc2V0X2FnZV9kYXlzIjoxMSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjIwNzMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=59d04c0c1cf7b524&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82NTcxNUVFRTUwQzQ0MEM2QjI3NTg0NUQ3MTREQkIyNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzcwRDcyNUQwOTM3OTRDRTZCMkY1MjgwOUYzQkVCRDdDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbaitrQw4GTBBUCKAJDMywXQKAzFP3ztkYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=Vpzjs_1-8b0pyfXamB1WSw&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTQfpLqDml6rsOq628bMbt1fpjN3ClQo8gKJsQBe1XZ0Q&oe=6B081C0D",
+      "first_seen": "2026-11-21T23:56:52.657761+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "AT",
+        "IL"
+      ]
+    },
+    {
+      "ad_id": "1490134049849506",
+      "product_name": "nữ chỉ huy cơ trưởng xin đầu hàng phiên bản lồng tiếng",
+      "product_key": "unverified:1490134049849506",
+      "category": "other",
+      "advertiser": "Mini drama free",
+      "source_country": "IL",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1490134049849506",
+      "landing_url": "https://m.mydramawave.com/land/?pixel_id=727231996608627&c={{campaign.name}}&af_c_id={{campaign.id}}&af_adset={{adset.name}}&af_adset_id={{adset.id}}&af_ad={{ad.name}}&af_ad_id={{ad.id}}&af_channel={{placement}}&content_id=TQw6Q0EZLb&media_source=facebook",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNncoN7QhQBqnvA6_P8Co-G_AbVa7Jtqxag8Vf60VKN-J7n_UFaCkH4Ul_YxJcc2ARIfIRWL0qM9Q6PGCI-5b8V8lyUnwBogNtGE3qSqqfXBg.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=iPTjxCmzBasQ7kNvwFM95lI&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExNjc3MDc2MDU3NzkxMTcsImFzc2V0X2FnZV9kYXlzIjoxMSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjIwNzMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=59d04c0c1cf7b524&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82NTcxNUVFRTUwQzQ0MEM2QjI3NTg0NUQ3MTREQkIyNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzcwRDcyNUQwOTM3OTRDRTZCMkY1MjgwOUYzQkVCRDdDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbaitrQw4GTBBUCKAJDMywXQKAzFP3ztkYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=Vpzjs_1-8b0pyfXamB1WSw&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTQfpLqDml6rsOq628bMbt1fpjN3ClQo8gKJsQBe1XZ0Q&oe=6B081C0D",
+      "first_seen": "2026-11-21T23:56:52.657761+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "AT",
+        "IL"
+      ]
+    },
+    {
+      "ad_id": "1067993796247882",
+      "product_name": "nữ chỉ huy cơ trưởng xin đầu hàng phiên bản lồng tiếng",
+      "product_key": "unverified:1067993796247882",
+      "category": "other",
+      "advertiser": "Quillmere Drama",
+      "source_country": "IL",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1067993796247882",
+      "landing_url": "https://m.mydramawave.com/land/?pixel_id=727231996608627&c={{campaign.name}}&af_c_id={{campaign.id}}&af_adset={{adset.name}}&af_adset_id={{adset.id}}&af_ad={{ad.name}}&af_ad_id={{ad.id}}&af_channel={{placement}}&content_id=TQw6Q0EZLb&media_source=facebook",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNncoN7QhQBqnvA6_P8Co-G_AbVa7Jtqxag8Vf60VKN-J7n_UFaCkH4Ul_YxJcc2ARIfIRWL0qM9Q6PGCI-5b8V8lyUnwBogNtGE3qSqqfXBg.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=iPTjxCmzBasQ7kNvwFM95lI&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExNjc3MDc2MDU3NzkxMTcsImFzc2V0X2FnZV9kYXlzIjoxMSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjIwNzMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=59d04c0c1cf7b524&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82NTcxNUVFRTUwQzQ0MEM2QjI3NTg0NUQ3MTREQkIyNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzcwRDcyNUQwOTM3OTRDRTZCMkY1MjgwOUYzQkVCRDdDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbaitrQw4GTBBUCKAJDMywXQKAzFP3ztkYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=Vpzjs_1-8b0pyfXamB1WSw&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTQfpLqDml6rsOq628bMbt1fpjN3ClQo8gKJsQBe1XZ0Q&oe=6B081C0D",
+      "first_seen": "2026-11-21T23:56:52.657761+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "AT",
+        "IL"
+      ]
+    },
+    {
+      "ad_id": "29525240277164794",
+      "product_name": "tin vui cho bà con xa xứ bị đau nhức xương khớp",
+      "product_key": "unverified:29525240277164794",
+      "category": "other",
+      "advertiser": "Lương Y Lục Văn Bảy - Xương Khớp - HC3",
+      "source_country": "IL",
+      "ad_url": "https://www.facebook.com/ads/library/?id=29525240277164794",
+      "landing_url": null,
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMuG1bnR5hjrDJmHexsQzyXUwCdjOYbc2OpXwdinJI_FzbuqW863s1JKRyHOmeYguFCj0cvNbgsNuVIdTA6lqNnOy126_69k0Fhm6CpuLu5fQ.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=cE6i6OvU_4IQ7kNvwEgQedS&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1ODE0Mjk1NDk3NTA1NzcsImFzc2V0X2FnZV9kYXlzIjoyNTEsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoxNDUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=3ab55ab4672ff9ce&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85RjRDRkVGN0NEOEI2OTc5RjRDMzc3MzUyN0E5RDQ4Ql9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQzNDk1QUZFRUQ5NzZFMkFGMTMwMDNBNkI2NjkwQkExX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbi5OaoqJPPBRUCKAJDMywXQGIe6XjU_fQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=Vpzjs_1-8b0pyfXamB1WSw&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQR2mrkVJepJzyWlGE6HWrRh7WRu1uKcap-r9ynUxxHW-w&oe=6B07F07E",
+      "first_seen": "2026-11-21T23:56:52.657761+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "AT",
+        "IL"
+      ]
+    },
+    {
+      "ad_id": "2204017457141736",
+      "product_name": "cùng là phở khô nhưng chọn phở khô farmer sợi 3mm hay 5mm mới đúng món",
+      "product_key": "unverified:2204017457141736",
+      "category": "other",
+      "advertiser": "Vị Nhà",
+      "source_country": "UA",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2204017457141736",
+      "landing_url": null,
+      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/898657067_811140572094447_2398303603447888570_n.jpg?_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=207EFEkyNYEQ7kNvwEj9Myl&_nc_oc=AdrttJ0c4Lo8rx68Al-TSen1eyWxP0TPZjxiq8d8kYbSPoLjAl2kxIzO0x7VMMH4YF0&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=X1J2Cny5d-FmXil0WCAjSw&_nc_ss=79289&oh=00_AQT-jrR84TV5RaZ33AxNjvZleyaadDPcuanybvTv9nQ-Cw&oe=6B07EE12",
+      "video_url": null,
+      "first_seen": "2026-11-21T23:56:52.657761+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "GR",
+        "UA"
+      ]
+    },
+    {
+      "ad_id": "1393925892065896",
+      "product_name": "hẹn lịch thăm khám",
+      "product_key": "unverified:1393925892065896",
+      "category": "other",
+      "advertiser": "Bác sĩ Hồ Cao Vũ - Dr Ho Cao Vu",
+      "source_country": "UA",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1393925892065896",
+      "landing_url": null,
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMUURF8z_ld4H9c8iwVBFoDteg913v4djnyvgTMzjDkZnc-P_N6NTrEV_rBZXgnQ8JM0O3pIDoQclrSYbS3Mzc9GQR2ZP25ILyEK709kngA2A.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=77llq2-lHE8Q7kNvwHVApCL&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjYwNTIzODA4MTg4OTAwNCwiYXNzZXRfYWdlX2RheXMiOjU0OCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjUwNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=dac83a8b0eabe8e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CMjQxQkRFQ0VGNzc0QTkxRDEyRERBMTIxOEU2NzQ4Q19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dJczF5QjB1RmVJT1BOMEVBTFpncHdlTDh5ODlidjRHQUFBRhUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbYi4GOv52TAhUCKAJDMywXQH-AhysCDEoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=X1J2Cny5d-FmXil0WCAjSw&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQREfvpqqxiDcsHi_KxDXW54x7xK-TiHGkSxhKNJaeah1A&oe=6B07F4DB",
+      "first_seen": "2026-11-21T23:56:52.657761+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "GR",
+        "UA"
+      ]
+    },
+    {
+      "ad_id": "2380429675675865",
+      "product_name": "giảm tiếng ồn khi đóng cửa xe",
+      "product_key": "unverified:2380429675675865",
+      "category": "other",
+      "advertiser": "TUẤN ANH AuTo 8888",
+      "source_country": "UA",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2380429675675865",
+      "landing_url": "http://www.chinhhang2025.io.vn/tuananhauto",
+      "image_url": null,
+      "video_url": "https://video-iad3-1.xx.fbcdn.net/v/t42.1790-2/491421983_2380429745675858_1777553467061132255_n.?_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JKSAKzE9xG0Q7kNvwFU-RlP&_nc_oc=AdrpE4L6MDjdh2rRmTpLixIGp6-IVn3w2pvxO8rzwt6wKMK1H8M1axAUUmHtsRxAEWw&_nc_zt=28&_nc_ht=video-iad3-1.xx&_nc_gid=X1J2Cny5d-FmXil0WCAjSw&_nc_ss=79289&oh=00_AQQO0B1Fr-VUQgebALYBtcizUYKIClj-8XBI5WHi3fejsQ&oe=6B07EE50",
+      "first_seen": "2026-11-21T23:56:52.657761+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "GR",
+        "UA"
+      ]
+    },
+    {
+      "ad_id": "1732150254384148",
+      "product_name": "giảm tiếng ồn khi đóng cửa xe",
+      "product_key": "unverified:1732150254384148",
+      "category": "other",
+      "advertiser": "TUẤN ANH AuTo 8888",
+      "source_country": "UA",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1732150254384148",
+      "landing_url": "http://www.chinhhang2025.io.vn/tuananhauto",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPJHTbcFninCnof6kFxzeu9i7OOWVwxt0xxiECYewu46c3SLgal0cCdUt9oZTUxtE_TPoFsnCNXpY16YhdkG7g.mp4?_nc_cat=102&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=gpkPlTbWUrEQ7kNvwFUjinU&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjo5OTE0MzU4MjY3NDYyMTEsImFzc2V0X2FnZV9kYXlzIjoyMTksInZpX3VzZWNhc2VfaWQiOjEwNjgwLCJkdXJhdGlvbl9zIjoxNzgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=X1J2Cny5d-FmXil0WCAjSw&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTb6ltwDAYhQ763396p7TVKb3Rsf3pXleXVa0d5dZw7yw&oe=6B080B30",
+      "first_seen": "2026-11-21T23:56:52.657761+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "GR",
+        "UA"
+      ]
+    },
+    {
+      "ad_id": "1002607029560409",
+      "product_name": "tus dramas favoritos te esperan gratis",
+      "product_key": "unverified:1002607029560409",
+      "category": "other",
+      "advertiser": "Cup Box",
+      "source_country": "PT",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1002607029560409",
+      "landing_url": "http://play.google.com/store/apps/details?id=com.newreading.goodreels",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNAcEXlR0n7OmlnFARBUc6GlP-VvzTiDeDawz8bH04fO2e6ac11aOUdY4dHyKq3AGMJrzioGFho_loz7vT6HnY6hppRUUgTZvU73c2E1qvc6g.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=FeL8MzCdhwkQ7kNvwGFDOxg&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2NTEwNzMzMjY0OTYzNDUsImFzc2V0X2FnZV9kYXlzIjo4LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MTg5NCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=18d3a89d9690b763&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84OEM2NTUxOEQ1NTg0OTQ5QUJBODk2OEU2NEJBODZEN19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzlEMDA5MEE3RDFFRTRCMTZCMDQyMzgyNzM4MTk3MTdDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACay6f3xjunuBRUCKAJDMywXQJ2Zu2RaHKwYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=bLDVG0cyx7NdKnBG3kg05g&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQjbp_suMhl_FBmA3KApeV0mlPqN0mSOZ7XpSF3GCxdDg&oe=6B07F64A",
+      "first_seen": "2026-11-21T23:56:52.657761+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "PT",
+        "SG"
+      ]
+    },
+    {
+      "ad_id": "1218297576844361",
+      "product_name": "𝐃𝐢𝐞 𝐧 𝐯𝐢𝐞 𝐧 𝐇𝐨 𝐧𝐠 𝐃𝐢𝐞 𝐦 𝟒 𝐧𝐚 𝐦 𝐜𝐡𝐮𝐧𝐠 𝐭𝐡𝐮 𝐲 𝐯𝐨 𝐢 𝐁𝐢𝐨𝐜𝐞𝐥𝐥 𝐏𝐥𝐮𝐬 𝐯𝐢 𝐝𝐚 𝐜𝐚 𝐧𝐠 𝐛𝐨 𝐧𝐠 𝐩𝐡𝐚 𝐭 𝐦𝐞 𝐧𝐠",
+      "product_key": "unverified:1218297576844361",
+      "category": "other",
+      "advertiser": "Lavender By Chang",
+      "source_country": "AT",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1218297576844361",
+      "landing_url": null,
+      "image_url": null,
+      "video_url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQM9gsAE9RDz4hsKYiMGUbr_NW_lf_wRWLoBzNpq_PQgsYOFDzbNKvFOdXPLbxlrVC9pvuUp21tPZ7qseBZTjCkDXRUfF88uKbxBC5dKch4XDQ.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=xYAZyBYAgaYQ7kNvwGh9bGB&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1NjA5OTE1NzU2MzEyMTQsImFzc2V0X2FnZV9kYXlzIjoyMTEsInZpX3VzZWNhc2VfaWQiOjEyMzczLCJkdXJhdGlvbl9zIjo3ODksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=3d18640f1937518c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xQzRGMDRDRTUwOUZDMzI0MDRGODBDQjYzQ0Q5NURBMF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzlDNDYxNzhGNDFBRDQ0MEUxQkVFMzZERDA0NjYyQkExX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbclefF1e3FBRUCKAJDMywXQIiozMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=vL9EtCCpzcBNZ172-JEnZA&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQS4QGISo-JILYJZZ_wWPxrPAJ_-Sj-tCx-GpwZD7gydeA&oe=6B09663B",
+      "first_seen": "2026-11-22T23:59:53.704777+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "AT"
+      ]
+    },
+    {
+      "ad_id": "941580291981133",
+      "product_name": "ưu đãi 1-2tỷ căn",
+      "product_key": "unverified:941580291981133",
+      "category": "other",
+      "advertiser": "Căn Hộ Cao Cấp Trung Tâm HCM - Giỏ hàng ngoại giao",
+      "source_country": "AT",
+      "ad_url": "https://www.facebook.com/ads/library/?id=941580291981133",
+      "landing_url": "http://fb.me/",
+      "image_url": null,
+      "video_url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPACtAp_uJPvFmMS0QoBy_UxMEBJuA30xGUAcXXxpu1oSK_nph7wK6iYo_jGvSpFMavD0slOMcKslD4Qt72YkgnbF4I5q5jbOtw6jFhHXiQ-Q.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=2VrJvNDrfskQ7kNvwHHwVtw&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3MzQ1NDAxODExOTM1MTMsImFzc2V0X2FnZV9kYXlzIjoxNjIsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxNjMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=79da2b8ee5c6e9e8&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zMzQxQjgxMjc3Q0IyNDI3RTUxRjQ0QUU2NzlGQTU5OF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzIxNDdBNTRBM0U5MTAzMTVFQjM1MjVDMTRFNDIzMUE2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbSjMq1w-OUBhUCKAJDMywXQGR1T987ZFoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=vL9EtCCpzcBNZ172-JEnZA&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQS8StJ3oOeLyTIBhfM9BRGyoJqpLE0ES2Zy5FGLNwQzNA&oe=6B094B7D",
+      "first_seen": "2026-11-22T23:59:53.704777+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "AT"
+      ]
+    },
+    {
+      "ad_id": "1708206033518690",
+      "product_name": "vào tiền chỉ 600 triệu nhận nhà - ib em ngay",
+      "product_key": "unverified:1708206033518690",
+      "category": "other",
+      "advertiser": "Căn hộ Biển Nha Trang 3 mặt View sông có Khoáng Nóng Onsen, sổ hồng lâu dài",
+      "source_country": "AT",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1708206033518690",
+      "landing_url": "http://fb.me/",
+      "image_url": null,
+      "video_url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOwHctuliRQCcL452D6i87h4FLlqBlIRZGT6Sn_0Dcrw4bFZ3yN6YiklMMptO0p2diBiBddgV2DUAdlrILkQCswrCj94_0PEYgPsD8MdDDKlw.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=K1-XtBbFw9AQ7kNvwH-agO3&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjc5NzI0MzQyMzMyOTIyMSwiYXNzZXRfYWdlX2RheXMiOjM1NCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjU3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=4d9e4dde47ccf87f&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yNjRFOUY0MkE4QkUxNTNGNDE4RUJENUFFOEUzNkFCQV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzE0NEUwN0M1OTNBRDM3ODU4QTAxNTFBRjYwRjNDNjhBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaKr-Cw1sXqAhUCKAJDMywXQEyEOVgQYk4YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=vL9EtCCpzcBNZ172-JEnZA&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_enc=UsoE_r3R--YFQvxDSNxIF_mn9Rz23xCWXOa4Fb3rcHHXaL2lRsOSY7_pZsS5teFNgneBEbSA3ysPdGcwk9QYuw0Tw5j-icsQbNSAgS9pNd0BC3Vn28PS5fcYFwQ&oh=00_AQRV40v-gKXbiaLkzEJwx8LmDMeFTUFZ5h7Vs7qV92i5Qg&oe=6B09469B",
+      "first_seen": "2026-11-22T23:59:53.704777+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "AT"
+      ]
+    },
+    {
+      "ad_id": "1519246672408105",
+      "product_name": "cẩn thận lừa đảo nâng ngực harmonic",
+      "product_key": "unverified:1519246672408105",
+      "category": "other",
+      "advertiser": "Bác sĩ Hồ Cao Vũ - Dr Ho Cao Vu",
+      "source_country": "AT",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1519246672408105",
+      "landing_url": null,
+      "image_url": null,
+      "video_url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPbbSFdfM4T0DL9bciJqLlog-pb3rZ9Sutdfoiu0xlGJNPdAIZh3WDtKL2kCscSvxLbG8PBuZY3v9ntzvnwdfwcxv8TUbaWs2mFxQ5kecOLAg.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=t17WZc2ZTVYQ7kNvwGehmhJ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3Nzk1NjgxMDI1NDQwMjUsImFzc2V0X2FnZV9kYXlzIjoxMDQ1LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MTgzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=fc377b6649b8c736&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DMTREQTA3QzdERjBBRTlDQzIwQ0M0ODU1MzE0NEJCQV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfZXBoZW1lcmFsL0M4NDM0MzIyMUJCMUY4RkVFODdGQjdGMDNBRTNBMzgyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACayytjJv6CpBhUCKAJDMywXQGb1T987ZFoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=vL9EtCCpzcBNZ172-JEnZA&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQJZmHXQuGn-sYvyaONH7cRyGmVTrr3HhQ2A3LbsvdukA&oe=6B0969CA",
+      "first_seen": "2026-11-22T23:59:53.704777+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "AT"
+      ]
+    },
+    {
+      "ad_id": "1399050115733359",
+      "product_name": "khách hàng vip bình dương xuống 1size với carbolite tự tin diện đầm ôm mà không cần tập luyện vất",
+      "product_key": "title:khách hàng vip bình dương xuống 1size với carbolite tự tin diện đầm ôm mà không cần tập luyện vất",
+      "category": "vehicle",
+      "advertiser": "Chang.TV",
+      "source_country": "AT",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1399050115733359",
+      "landing_url": null,
+      "image_url": null,
+      "video_url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPjDCYDD1fyPRnhWbhO2BH8ehQ9LL1hsc18UeYR3fs945hTcroopCstVVH8ELEJitiqQ5pQh6GVmCPLLAkEyl-1lGPvbmk8RwL87Ubc4H75Yg.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=em7wadrx9iUQ7kNvwHmU5o-&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjkxMTQ3ODA0MTQ1NTQyNywiYXNzZXRfYWdlX2RheXMiOjEwNywidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjYxMSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=e12e38c2343ec7ce&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85MTRBOEVCNTBCRDA3RTdDNjNDODE0MjE1QUU4M0FCN19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzFBNDBGQUYxRDY5RDYyODQ4RjZDQ0IwMENENjA2RTlCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaGrY3OgL-eAxUCKAJDMywXQIMaAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=vL9EtCCpzcBNZ172-JEnZA&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTyWuo9F_bp-9LgsX5fSQoEmJh1NoIVnPQIfEXGSqRy1w&oe=6B0966EA",
+      "first_seen": "2026-11-22T23:59:53.704777+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "AT"
+      ]
+    },
+    {
+      "ad_id": "1826416635015900",
+      "product_name": "cảnh báo radar tốc độ 4 8 11m",
+      "product_key": "unverified:1826416635015900",
+      "category": "other",
+      "advertiser": "Radar GO-X",
+      "source_country": "AT",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1826416635015900",
+      "landing_url": "http://itunes.apple.com/app/id6771405651",
+      "image_url": null,
+      "video_url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPgrBr9l13NLk9toLQibinci-DDv_Hx5bLjuvaGcTPoaJJTyQq9oEPmCnHhpf5_HLF-8KfZb4NwPgKaUSJNz_VVNsAQdn9ItTxQpB_82crtPA.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=S6RPibHO7OkQ7kNvwFSWMwg&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2MzU4NDcwNDQ1NjQ3OTksImFzc2V0X2FnZV9kYXlzIjo1NSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjI4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=3cc7c78cfb0b6acd&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DMTQ3MDkxQ0MyQzVDODBDNEJBMTQyQjUyNjYxNEVBNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzdENEE2NzFCRkE0RTBDNzcxNjdFQzY0NTI4NjNEMzlCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACb-nPyf6vLnBRUCKAJDMywXQDyIcrAgxJwYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=vL9EtCCpzcBNZ172-JEnZA&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQT5mjkj5ZulUURIU9eHpG6KZE3SEoZ9i8TYQv0CULAmJg&oe=6B09472B",
+      "first_seen": "2026-11-22T23:59:53.704777+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "AT"
+      ]
+    },
+    {
+      "ad_id": "2096700824522574",
+      "product_name": "trọn vẹn quy trình cùng công nghệ vaer ultrasonic thế hệ mới nhất by dr bùi văn cường",
+      "product_key": "unverified:2096700824522574",
+      "category": "other",
+      "advertiser": "Ths.bs Bùi Văn Cường - Thẩm mỹ viện Hương Giang",
+      "source_country": "AT",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2096700824522574",
+      "landing_url": null,
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMX5qtTIDuJJ9YZ63BS_PSUzAodeiUJzRhpxhZhHQt5JE7jYQXIPmOxvTe51yrx2jKBswCJATNn8Q7TE2dRVRwRTvCNijOykQqaDcGE1wiw4Q.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=1b3dIj2lmzUQ7kNvwHspRnw&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2ODQ3NTg5MjU4Nzk4NjYsImFzc2V0X2FnZV9kYXlzIjoxOTEsInZpX3VzZWNhc2VfaWQiOjEyMzczLCJkdXJhdGlvbl9zIjoxMjYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=ff6063dad57021a0&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84MjQzRTk3RUI1NDJGRUQ1MkMyODg0MDEwNzM3QjlCRF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzNBNDE1QkVFNTQ5QjI2MDUzM0UwODAxQzdCRDE1NTlEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACb0qPmU8JH-BRUCKAJDMywXQF-qn752yLQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=vL9EtCCpzcBNZ172-JEnZA&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQIgjQ3ZBBbIF9GvxZyAtzV6UavKmZvQCkm8vefSkN_zA&oe=6B093FBD",
+      "first_seen": "2026-11-22T23:59:53.704777+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "AT"
+      ]
+    },
+    {
+      "ad_id": "1611934357348740",
+      "product_name": "nhắn tin cho thầy bảy",
+      "product_key": "unverified:1611934357348740",
+      "category": "other",
+      "advertiser": "Lương Y Lục Văn Bảy Dân Tộc Sán Dìu",
+      "source_country": "AT",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1611934357348740",
+      "landing_url": null,
+      "image_url": null,
+      "video_url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPVpvP4LZ3ImwZjvisdwBVSTyTLvPPY-H2oedMHDnucSFz14VqcpCuzs2JpXRh35eSW1Y6xfLIotOoJZ0EdaldRWy0VY81w2aMa9PWWTWGSrw.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=ZTMs5XWtJ3MQ7kNvwGvrV1U&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTYwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE4ODkzOTczMzU1NTU3NzUsImFzc2V0X2FnZV9kYXlzIjoyMywidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjE0OCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=b27ae0619da52d8a&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DODdCNTE4RjA4OTA0ODY2OEE0NkE3NkY1ODE3M0REMl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzZCNEUyRDczRTMxNzQ4RTU4MTFFNkEwOEVCQzQwMDRCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACb--rOQs5nbBhUCKAJDMywXQGKEQYk3S8cYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=vL9EtCCpzcBNZ172-JEnZA&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSpy9rRYmS6QV7KU61eT-4jhaBLxp1D_GCt7JUv-Hus3Q&oe=6B097038",
+      "first_seen": "2026-11-22T23:59:53.704777+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "AT"
+      ]
+    },
+    {
+      "ad_id": "4492985777619049",
+      "product_name": "nữ chỉ huy cơ trưởng xin đầu hàng phiên bản lồng tiếng",
+      "product_key": "unverified:4492985777619049",
+      "category": "other",
+      "advertiser": "Thế Giới Phim Ngắn",
+      "source_country": "AT",
+      "ad_url": "https://www.facebook.com/ads/library/?id=4492985777619049",
+      "landing_url": "https://m.mydramawave.com/land/?pixel_id=727231996608627&c={{campaign.name}}&af_c_id={{campaign.id}}&af_adset={{adset.name}}&af_adset_id={{adset.id}}&af_ad={{ad.name}}&af_ad_id={{ad.id}}&af_channel={{placement}}&content_id=TQw6Q0EZLb&media_source=facebook",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNncoN7QhQBqnvA6_P8Co-G_AbVa7Jtqxag8Vf60VKN-J7n_UFaCkH4Ul_YxJcc2ARIfIRWL0qM9Q6PGCI-5b8V8lyUnwBogNtGE3qSqqfXBg.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=iPTjxCmzBasQ7kNvwHpeOoc&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExNjc3MDc2MDU3NzkxMTcsImFzc2V0X2FnZV9kYXlzIjoxMiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjIwNzMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=59d04c0c1cf7b524&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82NTcxNUVFRTUwQzQ0MEM2QjI3NTg0NUQ3MTREQkIyNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzcwRDcyNUQwOTM3OTRDRTZCMkY1MjgwOUYzQkVCRDdDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbaitrQw4GTBBUCKAJDMywXQKAzFP3ztkYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=vL9EtCCpzcBNZ172-JEnZA&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSffaRvtyM3q2pOflq_L-1y3ONMYh1D55WqrJ0T1r6v7w&oe=6B096D8D",
+      "first_seen": "2026-11-22T23:59:53.704777+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "AT"
+      ]
+    },
+    {
+      "ad_id": "1600386328505580",
+      "product_name": "nữ chỉ huy cơ trưởng xin đầu hàng phiên bản lồng tiếng",
+      "product_key": "unverified:1600386328505580",
+      "category": "other",
+      "advertiser": "Quillmere Drama",
+      "source_country": "AT",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1600386328505580",
+      "landing_url": "https://m.mydramawave.com/land/?pixel_id=727231996608627&c={{campaign.name}}&af_c_id={{campaign.id}}&af_adset={{adset.name}}&af_adset_id={{adset.id}}&af_ad={{ad.name}}&af_ad_id={{ad.id}}&af_channel={{placement}}&content_id=TQw6Q0EZLb&media_source=facebook",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNncoN7QhQBqnvA6_P8Co-G_AbVa7Jtqxag8Vf60VKN-J7n_UFaCkH4Ul_YxJcc2ARIfIRWL0qM9Q6PGCI-5b8V8lyUnwBogNtGE3qSqqfXBg.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=iPTjxCmzBasQ7kNvwHpeOoc&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExNjc3MDc2MDU3NzkxMTcsImFzc2V0X2FnZV9kYXlzIjoxMiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjIwNzMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=59d04c0c1cf7b524&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82NTcxNUVFRTUwQzQ0MEM2QjI3NTg0NUQ3MTREQkIyNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzcwRDcyNUQwOTM3OTRDRTZCMkY1MjgwOUYzQkVCRDdDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbaitrQw4GTBBUCKAJDMywXQKAzFP3ztkYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=vL9EtCCpzcBNZ172-JEnZA&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSffaRvtyM3q2pOflq_L-1y3ONMYh1D55WqrJ0T1r6v7w&oe=6B096D8D",
+      "first_seen": "2026-11-22T23:59:53.704777+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "AT"
+      ]
+    },
+    {
+      "ad_id": "1138878795579726",
+      "product_name": "nữ chỉ huy cơ trưởng xin đầu hàng phiên bản lồng tiếng",
+      "product_key": "unverified:1138878795579726",
+      "category": "other",
+      "advertiser": "Fernshadow Tales",
+      "source_country": "AT",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1138878795579726",
+      "landing_url": "https://m.mydramawave.com/land/?pixel_id=727231996608627&c={{campaign.name}}&af_c_id={{campaign.id}}&af_adset={{adset.name}}&af_adset_id={{adset.id}}&af_ad={{ad.name}}&af_ad_id={{ad.id}}&af_channel={{placement}}&content_id=TQw6Q0EZLb&media_source=facebook",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNncoN7QhQBqnvA6_P8Co-G_AbVa7Jtqxag8Vf60VKN-J7n_UFaCkH4Ul_YxJcc2ARIfIRWL0qM9Q6PGCI-5b8V8lyUnwBogNtGE3qSqqfXBg.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=iPTjxCmzBasQ7kNvwHpeOoc&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExNjc3MDc2MDU3NzkxMTcsImFzc2V0X2FnZV9kYXlzIjoxMiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjIwNzMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=59d04c0c1cf7b524&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82NTcxNUVFRTUwQzQ0MEM2QjI3NTg0NUQ3MTREQkIyNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzcwRDcyNUQwOTM3OTRDRTZCMkY1MjgwOUYzQkVCRDdDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbaitrQw4GTBBUCKAJDMywXQKAzFP3ztkYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=vL9EtCCpzcBNZ172-JEnZA&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSffaRvtyM3q2pOflq_L-1y3ONMYh1D55WqrJ0T1r6v7w&oe=6B096D8D",
+      "first_seen": "2026-11-22T23:59:53.704777+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "AT"
+      ]
+    },
+    {
+      "ad_id": "1822406972245791",
+      "product_name": "ceo chang tư vấn tút b0dy thon gọn tự tin thả dáng mùa du lịch xuống 2_size nhẹ nhàng không cần x",
+      "product_key": "unverified:1822406972245791",
+      "category": "other",
+      "advertiser": "Lavender By Chang",
+      "source_country": "AT",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1822406972245791",
+      "landing_url": null,
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMyHHej4tjHVzSqsn5r9FbxeMttiz3Ocv7pE5MWtHMuV-lkGDj9aBZ-HPFPSvXDktMKUvmDjKAgrhT9YLrUHJH9WeQE_j3sdF03m10N7-sARw.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=5xlAb1pKIHkQ7kNvwEer0s_&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwMDAzMjc3NzkwODUxMzYsImFzc2V0X2FnZV9kYXlzIjoxOTksInZpX3VzZWNhc2VfaWQiOjEyMzczLCJkdXJhdGlvbl9zIjo1MTUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=7bff65ac76a2b773&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FMDRERTVGODgwOUZBNTM2RTk0MzA5NEUxNUVEOTNCNl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzhCNDhGQ0I1REI0ODkxMDkyNEYwNkE4MTFDRTY2OEJCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACagrfPe3vLGAxUCKAJDMywXQIAZyLQ5WBAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=vL9EtCCpzcBNZ172-JEnZA&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRG3xn5K415QOSY77SKq83PqIEoWIzQUQLUPv5gWz2NKw&oe=6B096FFC",
+      "first_seen": "2026-11-22T23:59:53.704777+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "AT"
+      ]
+    },
+    {
+      "ad_id": "2976908292690170",
+      "product_name": "bộ đôi tranh đồng thuận buồm xuôi gió mã đáo thành công sự kết hợp hoàn hảo gửi trọn lời chú",
+      "product_key": "unverified:2976908292690170",
+      "category": "other",
+      "advertiser": "Xưởng Tranh Đồng Nam Định - 0373.247.222",
+      "source_country": "AT",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2976908292690170",
+      "landing_url": null,
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQO2doD5AKO-WH53615ktPJAKeiNoALWNnOKqsUYWqMv-SbPiOV3nnTgQouGo5rXJTOG3-EyzNNZVb11DOddX3e_4j6UOtMQGWGpEA3HjjWXkw.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=UIqoZv215PQQ7kNvwGImaqO&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjQ3MDA0ODk0NjM1NjM4OTUsImFzc2V0X2FnZV9kYXlzIjo0MCwidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjE5MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=4e7d8f50bc22bbbf&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xNThEMTAxQzVERjg0ODU0OUM2NjhEMkEyRTMyNTEyRF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzVCOEY4NzYxQzI1QTQxOTg5NjlGQjgyQjI2MDhDNTI3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbumfjLv8TZEBUCKAJDMywXQGfCHKwIMScYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=vL9EtCCpzcBNZ172-JEnZA&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRWIVPwtLjtm4iEM5fG12a8S243VxLoeAUcNFMgIELWaw&oe=6B096230",
+      "first_seen": "2026-11-22T23:59:53.704777+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "AT"
+      ]
+    },
+    {
+      "ad_id": "1056875010045622",
+      "product_name": "lo sợ căng da mặt bị sẹo xấu mặt đơ",
+      "product_key": "unverified:1056875010045622",
+      "category": "other",
+      "advertiser": "Bệnh Viện Tạo Hình Thẩm Mỹ Dr.Hải Lê",
+      "source_country": "AT",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1056875010045622",
+      "landing_url": null,
+      "image_url": null,
+      "video_url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQP2-_ohRk4jMkaqKM91IppnmdxmZA2422dmF7C7NEz-ws-8aqNJGMmyL1P0GY4wwv-yCLiZhODywtyAxeWNDIWHqtt5lin0ZeQAHtaPv7tr7A.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=0UNfVDwX_G4Q7kNvwGf7ny7&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk2ODA2MDQzNTczODU3NSwiYXNzZXRfYWdlX2RheXMiOjIwNywidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjE1NCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=30062d4557ba9c1f&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yNTRBQzA1RkZBMzc1NjFBQzhGODRDODlEQTRCNUVCMV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0E3NEFDNzIxNURFQ0EyODU2RkFBMDRFMTA4NEI5QkJCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaev6WmxJy4AxUCKAJDMywXQGNORaHKwIMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=vL9EtCCpzcBNZ172-JEnZA&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRtIUeGpZmn-8sywsnXmzdsIR13B_xUfgYmr7ijhYgAJw&oe=6B094E22",
+      "first_seen": "2026-11-22T23:59:53.704777+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "AT"
+      ]
+    },
+    {
+      "ad_id": "2077454522873445",
+      "product_name": "tư vấn thêm concept cùng photographer",
+      "product_key": "unverified:2077454522873445",
+      "category": "other",
+      "advertiser": "Aloha Art Studio Saigon",
+      "source_country": "AT",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2077454522873445",
+      "landing_url": null,
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMT_J8Ft8ixjzMy5P2t4G9JRkFEDuold043coE5dZ_7YeZvKBdDpKx4uXrWRIeP_lYZ4wXt1XuboXJ0SU0egVmULyG27kEoCZl0UGorOMRwqw.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=OkbLdKQrt8IQ7kNvwE31sN7&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI1NzA2OTE5MDk1NTc3MDM2LCJhc3NldF9hZ2VfZGF5cyI6MzgxLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NzAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=fc9aa9fbdbeb7ee9&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GODREQjVCOUFBQTEyOURFQzExMzZERjg5RThGRjA5NV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzFBNEYwOEJGNDlCMTlEOEVDNTQyRTMxOEYxNjY2Rjk1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaYp7HP0JOqWxUCKAJDMywXQFGTMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=vL9EtCCpzcBNZ172-JEnZA&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_enc=Up7KzjXJkujGmCJitEyWtYIV6uMpRHfeRig_IR_N3Bbsw41mI7NZtDsuEa2dHVocDONgdeNqW6kFWtQPU2NM4ZxtEvZ5uczOlNd7l7wsOktMOGxJBlU7lNXkFIc&oh=00_AQQrcfCTJIiOwEKJ7w6qA6x-t0D8ZZLWEdezBMxvDIFoSw&oe=6B094EC7",
+      "first_seen": "2026-11-22T23:59:53.704777+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "AT"
+      ]
+    },
+    {
+      "ad_id": "2176768159474938",
+      "product_name": "hẹn lịch thăm khám",
+      "product_key": "unverified:2176768159474938",
+      "category": "other",
+      "advertiser": "Bác sĩ Hồ Cao Vũ - Dr Ho Cao Vu",
+      "source_country": "GR",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2176768159474938",
+      "landing_url": null,
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMUURF8z_ld4H9c8iwVBFoDteg913v4djnyvgTMzjDkZnc-P_N6NTrEV_rBZXgnQ8JM0O3pIDoQclrSYbS3Mzc9GQR2ZP25ILyEK709kngA2A.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=77llq2-lHE8Q7kNvwENG07N&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjYwNTIzODA4MTg4OTAwNCwiYXNzZXRfYWdlX2RheXMiOjU0OSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjUwNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=dac83a8b0eabe8e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CMjQxQkRFQ0VGNzc0QTkxRDEyRERBMTIxOEU2NzQ4Q19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dJczF5QjB1RmVJT1BOMEVBTFpncHdlTDh5ODlidjRHQUFBRhUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbYi4GOv52TAhUCKAJDMywXQH-AhysCDEoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=DGzCMG5ScZ5KpS3PB2IKGQ&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRCRXMVd_Yn-9HEKEZGf-gb5fKhswlFQa78AnSAJd0wBw&oe=6B09465B",
+      "first_seen": "2026-11-22T23:59:53.704777+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "GR"
+      ]
+    },
+    {
+      "ad_id": "1999786304188059",
+      "product_name": "hẹn lịch thăm khám",
+      "product_key": "unverified:1999786304188059",
+      "category": "other",
+      "advertiser": "Bác sĩ Hồ Cao Vũ - Dr Ho Cao Vu",
+      "source_country": "GR",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1999786304188059",
+      "landing_url": null,
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMUURF8z_ld4H9c8iwVBFoDteg913v4djnyvgTMzjDkZnc-P_N6NTrEV_rBZXgnQ8JM0O3pIDoQclrSYbS3Mzc9GQR2ZP25ILyEK709kngA2A.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=77llq2-lHE8Q7kNvwENG07N&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjYwNTIzODA4MTg4OTAwNCwiYXNzZXRfYWdlX2RheXMiOjU0OSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjUwNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=dac83a8b0eabe8e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CMjQxQkRFQ0VGNzc0QTkxRDEyRERBMTIxOEU2NzQ4Q19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dJczF5QjB1RmVJT1BOMEVBTFpncHdlTDh5ODlidjRHQUFBRhUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbYi4GOv52TAhUCKAJDMywXQH-AhysCDEoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=DGzCMG5ScZ5KpS3PB2IKGQ&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRCRXMVd_Yn-9HEKEZGf-gb5fKhswlFQa78AnSAJd0wBw&oe=6B09465B",
+      "first_seen": "2026-11-22T23:59:53.704777+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "GR"
+      ]
+    },
+    {
+      "ad_id": "1150205950589576",
+      "product_name": "consultation for a customer with breast implants and areola collection twice at another plastic surg",
+      "product_key": "title:consultation for a customer with breast implants and areola collection twice at another plastic surg",
+      "category": "garden",
+      "advertiser": "Bác sĩ Hồ Cao Vũ - Dr Ho Cao Vu",
+      "source_country": "GR",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1150205950589576",
+      "landing_url": null,
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPlMi8PkjLKIUCje8AEP8om3o7oQlaJeA4gOQ9YBCALv53UWrm5p4b_oLYXBkTzme5VVecnVysv8GH-vUKdIknrMAW1l9myS6xY2C-YLn6C9A.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=S6Hc1UZRC6sQ7kNvwFfUU10&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjc2NzUzMzM1ODY2NzE4MiwiYXNzZXRfYWdlX2RheXMiOjk3MCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjQ2NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=96cf34a9b4d3c7cb&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BQTRDRjZENkI4NjhBMjJBQzNBMEFFNDlEMDNDMEY4OF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfZXBoZW1lcmFsLzEyNDk1QjIwMzY0Qjg0MTQ3NUMxRENBQjk2QjQwNTg4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbc1pKTqYTdAhUCKAJDMywXQH0ohysCDEoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=DGzCMG5ScZ5KpS3PB2IKGQ&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQGFhZAR4Yh87FF7sLRv6zy-Arqp3fXnB3iSxlHqPE9AQ&oe=6B0970A2",
+      "first_seen": "2026-11-22T23:59:53.704777+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "GR"
+      ]
+    },
+    {
+      "ad_id": "1165691379353334",
+      "product_name": "cada episodio esconde una nueva sorpresa descubre mini dramas llenos de misterio y suspenso desc",
+      "product_key": "unverified:1165691379353334",
+      "category": "other",
+      "advertiser": "Short Film",
+      "source_country": "SG",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1165691379353334",
+      "landing_url": "http://play.google.com/store/apps/details?id=com.cuentia.novela.app",
+      "image_url": null,
+      "video_url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNDVtFakdfeb7QYM_SufUZ6V8ukzVCLWC2c-U17bNvfiIroWad2V1grDOUfhpMM2LLliCQXH7e4Yk9od1wuiGD1ZyYt4Lb7-UFVEg3boEoSKA.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=6YxdIQ9nj0YQ7kNvwF4Srcc&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIxMzY5NzQ0ODA1NDIwNzUsImFzc2V0X2FnZV9kYXlzIjoxNCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjcxMSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=5ad6d3537baee843&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zMTlBODNCRTk3NDU0MTVBOEI4MEUwQ0ZBQTk3QjRBRV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzlCMUVBREFFODkxMTRDMkM4Qzk5MTMzNTdCMzRFQzA0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACb2pfTMpOTLBxUCKAJDMywXQIY7dsi0OVgYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=eH2SNada78wclUlMdhCBDA&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQStP5UYWf-V50SYl8_8uBUG12xfJs1Rw2W2VtTXL9Y0kw&oe=6B095B27",
+      "first_seen": "2026-11-22T23:59:53.704777+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "SG"
+      ]
+    },
+    {
+      "ad_id": "1193642913335365",
+      "product_name": "download now",
+      "product_key": "unverified:1193642913335365",
+      "category": "other",
+      "advertiser": "Ai",
+      "source_country": "SG",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1193642913335365",
+      "landing_url": "http://itunes.apple.com/app/id6742596333",
+      "image_url": null,
+      "video_url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNgfdxNpiVkonQMgvOoQsUl4_KEGn2uvwigDM-BVBelk4gvdslLPWH7c-kNdQyp4yJVJyX3PUYySz65Pk8ECWby1E-0geYb1KYobycKSQ.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=aUxAOxM2wqsQ7kNvwEy-Nt2&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMjcyLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTE2MzkzODM0MjcyOTI4MiwiYXNzZXRfYWdlX2RheXMiOjEwLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MTE0MywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=eH2SNada78wclUlMdhCBDA&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRU0E7NOBsmNWYtjloMWcUOq3VekggJJVBD2s-6VqlrKg&oe=6B094FF0",
+      "first_seen": "2026-11-22T23:59:53.704777+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "SG"
+      ]
+    },
+    {
+      "ad_id": "3448405018661470",
+      "product_name": "descarga gratis",
+      "product_key": "unverified:3448405018661470",
+      "category": "vehicle",
+      "advertiser": "TitanForge Studio",
+      "source_country": "SG",
+      "ad_url": "https://www.facebook.com/ads/library/?id=3448405018661470",
+      "landing_url": "http://play.google.com/store/apps/details?id=com.vibeflix.miniseries.tv",
+      "image_url": null,
+      "video_url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMnFUsqrG7fyxcxqwGIk8kBSKN6OCoGro41R4hVkOG1CNXvaaLAz4_5SXXQJchW1fd0aDOr6MugXifAthLqSbSwHbd1IhuSamHaknBSaNxQ6Q.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=oKzAs75iAmQQ7kNvwHDXEDD&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIyNjgzODU1MDM3MzgzMjUsImFzc2V0X2FnZV9kYXlzIjoyMSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjg5MywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=e1d340aab1e3d6f4&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FOEY1MTIzNjQwQUU0QTUwQTY2QzM0RTM4MkY1QjlDRl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzExNjFBMjExRjFEMzQwNUE5QkJFNzdCMDE5NjI4NDg5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaq58-CtcWHCBUCKAJDMywXQIvsQ5WBBiUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=eH2SNada78wclUlMdhCBDA&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQoyMFOnQIpeFESxgnXpkMT-XN_uJMiTtX-zDgIo7YGTg&oe=6B096753",
+      "first_seen": "2026-11-22T23:59:53.704777+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "SG"
+      ]
+    },
+    {
+      "ad_id": "29600170032923364",
+      "product_name": "descubre el final",
+      "product_key": "unverified:29600170032923364",
+      "category": "other",
+      "advertiser": "Global Brand Strategy Solutions",
+      "source_country": "SG",
+      "ad_url": "https://www.facebook.com/ads/library/?id=29600170032923364",
+      "landing_url": "http://play.google.com/store/apps/details?id=com.violetbinge.romance.shortdrama",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPgjhNZNcTPGt5lAHhR_FNV0_jEz_7W9KnoyE88_9slLQpO_hxkiZzHoQjEBYtVPBeIjXKMJAjA9s-YGukBGFy3rzra-olaPfmzpawCl7cXBg.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=yPXXYsxunUwQ7kNvwGz--Dt&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExNjI1NjE5NTk0NDUyMzgsImFzc2V0X2FnZV9kYXlzIjoxNCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjcxMSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=bcdd97aac7ea3d33&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wMzg1ODJEMzU4MTY0Q0UwQUVBN0U1NDAyQkJGODlCQ19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzEyMUNBNUFBMkY0QjRDNDFBMjBGRTY2ODY5NTBERTkyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbsi_rJgdaQBBUCKAJDMywXQIY7dsi0OVgYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=eH2SNada78wclUlMdhCBDA&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTgaonw_hwDYaOs5BcCrWkrV1GPkUemboNX6RhmfAsYWQ&oe=6B093A75",
+      "first_seen": "2026-11-22T23:59:53.704777+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "SG"
+      ]
+    },
+    {
+      "ad_id": "2153950861897311",
+      "product_name": "los secretos ocultos salen a la luz mira gratis",
+      "product_key": "unverified:2153950861897311",
+      "category": "other",
+      "advertiser": "AuraDrama",
+      "source_country": "SG",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2153950861897311",
+      "landing_url": "http://play.google.com/store/apps/details?id=com.auradrama.hd.shortdrama",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQN_GBEFsYFTSTva2YCgbwHhEFWrmSDMZRjA2iHi3WQLdaDW0OocRNXXJcfGE2v7NParLvd5GoWzAaNMXQq0znOuAukDoQeUif_F4EO38fpPwA.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=xaKUdFSP_nYQ7kNvwEoXp9x&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1MTY5OTE3MDA0Nzc0MDMsImFzc2V0X2FnZV9kYXlzIjoxNSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjEyNjUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=c29a274f07db6d67&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85NEFFNTJEMzg5ODY0MUI5OTUxOEQ1QkM3OURFMDQ2OF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0MyMjkzNDEzODI0RDRDMkI5NDcxRUE4N0M4MkVGMzgyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACa2l_n2xOyxBRUCKAJDMywXQJPFMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=eH2SNada78wclUlMdhCBDA&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSvEHEo-GKyoaP_yyJsU0ygHtoFbZxL_NGRjN8lKPIz7w&oe=6B0942F2",
+      "first_seen": "2026-11-22T23:59:53.704777+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "SG"
+      ]
+    },
+    {
+      "ad_id": "1860518184963458",
+      "product_name": "haz clic y descubre lo que te espera",
+      "product_key": "unverified:1860518184963458",
+      "category": "other",
+      "advertiser": "Short Drama Media",
+      "source_country": "SG",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1860518184963458",
+      "landing_url": "http://play.google.com/store/apps/details?id=com.popreel.pop.shortdrama",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNa1ES-SD7ob0mb5DUEYrF1kZ1W3PqM-dhX606InXDRgZfcVgANmGVpIgwXHUb9KHo5oqq77nj59CVdT8mIA0C8scpZ-2a3XDnMPwgp7x7Y4w.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=jFzh7scE6MAQ7kNvwHLgv0C&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzMTI2MDAzMTc2MzYzMTQsImFzc2V0X2FnZV9kYXlzIjoxNCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjEzMjgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=c4f0a1418992cc3e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9EQjNDNjQ4QTZGQTg0REVDOTM2NDBFRDc0NkVENTFEOV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0I1QTdEOEMyQ0Q4QzQ1OUU5OTQ4MDU4NTI1OEY4MzU4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACa0u9G6svPUBBUCKAJDMywXQJTAIcrAgxIYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=eH2SNada78wclUlMdhCBDA&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSKmZxyLDXQeaJpyHh2Ug114LI4nqWEgcGlNGZSjblmOA&oe=6B093FC8",
+      "first_seen": "2026-11-22T23:59:53.704777+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "SG"
+      ]
+    },
+    {
+      "ad_id": "1699041674956283",
+      "product_name": "haz clic y descubre lo que te espera",
+      "product_key": "unverified:1699041674956283",
+      "category": "other",
+      "advertiser": "Short Drama Media",
+      "source_country": "SG",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1699041674956283",
+      "landing_url": "http://play.google.com/store/apps/details?id=com.popreel.pop.shortdrama",
+      "image_url": null,
+      "video_url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNtQBgSTzrpFr-1nCWgR9qe1XTqRQtmZW_dVTwNrb7t0fCWtWOCaDMssK2y4GXw5zqQYRDG6_Ky-VKjIYlDgnHjjAS5d8-wcVuIaKXZFHYkiw.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=co16tOXNprIQ7kNvwHbqF3v&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2Njg2MzgzMTEyOTk5MDcsImFzc2V0X2FnZV9kYXlzIjoxNCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjcwNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=6b38aca4fb33fd1d&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zNUNFMTEwMTUyQzA0OEExQjhBN0Y2QzhGMjkxM0ZCNl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0FGRDlFRjgxMDQ2MjRCNEZCNUZCMjJFOUI4NzJDM0Q5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaG7e2cxOf2BRUCKAJDMywXQIYSIMSbpeMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=eH2SNada78wclUlMdhCBDA&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQctC323__s_p9J7uwmgoAo6fbbD910kt3tuZ752FoRog&oe=6B093928",
+      "first_seen": "2026-11-22T23:59:53.704777+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "SG"
+      ]
+    },
+    {
+      "ad_id": "29198964439795183",
+      "product_name": "haga clic para leer más",
+      "product_key": "unverified:29198964439795183",
+      "category": "other",
+      "advertiser": "Love story satisfy",
+      "source_country": "SG",
+      "ad_url": "https://www.facebook.com/ads/library/?id=29198964439795183",
+      "landing_url": "https://dynamic.lightreader.com/noah-ssg/wn/766754101/37265928508844305+1+3+facebook?xed=1465025607799260&utm_source={{campaign.name}}&utm_campaign={{campaign.id}}&utm_adset={{adset.name}}&adset_id={{adset.id}}&ad_id={{ad.id}}&ad_name={{ad.name}}&placement={{placement}}&sitesource={{site_source_name}}",
+      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/914068738_1827494888470618_8327163310644018044_n.jpg?_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=q8ZAu0rbbq4Q7kNvwHkCgTE&_nc_oc=Adp8212z-9XBZQ4oQBqzLo1fLVYWGkbmcXfx_kSCeNEaJwsO1P9HPPVKzyxY_vd-4Lg&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=eH2SNada78wclUlMdhCBDA&_nc_ss=79289&oh=00_AQRLpMeWwE74F_oGuV7cQoanBAP2Zz2Ky1Um5eriV-Vrwg&oe=6B095FC9",
+      "video_url": null,
+      "first_seen": "2026-11-22T23:59:53.704777+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "SG"
+      ]
+    },
+    {
+      "ad_id": "1106418831997092",
+      "product_name": "luxgrove eira plush hair drying wrap",
+      "product_key": "sku:luxgrove eira plush hair drying wrap",
+      "category": "beauty",
+      "advertiser": "Luxgrove US",
+      "source_country": "SG",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1106418831997092",
+      "landing_url": "https://getluxgrove.com/products/luxgrove-eira-plush-hair-drying-wrap",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNNK-PO2fQtBG9UoI88dI9_lsC06ZLTstrdF7Byesjx6TAhu3vaxjqzO8U-169FvQKrXiYwYYtZb17JetYR5zzZkHolbqMhSiG-GhrjNsw_mw.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=FBfh9YbvEXgQ7kNvwHkmgOi&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2NzIxNDQ0MzEwMTc0MjksImFzc2V0X2FnZV9kYXlzIjo0MCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjI1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=87d33004e6942f21&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80ODVCNkMyNDU0Q0M0RkVBODU0MzY4MTIwNkFDNzdBNF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzBDODgxMTVBQ0IxMjRDN0Q5RDQxQ0Y2MkZFMzI4OThBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaqt5ftzrP4BRUCKAJDMywXQDn3S8an754YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=eH2SNada78wclUlMdhCBDA&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSutG9U2MuyElsMn60HkuQ0HFgj7TI624m1TAiJhQGE2g&oe=6B096BD6",
+      "first_seen": "2026-11-22T23:59:53.704777+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "SG"
+      ]
+    },
+    {
+      "ad_id": "874884042312561",
+      "product_name": "luxgrove eira plush hair drying wrap",
+      "product_key": "sku:luxgrove eira plush hair drying wrap",
+      "category": "beauty",
+      "advertiser": "Luxgrove US",
+      "source_country": "SG",
+      "ad_url": "https://www.facebook.com/ads/library/?id=874884042312561",
+      "landing_url": "https://getluxgrove.com/products/luxgrove-eira-plush-hair-drying-wrap",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNNK-PO2fQtBG9UoI88dI9_lsC06ZLTstrdF7Byesjx6TAhu3vaxjqzO8U-169FvQKrXiYwYYtZb17JetYR5zzZkHolbqMhSiG-GhrjNsw_mw.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=FBfh9YbvEXgQ7kNvwHkmgOi&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2NzIxNDQ0MzEwMTc0MjksImFzc2V0X2FnZV9kYXlzIjo0MCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjI1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=87d33004e6942f21&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80ODVCNkMyNDU0Q0M0RkVBODU0MzY4MTIwNkFDNzdBNF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzBDODgxMTVBQ0IxMjRDN0Q5RDQxQ0Y2MkZFMzI4OThBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaqt5ftzrP4BRUCKAJDMywXQDn3S8an754YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=eH2SNada78wclUlMdhCBDA&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSutG9U2MuyElsMn60HkuQ0HFgj7TI624m1TAiJhQGE2g&oe=6B096BD6",
+      "first_seen": "2026-11-22T23:59:53.704777+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "SG"
+      ]
+    },
+    {
+      "ad_id": "1153483597148549",
+      "product_name": "qué pasa después haz clic aquí para seguir leyendo",
+      "product_key": "unverified:1153483597148549",
+      "category": "other",
+      "advertiser": "Historias de amor3",
+      "source_country": "SG",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1153483597148549",
+      "landing_url": "https://werarts.com/market/buenovela/3?lpid=79461&utm_campaign={{campaign.name}}&utm_content={{campaign.id}}&adset_name={{adset.name}}&adset_id={{adset.id}}&ad_id={{ad.id}}&ad_name={{ad.name}}&placement={{placement}}",
+      "image_url": null,
+      "video_url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNhnGjOtOCr8RjRCQ8N5XHqTzZZuPuz3p0DWWPhDTNz8rK5Aqs8L91lSLiMHtT_rjeP7ttYTbvOf3EMKOyHCFvGm5h3IP6KRrvvXVRX_EXACA.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=CfP0ysn42EUQ7kNvwG7JYzh&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjMwOTg3MzYyNDAzMjA4MjksImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MjM1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=9c747bdfb2bff79f&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81OUNGRUYzQ0FGMDE0RTZEQkEwNjczMkRENkIxMkJFNl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzYxRUY2MkUzOTVBMDQwNDBBQTgwNUVENEU3OTIzODNCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACb6hNuNmJKBCxUCKAJDMywXQG1gAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=eH2SNada78wclUlMdhCBDA&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSie5YoBpDKrCH4mpBZFaiR4n6wL7Kf3kf-CesbnaJaQA&oe=6B096ACF",
+      "first_seen": "2026-11-22T23:59:53.704777+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "SG"
+      ]
+    },
+    {
+      "ad_id": "2594781641029559",
+      "product_name": "tymo airbeam champagne",
+      "product_key": "unverified:2594781641029559",
+      "category": "other",
+      "advertiser": "TYMO Beauty",
+      "source_country": "SG",
+      "ad_url": "https://www.facebook.com/ads/library/?id=2594781641029559",
+      "landing_url": "https://tymobeauty.com/collections/hair-dryer/products/tymo-airbeam-champagne",
+      "image_url": null,
+      "video_url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPPHiibU91Y0D44lghk64ZNW40HGboGO3H3pDotTA4pT7lNcRJfkCiU5iF2ZXnK8mQfF_fo7a46zWhIcCkpMEaBdEHg2jAR6NsZmo2wWSjrng.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=8nROwrTBqtIQ7kNvwE8tzEm&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI4MDAwMjY3OTAzOTUxMjIsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NjUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=d7120bef5e7132a6&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wNDg1Mzg1RUFBRTE0RDU2OTY2NjBBM0IwMDk3RkRBMF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzhCQjREN0ExQzdBNjQ0REE5REUzMTM5REJGMUZERUM5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbk85-jgaf5CRUCKAJDMywXQFBgAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=eH2SNada78wclUlMdhCBDA&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQR0DFxi97ZAcDXZTfkeBOdAW6wNHPVXiyEWlqMPDqYPwg&oe=6B093EEA",
+      "first_seen": "2026-11-22T23:59:53.704777+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "SG"
+      ]
+    },
+    {
+      "ad_id": "1839400567196704",
+      "product_name": "crees que sabes lo que va a pasar piénsalo de nuevo prepárate para engancharte a historias l",
+      "product_key": "unverified:1839400567196704",
+      "category": "other",
+      "advertiser": "EmberDrama - Short Series",
+      "source_country": "SG",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1839400567196704",
+      "landing_url": "http://play.google.com/store/apps/details?id=com.emberdrama.shortseries.app",
+      "image_url": null,
+      "video_url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMXWPLOnDYmY_p7qLOKUmeUS3gwXjjSD-tSN5hqOttjqzFDB5n0WSsFrQod99uOOMfTkK6vfY8k_N3o88Uf1x7qTpZOUSR7gK8oxG1vr0VqaQ.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=oUyHpqYdCPMQ7kNvwGLu-uR&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1MzExMzc5NTg4MjU0NDksImFzc2V0X2FnZV9kYXlzIjoxNCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjczNSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=6ac10b6f284a5953&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81N0M4RDA4MjkwQzk0MEIxOEJFOEU4QjhERTY5REMzQ19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0U1NEU4RDhBNjhFRTQ3ODBBOUI1M0E5QjA1QUY5MDE0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbSt5ri-qO4BRUCKAJDMywXQIb7hR64UewYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=eH2SNada78wclUlMdhCBDA&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQToXRf8Fi5-gak_xFu7V_hPbTdVwY4ZN87wLMpt9NMpTw&oe=6B096649",
+      "first_seen": "2026-11-22T23:59:53.704777+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "SG"
+      ]
+    },
+    {
+      "ad_id": "3694216084088350",
+      "product_name": "haga clic para leer más",
+      "product_key": "unverified:3694216084088350",
+      "category": "other",
+      "advertiser": "Love story satisfy",
+      "source_country": "SG",
+      "ad_url": "https://www.facebook.com/ads/library/?id=3694216084088350",
+      "landing_url": "https://dynamic.lightreader.com/noah-ssg/wn/766754101/37325515208142005+1+3+facebook?xed=469204711872929&utm_source={{campaign.name}}&utm_campaign={{campaign.id}}&utm_adset={{adset.name}}&adset_id={{adset.id}}&ad_id={{ad.id}}&ad_name={{ad.name}}&placement={{placement}}&sitesource={{site_source_name}}",
+      "image_url": null,
+      "video_url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQO5L-29pYb2gzEnXZF7K3jqq9TYb-FUBmfgm3HVd_FP-aTZ3Mdt_utr5SoCIQz5lut4iwTDNqZ0DytVDMUjwXFQpaqM05exPfV9BDhvtowfsA.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=QaV3w_vQcGsQ7kNvwF4gsgu&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3NDI1NDUxNjQwOTQ2NDgsImFzc2V0X2FnZV9kYXlzIjozLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=ab5220eb8347d3d2&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GMDU3REYzNDNDOEY0NjcwODM5OTg2NTNEMkI0OEYzQl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQwMTdCQkU0RTUyQjQ2NjhBNEM0QTZEREVFN0ZDNjUyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbwspaYvbWYBhUCKAJDMywXQBxDlYEGJN0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=eH2SNada78wclUlMdhCBDA&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSIRY-TPAcTRHc7ZGUye4QXEiT8gZ4ruE1AKbYmC7DPug&oe=6B094451",
+      "first_seen": "2026-11-22T23:59:53.704777+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "SG"
+      ]
+    },
+    {
+      "ad_id": "1484925993561709",
+      "product_name": "haz clic para leer más capítulos",
+      "product_key": "unverified:1484925993561709",
+      "category": "other",
+      "advertiser": "Divorce While I'm Pregnant",
+      "source_country": "SG",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1484925993561709",
+      "landing_url": "https://dynamic.lightreader.com/noah-ssg/wn/766754101/37325515208142005+1+3+facebook?xed=469204711872929&utm_source={{campaign.name}}&utm_campaign={{campaign.id}}&utm_adset={{adset.name}}&adset_id={{adset.id}}&ad_id={{ad.id}}&ad_name={{ad.name}}&placement={{placement}}&sitesource={{site_source_name}}",
+      "image_url": null,
+      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNIlTQP7YaxkW1DVrbeMDpmsG6wHiraLGETBWp_XtXJPdYueKEsoZV5KQ6fatdbxgginOFOat5z9euuXUXvTd9-1LHS7jhfVCnPv0M7i6A3oA.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=Q8OSYvPNhZwQ7kNvwE52z8A&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE4ODU5MjQ5NjU2MjQxODksImFzc2V0X2FnZV9kYXlzIjoxMCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjMwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=6440731bdfe361a6&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CRkMzNjc4OUMxOTE0RjEyQUU4RTVERTZENURFNDZGMl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzg4NTJFMzE1M0Q1MzQxM0JCMEFENTM2OUNBMzczMzlBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACb6pbH6o8_ZBhUCKAJDMywXQD4AAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=eH2SNada78wclUlMdhCBDA&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRKTgprrPVKrzaR53C5mMzAGQqUpSP9HH9_bQ5Yi2mRMw&oe=6B096EB7",
+      "first_seen": "2026-11-22T23:59:53.704777+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "SG"
+      ]
+    },
+    {
+      "ad_id": "1133035849519156",
+      "product_name": "la divorciada gorda que conquistó al capo",
+      "product_key": "unverified:1133035849519156",
+      "category": "other",
+      "advertiser": "CEO & Mafia Novels",
+      "source_country": "SG",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1133035849519156",
+      "landing_url": "https://s.shortswave.com/html/202611/20/179514208208.html?ad_id={{ad.id}}&adset_id={{adset.id}}&campaign_id={{campaign.id}}&campaign_name={{campaign.name}}&ad_name={{ad.name}}&adset_name={{adset.name}}&af_dp=shorts%3A%2F%2Fshortswave%2Fmain%3FbookId%3D59156%26chapterId%3D1%26spread_id%3D625570&deep_link_value=shorts%3A%2F%2Fshortswave%2Fmain%3FbookId%3D59156%26chapterId%3D1%26spread_id%3D625570",
+      "image_url": null,
+      "video_url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPr9PDXtDz7Pc3SJi4ayAUL0fsIRAumqdAHzhAX8pZFS41nDJyszD-dYR2ZDVcnUTCjdpln_0YGeA9XZCegURg4yj_t2akXPswryETSIdbXlw.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=UQSMSQYiCiIQ7kNvwFKwjzo&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE4MzAyNDEwNjQ2OTE4NTIsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MjY1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=95097a2318133f53&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FRUQxMTlBNDQ2MkE0RDlGOTg4NTRBQzY1NkYxODFCNl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzM5NTMwMDU1NzNCMjQ4QUNCRDgxMEFBNDg4RUEzRkZFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaYop3IhqbABhUCKAJDMywXQHCbul41P30YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=eH2SNada78wclUlMdhCBDA&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRGUe2meuuMcxmQZfqWLJpFWRFCZjXqjwbakBQc3wQUPg&oe=6B095231",
+      "first_seen": "2026-11-22T23:59:53.704777+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "SG"
+      ]
+    },
+    {
+      "ad_id": "1226860656571500",
+      "product_name": "qué pasa después haz clic aquí para seguir leyendo",
+      "product_key": "unverified:1226860656571500",
+      "category": "other",
+      "advertiser": "Novelas Obsesionantes",
+      "source_country": "SG",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1226860656571500",
+      "landing_url": "https://okncloud.com/market/buenovela/3?lpid=55483&utm_campaign={{campaign.name}}&utm_content={{campaign.id}}&adset_name={{adset.name}}&adset_id={{adset.id}}&ad_id={{ad.id}}&ad_name={{ad.name}}&placement={{placement}}",
+      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/913402314_2234773270727794_3178824898079551279_n.jpg?_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kN62AAdmp6sQ7kNvwHnMnbq&_nc_oc=AdrkyeuieNTI4ZHH1DOulYRn1u5cIRxQr8XKuh6ri14e9WnkYHN9sncZj0a6knUJUqM&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=eH2SNada78wclUlMdhCBDA&_nc_ss=79289&oh=00_AQTgZSAhA0sTaH_2U3TUD2KzbFeR6rRIK5mZTPdDPL-nzg&oe=6B09446C",
+      "video_url": null,
+      "first_seen": "2026-11-22T23:59:53.704777+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "SG"
+      ]
+    },
+    {
+      "ad_id": "1082585658008416",
+      "product_name": "luxgrove eira plush hair drying wrap",
+      "product_key": "sku:luxgrove eira plush hair drying wrap",
+      "category": "beauty",
+      "advertiser": "Luxgrove US",
+      "source_country": "SG",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1082585658008416",
+      "landing_url": "https://getluxgrove.com/products/luxgrove-eira-plush-hair-drying-wrap",
+      "image_url": null,
+      "video_url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOOLHb4KAKqZHY6bF-rb3j6Iy3cjCeqOHH07XhKFKNYkuk6pUveb49Je125pD_UtLtW46lol1UiHsypPg_DQqwhMed6H771lDVELnWzSMznOQ.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=2OY_oLwtFFkQ7kNvwES87hk&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0NTEyOTY4NTM1NDkyODQsImFzc2V0X2FnZV9kYXlzIjo0MCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjI4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=24116f7ad2438636&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FQzM5QjRDNzQ2QzQ0QTE1QjQwMkNCQUJCRDYxOUJGNl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzNDMENCNjFCNTM2RjQxMjk5MTVFQjQzMjFFQzdDMjE4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbIg9uWzPyTBRUCKAJDMywXQDyiDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=eH2SNada78wclUlMdhCBDA&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSKof_Y28RrRxyJuQoKoBMaiHil82UuvScQyX3rewA5YA&oe=6B0963FC",
+      "first_seen": "2026-11-22T23:59:53.704777+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "SG"
+      ]
+    },
+    {
+      "ad_id": "1095563680096809",
+      "product_name": "descarga ahora para ver el contenido completo gratis",
+      "product_key": "title:descarga ahora para ver el contenido completo gratis",
+      "category": "vehicle",
+      "advertiser": "Must Watch Free Drama",
+      "source_country": "SG",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1095563680096809",
+      "landing_url": "http://play.google.com/store/apps/details?id=com.dramago.bitedrama.app",
+      "image_url": null,
+      "video_url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPGKgK33ugYJ7csVaFgZYnstJWqcUNKFGHQ5sKH1cymijYovGw5-lDf6GxojBofLm04naLLbDL26eyuP7jDtmT9QbYGpvwpG3fC4IcNezzrLg.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=d8hSrBaxC5wQ7kNvwGrsNN1&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0NTAwMTA4MTAzMDE0ODAsImFzc2V0X2FnZV9kYXlzIjo1OSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjEyNjksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=91e93685d5416472&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GMTRBNzEzQ0VBMThFNUU2QkYxMUY3ODAxMTUzRUI5N19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0I2MTY0MzlEMDFCNzQwQTFCNkEyNThGMTcxNkJENENGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbQ8KW03rGTBRUCKAJDMywXQJPVmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=eH2SNada78wclUlMdhCBDA&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSGWRYPPh1OFToTe1Ud1-Vj1PjfJejk-DZo2XxuPotfoA&oe=6B094A27",
+      "first_seen": "2026-11-22T23:59:53.704777+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "SG"
+      ]
+    },
+    {
+      "ad_id": "1449612456609569",
+      "product_name": "tymo curlpro",
+      "product_key": "unverified:1449612456609569",
+      "category": "other",
+      "advertiser": "TYMO Beauty",
+      "source_country": "SG",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1449612456609569",
+      "landing_url": "https://tymobeauty.com/products/tymo-curlpro",
+      "image_url": null,
+      "video_url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOO8VbrdJ9ifBlTcSfJTRiVUp5c3_lFkYY_lXpHVcs9O1QEpQw9IT-0sLH7b16pRrrr46UJ3drgVIZshsm1Jp8eGdqxauQP9N7dWSgfD-N6IQ.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=e4wcVFgKOf4Q7kNvwH__5EI&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI4NjAzNzM0NDE5Mjk1Mjk2LCJhc3NldF9hZ2VfZGF5cyI6MzMsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo3NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=a4687eb33cc6f2f4&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DNzc5MDNEQ0YwMTA0RUE1ODIyOEQyRUZDNDNGNURDM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzgxNkM3ODkzNzJFQjQxNjQ4OTY1MEVGNzY4RkM3MDJGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaAsf7UvLzPZRUCKAJDMywXQFMVT987ZFoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=eH2SNada78wclUlMdhCBDA&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQSfplzZCaMvu8IBYTuOMtn5bUfgxHuBNpfVc685DaspQ&oe=6B09549E",
+      "first_seen": "2026-11-22T23:59:53.704777+00:00",
+      "last_seen": "2026-11-22T23:59:53.704777+00:00",
+      "active_checked_at": "2026-11-22T23:59:53.704777+00:00",
+      "is_active_observed": true,
+      "source_countries": [
+        "SG"
+      ]
+    },
     {
       "ad_id": "893282423424934",
       "product_name": "crossbody l2eather bag",
@@ -19573,176 +20914,6 @@
       ]
     },
     {
-      "ad_id": "1445532147580496",
-      "product_name": "bạn có việc quan trọng cần giải quyết bạn sắp đi công tác xa",
-      "product_key": "unverified:1445532147580496",
-      "category": "other",
-      "advertiser": "Offline Maps & AI Trip Planner",
-      "source_country": "PE",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1445532147580496",
-      "landing_url": "http://play.google.com/store/apps/details?id=com.offline.maps.navigation.gps",
-      "image_url": null,
-      "video_url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQO51CMt5GHkyo6sQWmtAjCzQBPI-Y6TG2P9BxzNjutRYuslh486YKBJ4PXaynw5xZUd7NeBjhgThDWwgxC1uNg9diWPeddEyj7pihQdHF49-g.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=DlMLl-0O0ZQQ7kNvwEWfeaj&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI4MTcwODU4MDQ1OTQ4MTk0LCJhc3NldF9hZ2VfZGF5cyI6MjcsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=79d715d950f1a8cd&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FOTE3RUUwRjY3MDM0MjdDODc1QzI3MzlFNTA4MjBCRV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0REMzdFMDkyMUJCOTRBODU4Njc0QUYwM0YxRjkyRjcyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbEhMat4M-KZBUCKAJDMywXQDyIcrAgxJwYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=YM48ohnFwiPoZAtiYOHCTg&_nc_ss=79289&_nc_zt=28&oh=00_AQQEaD5jw7nFHUi_QYjVzBPxwknbEQX51qe0w4NSfIy_1g&oe=6AE774C0",
-      "first_seen": "2026-10-28T05:48:23.308195+00:00",
-      "last_seen": "2026-11-22T14:51:59.306734+00:00",
-      "active_checked_at": "2026-11-22T14:51:59.306734+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "AT",
-        "CN",
-        "HU",
-        "IL",
-        "JP",
-        "LT",
-        "PE"
-      ]
-    },
-    {
-      "ad_id": "821447430751066",
-      "product_name": "bộ sưu tập sắc son tinh hoa áo dài cưới nam nữ việt",
-      "product_key": "unverified:821447430751066",
-      "category": "other",
-      "advertiser": "MEO STORE",
-      "source_country": "PE",
-      "ad_url": "https://www.facebook.com/ads/library/?id=821447430751066",
-      "landing_url": null,
-      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/571236883_1511517939975625_6389381319962315911_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KOzRuBWVXG0Q7kNvwEnKIGv&_nc_oc=Adq6Yuq23pm0YcLGZcBVYYjjnmTc49TI-syBabvb8Bcpi7IIbnSvCBuZjQny_U7aVB0&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=YM48ohnFwiPoZAtiYOHCTg&_nc_ss=79289&oh=00_AQSAxjSnKNKyhDvKHk8xlcGuWSkRXlcwltutswOxIeMSjA&oe=6AE74E7D",
-      "video_url": null,
-      "first_seen": "2026-10-28T05:48:23.308195+00:00",
-      "last_seen": "2026-11-22T14:51:59.306734+00:00",
-      "active_checked_at": "2026-11-22T14:51:59.306734+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "AT",
-        "CN",
-        "HU",
-        "IL",
-        "JP",
-        "LT",
-        "PE"
-      ]
-    },
-    {
-      "ad_id": "1122639510434372",
-      "product_name": "descarga ahora para ver el contenido completo gratis",
-      "product_key": "title:descarga ahora para ver el contenido completo gratis",
-      "category": "vehicle",
-      "advertiser": "Watch Drama Free",
-      "source_country": "FR",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1122639510434372",
-      "landing_url": "http://play.google.com/store/apps/details?id=com.popreel.pop.shortdrama",
-      "image_url": null,
-      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPF6V7w8hxSo2txjhzWzebE-rzuefET4FfFKgGvt0e11U2wT3bn1QLsat8eKMFMFbbjcJJIssKULF38xGu2wVlrQYtgdMg21R9hkChirETP4Q.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=C3etc5wLvwMQ7kNvwHs0Ha0&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE5NjI3NDUyOTQzODkzNTIsImFzc2V0X2FnZV9kYXlzIjo2MCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjEzMzMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=8bf6cb57aeb7b409&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9EODQwQTc4QjRDQzJERjEzNzdBREE5OTI1NjU1NzlBNF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0VCNEFCM0FGQzI4QUUyNzcyMDA4Q0M0REQzMEZCOUE3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbQgfSA6Mb8BhUCKAJDMywXQJTU9cKPXCkYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=P2dMZq-fGhJUhuikpONA-Q&_nc_ss=79289&_nc_zt=28&oh=00_AQQlRKHRTS_Tl3iEVLI8JM91MY4PPVLnR0OEpeE5-n8b_Q&oe=6AE74FB5",
-      "first_seen": "2026-10-28T05:48:23.308195+00:00",
-      "last_seen": "2026-11-22T14:51:59.306734+00:00",
-      "active_checked_at": "2026-11-22T14:51:59.306734+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "AE",
-        "FR",
-        "PL",
-        "PT",
-        "SG",
-        "SI"
-      ]
-    },
-    {
-      "ad_id": "4760064774208282",
-      "product_name": "descarga ahora y mira episodios completos gratis",
-      "product_key": "title:descarga ahora y mira episodios completos gratis",
-      "category": "vehicle",
-      "advertiser": "TitanForge Studio",
-      "source_country": "FR",
-      "ad_url": "https://www.facebook.com/ads/library/?id=4760064774208282",
-      "landing_url": "http://play.google.com/store/apps/details?id=com.vibeflix.miniseries.tv",
-      "image_url": null,
-      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOJOIvxep1y-zYkFrtITSaDLVureGQnv-Y20kic2tUwKFmmiHs3bTIVpZwhZOySiuzqCmlW7r8I6pYWlxhyfKYcPXUrUOU8uSXKayLyJG82qw.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=bqs3udyLwqIQ7kNvwEqxdo5&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE5NzczMjE3OTY3OTk5OTIsImFzc2V0X2FnZV9kYXlzIjozNSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjk5OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=7fa4101caf90819a&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zNDRBODIyNTZGMkQ2QUNFQkFFQzJDMDBDOEU0QTVBRF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Y3M0UzNTI3QjlBMzQ4Q0JBQjY5OTMwNjM3OEZCMzM0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbwt_C0o5eDBxUCKAJDMywXQI88zMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=P2dMZq-fGhJUhuikpONA-Q&_nc_ss=79289&_nc_zt=28&oh=00_AQT7ZxKMv3nK2eIhG6QCnj7uaJROmOr1BAqmmearO4Rp3Q&oe=6AE74F79",
-      "first_seen": "2026-10-28T05:48:23.308195+00:00",
-      "last_seen": "2026-11-22T14:51:59.306734+00:00",
-      "active_checked_at": "2026-11-22T14:51:59.306734+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "AE",
-        "FR",
-        "PL",
-        "PT",
-        "SG",
-        "SI"
-      ]
-    },
-    {
-      "ad_id": "1114090514381144",
-      "product_name": "descarga ahora y mira episodios completos gratis",
-      "product_key": "title:descarga ahora y mira episodios completos gratis",
-      "category": "vehicle",
-      "advertiser": "TitanForge Studio",
-      "source_country": "FR",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1114090514381144",
-      "landing_url": "http://play.google.com/store/apps/details?id=com.vibeflix.miniseries.tv",
-      "image_url": null,
-      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQM61f6I4dTk5sdZKbpfTXohJtkoiBTvK-EKCBR6Ppunj04oUz7E2XxcT2jdUWJvjCYwh8EwKLMNlKQ-Cx2ElIUQgK9QvNBhZxlZC4LbT_3Weg.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=HZ5G3IlDKRgQ7kNvwG8ZLwi&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjM5NjQwNjc3NTM5MDE3MDksImFzc2V0X2FnZV9kYXlzIjozNSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjk2MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=325432a3a7492630&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wRDREQTUyNTcyMzg5NUNEMTQ0ODZGNjQyODg1MDlBQ19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzEyNEU1MjJGMUZDNTUxNThBQkJCNTc0OTk2QTAzNDhEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaa-rGljtOKDhUCKAJDMywXQI4HCj1wo9cYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=P2dMZq-fGhJUhuikpONA-Q&_nc_ss=79289&_nc_zt=28&oh=00_AQRbc0kYaVIEAnQPeiX_33UBLoRw_CIwiC1N4bqEVvLUAg&oe=6AE75F50",
-      "first_seen": "2026-10-28T05:48:23.308195+00:00",
-      "last_seen": "2026-11-22T14:51:59.306734+00:00",
-      "active_checked_at": "2026-11-22T14:51:59.306734+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "AE",
-        "FR",
-        "PL",
-        "PT",
-        "SG",
-        "SI"
-      ]
-    },
-    {
-      "ad_id": "1822754785398156",
-      "product_name": "descarga ahora y mira episodios completos gratis",
-      "product_key": "title:descarga ahora y mira episodios completos gratis",
-      "category": "vehicle",
-      "advertiser": "Free Dramas You Can't Miss",
-      "source_country": "PL",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1822754785398156",
-      "landing_url": "http://play.google.com/store/apps/details?id=com.tranquiltmt.plotwist",
-      "image_url": null,
-      "video_url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOJOIvxep1y-zYkFrtITSaDLVureGQnv-Y20kic2tUwKFmmiHs3bTIVpZwhZOySiuzqCmlW7r8I6pYWlxhyfKYcPXUrUOU8uSXKayLyJG82qw.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=Mz8ehEWE_n4Q7kNvwFFLSjd&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE5NzczMjE3OTY3OTk5OTIsImFzc2V0X2FnZV9kYXlzIjo0MSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjk5OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=7fa4101caf90819a&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zNDRBODIyNTZGMkQ2QUNFQkFFQzJDMDBDOEU0QTVBRF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Y3M0UzNTI3QjlBMzQ4Q0JBQjY5OTMwNjM3OEZCMzM0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbwt_C0o5eDBxUCKAJDMywXQI88zMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=-KstpO9hwvJZ5b_CGE9elA&_nc_ss=79289&_nc_zt=28&oh=00_AQRMb7zuVrRt0d2wVfsChMCfYFOnlV4AQ335Rgc3h8A4CA&oe=6AEF0039",
-      "first_seen": "2026-11-02T23:53:39.585922+00:00",
-      "last_seen": "2026-11-22T14:51:59.306734+00:00",
-      "active_checked_at": "2026-11-22T14:51:59.306734+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "AE",
-        "FR",
-        "PL",
-        "PT",
-        "SG",
-        "SI"
-      ]
-    },
-    {
-      "ad_id": "1608163328011543",
-      "product_name": "descarga ahora y mira episodios completos gratis",
-      "product_key": "title:descarga ahora y mira episodios completos gratis",
-      "category": "vehicle",
-      "advertiser": "Free Dramas You Can't Miss",
-      "source_country": "PL",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1608163328011543",
-      "landing_url": "http://play.google.com/store/apps/details?id=com.tranquiltmt.plotwist",
-      "image_url": null,
-      "video_url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQM61f6I4dTk5sdZKbpfTXohJtkoiBTvK-EKCBR6Ppunj04oUz7E2XxcT2jdUWJvjCYwh8EwKLMNlKQ-Cx2ElIUQgK9QvNBhZxlZC4LbT_3Weg.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=jcaHRI4vglwQ7kNvwHE4nHC&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjM5NjQwNjc3NTM5MDE3MDksImFzc2V0X2FnZV9kYXlzIjo0MSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjk2MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=325432a3a7492630&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wRDREQTUyNTcyMzg5NUNEMTQ0ODZGNjQyODg1MDlBQ19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzEyNEU1MjJGMUZDNTUxNThBQkJCNTc0OTk2QTAzNDhEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaa-rGljtOKDhUCKAJDMywXQI4HCj1wo9cYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=-KstpO9hwvJZ5b_CGE9elA&_nc_ss=79289&_nc_zt=28&oh=00_AQT1PbXftgRU1IrSYE3IODseI0P308gY5S5aW9HEyvlMqQ&oe=6AEF1010",
-      "first_seen": "2026-11-02T23:53:39.585922+00:00",
-      "last_seen": "2026-11-22T14:51:59.306734+00:00",
-      "active_checked_at": "2026-11-22T14:51:59.306734+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "AE",
-        "FR",
-        "PL",
-        "PT",
-        "SG",
-        "SI"
-      ]
-    },
-    {
       "ad_id": "27076800845348176",
       "product_name": "te esperamos",
       "product_key": "unverified:27076800845348176",
@@ -19894,26 +21065,6 @@
       ]
     },
     {
-      "ad_id": "909188405368744",
-      "product_name": "search 2 9m active nutra ads",
-      "product_key": "unverified:909188405368744",
-      "category": "other",
-      "advertiser": "Vizor Ad Library - Nutra",
-      "source_country": "IL",
-      "ad_url": "https://www.facebook.com/ads/library/?id=909188405368744",
-      "landing_url": "https://nutra.vizor.blog/x-d",
-      "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/797229490_1415277584118083_2788457033483987070_n.jpg?_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5jSUnEwu8i4Q7kNvwH4sNlo&_nc_oc=AdrCoPoHu-fxPkpJHRFRRF2A63IbI-P_bcbYw_dbT5DvY5GXPWtZnv5tbLSjrhe0sks&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=Vpzjs_1-8b0pyfXamB1WSw&_nc_ss=79289&oh=00_AQT0t4x4_yhKOHAg3cyWxv7t3ctVldzEEl9SAq4_-pF6aA&oe=6B07EDE2",
-      "video_url": null,
-      "first_seen": "2026-11-21T23:56:52.657761+00:00",
-      "last_seen": "2026-11-22T14:51:59.306734+00:00",
-      "active_checked_at": "2026-11-22T14:51:59.306734+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "IL",
-        "PE"
-      ]
-    },
-    {
       "ad_id": "2547837192396221",
       "product_name": "unidentified product",
       "product_key": "unverified:2547837192396221",
@@ -19924,26 +21075,6 @@
       "landing_url": "http://itunes.apple.com/app/id6801191530",
       "image_url": null,
       "video_url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMADmU6iTbjmCEvbEbhBRaHav_sz9KYMGY8DBp0R79EoixydC3_ipvcLU-iMysVOnn68tYZHqCOsy-J6SGVY8o7XOvbC0V6tmnFSsVWf6IWMg.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=eyLw-jxeLXcQ7kNvwGcU3Lh&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3MTE5NjYwMTMyMTI3NzIsImFzc2V0X2FnZV9kYXlzIjo2NiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjMzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=39e1c4b2dfab69a4&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82OTQ4OENCQzY2OTNCMEM2RTk3NEYyREUzQUQ5MEFBRl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzA5NENCNEQ1QzUyOTE2QTc0MTQ1Q0Q5Mjc4REU2QjkwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbIoa7hxMGKBhUCKAJDMywXQECMzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=Vpzjs_1-8b0pyfXamB1WSw&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQNRxYeriFFjv1LdI4t5qGBbjmJXjvRe13HP9Bn_2uajw&oe=6B0804E8",
-      "first_seen": "2026-11-21T23:56:52.657761+00:00",
-      "last_seen": "2026-11-22T14:51:59.306734+00:00",
-      "active_checked_at": "2026-11-22T14:51:59.306734+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "IL",
-        "PE"
-      ]
-    },
-    {
-      "ad_id": "1491045575786027",
-      "product_name": "unidentified product",
-      "product_key": "unverified:1491045575786027",
-      "category": "other",
-      "advertiser": "DramaGo - Short Drama Series 7st",
-      "source_country": "IL",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1491045575786027",
-      "landing_url": "http://play.google.com/store/apps/details?id=com.drama.go.short.reels",
-      "image_url": null,
-      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPxFCQTN38i-yUmXdmGZWmwwPMf7Gp4ErV937sv9cyhUtcrGt93JjuLYPVdBrzFLBW65AYXg3ZJHGJIEPjOOb0OgGiSaszWzi2BXXRm9Q.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=MoKHh5FIphsQ7kNvwF_eeGD&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTExNDI1NzQzMTIyMTE0MiwiYXNzZXRfYWdlX2RheXMiOjE1LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6OTIxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=Vpzjs_1-8b0pyfXamB1WSw&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTXdaah5Qa9qHoXzD0Yd38fFFVxCWn-tjync3be3Ad9Fw&oe=6B081BEB",
       "first_seen": "2026-11-21T23:56:52.657761+00:00",
       "last_seen": "2026-11-22T14:51:59.306734+00:00",
       "active_checked_at": "2026-11-22T14:51:59.306734+00:00",
@@ -20024,26 +21155,6 @@
       "landing_url": null,
       "image_url": null,
       "video_url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQM-VKc3eANYiv91j1k2COJhqpAuPvQcKdl5TSWVpv-zNFMDP4tB0Lduu-2CFDsnhem5-L1U9W36TmKa4o3BERZalo-MMTTDxd8H_TbvcydD-A.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=oKChhCgooFsQ7kNvwGKCXEd&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjgxOTAxMDI5MDUzMTQ2NiwiYXNzZXRfYWdlX2RheXMiOjI0NywidmlfdXNlY2FzZV9pZCI6MTAxMjIsImR1cmF0aW9uX3MiOjEyMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=39af59bf4a6b314b&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81QzQ5NzUzRjA5QkZEMTgxMjc1MTc2NEY0RUUyQkU4MV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0UyNDE4RDJERkFBOENBMzVDOTQ3Q0M2NTU4NUU5RkIxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaU8vmW1rj0AhUCKAJDMywXQF4VT987ZFoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZZSeAQA&_nc_gid=X1J2Cny5d-FmXil0WCAjSw&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTZhFZHKId9Aj0yZYXPI19OEDdSD61rmtvUiJM2JGjSfA&oe=6B07E78A",
-      "first_seen": "2026-11-21T23:56:52.657761+00:00",
-      "last_seen": "2026-11-22T14:51:59.306734+00:00",
-      "active_checked_at": "2026-11-22T14:51:59.306734+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "PK",
-        "UA"
-      ]
-    },
-    {
-      "ad_id": "1417073747057048",
-      "product_name": "măng lưỡi lợn đang có giá siêu hời",
-      "product_key": "unverified:1417073747057048",
-      "category": "other",
-      "advertiser": "TutaFood - Hương Vị Bản Nhà",
-      "source_country": "UA",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1417073747057048",
-      "landing_url": null,
-      "image_url": null,
-      "video_url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMuhlDoJ3aKHqxlem8dnGxe3JOXHT6QQOyUJCeHyguCsiZmdtUx-G9bnCUT24LuKZJWt8sAFU5217JAHHnyf84zMT3M8TehZKCJRGjJsCL02A.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=u5ODW_VCWg4Q7kNvwHPO8zj&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIwMDkyNzcwMTMwNTAxODksImFzc2V0X2FnZV9kYXlzIjo3OSwidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjE0NCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=bc8013d308271758&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wRDQyMzQzMzY3RjIyMDJENUUxMUE2QTQ0QTUyNkJCOV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzZBNEQ2MUFFOUI4Nzg2RUEyNDA0RUJDMjI4MjkwNUIzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaajfKpqNuRBxUCKAJDMywXQGIQAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=X1J2Cny5d-FmXil0WCAjSw&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_enc=UtsgB--VDwP6q7OBUXebkRT_s6BqQiRn9ZD8s_kVGhEbQ3-m4cAM0FglkxgD2gif1Ei4_5Bhjby6z92FKBB3HaKCNoXLd54g_jIWnvODQaPR9i-qitmC4RPRn7I&oh=00_AQQGx4-bqRFA8SN5qxZIt3OrCAnVwaS8zxlDvQNQoIgldA&oe=6B07F0A4",
       "first_seen": "2026-11-21T23:56:52.657761+00:00",
       "last_seen": "2026-11-22T14:51:59.306734+00:00",
       "active_checked_at": "2026-11-22T14:51:59.306734+00:00",
@@ -20136,28 +21247,6 @@
       ]
     },
     {
-      "ad_id": "1435673998067370",
-      "product_name": "ella los dejó y se convirtió en vampira",
-      "product_key": "unverified:1435673998067370",
-      "category": "other",
-      "advertiser": "Cithadolbil Trothesgra",
-      "source_country": "SG",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1435673998067370",
-      "landing_url": "https://drama.reelshort.com/es/drama/6aba479906aa78b81508c38f?mediaType=fb&pixel=511862058617494&campaign_id={{campaign.id}}&adset_id={{adset.id}}&ad_id={{ad.id}}&cms_atid=6ae6e294473c5dcef184d3b4",
-      "image_url": null,
-      "video_url": "https://video-dfw5-3.xx.fbcdn.net/o1/v/t2/f2/m366/AQNJtqMiD-vKv-EQCKQut4rDvscKaivD84T9q67c0MRv1L47BFXEjvtGHABcHt6-q2rDWnBLwrhs9BgYywyXKb-hSC9jXyUqmOBLNXHcK9bY1Q.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-dfw5-3.xx.fbcdn.net&_nc_ohc=YAS5JQ9MS4wQ7kNvwH6HA7n&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzE2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0MDYzMjk2NTgzNTQyOTUsImFzc2V0X2FnZV9kYXlzIjoyOCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjE3NjUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=91ab81ef59ebdbf3&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xNkYxMjhGMTU3OEI0REUxQkE0QTE3M0RDRTI4MTIyQV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Q4MTZFRTE0NzM1ODQwODE5RDFBOTlEMkYxOTZBMERBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbuqcm7lMP_BBUCKAJDMywXQJuUAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=NAlLTQ8sxIAdHKqewxZ6ug&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQVHZ4EtwCGs_KvMGlrh3HPCj5hF5ge3Z03Rn0EKTFJhQ&oe=6AFB63B5",
-      "first_seen": "2026-11-12T11:59:58.168045+00:00",
-      "last_seen": "2026-11-22T14:51:59.306734+00:00",
-      "active_checked_at": "2026-11-22T14:51:59.306734+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "AE",
-        "FR",
-        "PL",
-        "SG"
-      ]
-    },
-    {
       "ad_id": "995357342958993",
       "product_name": "ella los dejó y se convirtió en vampira",
       "product_key": "unverified:995357342958993",
@@ -20208,26 +21297,6 @@
       "landing_url": "http://play.google.com/store/apps/details?id=com.storyflow.reelstory",
       "image_url": null,
       "video_url": "https://video-atl3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMEO2l-CCvqkclUwQ1bkj6pjxbsyQ0hzAXhfpYqyxyl8J_sto--_p4xtyHCGCAxEde7D0TurybAUOblskAlDvm1wgtCZEUcWwvkdm2Yts6_pQ.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-atl3-2.xx.fbcdn.net&_nc_ohc=BPOXZHqlhVoQ7kNvwGdE_Oe&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjQzOTUxNjg1MDQwNzY2NTIsImFzc2V0X2FnZV9kYXlzIjozNSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjkyMSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=e590002ab0d38f96&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84RjIxNTM4ODQ2MTA0MTgyQkRENDZGRjhDMzg5MzNGQl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0E4ODEwNDYyREEwRjQyRTFBMEY0OEQ4NDE0NEU5MzIzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbY5c6WvdjODxUCKAJDMywXQIzHrhR64UgYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=asA8Mgt8OhQn3KsRjMQCkQ&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTu3oDRlyq4sYCkxLV9ZYNOazt5UIHlORBwbm_8K66QJw&oe=6B072CBE",
-      "first_seen": "2026-11-21T08:53:13.503185+00:00",
-      "last_seen": "2026-11-22T14:51:59.306734+00:00",
-      "active_checked_at": "2026-11-22T14:51:59.306734+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "FR",
-        "PL"
-      ]
-    },
-    {
-      "ad_id": "2581819862241363",
-      "product_name": "haz clic y descubre lo que te espera",
-      "product_key": "unverified:2581819862241363",
-      "category": "other",
-      "advertiser": "Short Drama Media",
-      "source_country": "PL",
-      "ad_url": "https://www.facebook.com/ads/library/?id=2581819862241363",
-      "landing_url": "http://play.google.com/store/apps/details?id=com.popreel.pop.shortdrama",
-      "image_url": null,
-      "video_url": "https://video-atl3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPgq0Qps0f5H7uMW4X9B6WueK3EnQY4UcAYFugg6UVONhsvrzroCwHl6Giw5o9BaYZ85ZYEXbWYVHj-ZJFh0rUhaGkSKHu8C37XYsuYKu3s9g.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-atl3-1.xx.fbcdn.net&_nc_ohc=QnSDvhtJvlIQ7kNvwH7A6H0&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2OTgwODg4MjgzMTYxMjMsImFzc2V0X2FnZV9kYXlzIjoxMiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjY5MiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=c56b606fca21f8cf&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83NTM4MzZDMjBBM0Y0NjY0QTdCMUIzQzYxRDE2OEY2NV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzJCNkRCQTExMURFQzQ3QThBMzVCREJGOTA3MDE3NEE5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACa2p8XW45mEBhUCKAJDMywXQIWi7ZFocrAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=asA8Mgt8OhQn3KsRjMQCkQ&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTCmOHsPcvuUFIu8IrzIJ07FvpFhxoGCDYSmWof1VEflg&oe=6B0729E5",
       "first_seen": "2026-11-21T08:53:13.503185+00:00",
       "last_seen": "2026-11-22T14:51:59.306734+00:00",
       "active_checked_at": "2026-11-22T14:51:59.306734+00:00",
@@ -20812,25 +21881,6 @@
       ]
     },
     {
-      "ad_id": "1299649561403101",
-      "product_name": "hẹn lịch thăm khám",
-      "product_key": "unverified:1299649561403101",
-      "category": "other",
-      "advertiser": "Bác sĩ Hồ Cao Vũ - Dr Ho Cao Vu",
-      "source_country": "PK",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1299649561403101",
-      "landing_url": null,
-      "image_url": null,
-      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMUURF8z_ld4H9c8iwVBFoDteg913v4djnyvgTMzjDkZnc-P_N6NTrEV_rBZXgnQ8JM0O3pIDoQclrSYbS3Mzc9GQR2ZP25ILyEK709kngA2A.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=77llq2-lHE8Q7kNvwHI39T-&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjYwNTIzODA4MTg4OTAwNCwiYXNzZXRfYWdlX2RheXMiOjU0OSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjUwNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=dac83a8b0eabe8e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CMjQxQkRFQ0VGNzc0QTkxRDEyRERBMTIxOEU2NzQ4Q19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dJczF5QjB1RmVJT1BOMEVBTFpncHdlTDh5ODlidjRHQUFBRhUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbYi4GOv52TAhUCKAJDMywXQH-AhysCDEoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=LqihPOHd_E_olrIyrfAlCg&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTXWYl6j1sXgYmh7glVaSXSNvl_biVV8uQ4WjXw5K_cVw&oe=6B08D5DB",
-      "first_seen": "2026-11-22T14:51:59.306734+00:00",
-      "last_seen": "2026-11-22T14:51:59.306734+00:00",
-      "active_checked_at": "2026-11-22T14:51:59.306734+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "PK"
-      ]
-    },
-    {
       "ad_id": "1046895748425559",
       "product_name": "文件转换器 - freeconvert com",
       "product_key": "unverified:1046895748425559",
@@ -21059,25 +22109,6 @@
       ]
     },
     {
-      "ad_id": "1680005000410844",
-      "product_name": "lee la versión completa",
-      "product_key": "unverified:1680005000410844",
-      "category": "other",
-      "advertiser": "Forbidden Pages",
-      "source_country": "FR",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1680005000410844",
-      "landing_url": "https://huazxc.com/market/goodnovel/1?lpid=73770&utm_campaign={{campaign.name}}&utm_content={{campaign.id}}&adset_name={{adset.name}}&adset_id={{adset.id}}&ad_id={{ad.id}}&ad_name={{ad.name}}&placement={{placement}}",
-      "image_url": null,
-      "video_url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQN6jixFDFKgWn-XRVlelXmCZnzsj1de0PfEygYo2DCamuVCZ998SAdjsPwzFm4MfxL9pImQrZmtzEq3ILYWQSDBAmyh7HvZZ0Knm2pjyzNUFg.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=8zGGbK5tuhYQ7kNvwHmD8do&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExNjgyODc0MzYxNDcyNDYsImFzc2V0X2FnZV9kYXlzIjoxNiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjMxNSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=c799e6b1af44bdb6&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82QzhERjJBMkQ3RDQ0NkYzODNFQzY3MzZERjdDQUY4Q19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzEwQzEyQkM2NjVERDQ3MjY5RDA3QTVFNTFEMEQ2MEIwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbcqITao6OTBBUCKAJDMywXQHOwAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=7G8eORxsu-2LKudOdxWwjA&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQ1ZWaAe_vv6Jr_J7roqYmhYEPQOLgaZ_RHyE_TLphDfw&oe=6B08C7B7",
-      "first_seen": "2026-11-22T14:51:59.306734+00:00",
-      "last_seen": "2026-11-22T14:51:59.306734+00:00",
-      "active_checked_at": "2026-11-22T14:51:59.306734+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "FR"
-      ]
-    },
-    {
       "ad_id": "2225472584700536",
       "product_name": "qué pasa después haz clic aquí para seguir leyendo",
       "product_key": "unverified:2225472584700536",
@@ -21107,25 +22138,6 @@
       "landing_url": "http://play.google.com/store/apps/details?id=com.ts.movies.xdrama",
       "image_url": null,
       "video_url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQO7unH1I4YXcpKVIg5aSFYYbz8rzivPrhR71EpxE7gjbs34fQeu77xiK_KM3ncVamkcVUHUADOLQMfv8tXZSNAXrN44u32FiZJE1V073q947A.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=KERYPPXIPkwQ7kNvwE4n7nj&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzE2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIyNTI2Nzc1NDg2MjUzNjMsImFzc2V0X2FnZV9kYXlzIjozOCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjgzMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=1a78c0b1923399bf&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zRDNCMDBFQUZBNzg0NUU3OTc5RTE3QjlFNjVGMzJDM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQxRTFBNTlGMDI5QTQxMTM5MDQ3NEI1OTZFMzBFRkQ3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACamt6LRi7OACBUCKAJDMywXQIoN2yLQ5WAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=7G8eORxsu-2LKudOdxWwjA&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTle2CREcWwzjD3TT2iM-XlDTsTkNT_uWsw_ycGJe4sHg&oe=6B08D8CC",
-      "first_seen": "2026-11-22T14:51:59.306734+00:00",
-      "last_seen": "2026-11-22T14:51:59.306734+00:00",
-      "active_checked_at": "2026-11-22T14:51:59.306734+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "FR"
-      ]
-    },
-    {
-      "ad_id": "1018769507947614",
-      "product_name": "haz clic para leer más capítulos",
-      "product_key": "unverified:1018769507947614",
-      "category": "other",
-      "advertiser": "Divorce While I'm Pregnant",
-      "source_country": "FR",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1018769507947614",
-      "landing_url": "https://dynamic.lightreader.com/noah-ssg/wn/766754101/37325515208142005+1+3+facebook?xed=469204711872929&utm_source={{campaign.name}}&utm_campaign={{campaign.id}}&utm_adset={{adset.name}}&adset_id={{adset.id}}&ad_id={{ad.id}}&ad_name={{ad.name}}&placement={{placement}}&sitesource={{site_source_name}}",
-      "image_url": null,
-      "video_url": "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPLcbJeLRCPmQkN20J-7p8xuX9y-zz154cQThMhBUhDUZbzCKm5lilXTl5ufTYh0Ngg30fBxDVUAxFOCvq1_yi5my5w4n54uGL3iorhIqONLA.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=7q-Jnch29jcQ7kNvwFOr4Gf&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0NDU0MjkwOTM4MTE4NzUsImFzc2V0X2FnZV9kYXlzIjo0LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MTQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=2445a588bad640ea&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83Q0Q3Qzk2N0U5N0Y0NzMxODU3MDBGQTE1NDA5RjVDRl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0M1NTU5QTM0NkZGOTQ4MDM4QjBGNzAyMDI1RTRCNkM4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbGmvr6haeRBRUCKAJDMywXQC3dsi0OVgQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=7G8eORxsu-2LKudOdxWwjA&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRrwYfwPBUsuekMSE4dPyOAGci0My_UdexwWwzgyh4HdQ&oe=6B08E2C6",
       "first_seen": "2026-11-22T14:51:59.306734+00:00",
       "last_seen": "2026-11-22T14:51:59.306734+00:00",
       "active_checked_at": "2026-11-22T14:51:59.306734+00:00",
@@ -37373,29 +38385,6 @@
       ]
     },
     {
-      "ad_id": "1029646762029331",
-      "product_name": "giảm tiếng ồn khi đóng cửa xe",
-      "product_key": "unverified:1029646762029331",
-      "category": "other",
-      "advertiser": "TUẤN ANH AuTo 8888",
-      "source_country": "GR",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1029646762029331",
-      "landing_url": "http://www.chinhhang2025.io.vn/tuananhauto",
-      "image_url": null,
-      "video_url": "https://video-atl3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQOsqjVyXqhpL6T8hEoP99Xm1AvqsiGSxUnIosPqt0ZhG4D55p7VHFfuK1u5aVAxgKSNt6UBeMq9XfraCtZGOm5A.mp4?_nc_cat=105&_nc_sid=ef5aa3&_nc_ht=video-atl3-2.xx.fbcdn.net&_nc_ohc=IlpJC0ccMXUQ7kNvwH2jWT4&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjoyNzQ5NzMxNzk1Mzg1NjI2LCJhc3NldF9hZ2VfZGF5cyI6MTk2LCJ2aV91c2VjYXNlX2lkIjoxMDY4MCwiZHVyYXRpb25fcyI6MTc4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=JZ8SBMxu-8_A3QrMkb1mdA&_nc_ss=79289&_nc_zt=28&oh=00_AQS9bF_0MzPsWw6Mea1tv7ZoRIq9qT16kWkq_CnQnkbhYw&oe=6AE7C65E",
-      "first_seen": "2026-10-28T14:55:38.469677+00:00",
-      "last_seen": "2026-11-21T23:56:52.657761+00:00",
-      "active_checked_at": "2026-11-21T23:56:52.657761+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "CR",
-        "GR",
-        "NG",
-        "PK",
-        "UA"
-      ]
-    },
-    {
       "ad_id": "1670388624872328",
       "product_name": "lee la versión completa",
       "product_key": "unverified:1670388624872328",
@@ -37416,82 +38405,6 @@
       ]
     },
     {
-      "ad_id": "3119820438356453",
-      "product_name": "cảnh báo radar tốc độ 4 8 11m",
-      "product_key": "unverified:3119820438356453",
-      "category": "other",
-      "advertiser": "Radar GO-X",
-      "source_country": "IL",
-      "ad_url": "https://www.facebook.com/ads/library/?id=3119820438356453",
-      "landing_url": "http://itunes.apple.com/app/id6771405651",
-      "image_url": null,
-      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMrIn9YIQD_y_3qMuH-8EPINem0c34w7aYf0cEM3KTmU9IEz6kDnmZRXVF_4dLSHLVpRU_kP8LlSX3G8GaTlrFMamvo0yNRbbrxHxCzfyQraQ.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=k4W_CvhqGSYQ7kNvwHeI7o6&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE5NzE2NTk3MTM1MDQxOTQsImFzc2V0X2FnZV9kYXlzIjo1NCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjI4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=ec06c4510055c15e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yNjQzNjhDMUZDQ0I5ODg4MTk0Njc2MDNEOTc3MDlBM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzVCMENEQTZCQTU4QjREMEY4MDU5NjVFQzUwRkFDQkNEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaEj7vN2c2ABxUCKAJDMywXQDyIcrAgxJwYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=Vpzjs_1-8b0pyfXamB1WSw&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQj2RpjC3wEU0BnthmmyKKxgvWVD0q3eMZ9MNhVPFtFyg&oe=6B08159B",
-      "first_seen": "2026-11-21T23:56:52.657761+00:00",
-      "last_seen": "2026-11-21T23:56:52.657761+00:00",
-      "active_checked_at": "2026-11-21T23:56:52.657761+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "IL"
-      ]
-    },
-    {
-      "ad_id": "2467475463790477",
-      "product_name": "lái xe thông minh hơn",
-      "product_key": "unverified:2467475463790477",
-      "category": "other",
-      "advertiser": "Offline Maps, GPS, Speedometer",
-      "source_country": "IL",
-      "ad_url": "https://www.facebook.com/ads/library/?id=2467475463790477",
-      "landing_url": "http://play.google.com/store/apps/details?id=com.radarapp.trip.speedometer",
-      "image_url": null,
-      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMpfAeBqwhFY75nMLjCOUjs-MgN2_skTbkBC5XSBUxoOku_Rvok-8Y0xooJce_f-SNb8RPYUH8Txb2RhVI66W5Owp4ozmFUIcbZGFG_4gnXTQ.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=h_HCF78_2-MQ7kNvwHJAUcC&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjkxMzM3OTAxNTA0Mjc3MywiYXNzZXRfYWdlX2RheXMiOjM1LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MjcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=2d572ec2a87e1d55&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yOUZBRERDOEM5Mjk0NzIwQTQ2NjU3OTNFMEMzQzUxQl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzBDQTg3MkY2MjcxMzQ3QkRCRDc4QzZGOEEzNURBRTY0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaqm-X7062fAxUCKAJDMywXQDszMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=Vpzjs_1-8b0pyfXamB1WSw&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQpJslNastv4Di0HWQbUkW8QhSX32qvar4XrJ8BZOq3vw&oe=6B080949",
-      "first_seen": "2026-11-21T23:56:52.657761+00:00",
-      "last_seen": "2026-11-21T23:56:52.657761+00:00",
-      "active_checked_at": "2026-11-21T23:56:52.657761+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "IL"
-      ]
-    },
-    {
-      "ad_id": "1445994627483287",
-      "product_name": "unidentified product",
-      "product_key": "unverified:1445994627483287",
-      "category": "other",
-      "advertiser": "Annetta Maggio",
-      "source_country": "IL",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1445994627483287",
-      "landing_url": "http://itunes.apple.com/app/id6810490991",
-      "image_url": null,
-      "video_url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOAy1fS2FDvQacLDeuyq-eg3BPqwdFJ-Nr2zgDTRv0F4aL1qtWTjd0MWxpf02RgFCCwxAIffxvpcvJCdwxiLcv0zwMlD_WYf1Yw9bxTjLj5ug.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=nPIy6wBUqQ0Q7kNvwHe-r8b&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjMyMTAwNjg1NDI0OTY3MTEsImFzc2V0X2FnZV9kYXlzIjo2NCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjE1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=b43b6d143f432644&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80MzQwNERFRTIzOTk4RkRGRDk3MjlGN0MyN0NCMDhBRF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0M2NDVCMTM2NzU2MzM2OTk3NUI3RDMyQUUzQ0MxOEFEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaO__CyyuKzCxUCKAJDMywXQC4qfvnbItEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=Vpzjs_1-8b0pyfXamB1WSw&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQlzpzG05wb6IoLrIaIKSW_qBNLEvysHm_KR_R0Ap3k3A&oe=6B08088E",
-      "first_seen": "2026-11-21T23:56:52.657761+00:00",
-      "last_seen": "2026-11-21T23:56:52.657761+00:00",
-      "active_checked_at": "2026-11-21T23:56:52.657761+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "IL"
-      ]
-    },
-    {
-      "ad_id": "1100356579498661",
-      "product_name": "nữ chỉ huy cơ trưởng xin đầu hàng phiên bản lồng tiếng",
-      "product_key": "unverified:1100356579498661",
-      "category": "other",
-      "advertiser": "Rowanrift Drama",
-      "source_country": "IL",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1100356579498661",
-      "landing_url": "https://m.mydramawave.com/land/?pixel_id=727231996608627&c={{campaign.name}}&af_c_id={{campaign.id}}&af_adset={{adset.name}}&af_adset_id={{adset.id}}&af_ad={{ad.name}}&af_ad_id={{ad.id}}&af_channel={{placement}}&content_id=TQw6Q0EZLb&media_source=facebook",
-      "image_url": null,
-      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNncoN7QhQBqnvA6_P8Co-G_AbVa7Jtqxag8Vf60VKN-J7n_UFaCkH4Ul_YxJcc2ARIfIRWL0qM9Q6PGCI-5b8V8lyUnwBogNtGE3qSqqfXBg.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=iPTjxCmzBasQ7kNvwFM95lI&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExNjc3MDc2MDU3NzkxMTcsImFzc2V0X2FnZV9kYXlzIjoxMSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjIwNzMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=59d04c0c1cf7b524&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82NTcxNUVFRTUwQzQ0MEM2QjI3NTg0NUQ3MTREQkIyNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzcwRDcyNUQwOTM3OTRDRTZCMkY1MjgwOUYzQkVCRDdDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbaitrQw4GTBBUCKAJDMywXQKAzFP3ztkYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=Vpzjs_1-8b0pyfXamB1WSw&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTQfpLqDml6rsOq628bMbt1fpjN3ClQo8gKJsQBe1XZ0Q&oe=6B081C0D",
-      "first_seen": "2026-11-21T23:56:52.657761+00:00",
-      "last_seen": "2026-11-21T23:56:52.657761+00:00",
-      "active_checked_at": "2026-11-21T23:56:52.657761+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "IL"
-      ]
-    },
-    {
       "ad_id": "1456208933328523",
       "product_name": "châu kỳ tứ luôn tin rằng bùi sơ huyền yêu mình đến mức không thể rời xa anh không hề biết suốt sáu",
       "product_key": "unverified:1456208933328523",
@@ -37502,63 +38415,6 @@
       "landing_url": "https://fb.dramabox.com/db_land_page/DLLPF1210679.html?language=vi&timestamp=1794607613372&channelCode=DLLPF1210679&bid=42000033184&utm_campaign={{campaign.name}}&utm_content={{campaign.id}}&ad_group_name={{adset.name}}&ad_group_id={{adset.id}}&ad_id={{ad.id}}&ad_name={{ad.name}}",
       "image_url": null,
       "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNuTaVGq9di9FFy-IbIP9Y0EO-5to828W70PH9BHULL1umF5CxK1f2pHErJNkTJU3MldSaFfTIaMVqEKqrp6vkcG96KWxFa7UvDSXQJFUqJQg.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=u1y5ktmq334Q7kNvwEn395Z&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjQ1MDA1MTI0NjY4ODk1MzYsImFzc2V0X2FnZV9kYXlzIjo5LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MTI0MywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=75f42fa7b4f746d8&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BNjI5MTVCMzZFNUQ0REQ1OTgyQkFBMTcyRDhENzBCRF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQwRDNFRDlCQ0ZGRDRDQ0VCRTczQTIxRjE5RUIyODk3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaAravupsz-DxUCKAJDMywXQJNuiDEm6XkYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=Vpzjs_1-8b0pyfXamB1WSw&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRBAolmNzOB_XicBClDXlEf8RKQS1PP59zzx8QJvyR8jQ&oe=6B07F930",
-      "first_seen": "2026-11-21T23:56:52.657761+00:00",
-      "last_seen": "2026-11-21T23:56:52.657761+00:00",
-      "active_checked_at": "2026-11-21T23:56:52.657761+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "IL"
-      ]
-    },
-    {
-      "ad_id": "1536795128282647",
-      "product_name": "nữ chỉ huy cơ trưởng xin đầu hàng phiên bản lồng tiếng",
-      "product_key": "unverified:1536795128282647",
-      "category": "other",
-      "advertiser": "Mini drama free",
-      "source_country": "IL",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1536795128282647",
-      "landing_url": "https://m.mydramawave.com/land/?pixel_id=727231996608627&c={{campaign.name}}&af_c_id={{campaign.id}}&af_adset={{adset.name}}&af_adset_id={{adset.id}}&af_ad={{ad.name}}&af_ad_id={{ad.id}}&af_channel={{placement}}&content_id=TQw6Q0EZLb&media_source=facebook",
-      "image_url": null,
-      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNncoN7QhQBqnvA6_P8Co-G_AbVa7Jtqxag8Vf60VKN-J7n_UFaCkH4Ul_YxJcc2ARIfIRWL0qM9Q6PGCI-5b8V8lyUnwBogNtGE3qSqqfXBg.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=iPTjxCmzBasQ7kNvwFM95lI&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExNjc3MDc2MDU3NzkxMTcsImFzc2V0X2FnZV9kYXlzIjoxMSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjIwNzMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=59d04c0c1cf7b524&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82NTcxNUVFRTUwQzQ0MEM2QjI3NTg0NUQ3MTREQkIyNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzcwRDcyNUQwOTM3OTRDRTZCMkY1MjgwOUYzQkVCRDdDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbaitrQw4GTBBUCKAJDMywXQKAzFP3ztkYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=Vpzjs_1-8b0pyfXamB1WSw&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTQfpLqDml6rsOq628bMbt1fpjN3ClQo8gKJsQBe1XZ0Q&oe=6B081C0D",
-      "first_seen": "2026-11-21T23:56:52.657761+00:00",
-      "last_seen": "2026-11-21T23:56:52.657761+00:00",
-      "active_checked_at": "2026-11-21T23:56:52.657761+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "IL"
-      ]
-    },
-    {
-      "ad_id": "1490134049849506",
-      "product_name": "nữ chỉ huy cơ trưởng xin đầu hàng phiên bản lồng tiếng",
-      "product_key": "unverified:1490134049849506",
-      "category": "other",
-      "advertiser": "Mini drama free",
-      "source_country": "IL",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1490134049849506",
-      "landing_url": "https://m.mydramawave.com/land/?pixel_id=727231996608627&c={{campaign.name}}&af_c_id={{campaign.id}}&af_adset={{adset.name}}&af_adset_id={{adset.id}}&af_ad={{ad.name}}&af_ad_id={{ad.id}}&af_channel={{placement}}&content_id=TQw6Q0EZLb&media_source=facebook",
-      "image_url": null,
-      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNncoN7QhQBqnvA6_P8Co-G_AbVa7Jtqxag8Vf60VKN-J7n_UFaCkH4Ul_YxJcc2ARIfIRWL0qM9Q6PGCI-5b8V8lyUnwBogNtGE3qSqqfXBg.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=iPTjxCmzBasQ7kNvwFM95lI&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExNjc3MDc2MDU3NzkxMTcsImFzc2V0X2FnZV9kYXlzIjoxMSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjIwNzMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=59d04c0c1cf7b524&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82NTcxNUVFRTUwQzQ0MEM2QjI3NTg0NUQ3MTREQkIyNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzcwRDcyNUQwOTM3OTRDRTZCMkY1MjgwOUYzQkVCRDdDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbaitrQw4GTBBUCKAJDMywXQKAzFP3ztkYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=Vpzjs_1-8b0pyfXamB1WSw&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTQfpLqDml6rsOq628bMbt1fpjN3ClQo8gKJsQBe1XZ0Q&oe=6B081C0D",
-      "first_seen": "2026-11-21T23:56:52.657761+00:00",
-      "last_seen": "2026-11-21T23:56:52.657761+00:00",
-      "active_checked_at": "2026-11-21T23:56:52.657761+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "IL"
-      ]
-    },
-    {
-      "ad_id": "1067993796247882",
-      "product_name": "nữ chỉ huy cơ trưởng xin đầu hàng phiên bản lồng tiếng",
-      "product_key": "unverified:1067993796247882",
-      "category": "other",
-      "advertiser": "Quillmere Drama",
-      "source_country": "IL",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1067993796247882",
-      "landing_url": "https://m.mydramawave.com/land/?pixel_id=727231996608627&c={{campaign.name}}&af_c_id={{campaign.id}}&af_adset={{adset.name}}&af_adset_id={{adset.id}}&af_ad={{ad.name}}&af_ad_id={{ad.id}}&af_channel={{placement}}&content_id=TQw6Q0EZLb&media_source=facebook",
-      "image_url": null,
-      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNncoN7QhQBqnvA6_P8Co-G_AbVa7Jtqxag8Vf60VKN-J7n_UFaCkH4Ul_YxJcc2ARIfIRWL0qM9Q6PGCI-5b8V8lyUnwBogNtGE3qSqqfXBg.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=iPTjxCmzBasQ7kNvwFM95lI&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExNjc3MDc2MDU3NzkxMTcsImFzc2V0X2FnZV9kYXlzIjoxMSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjIwNzMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=59d04c0c1cf7b524&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82NTcxNUVFRTUwQzQ0MEM2QjI3NTg0NUQ3MTREQkIyNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzcwRDcyNUQwOTM3OTRDRTZCMkY1MjgwOUYzQkVCRDdDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbaitrQw4GTBBUCKAJDMywXQKAzFP3ztkYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=Vpzjs_1-8b0pyfXamB1WSw&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTQfpLqDml6rsOq628bMbt1fpjN3ClQo8gKJsQBe1XZ0Q&oe=6B081C0D",
       "first_seen": "2026-11-21T23:56:52.657761+00:00",
       "last_seen": "2026-11-21T23:56:52.657761+00:00",
       "active_checked_at": "2026-11-21T23:56:52.657761+00:00",
@@ -37597,25 +38453,6 @@
       "landing_url": "http://itunes.apple.com/app/id6801191530",
       "image_url": null,
       "video_url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNsbgDAFh921SqthpV_CYpyVnRmDkFcF1lmOb-AszWJbDcWoOlsw_V1s53j4g3YI1n68NByg3lcSjh88kFZprf-NZKY8xrClC0Sv4llkQn_9w.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=CbcJ5mMmnwIQ7kNvwFPvAhK&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNDgwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwNjQ0MzE2MjMyNzYzNTUsImFzc2V0X2FnZV9kYXlzIjo5LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NTIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=56c6a615d5e3b3d9&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FNjI4QkI1NTAwRDk0RkZBQjQzMDY4OEVCRjMzREY0Ml9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzczOTc0MTc2MDkwMjQ3REQ4NDRGNDJDNjNFNjlBREZGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaGndjMiYbkAxUCKAJDMywXQEpMzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=Vpzjs_1-8b0pyfXamB1WSw&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_enc=Ui6gcx1S5tWPn-_kAaWc0Wx2XbsX9lqOF86ONZwvo55vCi2oyvXgqCJ1FpImokcrsr92LlFQ0AEttaO4ORWUBx-gPiZVrsVuFMghRKJXGOlEQOfNiMJnj-VuPik&oh=00_AQSr9B-IFnfiuMmZUZQu5O_OieO6xglLNFOrTg0AutCffw&oe=6B0800D6",
-      "first_seen": "2026-11-21T23:56:52.657761+00:00",
-      "last_seen": "2026-11-21T23:56:52.657761+00:00",
-      "active_checked_at": "2026-11-21T23:56:52.657761+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "IL"
-      ]
-    },
-    {
-      "ad_id": "29525240277164794",
-      "product_name": "tin vui cho bà con xa xứ bị đau nhức xương khớp",
-      "product_key": "unverified:29525240277164794",
-      "category": "other",
-      "advertiser": "Lương Y Lục Văn Bảy - Xương Khớp - HC3",
-      "source_country": "IL",
-      "ad_url": "https://www.facebook.com/ads/library/?id=29525240277164794",
-      "landing_url": null,
-      "image_url": null,
-      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMuG1bnR5hjrDJmHexsQzyXUwCdjOYbc2OpXwdinJI_FzbuqW863s1JKRyHOmeYguFCj0cvNbgsNuVIdTA6lqNnOy126_69k0Fhm6CpuLu5fQ.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=cE6i6OvU_4IQ7kNvwEgQedS&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1ODE0Mjk1NDk3NTA1NzcsImFzc2V0X2FnZV9kYXlzIjoyNTEsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoxNDUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=3ab55ab4672ff9ce&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85RjRDRkVGN0NEOEI2OTc5RjRDMzc3MzUyN0E5RDQ4Ql9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQzNDk1QUZFRUQ5NzZFMkFGMTMwMDNBNkI2NjkwQkExX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbi5OaoqJPPBRUCKAJDMywXQGIe6XjU_fQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=Vpzjs_1-8b0pyfXamB1WSw&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQR2mrkVJepJzyWlGE6HWrRh7WRu1uKcap-r9ynUxxHW-w&oe=6B07F07E",
       "first_seen": "2026-11-21T23:56:52.657761+00:00",
       "last_seen": "2026-11-21T23:56:52.657761+00:00",
       "active_checked_at": "2026-11-21T23:56:52.657761+00:00",
@@ -37796,44 +38633,6 @@
       ]
     },
     {
-      "ad_id": "2204017457141736",
-      "product_name": "cùng là phở khô nhưng chọn phở khô farmer sợi 3mm hay 5mm mới đúng món",
-      "product_key": "unverified:2204017457141736",
-      "category": "other",
-      "advertiser": "Vị Nhà",
-      "source_country": "UA",
-      "ad_url": "https://www.facebook.com/ads/library/?id=2204017457141736",
-      "landing_url": null,
-      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/898657067_811140572094447_2398303603447888570_n.jpg?_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=207EFEkyNYEQ7kNvwEj9Myl&_nc_oc=AdrttJ0c4Lo8rx68Al-TSen1eyWxP0TPZjxiq8d8kYbSPoLjAl2kxIzO0x7VMMH4YF0&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=X1J2Cny5d-FmXil0WCAjSw&_nc_ss=79289&oh=00_AQT-jrR84TV5RaZ33AxNjvZleyaadDPcuanybvTv9nQ-Cw&oe=6B07EE12",
-      "video_url": null,
-      "first_seen": "2026-11-21T23:56:52.657761+00:00",
-      "last_seen": "2026-11-21T23:56:52.657761+00:00",
-      "active_checked_at": "2026-11-21T23:56:52.657761+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "UA"
-      ]
-    },
-    {
-      "ad_id": "1393925892065896",
-      "product_name": "hẹn lịch thăm khám",
-      "product_key": "unverified:1393925892065896",
-      "category": "other",
-      "advertiser": "Bác sĩ Hồ Cao Vũ - Dr Ho Cao Vu",
-      "source_country": "UA",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1393925892065896",
-      "landing_url": null,
-      "image_url": null,
-      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMUURF8z_ld4H9c8iwVBFoDteg913v4djnyvgTMzjDkZnc-P_N6NTrEV_rBZXgnQ8JM0O3pIDoQclrSYbS3Mzc9GQR2ZP25ILyEK709kngA2A.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=77llq2-lHE8Q7kNvwHVApCL&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjYwNTIzODA4MTg4OTAwNCwiYXNzZXRfYWdlX2RheXMiOjU0OCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjUwNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=dac83a8b0eabe8e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CMjQxQkRFQ0VGNzc0QTkxRDEyRERBMTIxOEU2NzQ4Q19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dJczF5QjB1RmVJT1BOMEVBTFpncHdlTDh5ODlidjRHQUFBRhUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbYi4GOv52TAhUCKAJDMywXQH-AhysCDEoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=X1J2Cny5d-FmXil0WCAjSw&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQREfvpqqxiDcsHi_KxDXW54x7xK-TiHGkSxhKNJaeah1A&oe=6B07F4DB",
-      "first_seen": "2026-11-21T23:56:52.657761+00:00",
-      "last_seen": "2026-11-21T23:56:52.657761+00:00",
-      "active_checked_at": "2026-11-21T23:56:52.657761+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "UA"
-      ]
-    },
-    {
       "ad_id": "1445671541085668",
       "product_name": "combo tiết kiệm chỉ từ 99k miễn ship",
       "product_key": "unverified:1445671541085668",
@@ -37891,25 +38690,6 @@
       ]
     },
     {
-      "ad_id": "2380429675675865",
-      "product_name": "giảm tiếng ồn khi đóng cửa xe",
-      "product_key": "unverified:2380429675675865",
-      "category": "other",
-      "advertiser": "TUẤN ANH AuTo 8888",
-      "source_country": "UA",
-      "ad_url": "https://www.facebook.com/ads/library/?id=2380429675675865",
-      "landing_url": "http://www.chinhhang2025.io.vn/tuananhauto",
-      "image_url": null,
-      "video_url": "https://video-iad3-1.xx.fbcdn.net/v/t42.1790-2/491421983_2380429745675858_1777553467061132255_n.?_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JKSAKzE9xG0Q7kNvwFU-RlP&_nc_oc=AdrpE4L6MDjdh2rRmTpLixIGp6-IVn3w2pvxO8rzwt6wKMK1H8M1axAUUmHtsRxAEWw&_nc_zt=28&_nc_ht=video-iad3-1.xx&_nc_gid=X1J2Cny5d-FmXil0WCAjSw&_nc_ss=79289&oh=00_AQQO0B1Fr-VUQgebALYBtcizUYKIClj-8XBI5WHi3fejsQ&oe=6B07EE50",
-      "first_seen": "2026-11-21T23:56:52.657761+00:00",
-      "last_seen": "2026-11-21T23:56:52.657761+00:00",
-      "active_checked_at": "2026-11-21T23:56:52.657761+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "UA"
-      ]
-    },
-    {
       "ad_id": "2202973233453960",
       "product_name": "giảm tiếng ồn khi đóng cửa xe",
       "product_key": "unverified:2202973233453960",
@@ -37920,25 +38700,6 @@
       "landing_url": "http://www.chinhhang2025.io.vn/tuananhauto",
       "image_url": null,
       "video_url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMLGFK7T0OmisVt__SS-_ZmluiFPUHYOSU57hMArdHC5Ke91lAL6fMDmMgbaZpEDKKs5Want6AMYoi66p2DIbuu.mp4?_nc_cat=107&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=BXS8vwqSE0AQ7kNvwGxWROl&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjoxODgzMjc3MTkzMDc0ODg1LCJhc3NldF9hZ2VfZGF5cyI6MjgwLCJ2aV91c2VjYXNlX2lkIjoxMDY4MCwiZHVyYXRpb25fcyI6MTc4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=X1J2Cny5d-FmXil0WCAjSw&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSugUjTRxj39VF-jX4orxN-ZfnBTJ-CE9aOmi-fPCNKyw&oe=6B080CD4",
-      "first_seen": "2026-11-21T23:56:52.657761+00:00",
-      "last_seen": "2026-11-21T23:56:52.657761+00:00",
-      "active_checked_at": "2026-11-21T23:56:52.657761+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "UA"
-      ]
-    },
-    {
-      "ad_id": "1732150254384148",
-      "product_name": "giảm tiếng ồn khi đóng cửa xe",
-      "product_key": "unverified:1732150254384148",
-      "category": "other",
-      "advertiser": "TUẤN ANH AuTo 8888",
-      "source_country": "UA",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1732150254384148",
-      "landing_url": "http://www.chinhhang2025.io.vn/tuananhauto",
-      "image_url": null,
-      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPJHTbcFninCnof6kFxzeu9i7OOWVwxt0xxiECYewu46c3SLgal0cCdUt9oZTUxtE_TPoFsnCNXpY16YhdkG7g.mp4?_nc_cat=102&_nc_sid=ef5aa3&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=gpkPlTbWUrEQ7kNvwFUjinU&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjo5OTE0MzU4MjY3NDYyMTEsImFzc2V0X2FnZV9kYXlzIjoyMTksInZpX3VzZWNhc2VfaWQiOjEwNjgwLCJkdXJhdGlvbl9zIjoxNzgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=X1J2Cny5d-FmXil0WCAjSw&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTb6ltwDAYhQ763396p7TVKb3Rsf3pXleXVa0d5dZw7yw&oe=6B080B30",
       "first_seen": "2026-11-21T23:56:52.657761+00:00",
       "last_seen": "2026-11-21T23:56:52.657761+00:00",
       "active_checked_at": "2026-11-21T23:56:52.657761+00:00",
@@ -37964,25 +38725,6 @@
       "is_active_observed": true,
       "source_countries": [
         "UA"
-      ]
-    },
-    {
-      "ad_id": "1002607029560409",
-      "product_name": "tus dramas favoritos te esperan gratis",
-      "product_key": "unverified:1002607029560409",
-      "category": "other",
-      "advertiser": "Cup Box",
-      "source_country": "PT",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1002607029560409",
-      "landing_url": "http://play.google.com/store/apps/details?id=com.newreading.goodreels",
-      "image_url": null,
-      "video_url": "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNAcEXlR0n7OmlnFARBUc6GlP-VvzTiDeDawz8bH04fO2e6ac11aOUdY4dHyKq3AGMJrzioGFho_loz7vT6HnY6hppRUUgTZvU73c2E1qvc6g.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=FeL8MzCdhwkQ7kNvwGFDOxg&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2NTEwNzMzMjY0OTYzNDUsImFzc2V0X2FnZV9kYXlzIjo4LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MTg5NCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=18d3a89d9690b763&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84OEM2NTUxOEQ1NTg0OTQ5QUJBODk2OEU2NEJBODZEN19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzlEMDA5MEE3RDFFRTRCMTZCMDQyMzgyNzM4MTk3MTdDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACay6f3xjunuBRUCKAJDMywXQJ2Zu2RaHKwYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=bLDVG0cyx7NdKnBG3kg05g&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQjbp_suMhl_FBmA3KApeV0mlPqN0mSOZ7XpSF3GCxdDg&oe=6B07F64A",
-      "first_seen": "2026-11-21T23:56:52.657761+00:00",
-      "last_seen": "2026-11-21T23:56:52.657761+00:00",
-      "active_checked_at": "2026-11-21T23:56:52.657761+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "PT"
       ]
     },
     {
@@ -55986,101 +56728,6 @@
       "is_active_observed": true,
       "source_countries": [
         "SK"
-      ]
-    },
-    {
-      "ad_id": "1584926180057591",
-      "product_name": "a new way to learn",
-      "product_key": "unverified:1584926180057591",
-      "category": "other",
-      "advertiser": "Practical Grandma",
-      "source_country": "US",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1584926180057591",
-      "landing_url": "https://checkout.thegroovd.com/childrens-magicbooks",
-      "image_url": null,
-      "video_url": "https://video-qro1-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOpTOImduj1gs8YSlkWOlusSZLev3byAlHFxos6SrIUjR6iDCiAVqjlMh2nHxtzvsOS4KqgASFqlIwL4PReCWpeeuxdVYgPP3I0BnJrqnJ7sA.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-qro1-2.xx.fbcdn.net&_nc_ohc=KVmY0OWvkwIQ7kNvwFn9Du4&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI1NTI2NTU1NDUyMTk2MzIsImFzc2V0X2FnZV9kYXlzIjozNywidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjE2OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=d1356d3c38277d46&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81N0UzQUNBREM4ODE0MjRDOURFRjEyNDdDM0ExQzg4MF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzIzNjBDMzkzQzM3ODREOTg5NzU0RENDOUNDNTg0QTg4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbg6I3wjeiICRUCKAJDMywXQGUs3S8an74YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=jvIyba13zORL-XGv07KlYw&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRSDM4mGULYCT_uwMfNRQ_DycX8LTeQmX1ZZyoDfIqFkA&oe=6B06ACE3",
-      "first_seen": "2026-11-20T23:26:40.968516+00:00",
-      "last_seen": "2026-11-20T23:26:40.968516+00:00",
-      "active_checked_at": "2026-11-20T23:26:40.968516+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "US"
-      ]
-    },
-    {
-      "ad_id": "1040790402326643",
-      "product_name": "a new way to learn",
-      "product_key": "unverified:1040790402326643",
-      "category": "other",
-      "advertiser": "Practical Grandma",
-      "source_country": "US",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1040790402326643",
-      "landing_url": "https://checkout.thegroovd.com/childrens-magicbooks",
-      "image_url": null,
-      "video_url": "https://video-qro1-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOIYWERnlHxhJPJtndG_cc-SZeb5XLao_eeUDjUcye8HmJEO1d8ulL03BcfKUpyROCXhMdVTqC9wJFS7hizqPhdh52OTDiXZuUA4SdXUm3JPg.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-qro1-1.xx.fbcdn.net&_nc_ohc=Rgy07JBPX54Q7kNvwEjYt7m&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjM0NzkwOTkxMzU1ODUzOTIsImFzc2V0X2FnZV9kYXlzIjo3MiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjIxNSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=a9e7eb62d165438&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85NjQxODE0NEI3MjI5MDNFNTczNEUxMjk2MDcyRjY4Q19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzUwNDM0MDI5OEI2MDZBRjMxNEJCRDU1ODI4NTdEQ0JBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbgsevBnI6uDBUCKAJDMywXQGryn752yLQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=jvIyba13zORL-XGv07KlYw&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTBhFvMCgNdtWfnWji04TFX3DxwToO2Leh4aXZBPt9yZA&oe=6B06AB00",
-      "first_seen": "2026-11-20T23:26:40.968516+00:00",
-      "last_seen": "2026-11-20T23:26:40.968516+00:00",
-      "active_checked_at": "2026-11-20T23:26:40.968516+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "US"
-      ]
-    },
-    {
-      "ad_id": "1766535144555214",
-      "product_name": "finally something the whole family actually wants to do",
-      "product_key": "unverified:1766535144555214",
-      "category": "other",
-      "advertiser": "Vicky Beckman",
-      "source_country": "US",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1766535144555214",
-      "landing_url": "https://theuzzle.com/pages/uzzle-blockwork-bundle",
-      "image_url": null,
-      "video_url": "https://video-qro3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNon2n-LR8iYW1S2WJjoQAe14NiNOxWFOnwgAF029VVGJjxYX1SYl8F6Lb_e-rPwjqiP119zLXbT0ABDLEbPvFU-11kNlvcEhLp2i9wi7D2pA.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-qro3-1.xx.fbcdn.net&_nc_ohc=qPaYpkOz65AQ7kNvwE19aKS&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1ODcwNDE0NTY0MTQwOTksImFzc2V0X2FnZV9kYXlzIjo1NiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjY3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=9544ded36406a2d3&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82MDAyNTY4QzQyRUM0NEY5ODEyQzQwNDY1QTVCNENDQV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzZEMDI5QUM2QUE4OTQxMTdBNjE5NTBDRTc0RjM1MjVBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACam9oak_NnRBRUCKAJDMywXQFD5mZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=jvIyba13zORL-XGv07KlYw&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTtdxPYdaE8Im7RNOGB6Zjd7NegAstTEQ-_CUDLnooSWQ&oe=6B06B6A8",
-      "first_seen": "2026-11-20T23:26:40.968516+00:00",
-      "last_seen": "2026-11-20T23:26:40.968516+00:00",
-      "active_checked_at": "2026-11-20T23:26:40.968516+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "US"
-      ]
-    },
-    {
-      "ad_id": "1430882898977500",
-      "product_name": "joycat magnetic wooden dinosaur building toys",
-      "product_key": "sku:joycat magnetic wooden dinosaur building toys",
-      "category": "toys",
-      "advertiser": "Joycat",
-      "source_country": "US",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1430882898977500",
-      "landing_url": "https://www.joycat.com/products/joycat-magnetic-wooden-dinosaur-building-toys",
-      "image_url": null,
-      "video_url": "https://video-qro1-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNp1UCoYONmxnMUVjX9HCgxhAbK2Xg4DXxbH1SpzFkhvKbve4OMEa7XQTojXvKg61OOHKjJ94dOQM9JyZ93qJmmG2dEs-AZD1_VZ-q8q-u_uQ.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-qro1-2.xx.fbcdn.net&_nc_ohc=TVKta6vEu2cQ7kNvwE-Aye4&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwNjM4NTIzNDMwOTI5MjcsImFzc2V0X2FnZV9kYXlzIjo2NCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=3b1e6dff4b97e1f1&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zRjQ3RjNCQUNCMkI0OUQ5RjYxOUI5OUI4OUVEM0VBRV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzYwNDBCQ0M5OEUyQ0Q5NEJGNEQ4NjUxMDQ3MTZDODg5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACb-mofQreTjAxUCKAJDMywXQCxmZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=jvIyba13zORL-XGv07KlYw&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRt9kSZaP7uLBxQnBWXGEkmbzak0xRu3OzyYSsLugr8iA&oe=6B06BCC6",
-      "first_seen": "2026-11-20T23:26:40.968516+00:00",
-      "last_seen": "2026-11-20T23:26:40.968516+00:00",
-      "active_checked_at": "2026-11-20T23:26:40.968516+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "US"
-      ]
-    },
-    {
-      "ad_id": "1355181773168543",
-      "product_name": "a new way to learn",
-      "product_key": "unverified:1355181773168543",
-      "category": "other",
-      "advertiser": "Practical Grandma",
-      "source_country": "US",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1355181773168543",
-      "landing_url": "https://checkout.thegroovd.com/childrens-magicbooks",
-      "image_url": null,
-      "video_url": "https://video-qro1-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPyQddzFwMhqOVUCDUe0FMHefAEBOHSQ45AyBuBBEXY6S0r-E5HgMVzt_9A4_XyDSYmltwm6STKVvVJVQRVvEYvUCbp0Yi7QzVNQ84amu1WGg.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-qro1-2.xx.fbcdn.net&_nc_ohc=YIb2ab0_xq8Q7kNvwGNcOq9&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIxNTk4MjQzNDgyNjIzNDIsImFzc2V0X2FnZV9kYXlzIjozNSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjIxMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=cc624ee3c1b0487&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84OTE4NkQwMDM0OEU0MjFEOTRCODMxNzg3QTM1MkVBOF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzk2QzRBNDIxRTlCRDQxMzhBQzdENzk1OUJGOTdFMDEyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaMv_GwqZbWBxUCKAJDMywXQGqn3ztkWh0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=jvIyba13zORL-XGv07KlYw&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQa9aDYVJ4jtDbqDqw2QIFTWglhuyG6DbzbxkAl0-oJJA&oe=6B06C19E",
-      "first_seen": "2026-11-20T23:26:40.968516+00:00",
-      "last_seen": "2026-11-20T23:26:40.968516+00:00",
-      "active_checked_at": "2026-11-20T23:26:40.968516+00:00",
-      "is_active_observed": true,
-      "source_countries": [
-        "US"
       ]
     }
   ]
