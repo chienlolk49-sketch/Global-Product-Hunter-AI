@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T05:09:09.187669+00:00",
+  "updated_at": "2026-11-24T06:18:50.569326+00:00",
   "minimum_active_ads": 21,
   "active_window_hours": 48,
   "categories": {
@@ -8,8 +8,8 @@
       {
         "name": "support stamina and heart health every day",
         "group_key": "title:support stamina and heart health every day",
-        "ad_count": 58,
-        "active_ads_observed": 58,
+        "ad_count": 57,
+        "active_ads_observed": 57,
         "advertiser_count": 9,
         "countries": [
           "AE",
@@ -1340,28 +1340,6 @@
             "source_countries": [
               "KR"
             ]
-          },
-          {
-            "ad_id": "3601108136714009",
-            "product_name": "support stamina and heart health every day",
-            "product_key": "title:support stamina and heart health every day",
-            "category": "wellness",
-            "advertiser": "The Health Haven",
-            "source_country": "IL",
-            "ad_url": "https://www.facebook.com/ads/library/?id=3601108136714009",
-            "landing_url": "https://track.tryrosabella.com/cdc16426-3e48-40a7-9fad-21098084f6cf",
-            "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/796401780_1566990754532848_6293967462860603444_n.jpg?_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lJSp176aMDUQ7kNvwHKHa6A&_nc_oc=AdoR1X8P_ngeC8wT5sRd4Wla9wVvXBssIxuMYUHGAhWlFPYiYO_QvwZ5u94iql7bxJY&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=v9cBYUyQq610GqgV6dF_TQ&_nc_ss=79289&oh=00_AQQaxW7JSdDGxm8_3J115ZM5RvglemapRziCNnmYBJtTLw&oe=6B04B456",
-            "video_url": null,
-            "first_seen": "2026-11-19T11:28:41.887653+00:00",
-            "last_seen": "2026-11-22T05:20:08.719857+00:00",
-            "active_checked_at": "2026-11-22T05:20:08.719857+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "AT",
-              "IL",
-              "JP",
-              "PE"
-            ]
           }
         ],
         "verification": "Approximate product identity, never ad-set count or verified sales"
@@ -1386,7 +1364,7 @@
           "UY",
           "VN"
         ],
-        "last_active_observation": "2026-11-24T00:28:51.679067+00:00",
+        "last_active_observation": "2026-11-24T06:18:50.569326+00:00",
         "ads": [
           {
             "ad_id": "2036871433846026",
@@ -1400,8 +1378,8 @@
             "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/370268703_1009199960531138_4771752704840418550_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wwX6ioMDZYQQ7kNvwHWOCyW&_nc_oc=Adq0TnGEbo91D9sasXyP9atdwclvwtAH1l_jSeQyRkvtg82ONSputf954I7WOaaf8Lo&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=Beck3R_aU5WXPaK1_d_6Jg&_nc_ss=79289&oh=00_AQRF9Mbja5jEBOpp7DHUtaeRUeeAUi3iuK7Qbo5i2Shyew&oe=6AE73301",
             "video_url": null,
             "first_seen": "2026-10-28T03:25:05.832855+00:00",
-            "last_seen": "2026-11-24T00:28:51.679067+00:00",
-            "active_checked_at": "2026-11-24T00:28:51.679067+00:00",
+            "last_seen": "2026-11-24T06:18:50.569326+00:00",
+            "active_checked_at": "2026-11-24T06:18:50.569326+00:00",
             "is_active_observed": true,
             "source_countries": [
               "BE",
@@ -1425,8 +1403,8 @@
             "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/701960504_807206832269903_6350515492139843571_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=S1YPBkLJNN4Q7kNvwHqqAUZ&_nc_oc=AdqMXV74IOLYt4zBx1zVtEjuE3A8Zw-mfLZPaoog7iH5P37YuKAlD_J9KFPcey81fQs&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=Beck3R_aU5WXPaK1_d_6Jg&_nc_ss=79289&oh=00_AQQxchzDMKwg0Y6u6zxAN8PrioyVDJSQXfpwRVt3jxeM8g&oe=6AE74CF4",
             "video_url": null,
             "first_seen": "2026-10-28T03:25:05.832855+00:00",
-            "last_seen": "2026-11-24T00:28:51.679067+00:00",
-            "active_checked_at": "2026-11-24T00:28:51.679067+00:00",
+            "last_seen": "2026-11-24T06:18:50.569326+00:00",
+            "active_checked_at": "2026-11-24T06:18:50.569326+00:00",
             "is_active_observed": true,
             "source_countries": [
               "BE",
@@ -1450,8 +1428,8 @@
             "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/906733933_1456325132584817_6226090081532342644_n.jpg?_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tzp31Lh2Tx8Q7kNvwH8FGgM&_nc_oc=AdrR8CT6afXOcj4qO_eozETcfuSF4nV4fq3zeSos4olu4KzF6q4H5Cu4iZ-_LRgUcpA&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=fozr__PPkIJjMl4jnLeEQw&_nc_ss=79289&oh=00_AQQr9-7GP1rXNrv9cRbPW8Uhle_GlSojiBVzpDjUQp_P0g&oe=6B018BC0",
             "video_url": null,
             "first_seen": "2026-11-17T03:26:02.002456+00:00",
-            "last_seen": "2026-11-24T00:28:51.679067+00:00",
-            "active_checked_at": "2026-11-24T00:28:51.679067+00:00",
+            "last_seen": "2026-11-24T06:18:50.569326+00:00",
+            "active_checked_at": "2026-11-24T06:18:50.569326+00:00",
             "is_active_observed": true,
             "source_countries": [
               "BE",
@@ -1459,6 +1437,26 @@
               "SK",
               "TR",
               "VN"
+            ]
+          },
+          {
+            "ad_id": "3496788623834223",
+            "product_name": "source health care on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source health care on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "wellness",
+            "advertiser": "Alibaba.com",
+            "source_country": "HK",
+            "ad_url": "https://www.facebook.com/ads/library/?id=3496788623834223",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/871736164_1838807707312623_5928765820672437259_n.jpg?_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2E_aZbMT2FQQ7kNvwHaaHGf&_nc_oc=Adpz_w4lrfylkUuQgNrKeU_pggu_rhH_Srb6sFjuiR6jqBlZZDy4OC4DiYBhuUSnIKc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=BrvUejEzZpiSLP3DzRbDSA&_nc_ss=79289&oh=00_AQRl5Z4Z-pilIokW9P1RliJKUCdlZxF_C1IqwI5ErF0P8g&oe=6B0A0E47",
+            "video_url": null,
+            "first_seen": "2026-11-23T12:19:19.044272+00:00",
+            "last_seen": "2026-11-24T06:18:50.569326+00:00",
+            "active_checked_at": "2026-11-24T06:18:50.569326+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "BE",
+              "HK"
             ]
           },
           {
@@ -1688,25 +1686,6 @@
             "ad_url": "https://www.facebook.com/ads/library/?id=2090320211653985",
             "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
             "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/868225403_1502379515282858_2136904585962422501_n.jpg?_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=k-_eFcagulwQ7kNvwG_nfZD&_nc_oc=AdrXwTnAD3fUCumeJRvtkzHXZfctQ9G0TrCbTgEuSWnZbYK1eqP4Dj_cutmkdTSNU8U&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=BrvUejEzZpiSLP3DzRbDSA&_nc_ss=79289&oh=00_AQQLW7DpjeX13ZySHuq2VgZLuOLcCrKmKDgV0RVUp_cyhQ&oe=6B09EEF5",
-            "video_url": null,
-            "first_seen": "2026-11-23T12:19:19.044272+00:00",
-            "last_seen": "2026-11-23T12:19:19.044272+00:00",
-            "active_checked_at": "2026-11-23T12:19:19.044272+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "HK"
-            ]
-          },
-          {
-            "ad_id": "3496788623834223",
-            "product_name": "source health care on alibaba com alibaba com-world s leading b2b marketplace",
-            "product_key": "title:source health care on alibaba com alibaba com-world s leading b2b marketplace",
-            "category": "wellness",
-            "advertiser": "Alibaba.com",
-            "source_country": "HK",
-            "ad_url": "https://www.facebook.com/ads/library/?id=3496788623834223",
-            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
-            "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/871736164_1838807707312623_5928765820672437259_n.jpg?_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2E_aZbMT2FQQ7kNvwHaaHGf&_nc_oc=Adpz_w4lrfylkUuQgNrKeU_pggu_rhH_Srb6sFjuiR6jqBlZZDy4OC4DiYBhuUSnIKc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=BrvUejEzZpiSLP3DzRbDSA&_nc_ss=79289&oh=00_AQRl5Z4Z-pilIokW9P1RliJKUCdlZxF_C1IqwI5ErF0P8g&oe=6B0A0E47",
             "video_url": null,
             "first_seen": "2026-11-23T12:19:19.044272+00:00",
             "last_seen": "2026-11-23T12:19:19.044272+00:00",
