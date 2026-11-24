@@ -1,37 +1,37 @@
 {
-  "timestamp_utc": "2026-11-24T10:57:46.296530+00:00",
+  "timestamp_utc": "2026-11-24T12:00:17.420467+00:00",
   "attempts": [
     {
-      "country": "SI",
-      "keyword": "workout bands",
-      "category": "sport",
+      "country": "KR",
+      "keyword": "hair serum",
+      "category": "beauty",
       "found": 30
     },
     {
-      "country": "VN",
-      "keyword": "car accessories",
-      "category": "vehicle",
-      "found": 28
-    },
-    {
-      "country": "CH",
-      "keyword": "car cleaning",
-      "category": "vehicle",
+      "country": "FI",
+      "keyword": "skincare serum",
+      "category": "beauty",
       "found": 30
     },
     {
-      "country": "IE",
-      "keyword": "motorcycle accessory",
-      "category": "vehicle",
+      "country": "AR",
+      "keyword": "hair care",
+      "category": "beauty",
+      "found": 30
+    },
+    {
+      "country": "IL",
+      "keyword": "shampoo",
+      "category": "beauty",
       "found": 30
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 12,
-  "unique_active_ads_observed_last_48h": 2610,
+  "new_ads": 7,
+  "unique_active_ads_observed_last_48h": 2577,
   "qualifying_products": 2,
-  "groups_below_threshold_or_unverified": 2231,
+  "groups_below_threshold_or_unverified": 2206,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "ok",
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
