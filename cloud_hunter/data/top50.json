@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T16:51:14.561535+00:00",
+  "updated_at": "2026-11-24T17:42:00.223865+00:00",
   "minimum_active_ads": 21,
   "active_window_hours": 48,
   "categories": {
@@ -1261,8 +1261,8 @@
       {
         "name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
         "group_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
-        "ad_count": 25,
-        "active_ads_observed": 25,
+        "ad_count": 24,
+        "active_ads_observed": 24,
         "advertiser_count": 1,
         "countries": [
           "AE",
@@ -1277,14 +1277,35 @@
           "ID",
           "MA",
           "MX",
+          "PT",
           "RS",
           "SA",
           "SE",
           "TR",
           "UA"
         ],
-        "last_active_observation": "2026-11-24T15:39:08.379818+00:00",
+        "last_active_observation": "2026-11-24T17:42:00.223865+00:00",
         "ads": [
+          {
+            "ad_id": "1917218306357117",
+            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
+            "category": "garden",
+            "advertiser": "Alibaba.com",
+            "source_country": "AE",
+            "ad_url": "https://www.facebook.com/ads/library/?id=1917218306357117",
+            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
+            "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/904121311_1818576955957015_2431204651484785637_n.jpg?_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=P8Y4ZYwmFuUQ7kNvwHCEHWs&_nc_oc=AdqwpmrKrL0H2OdjFzXbiFnXmiuvTTDVLtSwPE77Q9eesGGBR1MyyCm1JwOSJAbefBg&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=XS0s1I6TWekaKOe4vuA3Fw&_nc_ss=79289&oh=00_AQT3xrXDJmSYLMKsEoQiXF1-U4KK-tHEo0GHV6Oi_w7Spw&oe=6B0A3558",
+            "video_url": null,
+            "first_seen": "2026-11-23T17:44:22.855987+00:00",
+            "last_seen": "2026-11-24T17:42:00.223865+00:00",
+            "active_checked_at": "2026-11-24T17:42:00.223865+00:00",
+            "is_active_observed": true,
+            "source_countries": [
+              "AE",
+              "PT"
+            ]
+          },
           {
             "ad_id": "1152284220475222",
             "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
@@ -1367,25 +1388,6 @@
             "is_active_observed": true,
             "source_countries": [
               "CR"
-            ]
-          },
-          {
-            "ad_id": "1917218306357117",
-            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
-            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
-            "category": "garden",
-            "advertiser": "Alibaba.com",
-            "source_country": "AE",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1917218306357117",
-            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
-            "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/904121311_1818576955957015_2431204651484785637_n.jpg?_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=P8Y4ZYwmFuUQ7kNvwHCEHWs&_nc_oc=AdqwpmrKrL0H2OdjFzXbiFnXmiuvTTDVLtSwPE77Q9eesGGBR1MyyCm1JwOSJAbefBg&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=XS0s1I6TWekaKOe4vuA3Fw&_nc_ss=79289&oh=00_AQT3xrXDJmSYLMKsEoQiXF1-U4KK-tHEo0GHV6Oi_w7Spw&oe=6B0A3558",
-            "video_url": null,
-            "first_seen": "2026-11-23T17:44:22.855987+00:00",
-            "last_seen": "2026-11-24T14:32:58.144027+00:00",
-            "active_checked_at": "2026-11-24T14:32:58.144027+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "AE"
             ]
           },
           {
@@ -1780,31 +1782,6 @@
             "source_countries": [
               "ES",
               "FI",
-              "MX",
-              "RS"
-            ]
-          },
-          {
-            "ad_id": "1139352535103200",
-            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
-            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
-            "category": "garden",
-            "advertiser": "Alibaba.com",
-            "source_country": "ID",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1139352535103200",
-            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
-            "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/876551162_1466475828678713_6015861840700822596_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=v00UaH0dji0Q7kNvwH2op1O&_nc_oc=AdrgaAs0AjjSIo5wnW2KTLno_LnTf7UsAlkLNpM0TYO2Jn9Q65EPALmj93ZhelTH6fA&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=c0MfU8XGjGqrlfp_CWDlXA&_nc_ss=79289&oh=00_AQRwVHx69iJgGtrfk9yw-85xSu-zhGO9lvRTJ8vkznMBbg&oe=6AEFBDD2",
-            "video_url": null,
-            "first_seen": "2026-11-03T14:15:28.154314+00:00",
-            "last_seen": "2026-11-22T17:22:30.049620+00:00",
-            "active_checked_at": "2026-11-22T17:22:30.049620+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "DE",
-              "ES",
-              "FI",
-              "ID",
-              "MA",
               "MX",
               "RS"
             ]
