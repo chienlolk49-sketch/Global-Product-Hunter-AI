@@ -1,37 +1,37 @@
 {
-  "timestamp_utc": "2026-11-24T12:00:17.420467+00:00",
+  "timestamp_utc": "2026-11-24T13:18:53.874838+00:00",
   "attempts": [
     {
-      "country": "KR",
-      "keyword": "hair serum",
-      "category": "beauty",
+      "country": "HU",
+      "keyword": "crossbody bag",
+      "category": "fashion",
       "found": 30
     },
     {
-      "country": "FI",
-      "keyword": "skincare serum",
-      "category": "beauty",
+      "country": "NG",
+      "keyword": "comfortable shoes",
+      "category": "fashion",
+      "found": 27
+    },
+    {
+      "country": "LK",
+      "keyword": "jewelry",
+      "category": "fashion",
       "found": 30
     },
     {
-      "country": "AR",
-      "keyword": "hair care",
-      "category": "beauty",
-      "found": 30
-    },
-    {
-      "country": "IL",
-      "keyword": "shampoo",
-      "category": "beauty",
+      "country": "SI",
+      "keyword": "casual clothing",
+      "category": "fashion",
       "found": 30
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 7,
-  "unique_active_ads_observed_last_48h": 2577,
+  "new_ads": 47,
+  "unique_active_ads_observed_last_48h": 2526,
   "qualifying_products": 2,
-  "groups_below_threshold_or_unverified": 2206,
+  "groups_below_threshold_or_unverified": 2163,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "ok",
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
