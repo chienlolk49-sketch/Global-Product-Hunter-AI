@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T18:20:42.572872+00:00",
+  "updated_at": "2026-11-25T19:23:34.107892+00:00",
   "minimum_active_ads": 21,
   "active_window_hours": 48,
   "categories": {
@@ -1049,8 +1049,8 @@
       {
         "name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
         "group_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
-        "ad_count": 34,
-        "active_ads_observed": 34,
+        "ad_count": 33,
+        "active_ads_observed": 33,
         "advertiser_count": 1,
         "countries": [
           "AE",
@@ -1745,25 +1745,6 @@
             "is_active_observed": true,
             "source_countries": [
               "RS"
-            ]
-          },
-          {
-            "ad_id": "4643058992602232",
-            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
-            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
-            "category": "garden",
-            "advertiser": "Alibaba.com",
-            "source_country": "CR",
-            "ad_url": "https://www.facebook.com/ads/library/?id=4643058992602232",
-            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
-            "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/868034691_990891203372915_4567204707588169472_n.jpg?_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hwQiVfazv3YQ7kNvwEtB7PX&_nc_oc=AdqCmlQ1osr1cM69jBvxPz-gEfPQ2eMtH28-3Rrf7UKS8m08XIYxunWBTy7RwQtPSQU&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=3-4M-zKHsrCWI9aCuh8NGQ&_nc_ss=79289&oh=00_AQSuE8RhMZTO12paWEWa9B7h4CaUEXRI0aBuoqU6Qvdvxg&oe=6B0A4048",
-            "video_url": null,
-            "first_seen": "2026-11-23T18:41:18.529663+00:00",
-            "last_seen": "2026-11-23T18:41:18.529663+00:00",
-            "active_checked_at": "2026-11-23T18:41:18.529663+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "CR"
             ]
           }
         ],
