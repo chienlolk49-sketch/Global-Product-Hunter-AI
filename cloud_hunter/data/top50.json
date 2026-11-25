@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T01:57:59.220144+00:00",
+  "updated_at": "2026-11-25T02:58:39.210460+00:00",
   "minimum_active_ads": 21,
   "active_window_hours": 48,
   "categories": {
@@ -1281,8 +1281,8 @@
       {
         "name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
         "group_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
-        "ad_count": 26,
-        "active_ads_observed": 26,
+        "ad_count": 25,
+        "active_ads_observed": 25,
         "advertiser_count": 1,
         "countries": [
           "AE",
@@ -1821,28 +1821,6 @@
             "source_countries": [
               "HK",
               "TR"
-            ]
-          },
-          {
-            "ad_id": "1373307844664325",
-            "product_name": "source home garden on alibaba com alibaba com-world s leading b2b marketplace",
-            "product_key": "title:source home garden on alibaba com alibaba com-world s leading b2b marketplace",
-            "category": "garden",
-            "advertiser": "Alibaba.com",
-            "source_country": "MX",
-            "ad_url": "https://www.facebook.com/ads/library/?id=1373307844664325",
-            "landing_url": "https://m.alibaba.com/lp/group?group_id=95&src=cpm_fb&sub_channel=dpa&link_type=campaign",
-            "image_url": "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/861999673_997146366460120_5484887388595336650_n.jpg?_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LnhOtW6uE2gQ7kNvwG5q_Gz&_nc_oc=AdoW8PPH8oTJryhmzd8RSXzpl7Ou4lG9VI1pv3yFxZ3rqMoMVITaebHujXgHlT-qxdE&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=kCrJvUsSEBnpouKKXxfnew&_nc_ss=79289&oh=00_AQSslSjWFOoX0n8QZTVo0NFL9A1Kk4oxGjTSd-oqIgAL3w&oe=6B03ECFF",
-            "video_url": null,
-            "first_seen": "2026-11-18T20:20:40.591386+00:00",
-            "last_seen": "2026-11-23T02:27:42.483462+00:00",
-            "active_checked_at": "2026-11-23T02:27:42.483462+00:00",
-            "is_active_observed": true,
-            "source_countries": [
-              "ES",
-              "FI",
-              "MX",
-              "RS"
             ]
           }
         ],
