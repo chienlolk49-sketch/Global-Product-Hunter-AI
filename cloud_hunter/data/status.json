@@ -1,35 +1,35 @@
 {
-  "timestamp_utc": "2026-11-25T06:19:38.150752+00:00",
+  "timestamp_utc": "2026-11-25T07:51:56.906760+00:00",
   "attempts": [
     {
-      "country": "AE",
-      "keyword": "makeup tools",
-      "category": "beauty",
-      "found": 29
-    },
-    {
-      "country": "HK",
-      "keyword": "neck massager",
-      "category": "wellness",
-      "found": 29
-    },
-    {
-      "country": "UY",
-      "keyword": "posture support",
-      "category": "wellness",
+      "country": "SI",
+      "keyword": "workout bands",
+      "category": "sport",
       "found": 30
     },
     {
-      "country": "KR",
-      "keyword": "massage device",
-      "category": "wellness",
+      "country": "VN",
+      "keyword": "car accessories",
+      "category": "vehicle",
+      "found": 28
+    },
+    {
+      "country": "CH",
+      "keyword": "car cleaning",
+      "category": "vehicle",
+      "found": 30
+    },
+    {
+      "country": "IE",
+      "keyword": "motorcycle accessory",
+      "category": "vehicle",
       "found": 30
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 32,
-  "unique_active_ads_observed_last_48h": 2376,
+  "new_ads": 8,
+  "unique_active_ads_observed_last_48h": 2375,
   "qualifying_products": 2,
   "groups_below_threshold_or_unverified": 2030,
   "threshold_min_unique_active_ad_ids": 21,
