@@ -1,26 +1,26 @@
 {
-  "timestamp_utc": "2026-11-26T22:38:54.436981+00:00",
+  "timestamp_utc": "2026-11-27T04:36:43.185608+00:00",
   "attempts": [
     {
-      "country": "NO",
+      "country": "IE",
       "keyword": "baby care",
       "category": "baby",
       "found": 30
     },
     {
-      "country": "MX",
+      "country": "MA",
       "keyword": "maternity accessory",
       "category": "baby",
       "found": 0
     },
     {
-      "country": "SA",
+      "country": "TW",
       "keyword": "fitness accessory",
       "category": "sport",
-      "found": 11
+      "found": 2
     },
     {
-      "country": "CN",
+      "country": "LT",
       "keyword": "yoga equipment",
       "category": "sport",
       "found": 30
@@ -28,10 +28,10 @@
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 33,
-  "unique_active_ads_observed_last_48h": 1907,
+  "new_ads": 7,
+  "unique_active_ads_observed_last_48h": 1647,
   "qualifying_products": 1,
-  "groups_below_threshold_or_unverified": 1660,
+  "groups_below_threshold_or_unverified": 1419,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "ok",
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
