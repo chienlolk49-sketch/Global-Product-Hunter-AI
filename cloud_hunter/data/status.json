@@ -1,37 +1,37 @@
 {
-  "timestamp_utc": "2026-11-27T22:47:45.716605+00:00",
+  "timestamp_utc": "2026-11-28T04:20:32.200907+00:00",
   "attempts": [
     {
-      "country": "SI",
-      "keyword": "workout bands",
-      "category": "sport",
+      "country": "LT",
+      "keyword": "crossbody bag",
+      "category": "fashion",
       "found": 30
     },
     {
-      "country": "VN",
-      "keyword": "car accessories",
-      "category": "vehicle",
-      "found": 28
+      "country": "CA",
+      "keyword": "comfortable shoes",
+      "category": "fashion",
+      "found": 30
     },
     {
-      "country": "CH",
-      "keyword": "car cleaning",
-      "category": "vehicle",
-      "found": 0
+      "country": "DK",
+      "keyword": "jewelry",
+      "category": "fashion",
+      "found": 30
     },
     {
-      "country": "IE",
-      "keyword": "motorcycle accessory",
-      "category": "vehicle",
+      "country": "CO",
+      "keyword": "casual clothing",
+      "category": "fashion",
       "found": 30
     }
   ],
   "searches_succeeded": 4,
   "searches_attempted": 4,
-  "new_ads": 44,
-  "unique_active_ads_observed_last_48h": 757,
+  "new_ads": 114,
+  "unique_active_ads_observed_last_48h": 460,
   "qualifying_products": 0,
-  "groups_below_threshold_or_unverified": 660,
+  "groups_below_threshold_or_unverified": 415,
   "threshold_min_unique_active_ad_ids": 21,
   "state": "ok",
   "limitations": "Limited keyword/country samples; >20 observed ACTIVE ad IDs, not Meta ad sets or all products"
